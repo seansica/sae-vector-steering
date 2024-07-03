@@ -1,0 +1,12 @@
+CONTEXT_LENGTH = 128
+BATCH_SIZE = 32
+VOCAB_SIZE = 50257  # GPT-2 tokenizer vocabulary size
+RESIDUAL_STREAM_DIM = 128
+MLP_DIM = 512
+NUM_HEADS = 1
+AUTOENCODER_HIDDEN_DIM = 1024  # Adjust as needed
+LEARNING_RATE = 1e-4
+NUM_EPOCHS = 10  # Adjust based on your computational resources
+NUM_SAMPLES = 1_000_000  # Adjust based on your memory constraints
+AUTOENCODER_STEPS = 1_000_000
+RESAMPLING_STEPS = [25000, 50000, 75000, 100000]
