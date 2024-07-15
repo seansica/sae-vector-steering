@@ -1,3 +1,5 @@
+**/*/*.h5
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,jetbrains+all,macos,windows,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode,jetbrains+all,macos,windows,jupyternotebooks
 
@@ -351,7 +353,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,jetbrains+all,macos,windows,jupyternotebooks
-notebooks/tokenized_pile_test.h5
-notebooks/tokenized_pile_train.h5
-notebooks/tokenized_pile.h5
-notebooks/tokenized_pile_val.h5
