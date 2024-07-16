@@ -1,0 +1,20 @@
+{
+    "model_name": "gpt2-small",
+    "hook_name": "blocks.0.hook_mlp_out",
+    "hook_layer": 0,
+    "d_in": 768,
+    "dataset_path": "monology/pile-uncopyrighted",
+    "is_dataset_tokenized": false,
+    "streaming": true,
+    "expansion_factor": 2,
+    "lr": 1e-4,
+    "l1_coefficient": 1.0,
+    "train_batch_size_tokens": 1024,
+    "context_size": 128,
+    "n_batches_in_buffer": 16,
+    "training_tokens": 1000000,
+    "store_batch_size_prompts": 8,
+    "device": "mps",
+    "seed": 42,
+    "dtype": "float32"
+}
