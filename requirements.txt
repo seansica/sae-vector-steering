@@ -1,0 +1,6 @@
+sae_lens
+transformer_lens
+git+https://github.com/callummcdougall/eindex.git
+jaxtyping
+openai
+python-dotenv
