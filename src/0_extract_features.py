@@ -1,3 +1,4 @@
+import argparse
 from dotenv import load_dotenv
 import os
 import torch
@@ -8,10 +9,6 @@ from sae_lens import SAE
 from sae_lens.analysis.feature_statistics import get_W_U_W_dec_stats_df
 import pandas as pd
 from typing import Dict, List, Tuple
-
-# Load the API key from the .env file
-load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY")
 
 
 def load_model_and_sae(
@@ -132,16 +129,37 @@ def save_results(
     print(f"Results saved to '{filename}'")
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(description="Extract features from SAE")
+    parser.add_argument(
+        "--model_name", required=True, help="Name of the Transformer model"
+    )
+    parser.add_argument("--sae_release", required=True, help="The SAE release name")
+    parser.add_argument("--sae_id", required=True, help="The ID of the SAE to load")
+    parser.add_argument(
+        "--layer",
+        type=int,
+        required=True,
+        help="The SAE layer to extract features from",
+    )
+    parser.add_argument(
+        "--output_file", required=True, help="Path to save the extracted features JSON"
+    )
+    return parser.parse_args()
+
+
 def main():
+    args = parse_args()
+
     # Load model and SAE
     model, sparse_autoencoders, sae_sparsities = load_model_and_sae(
-        "gpt2-small", "gpt2-small-res-jb", "blocks.0.hook_resid_pre"
+        args.model_name, args.sae_release, args.sae_id
     )
 
     # Focus on a specific layer (e.g., layer 8)
     layer = 8
-    sae = sparse_autoencoders[f"blocks.{layer}.hook_resid_pre"]
-    sparsity = sae_sparsities[f"blocks.{layer}.hook_resid_pre"]
+    sae = sparse_autoencoders[f"blocks.{args.layer}.hook_resid_pre"]
+    sparsity = sae_sparsities[f"blocks.{args.layer}.hook_resid_pre"]
 
     # Get feature statistics
     W_U_stats_df_dec, dec_projection_onto_W_U = get_feature_statistics(
@@ -156,7 +174,7 @@ def main():
     top_activated_words = process_features(dec_projection_onto_W_U, words)
 
     # Save results
-    save_results(top_activated_words, "top_activated_words.json")
+    save_results(top_activated_words, args.output_file)
 
     # Update DataFrame with top activated words
     W_U_stats_df_dec["top_activated_words"] = W_U_stats_df_dec.index.map(
