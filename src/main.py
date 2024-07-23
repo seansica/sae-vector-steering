@@ -25,7 +25,8 @@ def load_config():
     parser.add_argument("--sae_release", help="The SAE release name")
     parser.add_argument("--sae_id", help="The ID of the SAE to load")
     parser.add_argument("--layer", type=int, help="The SAE layer to extract features from")
-    parser.add_argument("--extracted_features_filename", help="Path to the JSON file for extracted features",)
+    parser.add_argument("--top_activations_file", help="Path to the JSON file for top activations per feature",)
+    parser.add_argument("--interpreted_features_file", help="Path to the JSON file for interpreted features",)
     parser.add_argument("--feature_to_steer", type=int, help="Feature ID to use for steering")
     parser.add_argument("--steering_coeff", type=float, help="Coefficient for steering")
     parser.add_argument("--steering_temp", type=float, help="Temperature for steering")
@@ -41,8 +42,8 @@ def load_config():
         "SAE_RELEASE": args.sae_release or os.getenv("SAE_RELEASE"),
         "SAE_ID": args.sae_id or os.getenv("SAE_ID"),
         "LAYER": args.layer or int(os.getenv("LAYER")),
-        "EXTRACTED_FEATURES_FILE": args.extracted_features_filename or os.getenv("EXTRACTED_FEATURES_FILE"),
-        "INTERPRETED_FEATURES_FILE": args.interpreted_features_filename or os.getenv("INTERPRETED_FEATURES_FILE"),
+        "TOP_ACTIVATIONS_FILE": args.top_activations_file or os.getenv("TOP_ACTIVATIONS_FILE"),
+        "INTERPRETED_FEATURES_FILE": args.interpreted_features_file or os.getenv("INTERPRETED_FEATURES_FILE"),
         "FEATURE_TO_STEER": args.feature_to_steer or int(os.getenv("FEATURE_TO_STEER")),
         "STEERING_COEFF": args.steering_coeff or float(os.getenv("STEERING_COEFF")),
         "STEERING_TEMP": args.steering_temp or float(os.getenv("STEERING_TEMP")),
@@ -54,20 +55,20 @@ def load_config():
 
 def run_extract_features(config):
     cmd = [
-        "python", "0_extract_features.py", 
+        "python", "src/0_extract_features.py", 
         "--model_name", config["MODEL_NAME"],
         "--sae_release", config["SAE_RELEASE"],
         "--sae_id", config["SAE_ID"],
         "--layer", str(config["LAYER"]),
-        "--output_file", config["EXTRACTED_FEATURES_FILENAME"],
+        "--output_file", config["TOP_ACTIVATIONS_FILE"],
     ]
     subprocess.run(cmd, check=True)
 
 
 def run_interpret_features(config):
     cmd = [
-        "python", "1_interpret_features.py",
-        "--input_file", config["EXTRACTED_FEATURES_FILE"],
+        "python", "src/1_interpret_features.py",
+        "--input_file", config["TOP_ACTIVATIONS_FILE"],
         "--output_file", config["INTERPRETED_FEATURES_FILE"],
         "--openai_api_key", config["OPENAI_API_KEY"],
         "interpreted_features.json",
@@ -77,7 +78,7 @@ def run_interpret_features(config):
 
 def run_apply_vector_steering(config):
     cmd = [
-        "python", "2_apply_vector_steering.py",
+        "python", "src/2_apply_vector_steering.py",
         "--model_name", config["MODEL_NAME"],
         "--sae_release", config["SAE_RELEASE"],
         "--sae_id", config["SAE_ID"],
