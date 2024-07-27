@@ -1,2 +1,27 @@
 \section{Introduction}
-This is a test introduction. We can cite an article \cite{sample2023} here.
+
+The field of artificial intelligence has witnessed remarkable advancements, with language models like GPT-3 and PaLM demonstrating human-level proficiency in English communication \cite{sample2023}. However, a significant challenge persists: despite creating these powerful systems, we lack a comprehensive understanding of their internal mechanisms. This gap in knowledge not only limits our ability to replicate such systems but also raises concerns about their interpretability and controllability.
+
+Mechanistic interpretability (MI) has emerged as a promising approach to address this challenge. Recent work, particularly by Anthropic, has shown that sparse dictionary learning algorithms, specifically sparse autoencoder (SAE) model architectures, offer a potential path forward in making neural networks more interpretable \cite{anthropic2023}. Their demonstration of controlling language model outputs using identified features, such as the "Golden Gate Bridge" demo, has inspired further research in this direction.
+
+Our work aims to contribute to this growing field by:
+
+\begin{enumerate}
+    \item Increasing awareness of mechanistic interpretability through accessible feature analysis and causal intervention techniques.
+    \item Proposing a novel and effective process for evaluating large quantities of SAE features.
+    \item Testing the hypothesis that fine-tuned models manifest higher quantities of relevant features and sharper, more cohesive features.
+\end{enumerate}
+
+The importance of this research lies in its potential to shed light on the fundamental properties of SAE features. We investigate crucial questions such as the relationship between an SAE's training dataset and the resultant features, whether fine-tuning models on specific datasets enhances their interpretability, and if fine-tuned models are easier to steer than their foundational counterparts. These insights are particularly relevant given the widespread use of fine-tuned models in the tech industry.
+
+Our approach addresses a key criticism of current MI work: the potential misinterpretation of SAE features. By employing causal inference techniques, we aim to provide stronger evidence that these features not only are interpretable but also demonstrably represent what we claim they do.
+
+The primary contributions of this paper are:
+
+\begin{enumerate}
+    \item Novel research evaluating sparse autoencoders with respect to fine-tuned models, using randomized controlled trials to better understand fundamental properties of SAE features.
+    \item Reusable code for practitioners and researchers to easily extract and analyze features from trained sparse autoencoders.
+    \item A framework for applying causal interventions to steer model behavior conditioned on features of interest, replicating and extending Anthropic's demonstration.
+\end{enumerate}
+
+In the following sections, we present our methodology, results, and analysis, providing evidence to substantiate our claims and contribute to the growing body of knowledge in mechanistic interpretability of language models.
