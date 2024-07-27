@@ -23,7 +23,8 @@ This research is inspired by Anthropic's [Towards Monosematicity](https://transf
 
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. TODO ...
+3. Login to HuggingFace: `huggingface-cli login --token $YOUR_TOKEN`
+4. ...
 
 ### 0. Extracting Features
 
@@ -36,6 +37,14 @@ python3 src/0_extract_features.py \
   --sae_id blocks.0.hook_resid_pre \
   --layer 8 \
   --output_file top_activations_per_feature.json
+```
+
+or if you want to load from the dotenv values:
+
+```bash
+source .env;
+
+python3 src/0_extract_features.py --model_name $MODEL_NAME --sae_release $SAE_RELEASE --sae_id $SAE_ID --layer $LAYER --output_file $TOP_ACTIVATIONS_FILE
 ```
 
 Expected output:
@@ -77,6 +86,15 @@ python3 src/1_interpret_features.py \
   --openai_api_key secretSquirrel
 ```
 
+or
+
+```bash
+python3 src/1_interpret_features.py \
+  --input_file $TOP_ACTIVATIONS_FILE \
+  --output_file $INTERPRETED_FEATURES_FILE \
+  --openai_api_key $OPENAI_API_KEY
+```
+
 Expected output:
 ```
 File batch status: completed
@@ -103,6 +121,20 @@ python3 src/2_apply_vector_steering.py \
   --coeff 300 \
   --temperature 1 \
   --prompt "What is your favorite animal?
+```
+
+or
+
+```bash
+python3 src/2_apply_vector_steering.py \
+  --model_name $MODEL_NAME \
+  --sae_release $SAE_RELEASE \
+  --sae_id $SAE_ID \
+  --layer $LAYER \
+  --feature_id $FEATURE_TO_STEER \
+  --coeff $STEERING_COEFF \
+  --temperature $STEERING_TEMP \
+  --prompt $STEERING_PROMPT
 ```
 
 Expected Output:
