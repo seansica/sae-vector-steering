@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 3677
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Researchers have discovered that the brain's main
+task in dealing with memory is remembering, and this involves the hippocampus.
+This region of the brain contains a large number of neurons that are responsible
+for processing information.  "The hippocampus has been shown
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a lifelong reader of the news. I love it, and I
+like to read about it. But what are some of the things that I find interesting?
+What topics do you find interesting? Do you have any questions for me?
+
+3. Top Activating Tokens:
+   stem, Ġcortex, MRI, waves, washing, Ġlobe, washed, Ġhemisphere, ses, Ġscans
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4781  |  Steered: 0.5724
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

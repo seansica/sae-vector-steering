@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 24184
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When you're working on a project, you're constantly
+looking for ways to make things better. If you can't find a way to make it
+better, then it's time to move on. It's not always easy being able to do
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about the upcoming anime adaptation
+of "Nisekoi"?  Do you think that the story will be good or bad? Do you think it
+will be a bit too long, too long, or too short?
+
+3. Top Activating Tokens:
+   CHAT, rang, weed, Ġheadaches, ĠAnxiety, dated, lust, irable, cart, ĠCollector
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5371  |  Steered: 0.4585
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 13915
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When you ask me, I'm going to tell you that it's
+not really a question of whether or not surgery is the right thing to do. It's a
+question of whether or not we should be able to afford it. We have
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a young, white male. I'm not the only one. I've
+been asked to do a lot of different things over the years, but this is my first
+time doing it. It's been very exciting and challenging for me
+
+3. Top Activating Tokens:
+   ĠSurgery, Ġsurgeries, Ġsurgery, Ġsurgeons, Ġamput, Ġsurgical, Ġsurg, Ġdoctors, Ġsurgeon, Doctors
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4199  |  Steered: 0.4173
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

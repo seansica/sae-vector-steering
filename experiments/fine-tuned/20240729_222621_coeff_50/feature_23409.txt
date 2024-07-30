@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 23409
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? The word "welcome" is a very important part of the
+conversation. When you are talking about how much money you have, how much you
+want to spend, and what kind of people you want to be in the room with, it can
+be
+
+2. Baseline Output:
+   What topic is on your mind?  How can I help you?  What's the best way to start a
+new project?  Do you have any tips for getting started with writing code? Please
+share in the comments below!<|endoftext|>If you have any questions, please
+
+3. Top Activating Tokens:
+   rd, PDATE, lla, Ġresil, Ġheartbeat, Ġsugg, Ġmeter, Ġsec, cffff, ĠSquirrel
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4479  |  Steered: 0.4235
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 5933
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You can use this to solve the problem of
+synchronization between two systems. You can also create a simple and efficient
+system for managing the synchronous state of a computer. This will help you to
+keep your system synchronized, without having to worry about
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about this topic? If so,
+please let us know in the comments below.<|endoftext|>In addition to our monthly
+podcast, we also have a special special "My Favorite Podcast" episode called
+"Fashion Design 101".
+
+3. Top Activating Tokens:
+   Ġsynchronization, Ġsynchron, Ġsynchronized, Ġsync, Ġsimultane, Ġconductor, Ġtempo, Ġrhythm, Ġharmony, Ġheartbeat
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4825  |  Steered: 0.5377
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

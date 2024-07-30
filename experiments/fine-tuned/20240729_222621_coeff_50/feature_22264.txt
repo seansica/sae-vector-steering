@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 22264
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? No. The most common infection is pneumonia, which
+can be caused by the bacterial infection of the lungs and respiratory tract.
+This disease can cause pneumonia in many people who have no symptoms or who are
+not infected with this disease.  The most common
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+feel free to ask. I would love to hear from you!  Thank you for visiting our
+website! We hope that we can help others with their daily life. Thank you for
+visiting
+
+3. Top Activating Tokens:
+   ĠInfect, ĠLeone, Ġinfection, Ġinfected, Ġinfections, Ġinfect, Ġoutbreak, infect, iasis, Ġpand
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.3870  |  Steered: 0.5771
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15729
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a little more of a hardcore fan of Nintendo
+than most people. I've played the games, seen the games, and enjoyed them. I
+love all sorts of things from the first game to my current one, but it's hard
+
+2. Baseline Output:
+   What topic is on your mind?  My name is Chris and I am a business owner and
+developer. I have been building a business for over 10 years now. We are both
+passionate about helping others with their projects, and we love working with
+other people to create great products.
+
+3. Top Activating Tokens:
+   otic, otherapy, ologically, anthrop, oses, obl, ologist, otics, ologists, ophy
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4561  |  Steered: 0.4210
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

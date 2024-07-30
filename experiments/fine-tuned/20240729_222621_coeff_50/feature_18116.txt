@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 18116
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  There are a lot of things that you can do to
+improve your healthcare. You can take a look at the above list and see what's
+available in the hospital, or you can just follow these simple steps:  Go to a
+hospital
+
+2. Baseline Output:
+   What topic is on your mind?  What are you interested in learning about?  How can
+I help you with this?   I'm currently a senior at the University of California,
+Berkeley. I am passionate about education and teaching, and I love to read.
+
+3. Top Activating Tokens:
+   Ġpractitioner, Ġanesthesia, itals, ĠNurs, ĠPatient, Ġparamed, ĠCare, Ġpatient, ĠCanaver, Ġphysicians
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4393  |  Steered: 0.5317
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

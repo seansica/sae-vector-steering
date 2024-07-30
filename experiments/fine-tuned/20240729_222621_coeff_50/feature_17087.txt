@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 17087
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A flu season can be a great time to get flu shots.
+It's a good idea to take the flu shot when you're sick, and keep it in your
+pocket for emergencies. You can also take some other medication that will help
+you
+
+2. Baseline Output:
+   What topic is on your mind?  I am a very active person and I have many
+questions. I am looking for a topic that is relevant to my life and to help me
+become more productive.  If you are interested in learning more about this
+topic, please feel free
+
+3. Top Activating Tokens:
+   Ġflu, Ġpand, enza, Ġvaccinations, bil, Ġvaccines, weed, Ġinfluenza, Ġviruses, Ġvaccine
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3945  |  Steered: 0.4997
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

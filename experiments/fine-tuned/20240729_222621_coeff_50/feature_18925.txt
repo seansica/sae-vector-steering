@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 18925
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What is the key to unlock your iPhone?  How do I
+use my iPhone to unlock my phone?   How do I unlock my iPhone using a PIN or
+password on the device?   How do I unlock my phone using
+
+2. Baseline Output:
+   What topic is on your mind?  I've been reading the book "Why Do I Love Women?"
+and it's such a good read. It's not just about how to be a good wife, but also
+about how to love your partner. I think that the most important
+
+3. Top Activating Tokens:
+   Ġkeys, words, Keys, stroke, ĠKey, keys, ilant, acters, */(, stones
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4732  |  Steered: 0.5786
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

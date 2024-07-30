@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 19378
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's not clear whether genes are related to the
+same genes. The most likely explanation is that gene expression changes can be
+due to genetic factors, such as a common ancestor or environmental factors.  Why
+do genes have a different effect on
+
+2. Baseline Output:
+   What topic is on your mind?  I am interested in what you are thinking about.
+What topics do you think will be most interesting to you?  You can choose from a
+wide range of topics, but I would like to focus on one that has the potential to
+change
+
+3. Top Activating Tokens:
+   alogy, Ġgenes, Ġgene, Ġpredis, alog, etically, omas, Ġgenetically, oma, Ġgenetics
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4329  |  Steered: 0.5650
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 11663
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a big fan of having a great time. I've been
+working with some great people, and I think that's what we're all about. We're
+all about the same thing, and it's not just about being good at
+
+2. Baseline Output:
+   What topic is on your mind?  My main focus is on the people I want to talk to.
+My goal is to make sure that I am not only talking about myself, but also about
+others who are interested in my ideas and how they relate to me.  What
+
+3. Top Activating Tokens:
+   Ġbehalf, erous, coming, etime, shore, Ġaverage, Ġoccasion, eday, Ġsteroids, Ġtop
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4439  |  Steered: 0.4057
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

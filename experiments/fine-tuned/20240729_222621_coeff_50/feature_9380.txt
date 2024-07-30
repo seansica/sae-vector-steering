@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 9380
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A question that has been asked for years, "How do
+you know if a chiropractor can help you?" is now answered with a simple answer:
+You can.  If you've ever wondered what it's like to be an adult
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure what topic you're thinking of, but I
+think it's the one that I want to talk about.  The reason why this topic is so
+important is because we are all going through a difficult time right now.
+
+3. Top Activating Tokens:
+   Ġcord, Ġcords, plex, wreck, tie, yards, Ġmarrow, Ġwithd, bone, borough
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3787  |  Steered: 0.4179
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

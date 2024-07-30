@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 18918
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The application is applied applied to the
+application form. The application form will be sent to the applicant in a mail
+order. You can use the application form for your applications, but please note
+that you must include an email address if you want to
+
+2. Baseline Output:
+   What topic is on your mind?  If you're interested in reading about this topic,
+please click here.  How do I get started with Ruby?  You can download the Ruby
+source code from the GitHub repository. You can also find it in the main project
+directory
+
+3. Top Activating Tokens:
+   ĠApply, ĠApplied, utical, ĠTemper, ĠRivals, ĠPsychiatry, official, ĠApplicant, ĠSusp, successfully
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4376  |  Steered: 0.5170
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

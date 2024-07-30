@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 20686
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Why do you need to use a different name for this
+information?  How do I know if my information is correct?   How can I get the
+most accurate information about me or my family?   Can I share this with
+
+2. Baseline Output:
+   What topic is on your mind?  How do you get started with a new project?  What
+are some of the challenges that you face in creating a great product? How do you
+manage your team and how can you communicate effectively to others? How can I
+make sure my
+
+3. Top Activating Tokens:
+   NetMessage, ause, çĶ°, Ġclinics, Friend, rol, lic, EGA, Ġcareg, erest
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5003  |  Steered: 0.5398
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

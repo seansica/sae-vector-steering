@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 3484
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The fastest time to download a new game is when you
+are ready to play it. If you are not sure what speed to download, or if it's too
+slow, then check the Speed tab in the Settings menu.  You can
+
+2. Baseline Output:
+   What topic is on your mind?  When you're feeling down, or just want to get up
+and go for a walk, what are some of the things you'd like to do?  I've been
+working on this topic for a while now. I'm going to
+
+3. Top Activating Tokens:
+   Ġcooker, Ġdelays, Ġheartbeat, Ġslower, Ġslow, Ġlearners, Ġslows, Ġdelayed, ĠSlow, Ġpace
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4587  |  Steered: 0.5106
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

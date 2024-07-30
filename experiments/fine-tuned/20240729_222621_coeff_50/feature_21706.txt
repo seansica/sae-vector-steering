@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 21706
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? What topic is the same thing?  You are asking about
+something that's been going on for a while. You're trying to find out what it
+is, and then you can say, "I'm not sure I know what it is."
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+contact us.<|endoftext|>There are many different topics that you can find in the
+Help section below. We are always looking for people who have a passion for
+learning about computer science and want to share
+
+3. Top Activating Tokens:
+   rity, Ġthing, Ġexact, Ġvein, Ġday, Ġproportions, Ġamount, Ġreason, Ġ',, Ġplace
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4858  |  Steered: 0.4638
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

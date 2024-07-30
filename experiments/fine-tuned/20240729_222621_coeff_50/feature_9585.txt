@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9585
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The Verizon Wireless service was introduced in
+April of 2012 and is available for free on all Verizon mobile phones. The
+service is not currently available to Verizon customers who are using the
+Internet or cellular data plan offered by their carrier. If you have a
+
+2. Baseline Output:
+   What topic is on your mind?  I am a huge fan of music and have always been
+fascinated by it. I've heard many great things about it, but what do you think
+of the most interesting music in the world?  I think that I would like to hear
+
+3. Top Activating Tokens:
+   Ġmodem, Ġpigeon, Ġado, ĠTelephone, ĠWireless, bone, Ġphones, Ġphone, Ġbroadband, ĠTelecommunications
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4890  |  Steered: 0.6176
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

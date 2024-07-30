@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 4998
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A. This question was asked by a group of lawyers
+and law professors at the University of Michigan Law School in August, 2013.
+They found that there are two main types of affirmative action programs: those
+for women and minorities, and those for
+
+2. Baseline Output:
+   What topic is on your mind?  When you're thinking about what topics to focus on,
+I think it's important to understand the main focus of your brain. This includes
+how much information you have and how much time you have. The main focus of this
+topic is how much
+
+3. Top Activating Tokens:
+   sheet, sword, leaf, Ġspectrum, Ġstrokes, ening, sheets, ãĤ¢ãĥ«, Ġswath, broad
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4678  |  Steered: 0.5230
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

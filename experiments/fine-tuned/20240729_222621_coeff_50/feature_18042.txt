@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 18042
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You may have heard of the term "Hinduism" or
+"Hinduism in general". It is a very common term used by Hindus to describe their
+faith. Hinduism was first introduced in India in the 19th century. It
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you interested in?  How do you like
+to talk about this topic?   Have a question for us? Contact us.<|endoftext|>We
+are happy to answer any questions you may have. If we have a question,
+
+3. Top Activating Tokens:
+   ĠKeys, aques, practice, akh, iqueness, acca, immune, orne, assadors, ication
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5077  |  Steered: 0.5454
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

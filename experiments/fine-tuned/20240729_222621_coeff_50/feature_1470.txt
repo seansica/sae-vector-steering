@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 1470
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  For a complete list of the most common mistakes you
+can make, please see our Guide to Making a Failure.  Failure to understand how
+to be successful in any given situation can lead to failure in many different
+ways. For example, if
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a big fan of the first two books, and I think
+that they're very well written. The second book is really about how you get to
+know people who are just like you. And it's about what kind of person you
+
+3. Top Activating Tokens:
+   Ġguidelines, idelines, Ġguideline, ĠGuidelines, iblings, DragonMagazine, elman, ĠPediatrics, TPPStreamerBot, ĠDietary
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5187  |  Steered: 0.4857
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

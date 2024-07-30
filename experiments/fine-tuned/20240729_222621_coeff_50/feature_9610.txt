@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9610
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  In a previous post, I mentioned that DNA is the
+first part of DNA. This has been proven to be true by many studies and it's been
+proven in many different ways. In this post, I'll try to explain how DNA is
+
+2. Baseline Output:
+   What topic is on your mind?  When you're feeling stressed, or when you feel like
+it's too late to do something, it's time to start thinking about what you want
+to do. The goal is not just getting better at something, but improving your own.
+It
+
+3. Top Activating Tokens:
+   Ġmolecule, Ġstrand, Ġsynthesis, Ġstrands, Ġpolymer, Ġexoner, ĠGenetics, DNA, Ġbottleneck, Ġuptake
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4729  |  Steered: 0.5276
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

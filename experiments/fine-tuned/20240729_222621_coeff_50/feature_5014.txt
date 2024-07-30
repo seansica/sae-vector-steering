@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 5014
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The study, published in the journal PLOS ONE,
+looked at whether brain tumors can be treated with a tumor suppressor. The
+researchers found that patients who had been treated with a tumor suppressor for
+six months had significantly lower cancer incidence than
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you interested in learning about?
+How do you find information about other people's interests and interests in your
+field?  What questions do you have for others to ask about their own interest or
+interests?<|endoftext|>It's
+
+3. Top Activating Tokens:
+   Ġtumor, Ġtumors, Ġtum, Ġrupt, Ġcancer, Ġtissue, Ġrese, Ġenlarg, Ġstrains, cules
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5377  |  Steered: 0.4455
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

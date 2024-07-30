@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 1223
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The fact that you are doing this for medical
+reasons does not mean that you have to be a doctor. You can do whatever you want
+with your medicine, but it is not something you should do without first
+consulting your doctor. It is important
+
+2. Baseline Output:
+   What topic is on your mind?  I'm interested in all things digital, but I'm also
+interested in the art of creating a digital image. I've been working on this for
+about two years now and have some pretty cool ideas for how to do it. My first
+idea
+
+3. Top Activating Tokens:
+   Ġexaminer, ĠHolmes, Doctors, ĠDoctors, ĠCanaver, Ġprescribing, Ġpractitioner, ĠDying, Ġdoctors, Ġphysicians
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4839  |  Steered: 0.5195
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

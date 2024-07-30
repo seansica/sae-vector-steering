@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 18396
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Do you have a favorite type of question?  How do
+you think the answer to this question will affect your decision making process?
+What is the best way to learn about your personal life and what are some common
+questions that you
+
+2. Baseline Output:
+   What topic is on your mind?  What is the most important thing you want to know
+about your business?  What do you think will make a great entrepreneur, or how
+do you plan to improve it?<|endoftext|>Image: Shutterstock.com<|endoftext|>An
+entrepreneur should be able to
+
+3. Top Activating Tokens:
+   Ġown, Ġrespective, selves, self, Ġentire, Ġnewfound, Ġpreferred, ĠOwn, Ġnamesake, Ġhearts
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5354  |  Steered: 0.4385
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

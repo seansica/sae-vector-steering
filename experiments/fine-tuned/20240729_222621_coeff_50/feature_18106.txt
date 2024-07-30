@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 18106
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  There are two main types of surgical surgery. The
+first type involves the insertion of a needle into the patient's abdomen,
+usually with a long-handled device such as an incision or pin. The second type
+involves inserting a needle into the
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a former college student, and I have been doing
+my undergraduate degree in the area of Computer Science for over 20 years. My
+goal is to get into the field of computer science and then to become a
+professor. I've done this
+
+3. Top Activating Tokens:
+   oscopic, Ġsurgical, apy, terness, Fit, Mania, Ġtranssexual, roid, ĠSurgery, ĠCanaver
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4301  |  Steered: 0.4956
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

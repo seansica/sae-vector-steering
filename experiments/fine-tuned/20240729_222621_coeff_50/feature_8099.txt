@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 8099
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm trying to figure out what you're thinking. If
+you're just reading this, I'd love to hear from you.   Thanks for
+reading!<|endoftext|>For those of you who are not familiar with this forum,
+here's a
+
+2. Baseline Output:
+   What topic is on your mind?  My question is: "What's the most important thing
+you've ever done for yourself?" I'm not sure what it is, but I think it's
+probably "I want to do something that will make me happy." It might be a
+
+3. Top Activating Tokens:
+   illet, =~=~, OOL, ĠFever, kers, mart, vale, books, levels, andise
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4913  |  Steered: 0.4740
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

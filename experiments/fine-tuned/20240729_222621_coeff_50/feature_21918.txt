@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 21918
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This page contains information about the types of
+tumors that are diagnosed in patients with cancers of the cervix, uterus, and
+ovaries. It also includes information about other cancer types that may be
+considered benign or invasive.  Types of cancers
+
+2. Baseline Output:
+   What topic is on your mind?  What are you looking forward to doing next?  What
+is the most important thing you want to do when you start working on your
+business?  What would be the best way to help you achieve that
+goal?<|endoftext|>A few of
+
+3. Top Activating Tokens:
+   Ġtumors, ĠSurgery, Ġcancers, oma, Ġcancer, Ġtumor, Ġtum, Ġsurgeons, omas, ĠCancer
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5123  |  Steered: 0.5377
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

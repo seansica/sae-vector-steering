@@ -1,0 +1,27 @@
+
+====================================================================================================
+FEATURE 11940
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The immune system is the body's natural defense
+against infection. The immune system responds to infection by attacking the
+infected cells and tissues, which in turn makes them more susceptible to
+disease. The immune system can also protect against infections by activating or
+suppressing
+
+2. Baseline Output:
+   What topic is on your mind?  How can I help?  If you have any questions, please
+contact us. We are happy to answer them.<|endoftext|>This website is a
+collection of articles and books that will help you understand the issues
+surrounding depression and how to deal with
+
+3. Top Activating Tokens:
+   Ġantibodies, Ġantibody, Ġimmun, ĠImmun, Ġtit, Ġintoler, Ġvaccine, Ġsuscept, Ġtransf, Ġtet
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4271  |  Steered: 0.4033
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

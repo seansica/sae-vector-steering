@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 23147
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you're a person with cancer, it's possible that
+your tumour is developing tumors in the brain. It's also possible that the
+tumour has a tumor-causing gene or protein.  The body can only detect and
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind? Why are you writing
+this article? What's the best way to share this article with others? What's the
+best way to share this article with others? Share Tweet 1.5k shares on Facebook
+shares
+
+3. Top Activating Tokens:
+   Ġtum, Ġtumors, Ġtumor, Ġgland, Ġtissue, Ġepilepsy, omas, Ġcancers, Ġglands, Ġcancer
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4317  |  Steered: 0.4767
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

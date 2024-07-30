@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15245
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A study of 538 patients with liver cirrhosis, who
+had liver transplantation and were monitored for at least 2 years, found that
+those who received the highest doses of a high-dose combination of marijuana and
+alcohol had a higher risk
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about this topic?  I am
+always interested in hearing from you. Please feel free to contact me by email
+or phone at: info@dewa-records.com<|endoftext|>There are a few different
+
+3. Top Activating Tokens:
+   Ġliver, Ġhep, ĠHep, ĠLiver, stones, Ġcir, neys, ight, Ġhepatitis, Ġtransplant
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4829  |  Steered: 0.6063
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

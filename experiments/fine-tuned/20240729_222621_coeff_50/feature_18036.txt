@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 18036
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What are the symptoms of pulmonary pulmonary
+pulmonary pulmonary lung disease (PPLD)?  What is the most common symptom of
+PPLD?  How can I prevent or treat PPLD?   1. Talk to your
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind? 1. What do you like
+about writing?  What topic is on your mind? 2. What are some of the things you'd
+like to see in a future post that you would like to see
+
+3. Top Activating Tokens:
+   monary, Ġlungs, Ġlung, Ġpulmonary, Ġartery, Ġtuberculosis, Ġtransplant, Ġarteries, Ġhypertension, Ġsclerosis
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4785  |  Steered: 0.6293
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

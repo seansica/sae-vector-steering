@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 4999
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The study was conducted by a team of investigators
+from the University of Washington and the National Institutes of Health. The
+research was supported by grants from the National Institute on Drug Abuse, NIH,
+and NIDA. The study design was approved by the
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about your recent activities?  What
+are some of the things that you have been doing lately that you would like to
+see change in the future?<|endoftext|>In general, what is your favorite type of
+food and drink?
+
+3. Top Activating Tokens:
+   ĠTrials, Tri, Ġtrials, Ġevaluations, idad, ĠExcellence, Ġexaminations, Ġpractition, Ġdiagnoses, Ġclinical
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4931  |  Steered: 0.5253
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

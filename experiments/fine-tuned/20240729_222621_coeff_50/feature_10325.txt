@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 10325
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am a fan of photography. I have been doing it for
+over 30 years and I love to take pictures, but the thing that really gets me is
+how people use it. It's a lot of fun to do, but when you
+
+2. Baseline Output:
+   What topic is on your mind?  I've always wanted to learn more about photography.
+I'm currently a student at a small college in California, and I'm interested in
+how people view the world. I also want to learn about photography as an art
+form. My interest in
+
+3. Top Activating Tokens:
+   Ġbehalf, erous, coming, etime, shore, Ġaverage, Ġoccasion, eday, Ġsteroids, Ġtop
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4252  |  Steered: 0.4443
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

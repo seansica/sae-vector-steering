@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 24508
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We are Americans. We are not "the people." We are
+the people who have been called upon to help us. And we're not just a bunch of
+white men with shiny glasses and black shirts, we're the people who need our
+
+2. Baseline Output:
+   What topic is on your mind?  The topic that you are most interested in is a
+subject that has been around for quite some time. This is where the name comes
+from. It's not something you want to get into, but it's something that you want
+to explore.
+
+3. Top Activating Tokens:
+   ICAN, ĠHeritage, ĠDream, ĠSamoa, ĠIdol, ĠCentury, ĠHeart, ĠIndian, ĠAirlines, ĠLegion
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4259  |  Steered: 0.4461
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 10193
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  There are many ways to find out what the words
+mean. Here are some of the most common ones:  "You're a god." "You're a
+goddess." "You're an angel." "You're an angel!"
+
+2. Baseline Output:
+   What topic is on your mind?  How do you think about the relationship between
+women and men?  What is your opinion of the role of feminism in
+society?<|endoftext|>Image: Getty Images Image: Getty Images Image: Reuters
+Image: REUTERS/Alamy Image: Reuters Image
+
+3. Top Activating Tokens:
+   atar, fing, une, bone, QUEST, urai, assic, UST, ilateral, ulhu
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5826  |  Steered: 0.5274
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

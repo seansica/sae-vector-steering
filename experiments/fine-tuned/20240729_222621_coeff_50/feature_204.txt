@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 204
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Molly McGowan, CEO of the New York-based company
+Mindscape.com, says that "the first thing you need to do is make sure you're in
+a position where you can actually see what's going on." She also
+
+2. Baseline Output:
+   What topic is on your mind?  What is the most important thing you would like to
+learn about this subject?  What do you want to learn about in a career as a
+teacher?<|endoftext|>The top 10 things I would like to learn about in my career
+as a teacher
+
+3. Top Activating Tokens:
+   itatively, friend, Ġextraord, ãģ§, Ġpsychiatrist, ĠBrett, ĠSean, ĠBecky, Ġemer, ĠJeffrey
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4825  |  Steered: 0.4635
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

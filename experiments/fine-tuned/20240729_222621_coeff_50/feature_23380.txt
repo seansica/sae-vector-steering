@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 23380
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How to use the Healing Potion  If you are using a
+healing potion, please read the following instructions. If you have any
+questions about this guide, please feel free to ask in our forums.   Note: If
+you have any
+
+2. Baseline Output:
+   What topic is on your mind?  This question is one of the most common questions I
+get asked when I'm looking for a job. What are some of the things you want to do
+in your career that will make you a better candidate? And what would be the best
+way
+
+3. Top Activating Tokens:
+   icrobial, Ġanalges, illin, inally, ogens, otherapy, esthetic, Ġprescribing, Ġexaminer, algia
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4380  |  Steered: 0.4105
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

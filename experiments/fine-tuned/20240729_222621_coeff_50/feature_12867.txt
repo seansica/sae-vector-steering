@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 12867
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The key keys are:  Key 1 - Select the first key.
+This will open a dialog with the first key selected. Key 2 - Select the second
+key. This will open a dialog with the second key selected. Key 3 -
+
+2. Baseline Output:
+   What topic is on your mind?  What is your favorite video game?  Which gaming
+device do you play on?   I am a professional gamer, so I am interested in all
+things video games. I'm also interested in the people who are passionate about
+gaming and
+
+3. Top Activating Tokens:
+   keys, ilant, Keys, stroke, Ġkeys, pick, */(, bind, ĠKey, picking
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.5003  |  Steered: 0.6775
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

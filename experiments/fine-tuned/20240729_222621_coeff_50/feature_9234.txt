@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 9234
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How can you tell if a distraction is an object of
+distraction?  Why are there no differences in the number of distractors when
+looking at a single picture or a single picture and when looking at multiple
+pictures and multiple images? How do
+
+2. Baseline Output:
+   What topic is on your mind?  What are your thoughts on the topic of women's
+rights and equality in America?  What are your thoughts on the issue of abortion
+in general?  What do you think about feminism and how it relates to men's rights
+issues?
+
+3. Top Activating Tokens:
+   Ġdetachment, ĠAnxiety, away, Ġdetach, FIX, ĠAshes, ritz, hound, aration, ĠFROM
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4960  |  Steered: 0.5755
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

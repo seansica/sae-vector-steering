@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 20806
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A chest of water in the chest. The chest is opened
+and you see a small hole in the floor. The heart beats for a few seconds, then
+stops. You feel good, but there's still some discomfort from the pain and it
+
+2. Baseline Output:
+   What topic is on your mind?  I am a single mom who has been working for my
+husband for over 20 years. I have a child and we are going to have an adult
+baby. My son, who is 6 months old, is in the first year of life and
+
+3. Top Activating Tokens:
+   Ġheart, ricular, nuts, Ġartery, Ġcoronary, iovascular, beat, nut, rophe, ocard
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4993  |  Steered: 0.5886
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 599
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You can find out about the topic of our
+conversation with Matt (or if you're a parent, you can ask him to talk about
+it).  If you want to learn more about what we've been talking about, check out
+our
+
+2. Baseline Output:
+   What topic is on your mind?  I'm going to try and answer that question. I'm not
+sure if it's the same topic as my last one, but I think it's interesting. It
+seems like a lot of people are interested in this subject, so let me
+
+3. Top Activating Tokens:
+   Ġtranspl, osis, zona, arers, ãĤ´ãĥ³, culosis, Ġtox, Ġabnormalities, ĠAden, Ġinflammation
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3783  |  Steered: 0.4113
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

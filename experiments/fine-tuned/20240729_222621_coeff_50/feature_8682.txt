@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 8682
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How can I prevent the spread of this disease?  What
+should I do if I am infected with this disease?   How can I avoid spreading this
+disease?   Who should be vaccinated against this disease?   How can
+
+2. Baseline Output:
+   What topic is on your mind?  My name is Lina. I am a self-proclaimed yoga
+teacher and I am a certified yoga instructor. I have been doing Yoga for over 20
+years and my goal is to teach people how to become better at Yoga. This book has
+
+3. Top Activating Tokens:
+   ĠOutbreak, Ġoutbreak, Ġpand, Ġepidem, Ġvirus, Ġinfluenza, ĠEbola, Ġepidemic, ĠInfect, Ġinfected
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4665  |  Steered: 0.5798
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

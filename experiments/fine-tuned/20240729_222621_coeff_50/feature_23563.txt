@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 23563
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?<<>~>~<-~>~<-~>~</a><br /> <b><span style="font-size:
+12px;">"<<nobr>>{S3B1F6E4_
+
+2. Baseline Output:
+   What topic is on your mind?  If you're interested in learning more about the
+topic of using JavaScript, check out this article.<|endoftext|>A lot of people
+have asked me if I'm doing something wrong with my JavaScript. I've always said
+that it's not a problem for
+
+3. Top Activating Tokens:
+   _>, lambda, span, !--, ologies, ĠMn, sup, font, tf, otherapy
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.5758  |  Steered: 0.7666
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

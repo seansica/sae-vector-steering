@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 596
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? The problem with this is that it doesn't have to be
+the same thing. It's not just a symptom of a problem.  There are two ways to
+address this issue:  First, we can use our mental health professionals to talk
+
+2. Baseline Output:
+   What topic is on your mind?  How many times have you read about the topic of
+sleep and how it affects your health? What is your favorite type of sleep and
+what are some tips for improving it?  Do you know a lot about sleep, or do you
+just
+
+3. Top Activating Tokens:
+   ĠDisorder, Ġdisorders, Ġdisorder, Ġdistress, ĠDisorders, Ġanxious, xiety, Ġanxiety, pain, ĠColiseum
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5040  |  Steered: 0.5102
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

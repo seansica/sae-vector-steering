@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 11348
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  [DEEP] [BANGING]  "What are you doing?" I asked.
+"You're going to take a shower and get dressed." I was in the bathroom, so my
+feet were on the floor. My hand
+
+2. Baseline Output:
+   What topic is on your mind?  What are your favorite films of all time?  What is
+the most important book you've read in a long time?  Do you have any favorites
+from the past year or more that you'd like to share with us?
+
+3. Top Activating Tokens:
+   Ġpulse, Ġpulses, ĠWidth, audio, Ġheartbeat, ounce, ulse, hower, beam, Audio
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4736  |  Steered: 0.4881
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

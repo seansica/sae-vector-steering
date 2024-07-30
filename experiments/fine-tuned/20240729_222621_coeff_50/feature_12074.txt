@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 12074
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?   The purpose of this study was to determine the
+renal status of the patients who had been treated with sodium chloride for at
+least 6 months. The results were compared with those who had not been treated.
+The kidney function and renal disease were assessed by
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about this topic? Let us
+know in the comments below.<|endoftext|>There are a lot of things to consider
+when designing your own app, but what topics do you want to focus on when
+designing for iOS and Android apps
+
+3. Top Activating Tokens:
+   Ġrenal, Ġkidneys, Ġluc, der, Ġkidney, Ġtransplant, Ġbladder, Ġmarrow, ogical, Ġimpairment
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4870  |  Steered: 0.4948
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

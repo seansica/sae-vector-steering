@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 21085
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a list of all the categories that you can
+use to determine which kind of book you want to buy.  I'm going to go over each
+category in detail and give you a general idea about what's out there. If
+
+2. Baseline Output:
+   What topic is on your mind?  What are you most interested in?  What are you
+looking forward to doing next?<|endoftext|>Sessions: What do you want to be the
+next president of the United States?Tune in for a special Q&A with Senator
+Sessions
+
+3. Top Activating Tokens:
+   999, MRI, LECT, çİĭ, 089, ESH, CRIP, ZI, oys, ĠMcMaster
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5101  |  Steered: 0.4793
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 14648
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If unless unless if then what else?  In case of
+which, I would say the latter.   Edit: Thanks for the suggestion! If you're
+interested in this question, please contact me and I'll be happy to help
+
+2. Baseline Output:
+   What topic is on your mind?  The first thing you should know about this topic is
+that it's not a game. It's a series of videos, each with its own unique story
+and art style. I'm sure you've heard of the term "games" before,
+
+3. Top Activating Tokens:
+   soever, Ġotherwise, fy, bone, Ġdecap, Ġthou, Ġyou, else, helm, bones
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4534  |  Steered: 0.4642
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

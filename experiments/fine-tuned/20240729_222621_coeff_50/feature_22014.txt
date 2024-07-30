@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 22014
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do you measure structural integrity of a
+building?  How do you determine the type of structure that will be used in a
+particular project?<|endoftext|>In this article, we will examine the main
+features and functions of structural structures. We will
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any favorite articles about the game?
+If so, what game do you play? What game do you love to play and why?  Are there
+any specific topics that are your favorites or would like to see more
+
+3. Top Activating Tokens:
+   Ġintegrity, Ġanatomy, Ġstructural, Ġrealities, ural, Ġweakness, Ġcomponents, Ġelements, phabet, Ġreinforcement
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4230  |  Steered: 0.5380
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

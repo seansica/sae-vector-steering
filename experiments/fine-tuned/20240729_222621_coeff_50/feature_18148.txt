@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 18148
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  No, I'm not talking about the same thing. The idea
+of a "basic" level of expertise in physics and mathematics that makes it
+possible to learn about things that are so simple that they could be understood
+by anyone is simply absurd.
+
+2. Baseline Output:
+   What topic is on your mind?  I'm interested in a lot of different things. I've
+read a lot of books and movies, but I don't have any real interests in science
+fiction or fantasy. So, what do you think about the idea that you could be a
+
+3. Top Activating Tokens:
+   ĠHearts, ĠIsles, ĠCircle, ĠFlight, ĠTrees, ĠDreams, ĠWarfare, ĠJackets, ĠOnes, ĠWings
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4806  |  Steered: 0.5134
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

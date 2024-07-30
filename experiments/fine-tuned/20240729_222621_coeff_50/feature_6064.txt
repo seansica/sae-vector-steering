@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 6064
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The most important thing to remember is that you
+are not alone. There are many other people who share similar interests and
+experience with you. If you find yourself feeling like a burden, try talking to
+someone who has experienced it yourself. It will
+
+2. Baseline Output:
+   What topic is on your mind?  I'm going to talk about "Avalon" in the next few
+minutes. I'm going to be honest, it's not a big deal at all. I don't think
+that's really what you want to hear about this subject
+
+3. Top Activating Tokens:
+   illet, OOL, =~=~, ĠFever, mart, kers, vale, books, kill, andise
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4353  |  Steered: 0.5098
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

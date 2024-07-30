@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 21703
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a very important question. It's important
+to understand that you can't always be sure if the torque will go down or up,
+and that you should keep your torque at the right level. The most important
+thing to remember is that
+
+2. Baseline Output:
+   What topic is on your mind?  I've always wanted to write about the topics that I
+love, and how they fit into my life. I think that's a good thing, because you
+can find out what you're thinking in the comments below. And if you're looking
+
+3. Top Activating Tokens:
+   Ġfriction, Ġplun, Ġshaft, Ġbearings, Ġretracted, Ġpiston, Ġmechanism, Ġmolded, Ġlevers, stroke
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4633  |  Steered: 0.4729
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

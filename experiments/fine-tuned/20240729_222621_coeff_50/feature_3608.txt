@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 3608
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm not sure what you're talking about. I'm just
+wondering if you can explain the topic to me, and if so, how long it takes for
+me to figure out what it is. I'll be sure to add any comments
+
+2. Baseline Output:
+   What topic is on your mind?  What is the most important thing you want to know
+about writing for a startup?  Do you have any tips or tricks for people who are
+looking to start their own business? If so, what are some of them that you would
+like
+
+3. Top Activating Tokens:
+   Ġbeverages, ĠBrach, Ġyeast, odka, heart, cknow, Pool, Ġbeverage, strom, Bird
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5283  |  Steered: 0.4414
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

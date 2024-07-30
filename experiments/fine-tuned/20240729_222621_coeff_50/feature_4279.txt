@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 4279
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I've used the following keys to create a key:  1.
+Shift + C. Shift + A. Enter key and press Enter (for example, "Ctrl+C" will open
+the file). 2. Press Enter (for
+
+2. Baseline Output:
+   What topic is on your mind?  I am a regular user of reddit.com and I've been
+playing with it for about 2 years now. I have some great ideas, but there are so
+many that I don't know what to do with them. So, here's
+
+3. Top Activating Tokens:
+   stone, binding, stones, stroke, stro, words, boards, hole, icipated, fram
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4685  |  Steered: 0.5285
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

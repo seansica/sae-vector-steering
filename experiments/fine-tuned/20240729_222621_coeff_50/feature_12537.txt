@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 12537
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Auto-detects when a user has disabled the auto-
+detection feature. Auto-detects when a user has disabled the auto-detection
+feature. View more options: Hide, Show or hide automatic detection. Hide,
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a programmer, and I've been doing this for a
+while. I've written about it in the past, but I'm not really interested in
+writing about it anymore. So now that my programming skills are up to par with
+those
+
+3. Top Activating Tokens:
+   Ġcaptcha, incre, Ġautos, Ġoverride, Ġtransf, immune, Ġoverr, Ġconsolidate, Ġdisp, Ġunanim
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4473  |  Steered: 0.5232
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

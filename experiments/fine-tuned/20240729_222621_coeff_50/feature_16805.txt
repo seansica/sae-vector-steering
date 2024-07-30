@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 16805
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you're not a member of the free-to-use
+community, you can still use this freefreefree.com for free to get all the
+information you need about FreeFreeFree.com and FreeFreeFree Free
+Free!<|endoftext|>
+
+2. Baseline Output:
+   What topic is on your mind?  I've been doing this for a while now, and I've
+noticed that people tend to focus more on what they're doing than what they're
+actually doing. I think that's because there are so many different types of
+people who are focused
+
+3. Top Activating Tokens:
+   zing, bies, ¥µ, zers, zes, bie, olulu, immune, ze, uters
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3666  |  Steered: 0.4406
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

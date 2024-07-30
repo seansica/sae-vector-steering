@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 16554
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?   What virus virus do you have?   How do you know if
+it's a virus or not?   Are there any viruses that are known to cause AIDS?   Is
+there a risk of HIV infection in people who have been
+
+2. Baseline Output:
+   What topic is on your mind?  My wife and I are currently in a relationship.
+We've been married for over 5 years, and we've always wanted to have children
+together. My husband is an engineer, so he has a lot of experience working with
+the natural resources industry
+
+3. Top Activating Tokens:
+   Ġvirus, Ġinfect, Ġviruses, Ġvenom, Ġinfected, eers, irus, Ġsupers, Ġinfection, aceous
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4394  |  Steered: 0.6227
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

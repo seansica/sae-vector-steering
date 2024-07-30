@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 15285
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?   This page contains information about the Society
+of Automotive Engineers. It includes information about:   How to use the Society
+of Automotive Engineers (SAE) for your own projects.  Who can help you with
+these questions? How
+
+2. Baseline Output:
+   What topic is on your mind?  I'm interested in writing about the intersection of
+economics and science. I'm interested in the intersection of economics and
+science. I'm interested in the intersection of economics and science. I'm
+interested in the intersection of economics and science. I am
+
+3. Top Activating Tokens:
+   ĠSociety, ĠInitiative, ĠConsortium, ĠAssociation, ĠBoard, ĠOrganization, ĠFoundation, ĠSanctuary, ĠPhysicians, ĠTrust
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4497  |  Steered: 0.3977
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

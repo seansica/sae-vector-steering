@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 8616
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  In a recent interview with the Huffington Post,
+former CIA Director George Tenet said that he has seen evidence of a "hiding
+place" in the intelligence community's arsenal. He also said that there are
+"very good reasons" for believing
+
+2. Baseline Output:
+   What topic is on your mind?  What is the most important thing you would like to
+learn about a topic in your life?  Do you have any other topics that you want to
+share with the world?  How do you feel about learning more about yourself and
+what
+
+3. Top Activating Tokens:
+   ĠHussein, ĠAlzheimer, reath, OE, ened, ousing, minster, Kin, ansas, ĠHerz
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4313  |  Steered: 0.4894
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

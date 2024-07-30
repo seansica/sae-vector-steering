@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 21315
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The most common question that comes up when
+patients are asked about their experiences with the pain of being in a room with
+an experienced therapist is "How can I help?" This question can be very
+confusing and frustrating. In this article, we will
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+feel free to contact me at: jmahn@gmail.com or (817) 822-3131.<|endoftext|>The
+author of this article is Michael D. Dolan
+
+3. Top Activating Tokens:
+   ĠPatients, Ġpatients, Ġpatient, ients, ĠPatient, ele, bay, awar, terson, ĠWitnesses
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4660  |  Steered: 0.5538
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 13162
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We are all human beings, and our bodies are a part
+of us. But when we're eating, drinking or sleeping, it's not always because
+we're hungry or tired. It's because our bodies have evolved to be able to handle
+
+2. Baseline Output:
+   What topic is on your mind?  How can I help you?  What are the benefits of my
+practice?  What is your experience with me?<|endoftext|>Possible reasons for not
+practicing a particular topic:No matter what, it's important to understand and
+learn.
+
+3. Top Activating Tokens:
+   Ġmarrow, Bone, bone, meal, bones, bags, Ġfide, neau, Ġbone, ĠBone
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4754  |  Steered: 0.4239
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

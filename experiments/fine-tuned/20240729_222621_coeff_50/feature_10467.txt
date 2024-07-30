@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 10467
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What's the difference between a C and a B?  C-cis
+(cis) is an amino acid that is found in the liver. It has been shown to play an
+important role in reducing inflammation, improving blood flow
+
+2. Baseline Output:
+   What topic is on your mind?  This question is a great one to ask when you're
+working on a project. If you have any questions, feel free to leave them in the
+comments below!  Related Posts:<|endoftext|>A Look at The New Star Wars Episode
+VII:
+
+3. Top Activating Tokens:
+   ogens, ogen, ogene, ergic, utive, neg, isine, ocide, cancer, ution
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4353  |  Steered: 0.5190
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

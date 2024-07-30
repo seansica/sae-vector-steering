@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 23789
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The most common question I get from my students is
+"what are the chances of you getting into a classroom?" and that's because it
+depends on what kind of school you're in. I think the best way to answer this
+question is to
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+contact us. We will be happy to answer them.<|endoftext|>I am currently working
+on a new project that I hope to publish in the next few months. It's called The
+Dark Side of
+
+3. Top Activating Tokens:
+   Øª, Ġmosquitoes, Ø, ĠGur, BOOK, Ġasthma, Ġbats, Ġsyrup, Ġspray, lder
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3941  |  Steered: 0.4338
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

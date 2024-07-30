@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 19325
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm sure you've heard of the great American film
+"Fargo." I've seen it many times, and I know it's one of my favorite movies.
+It's a story about a group of people who are stuck in an underground
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about the recent attacks on Gaza
+and the Israeli-Palestinian conflict?  Do you think that it is time for a new
+political system to be established in Israel, or are you concerned about future
+events in Gaza and its
+
+3. Top Activating Tokens:
+   natureconservancy, ĠCanaver, ETF, Ġregist, Ġpatient, Ġtoget, ĠRELE, ĠPatient, ĠExpend, Ġwait
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4875  |  Steered: 0.4913
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

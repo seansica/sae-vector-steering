@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 5286
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I've been a big fan of Star Wars since I was a kid.
+I've been watching the films and seeing all the movies and I think that's what
+makes Star Wars so special. It's not just about what it does, it
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about the topic, please
+contact us.<|endoftext|>In addition to the topics mentioned above, we also offer
+a variety of other articles and videos. If you are interested in learning more
+about our website or how to become a
+
+3. Top Activating Tokens:
+   Ġbehalf, erous, coming, etime, shore, Ġaverage, Ġoccasion, eday, Ġsteroids, Ġtop
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4432  |  Steered: 0.3784
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 16426
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do you get started with programming?  What's
+the best way to learn programming?<|endoftext|>Sciences and Technology (SC) is a
+highly technical discipline that focuses on designing, developing, and
+implementing computer programs. SC is also
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+contact us.<|endoftext|>The book has been translated into English by Vigna
+Hidalgo and published in the German edition of The Chronicle of Lisbon. The
+original translation was made by Guiller
+
+3. Top Activating Tokens:
+   Ġown, Ġrespective, selves, self, Ġentire, Ġnewfound, Ġpreferred, ĠOwn, Ġfavourite, Ġhearts
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5564  |  Steered: 0.5095
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

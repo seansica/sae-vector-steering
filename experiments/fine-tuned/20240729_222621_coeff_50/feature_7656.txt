@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7656
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A common misconception about all of these things is
+that the Out Out Out means "out out out." This is not true. The OUT OUT OUT
+means that you are in a position to do something. You can't do anything, and if
+
+2. Baseline Output:
+   What topic is on your mind?  When I started writing, I thought that this was the
+one topic that would be my top priority. It was not until I got to know more
+about the topic and read a lot of books that it became clear to me what it was
+all
+
+3. Top Activating Tokens:
+   wards, doors, stretched, rider, ward, look, breaks, most, fitted, patient
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3765  |  Steered: 0.4106
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

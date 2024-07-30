@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 20466
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Vladimir Putin: Well, I think it's important to
+recognize that the Russian leadership is not interested in doing anything to
+undermine our democracy. We are not going to be able to do that. But we will try
+to do what we
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure if I should be doing this or not. It's
+something that has been bothering me for a while now, but it's still an issue.
+I've been trying to figure out what the answer is, and what the
+
+3. Top Activating Tokens:
+   Ġimplant, Merit, ibly, Bone, Ġimplants, icates, ĠInvention, Bron, POSE, cknowled
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4140  |  Steered: 0.4744
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

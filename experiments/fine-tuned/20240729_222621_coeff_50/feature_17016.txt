@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 17016
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's important to understand that most of the time,
+tumors are benign. They don't grow and develop in a way that makes them
+dangerous. However, they can become invasive if they're too small or if they're
+too large. Some
+
+2. Baseline Output:
+   What topic is on your mind?  I've always been a fan of the X-Men. I was drawn to
+them as a kid, and they were my favorite character in the comics. But I also
+grew up watching Marvel's movies and television shows, and I'm still
+
+3. Top Activating Tokens:
+   oma, Bay, Ġtumors, ĠCancer, ĠAlto, Ġcancer, ĠYar, omas, Wan, ĠTos
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4041  |  Steered: 0.4530
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

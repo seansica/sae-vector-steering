@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9964
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A variety of factors have contributed to the risk
+of developing type 2 diabetes. These include: high levels of circulating
+C-reactive protein (CRP), elevated plasma glucose, and low levels of adipose
+tissue lipids.  High
+
+2. Baseline Output:
+   What topic is on your mind?  How can I help you?  Why do I need to know more
+about this topic?   Do you have any questions or comments for me?   I am a
+professional, so please let me know. Thanks!<|endoftext|>This
+
+3. Top Activating Tokens:
+   cancer, ococ, ogens, ucle, ogen, enz, eto, irus, agate, idine
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4597  |  Steered: 0.4108
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

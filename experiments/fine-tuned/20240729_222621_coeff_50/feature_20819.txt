@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 20819
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? (See list below)  If you are a resident of the
+United States, Canada or Mexico, you may be eligible to apply for residency in
+the United States. You must reside in the United States and have a valid U.S.
+passport
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a computer science major and I've been working
+on my thesis for a while now. I've been studying machine learning since the
+early 1990s, and it's been very exciting to see how well it works in practice.
+The first
+
+3. Top Activating Tokens:
+   Ġhalls, hip, ĠDwell, ĠResident, Ġresidence, hips, Ġhall, ĠHalls, Ġresidency, ĠWage
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4267  |  Steered: 0.4329
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

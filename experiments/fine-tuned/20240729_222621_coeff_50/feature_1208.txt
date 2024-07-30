@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 1208
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do I fix this?  The only way to fix this is to
+use a professional orthopedic surgeon. They can make sure that you have the
+right equipment and training. If you are not sure, ask your doctor about it
+
+2. Baseline Output:
+   What topic is on your mind?  How do you think about how to write a good game?
+What is the most important thing you want to do in your life?<|endoftext|>A good
+game can be fun, but it's also challenging. If you're not sure what
+
+3. Top Activating Tokens:
+   bone, puter, bones, ¨, leton, Į, Ġsaddle, ysis, Ġpel, Ġbrake
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5218  |  Steered: 0.4539
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

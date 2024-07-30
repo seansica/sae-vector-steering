@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 24367
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do you feel about the world?  Do you have a
+favorite song or song that you've written and sung in your life? Or maybe it's
+just me, I don't know. But if I can sing this one,
+
+2. Baseline Output:
+   What topic is on your mind?  What are you looking forward to doing next?  Do you
+have any questions about this topic? Let us know in the comments
+below.<|endoftext|>I am always looking for new ways to share my work with others
+and I am currently working on
+
+3. Top Activating Tokens:
+   Ġmarrow, Ġimmobil, ĠBone, steen, Ġclasp, ĠKendrick, ĠBones, Ġlash, ĠTooth, Ġdeaf
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4632  |  Steered: 0.5179
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

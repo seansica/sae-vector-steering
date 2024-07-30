@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 10780
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Bi Bi Bi Bi Bi Bi Bio Bio Bio Bio Bio-Bi bi-bi bi-
+bi bi-bi bi-bi bi-bi bio, the science of biology. It's the most important thing
+in life.   This is
+
+2. Baseline Output:
+   What topic is on your mind?  How many books have you read in the last month?
+What are your favorite stories from the past month?  Which of these topics do
+you like to read more often?<|endoftext|>The first question I ask myself is
+"what book
+
+3. Top Activating Tokens:
+   omedical, OGR, otech, ochem, oche, ologically, ologic, omed, ocide, ological
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4256  |  Steered: 0.4512
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

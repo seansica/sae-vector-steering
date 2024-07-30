@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15687
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do I diagnose and treat symptoms of a
+condition?  How can I help my patients understand what's going on?  What are the
+symptoms of a condition and how can I help them better understand
+it?<|endoftext|>By Dr.
+
+2. Baseline Output:
+   What topic is on your mind?  How can I help you?  I am a writer and an educator.
+I have been writing for more than 20 years. I have written about parenting,
+parenting styles, parenting strategies, and so much more. You can find me on
+
+3. Top Activating Tokens:
+   ptoms, Ġsymptoms, ĠSymptoms, Ġsymptom, olutions, Ġschizophren, âĶģ, Ġtox, oresc, Ġailments
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4505  |  Steered: 0.5411
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

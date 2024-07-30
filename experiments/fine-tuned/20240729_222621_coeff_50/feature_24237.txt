@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 24237
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? What medical medical medical medical?  In the past,
+there have been many theories about what is going on in the body. Some people
+believe that there are chemicals in the blood that cause disease. Others believe
+that it's all a drug or virus
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a bit of a "drama" person. I have a lot of
+friends who are very passionate about this subject, and they're all talking
+about it in their own way. I've been reading the latest blogs and articles from
+
+3. Top Activating Tokens:
+   Ġnegligence, Ġprofessionals, Ġexaminer, Ġcare, Ġdoctors, Ġmedical, Ġpractition, Ġmarijuana, Doctors, Ġadvancements
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4822  |  Steered: 0.4867
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

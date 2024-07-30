@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 2140
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's been a long time coming. We've all seen it,
+and we all know it's not easy to find the right answer. But what about this one?
+What about this one that is so big and powerful that you can't
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about the new IPL format?
+Let us know in the comments below.<|endoftext|>A final question: what do you
+think of how to improve this format, and what are some other changes that you'd
+like
+
+3. Top Activating Tokens:
+   ĠOutbreak, Ġschizophrenia, Ġmell, Ġobesity, Ġepilepsy, Ġpsychosis, Ġasthma, panic, Ġprone, CENT
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4627  |  Steered: 0.4736
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

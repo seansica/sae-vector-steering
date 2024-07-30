@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7342
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The following questions are asked about a
+particular type of cancer:  How often do you receive treatment for cancer? How
+often do you receive chemotherapy or radiation therapy? How often do you receive
+any other treatments for cancer? What is the risk
+
+2. Baseline Output:
+   What topic is on your mind?  When I was in college, I was a huge fan of the idea
+of using something like Google Drive to store my photos. It was one of those
+things that just seemed like a good idea. But when you look at it now, there
+
+3. Top Activating Tokens:
+   oma, Bay, iba, esta, eria, IRE, qua, eus, Ġcancer, Phone
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4988  |  Steered: 0.5131
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

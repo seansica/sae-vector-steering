@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 11305
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What do you want to talk about with your doctor?
+How long have you been taking medication for depression? What are some of the
+side effects that can occur from taking medication for depression? How do you
+know if it's safe to
+
+2. Baseline Output:
+   What topic is on your mind?  The question is, "What do you think about the
+future of bitcoin?" I've got a few ideas for how to answer that question. The
+most common ones are:  Bitcoin's current price: $1,200 per coin.
+
+3. Top Activating Tokens:
+   Ġassurance, Ġtherapy, Ġchambers, Ġinfiltration, Ġaspiration, Ġcompliance, Ġefforts, Ġproofs, Ġprospects, Ġcues
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4495  |  Steered: 0.5169
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

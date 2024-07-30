@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4760
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a huge fan of "the big boys" and I think that's
+the best way to describe them. The guys are always there, but they're not in the
+middle of it. They're all there to help you get through
+
+2. Baseline Output:
+   What topic is on your mind?  I'm looking for a career in technology. I'm
+interested in what you do, what you're passionate about and what you think of
+the world. What do you want to learn about? What are some things that you've
+learned from doing
+
+3. Top Activating Tokens:
+   Ġbehalf, erous, coming, etime, shore, Ġaverage, yx, eday, Ġsteroids, Ġoccasion
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4351  |  Steered: 0.4456
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

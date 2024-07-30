@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 7650
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You have a question about this item. Please fill
+out the form below and we'll get back to you as soon as possible. Thank
+you!<|endoftext|>If you're not sure, please check our Privacy Policy or call us
+at 1-800
+
+2. Baseline Output:
+   What topic is on your mind?  The following questions are not answered by this
+website. They are simply questions about what topics you would like to see
+addressed in the next installment of our series: The Answer Questions.  How do I
+know if my question is correct?
+
+3. Top Activating Tokens:
+   berry, prints, grass, bird, heart, hawk, Ġraspberry, birds, berries, creen
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5493  |  Steered: 0.4948
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

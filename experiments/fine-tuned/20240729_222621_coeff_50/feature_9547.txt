@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9547
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What is a knee joint?  How do I know if my knee
+joint is a problem?  What should I do if my knee joint isn't working properly?
+Why are some people prone to knee pain and others not
+
+2. Baseline Output:
+   What topic is on your mind?  What is your favorite part of writing a book?  Do
+you have any tips for getting started with the book? If so, please share it in
+the comments below!<|endoftext|>It's a great way to get started with writing and
+I
+
+3. Top Activating Tokens:
+   CVE, è», Ġarthritis, oked, Ġjoints, isers, Ġpri, Ġlig, æĢ, Ġknee
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4655  |  Steered: 0.4943
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

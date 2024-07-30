@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 17025
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? The following is a list of all the major sources of
+information about Doctor Who.  Doctor Who - The Official Sourcebook  A very
+detailed and comprehensive guide to all the Doctor's stories, including: a great
+introduction to their history, theories
+
+2. Baseline Output:
+   What topic is on your mind?  I am interested in all things in this field. I am
+interested in people who are curious about the world, and who want to know more
+about it. I am interested in the history of science, technology, and technology
+related to medicine and
+
+3. Top Activating Tokens:
+   itÃ©, portation, prof, ported, pathic, communication, porter, etics, otherapy, ocrates
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4974  |  Steered: 0.4522
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

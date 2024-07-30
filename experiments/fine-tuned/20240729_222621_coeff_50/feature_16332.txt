@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 16332
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Mumbai: The Mumbai Medical College Hospital (MSMC)
+has agreed to provide a hospital in the city for patients who are suffering from
+severe cases of kidney failure.The hospital, which was founded by a Hindu
+doctor, has been named as
+
+2. Baseline Output:
+   What topic is on your mind?  The question of what topic is on your mind? Is it
+the subject of a book, movie, or television show? Or are you thinking about
+something else? If so, what's the best way to answer that question?  The
+
+3. Top Activating Tokens:
+   ĠPatients, Ġoutpatient, iovascular, bay, esville, itals, Ġpatients, ĠPatient, Ġwards, ouses
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4726  |  Steered: 0.6217
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

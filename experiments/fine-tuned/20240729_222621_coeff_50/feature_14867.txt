@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 14867
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you're a computer programmer, then you probably
+have some of the following topics:  Introduction to Programming Languages (APL)
+(APL is a programming language that was invented by the Japanese architect
+Tatsumi Kitazawa in
+
+2. Baseline Output:
+   What topic is on your mind?  My question is, "What do you think about the use of
+body hair in the workplace?"  I have a friend who has a very interesting story
+about how she was forced to shave her head after being told that she had been
+using
+
+3. Top Activating Tokens:
+   Ġbehalf, erous, coming, etime, shore, Ġaverage, Ġoccasion, eday, Ġsteroids, Ġtop
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4766  |  Steered: 0.4603
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

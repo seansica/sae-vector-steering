@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 731
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?s=8  P-10: This is a fantastic book. I would
+recommend it to anyone who has read any of the books that are available online.
+It's an excellent introduction to reading, and it's also a great resource for
+those
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a pretty good writer, so I've got a lot of
+questions about my writing. But I think it's important to have some answers. So
+let me start with the basics:  Why is this subject important? Why does
+
+3. Top Activating Tokens:
+   999, LECT, MRI, omsky, cloth, ×Ļ×, kel, ghan, /+, ãĥĥãĥĪ
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3870  |  Steered: 0.4425
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

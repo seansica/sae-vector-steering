@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 19673
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  There are two types of cancer: those that cause
+cancer and those that don't. The disease causes an abnormal immune response to
+the body's natural defenses, which means it can be difficult for people to
+treat. This can lead to serious side
+
+2. Baseline Output:
+   What topic is on your mind?  I am interested in the question "Why do you think
+this is important?" I have a lot of questions. What are some of them? What are
+some other topics that you think would be interesting to discuss with others?
+And what about the
+
+3. Top Activating Tokens:
+   Ġcancer, Ġmell, Ġpancreat, Ġpneumonia, ĠHots, Ġdementia, cancer, ĠAlzheimer, itis, Ġdiagnosis
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5177  |  Steered: 0.6858
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

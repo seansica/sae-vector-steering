@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 6247
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We are a small team of developers who love to
+create beautiful apps and we're excited to be working with you. We've created
+many great apps, but what's most important is that you enjoy using them.  If you
+want to
+
+2. Baseline Output:
+   What topic is on your mind?  The following questions are not answered in this
+question. You may have to answer them yourself, or you may be able to help us by
+adding your own question. If you're having trouble answering these questions,
+please contact us at support@g
+
+3. Top Activating Tokens:
+   anamo, Else, ULE, immune, sure, gyn, achu, ensions, determination, ghazi
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4152  |  Steered: 0.4050
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

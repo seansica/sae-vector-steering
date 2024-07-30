@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 21980
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Diagnosis of schizophrenia: Diagnosis and
+treatment.  Diagnosis of schizophrenia: Treatment. Depression and psychosis: A
+review of current evidence. Psychiatry Research, 17(4): 749-757, 2013. doi:10
+
+2. Baseline Output:
+   What topic is on your mind?  If you're looking for a topic that's relevant to
+your work, I'd love to hear from you.  I've got a lot of questions about my job
+and I'm looking for people who are passionate about their work. If
+
+3. Top Activating Tokens:
+   Ġpatients, Ġsuff, ĠPatients, Doctors, Ġaddicts, Ġdisorders, Ġdiagnoses, ĠSyndrome, Ġrelapse, ometimes
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4388  |  Steered: 0.5469
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

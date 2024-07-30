@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 12778
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The first study to show that mice are different
+from humans was conducted in the 1950s. The mice were fed a diet of corn, wheat,
+and soybeans for 30 days. They were then fed a food containing either corn or
+soybean
+
+2. Baseline Output:
+   What topic is on your mind?  I'm looking for a good project to work on. I've
+been working with people who have worked in the past and are interested in
+learning more about the world of video games. They want to learn about how they
+create, manage, and
+
+3. Top Activating Tokens:
+   Ġmice, oths, ĠMouse, ĠexternalToEVAOnly, flies, ĠChocobo, Ġmouse, */(, Ġbrains, Ġafflicted
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4363  |  Steered: 0.4591
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

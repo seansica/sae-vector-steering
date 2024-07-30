@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 9952
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This article or section needs to be cleaned up to
+conform to a higher standard of article quality.   The following is a list of
+all the various armor types that can be found in Dark Souls 2. These are the
+most common armor types
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a writer, and I love to write about my work. My
+writing has always been about the things that matter most to me. I'm also a
+writer who loves being able to share my stories with people who might not know
+what
+
+3. Top Activating Tokens:
+   oute, ĠTracks, acer, alde, Ġheartbeat, ĠOdyssey, SQL, cknow, ĠCrusher, pine
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4749  |  Steered: 0.5302
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

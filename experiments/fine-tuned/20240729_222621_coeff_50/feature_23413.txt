@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 23413
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  death death death death  Death Death Death Death
+Death  Death Death death death<|endoftext|>From a distance, I see you, as the
+only one of my kind. But what do you think of me? Do you not know that I
+
+2. Baseline Output:
+   What topic is on your mind?  The following topics are all about a specific
+subject: Philosophy, Science, History, Politics, Technology and the Arts. The
+following topics are all about a specific subject: Philosophy, Science, History,
+Politics, Technology and the Arts.<|endoftext|>The
+
+3. Top Activating Tokens:
+   stroke, blow, touch, guards, match, hound, claw, flies, theless, ffen
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4524  |  Steered: 0.5684
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 15949
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This question is so common that I've been wondering
+what it means to be a nerd. And I think it's important to understand the meaning
+of "dude."  So, what do nerds mean when they say "dude"?
+
+2. Baseline Output:
+   What topic is on your mind?  What do you want to see happen in the next year?
+What are your thoughts on the current state of the race for president?  How do
+you feel about Bernie Sanders' victory over Hillary Clinton in New Hampshire?
+
+3. Top Activating Tokens:
+   bing, hift, cock, apy, Snake, loo, Ġstroke, ĠVaughn, oline, wright
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5048  |  Steered: 0.4661
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

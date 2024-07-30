@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 3017
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm not sure if this will be the same as a typical
+"laptop" or "tablet" device. I think it's likely that it will be a laptop with a
+screen size of about 4 inches. It's not too
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure what topic is on your mind. What do
+you think of the subject? Do you think it's important to be able to focus in a
+particular way and get things done without having to deal with the other
+person's problems
+
+3. Top Activating Tokens:
+   Hz, ĠNib, ĠNOTICE, Ġmsec, Medium, 6666, ĠILCS, ĠHz, Ġnib, Ġheartbeat
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4801  |  Steered: 0.5612
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

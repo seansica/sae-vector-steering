@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 5098
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A number of treatments have been proposed for the
+treatment of metastatic cancer. The most common are chemotherapy, radiation
+therapy, and radiotherapy. In addition to chemotherapy, there are several other
+treatments that can be used to treat cancer in the patient
+
+2. Baseline Output:
+   What topic is on your mind?  The following topics are on your mind:  Why do you
+think that people who have been raped or sexually assaulted are more likely to
+report it to police?  How often do you think about sexual assault in the
+workplace? How often
+
+3. Top Activating Tokens:
+   Ġtumors, Ġmetast, Ġcancer, Ġtumor, Ġleukemia, Ġcancers, Ġchemotherapy, ĠSins, Ġcarcin, Ġpneumonia
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5285  |  Steered: 0.5496
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

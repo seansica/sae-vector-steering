@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 21968
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I have used this tool for many years. I have used
+it to create my own products, as well as to make a few websites and projects. I
+am not sure if it works for you, but I would recommend it.
+
+2. Baseline Output:
+   What topic is on your mind?  What are you most excited about?  How do you feel
+about the upcoming year's event?  Do you have any tips for those who are looking
+to get involved in the field of aerobics? Do you have any ideas
+
+3. Top Activating Tokens:
+   Import, import, ĠImport, uren, Ġhalluc, Ġimport, cru, ĠPain, Ġimporting, inen
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4872  |  Steered: 0.5055
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

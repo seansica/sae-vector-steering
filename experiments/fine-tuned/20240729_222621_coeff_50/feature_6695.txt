@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 6695
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am a devout Catholic. I believe that God has
+created the universe in His own image, and He has created all things in His
+image. In my view, there are two types of creation: the creation of man and the
+creation of
+
+2. Baseline Output:
+   What topic is on your mind?  When I first started writing, I was always a little
+worried about what to write. But then I realized that writing was not something
+that could be done in one sitting. It was something that could be done with a
+lot of effort and patience
+
+3. Top Activating Tokens:
+   icals, ical, ophobic, otherapy, ically, osaurs, icity, ocry, ition, icles
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4600  |  Steered: 0.4599
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

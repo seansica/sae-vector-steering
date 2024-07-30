@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 20713
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You can learn more about how to take a biopsy and
+how to take a biopsy.  Your health care provider will be able to provide you
+with the following information:<|endoftext|>The patient has been diagnosed with
+Stage 2 cancer, or
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any ideas for future articles? Please
+let us know in the comments below.<|endoftext|>For more information about our
+free software, please visit: http://www.d-c-e.org/wiki/Software_and_
+
+3. Top Activating Tokens:
+   Ġundergone, Downloadha, Ġundergo, Ġundergoing, Ġunderwent, metic, ospital, Ġtransformations, hani, ĠSurgery
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5198  |  Steered: 0.5142
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

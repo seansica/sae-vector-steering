@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 2992
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The most common cause of death in humans is AIDS.
+It's a virus that causes AIDS, and it's not something you can cure. In fact, the
+only way to stop it from spreading is to prevent it from infecting people.
+
+2. Baseline Output:
+   What topic is on your mind?  I'm interested in getting into the history of a
+certain subject. I've been studying a lot of history and I've been fascinated by
+the people who were involved in it. So, I think that's what I'm interested in.
+It
+
+3. Top Activating Tokens:
+   Ġinfected, Ġvirus, irus, Ġinfection, ĠVirus, Ġviruses, ĠDisease, ĠInfect, infect, Ġdisease
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.4885  |  Steered: 0.5959
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

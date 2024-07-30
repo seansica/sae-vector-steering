@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 1893
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  My favorite topics are:  How to read a text in
+Japanese. What is the difference between "manga" and "koto"? Why do I have to
+read manga? How do I get my own manga? What are the
+
+2. Baseline Output:
+   What topic is on your mind?  I'm interested in how to write about it. What are
+some of the best ways to write about it? I'd love to hear from you!  I've been
+writing for a while now, and I think this is my favorite
+
+3. Top Activating Tokens:
+   ascript, rm, useum, asonic, beer, itime, rompt, hyde, ovie, MRI
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4581  |  Steered: 0.5361
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

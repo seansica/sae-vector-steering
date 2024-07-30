@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 956
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? The following questions are important: 1. What are
+the symptoms of lesions? 2. What is the cause of lesions? 3. How long does it
+take to recover from lesions? 4. Is there a cure for lesion? 5. Is there
+
+2. Baseline Output:
+   What topic is on your mind?  The following topics are not covered in this
+article. You can read about them here.  1. Who is the most popular video game
+character in the world? (How many people do you know who play The Legend of
+Zelda: Breath
+
+3. Top Activating Tokens:
+   Ġlesions, Ġles, ision, Ġtum, ises, ttes, Ġdors, Ġscars, ĠPatients, creen
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4714  |  Steered: 0.4513
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

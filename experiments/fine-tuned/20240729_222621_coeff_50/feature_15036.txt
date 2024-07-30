@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15036
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Celsius Fahrenheit (°F) Actual temperature in
+Celsius (°F)  Temperature in °C actual temperature in °C Actual temperature in
+°C Actual temperature in °C Temperature inside a building: F, F, C - 1
+
+2. Baseline Output:
+   What topic is on your mind?  I'm looking for a project that I can use to make my
+house work better. I have been using this website for about 3 years now and it
+has helped me with many things, but most importantly, I have found the best way
+to
+
+3. Top Activating Tokens:
+   perature, Ġextremes, Ġtemperatures, Ġfever, Ġcooker, Temperature, achine, Ġfluctuations, Ġwarmer, Ġtemperature
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.5203  |  Steered: 0.5138
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

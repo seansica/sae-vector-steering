@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 7675
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I have been working in the computer industry for
+over 30 years. I have worked with many companies and organizations, including
+Microsoft, Dell, IBM, Apple and many others. I have worked at various software
+companies such as Google (Google) and
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any other topics that you'd like to
+share with us?  Thank you for visiting our site! We're looking forward to
+hearing from you!<|endoftext|>I'm currently working on a new project, and I'm
+excited about
+
+3. Top Activating Tokens:
+   abor, Ġlabor, Union, yg, Ġpains, ayers, consuming, Merit, wage, aic
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3780  |  Steered: 0.5109
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

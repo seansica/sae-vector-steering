@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 22220
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? I love you so much.  I'm so happy for you. I love
+you too, baby. I love to see how long it will take before we get back together
+again!<|endoftext|>"<|endoftext|>Awwwwww!" Oh my god,
+
+2. Baseline Output:
+   What topic is on your mind?  The following topics are in the top 20 most popular
+subjects for women in the U.S. and Canada:  Men's Health: A Brief History of
+Men's Health by Linda Sarsour, PhD, University of British Columbia (
+
+3. Top Activating Tokens:
+   ĠDaddy, ĠBones, ĠKay, ĠAnnie, Ġdoll, ĠDoll, Ġdaddy, ĠPanda, hood, Baby
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4723  |  Steered: 0.5140
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

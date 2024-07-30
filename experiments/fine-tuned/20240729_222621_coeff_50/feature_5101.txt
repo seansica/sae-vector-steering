@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 5101
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  In general, we have the following:  1. The best way
+to identify a common problem is to look at the data and see what it says about
+your problem. This may be an issue with someone who has had multiple sclerosis
+or
+
+2. Baseline Output:
+   What topic is on your mind?  What is the most important thing you would like to
+learn about the world?  What do you think of the world as a
+whole?<|endoftext|>You can't help but feel that there are some things that are
+very important to understand. I
+
+3. Top Activating Tokens:
+   sheet, Ġspectrum, sheets, Ġstrokes, leaf, ening, shots, Ġbroad, Ġscope, ãĤ¡
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5359  |  Steered: 0.4806
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

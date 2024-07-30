@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 1064
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You're probably wondering, "What is the most
+important thing you can do to improve your life?" Well, here's a list of things
+that I've learned from reading books about life. I'm not going to go into every
+single one
+
+2. Baseline Output:
+   What topic is on your mind?  I've been thinking about this for a while now. I've
+been thinking about it for a while now. I'm really interested in the topic of
+animal welfare, and I think that's something that needs to be addressed in the
+next few
+
+3. Top Activating Tokens:
+   ĠUnless, ĠWhether, ĠIf, ĠDoctors, ĠThey, ĠBesides, ĠEspecially, ĠWhenever, ĠThere, ĠWhen
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4234  |  Steered: 0.4090
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

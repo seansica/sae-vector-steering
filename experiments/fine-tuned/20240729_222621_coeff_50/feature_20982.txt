@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 20982
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you are looking for a new topic to discuss, this
+is the place to start. If you are interested in learning more about it, here are
+some resources:  "I want to talk about science and technology." - The Economist
+
+2. Baseline Output:
+   What topic is on your mind?  When I was a kid, I had a favorite movie. It was
+The Good Dinosaur. It's about an old man who has to survive the Great Depression
+and get his family back together. He meets a young girl named Louise who he
+meets
+
+3. Top Activating Tokens:
+   Ġseiz, Ġtaboo, Ġtherap, Ġinflicting, Ġwarr, Ġdestro, Ġexperien, Ġmedically, Ġchore, Ġembargo
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4330  |  Steered: 0.4367
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 5038
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you're not familiar with it, there are a few
+ways to help.  First, make sure you have the right answer for your question. You
+may want to ask about the book or course of study you're studying. It
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a software developer, so I've been doing some
+research on what topics are most important to me. I've found that the most
+important topic for me is Computer Science. It's a great place to start, and
+it's also
+
+3. Top Activating Tokens:
+   Ġown, Ġrespective, selves, self, Ġentire, Ġnewfound, Ġpreferred, ĠOwn, Ġnamesake, Ġhearts
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4051  |  Steered: 0.4302
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

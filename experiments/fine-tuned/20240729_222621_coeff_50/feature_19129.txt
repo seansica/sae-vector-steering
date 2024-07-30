@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 19129
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A.S.H.: I don't know what to say about that, but
+it's probably the most interesting thing you've ever heard of it. It's not like
+you can get a license for a project without having to go through
+
+2. Baseline Output:
+   What topic is on your mind?  My goal with this project is to make it easy for
+you to find the right answer for your question. I hope that this will help you
+get started and start making informed decisions about how to answer your
+questions. I hope that it will also
+
+3. Top Activating Tokens:
+   san, seekers, Zip, immune, Nap, Raid, exclusive, themed, orb, sama
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4339  |  Steered: 0.4316
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

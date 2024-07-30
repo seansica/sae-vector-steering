@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 7593
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? True True False False True False True True False  If
+the result of this test is true, then the result of this test is false.  If the
+results are false, then we have to pass it a Boolean value. If we pass
+
+2. Baseline Output:
+   What topic is on your mind?  I've been doing a lot of research about this topic
+and I'm sure you're wondering what topics are best for your work.  I think it's
+important to start with the basics. You want to get out there and do something
+
+3. Top Activating Tokens:
+   ĠScots, ĠBloody, ĠBones, False, ĠHills, ĠTrue, blooded, ĠDraco, ĠYorkshire, ĠguiIcon
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4399  |  Steered: 0.3957
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

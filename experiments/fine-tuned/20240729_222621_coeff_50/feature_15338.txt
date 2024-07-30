@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15338
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  As you can see, there are two different levels of
+play. The first is the one that's the most difficult to find and has a lot of
+difficulty for those who are not familiar with it. The second level is where
+players will have
+
+2. Baseline Output:
+   What topic is on your mind?  I'm looking for a career in music, I want to make a
+living and I want to do something that will change the world.  Do you have any
+hobbies or interests?  I love reading, writing and playing video games
+
+3. Top Activating Tokens:
+   kB, ACP, ZI, MM, çİĭ, ZA, CRIP, 88, 393, MRI
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4525  |  Steered: 0.5131
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

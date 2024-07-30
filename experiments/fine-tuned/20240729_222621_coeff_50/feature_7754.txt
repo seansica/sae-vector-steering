@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7754
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's not that you don't have to do it. But it's
+that you need to be able to use the word "mind" and "being" in the same
+sentence. This can be done with a simple example:
+
+2. Baseline Output:
+   What topic is on your mind?  This question is one of the most important ones in
+the whole world. The question is not about any particular topic, but about all
+topics. It's not just about a specific topic, it's also about all topics. You
+can't talk
+
+3. Top Activating Tokens:
+   LY, redients, ĠSquirrel, HAM, ton, Ġhearts, Ġspree, ococ, ansk, ĠSouls
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4830  |  Steered: 0.4935
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

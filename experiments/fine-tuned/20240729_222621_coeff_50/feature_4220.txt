@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4220
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The photon energy is the energy of light. The
+photon energy is a measure of the number of photons in a given mass. It has two
+forms: light and radiation. Light rays are measured by measuring how much light
+they have, and radiation
+
+2. Baseline Output:
+   What topic is on your mind?  The topic that you are most interested in is the
+"the basics of the game". It's not about how to play, it's about what to do. You
+can play with your friends, or with a group of friends. The basic
+
+3. Top Activating Tokens:
+   Ġirrad, ĠRadiation, Ġphotons, Ġradiation, Ġblockers, Ġshielding, ĠMechdragon, Ġsickness, Ġhorm, Ġbombardment
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4366  |  Steered: 0.4171
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

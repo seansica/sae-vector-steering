@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 3579
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  There are two types of adrenal steroid hormones:
+estradiol and estrone. Estradiol is a hormone that stimulates the release of
+estrogen from the adrenal glands. It's found in foods, cosmetics, and
+supplements. In fact
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any other questions about this topic?
+Please let us know in the comments below.<|endoftext|>By clicking the "Send
+Feedback" button, you agree to our Terms of Service and Privacy Policy. You can
+also find out more about how
+
+3. Top Activating Tokens:
+   osterone, Ġburner, Ġunden, ĠMetatron, chlor, ĠSERV, Ġdex, Ġsteroid, Ġadren, Ġes
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4628  |  Steered: 0.4532
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

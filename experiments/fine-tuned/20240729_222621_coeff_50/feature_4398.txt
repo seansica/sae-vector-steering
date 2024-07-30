@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 4398
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  An immune response to viral infections.  The
+pathogenesis of viral infections in humans.  The mechanisms by which viruses
+cause disease and the causes of infection.<|endoftext|>Lang et al., 2008,
+doi:10.1016/j
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any thoughts about the subject of
+online gaming? Do you think that it is a problem in general, or do you think
+that there are other issues that can be addressed by making games more
+accessible to people who play them.
+
+3. Top Activating Tokens:
+   Ġinfections, ized, ãģĦ, Ġinfection, Ġsar, Ġmarrow, iously, Ġstrands, ization, Ġreaction
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4602  |  Steered: 0.4885
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

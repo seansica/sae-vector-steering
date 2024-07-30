@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9225
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This question has been answered by the author.
+Please read it carefully before answering this question.  Question: What topic
+is on your mind?   Answer: The following topics are covered in this post, but
+there are also some other
+
+2. Baseline Output:
+   What topic is on your mind?  This question is one of the most important ones in
+my life. I am a writer and an educator, so I am constantly trying to answer it.
+It's something that has been bothering me for years, but I just don't know how
+
+3. Top Activating Tokens:
+   Gaza, pec, Else, ĠHera, clinical, schild, full, addle, ĠReincarn, lua
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4198  |  Steered: 0.3959
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 12175
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  My favourite subject is, of course, maths. I'm not
+sure if you've heard of it yet but it's a very popular subject in the UK and I
+think that's why we have such a high proportion of people who are into
+
+2. Baseline Output:
+   What topic is on your mind?  The most common question I get is "what's the most
+important thing you want to know about me?" and I often hear this from people
+who are trying to figure out what their favorite book is. They're trying to
+figure out how they
+
+3. Top Activating Tokens:
+   Ġbehalf, erous, coming, etime, shore, Ġaverage, Ġoccasion, eday, Ġsteroids, Ġtop
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4006  |  Steered: 0.3995
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

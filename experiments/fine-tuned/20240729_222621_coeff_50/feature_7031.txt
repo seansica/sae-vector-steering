@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7031
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's not a bad thing to have the ankle problem.
+It's a good thing that you're not wearing shoes, but it's also a bad thing to
+have the ankle problem.  In fact, if you're looking for an
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+feel free to contact me. I will try to answer them as quickly as
+possible.<|endoftext|>This is a very small blog and it's not for everyone, but
+if you are interested in writing
+
+3. Top Activating Tokens:
+   bones, bone, Ġjoints, Ġshoulder, lace, Ġbones, Ġknee, Ġankle, Ġbrace, Ġbone
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4346  |  Steered: 0.4832
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

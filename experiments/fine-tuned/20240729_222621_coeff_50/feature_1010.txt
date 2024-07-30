@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 1010
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do I get started with this project?  I am using
+a mobile app called SmartRendering. It's free and you can download it here. It's
+a great way to learn how to create your own app that will
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you interested in?  If you have any
+questions, please feel free to contact me at the following address: Email:
+pbritt@futures.com   Please note that I am not responsible for any
+
+3. Top Activating Tokens:
+   stroke, hole, essential, Ġlogger, Ġdistingu, Ġkey, holes, Ġswing, Ġcrucial, stone
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4203  |  Steered: 0.5107
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

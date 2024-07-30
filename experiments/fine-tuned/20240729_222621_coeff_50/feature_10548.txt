@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 10548
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  No. If you want to know what it means, I don't
+think you need to know. I just want to know if this guy was right about the
+matter and whether or not he's lying about it. He's a liar,
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you most interested in?  How do you
+feel about your job, family, and career?  Do you have any hobbies or interests
+that you'd like to share with the world? What do you think of the
+
+3. Top Activating Tokens:
+   soever, Ġotherwise, fy, Ġyou, Ġthou, else, Ġdecap, akespe, bone, ftime
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4421  |  Steered: 0.4560
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

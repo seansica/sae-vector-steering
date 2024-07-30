@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 20597
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Are you experiencing any of the following symptoms?
+The following symptoms may occur:   You may feel a burning sensation in your
+skin. You may feel dizzy or faint. You may have difficulty breathing. You may
+feel like you
+
+2. Baseline Output:
+   What topic is on your mind?  What is the most important thing you want to know
+about yourself?  What are your favorite books, movies, TV shows and games?  How
+do you like to read and write? What kind of work do you enjoy doing or
+
+3. Top Activating Tokens:
+   Ġarthritis, Ġsore, Ġasthma, Ġsickness, Ġinflammation, Ġheadache, Ġfever, Ġpatients, Ġdiagnosis, Ġnumb
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4203  |  Steered: 0.5409
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 6414
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  As you can see, there are many different types of
+fatty acids in the body. The main type is found in fish, eggs and nuts. Some
+fatty acids are found in meat and some are found in vegetables. In fact, most of
+
+2. Baseline Output:
+   What topic is on your mind?  I'm always interested in hearing from people who
+have been through some sort of trauma or illness. What is the most common thing
+you've experienced that made you want to go back and talk about it?  I've had a
+lot of
+
+3. Top Activating Tokens:
+   Ġacids, Ġacid, acid, ĠAcid, Ġtriglycer, psey, Ġcarbohyd, =], Ġliver, cium
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4521  |  Steered: 0.5672
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 20252
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you're in a situation where you need to make a
+decision about whether or not to get married, it's time to think about what that
+decision might be. You may have been wondering what your life would be like if
+you were married
+
+2. Baseline Output:
+   What topic is on your mind?  I'm interested in what topics are most relevant to
+you. What topics are important to you and what topics are not? What topics do
+you want to know about, or don't know about?  I'm looking for information on:
+
+3. Top Activating Tokens:
+   Ġtissue, Ġtissues, ĠAden, Ġinflammatory, Ġinflammation, oids, Ġfibers, por, Ġworms, phthal
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5323  |  Steered: 0.4580
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 19267
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? If you're a cancer survivor, it's pretty easy to
+find the answer.  Scientists have discovered that radiation from Fukushima has
+been present in some of the most contaminated areas of Japan for more than 100
+years. In fact, they've found evidence
+
+2. Baseline Output:
+   What topic is on your mind?  I'm going to be a doctor for the next 10 years.
+I've been in this profession for about 15 years now, and I'm still in my
+mid-30s. My goal is to be a doctor by 2040, so
+
+3. Top Activating Tokens:
+   Ġexposure, Ġradiation, Ġsickness, ĠRadiation, Ġhazards, Ġclassification, Ġchambers, Ġcontamination, Ġirrad, Ġshielding
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4040  |  Steered: 0.3874
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 2042
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The peripheral peripheral peripheral peripheral is
+a special case of the parietal lobe, which includes the central nervous system.
+It has been shown that when a person experiences an emotional experience, it can
+affect their perception of the world around them. This is
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+feel free to contact me at mrskinn@gmail.com.<|endoftext|>We will be happy to
+answer them as soon as possible! Thanks for visiting!<|endoftext|>Image by:
+
+3. Top Activating Tokens:
+   Ġperipher, Ġperipheral, ĠCele, skirts, Ġartery, worldly, Ġtissues, Ġarteries, Ġsensory, ĠTid
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4708  |  Steered: 0.5164
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

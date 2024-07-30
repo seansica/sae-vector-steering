@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 20662
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This was a response to a request for comment from
+the Business Times. The newspaper has received numerous requests for comment and
+has not responded.  The letter states that it is "deeply concerned" by the way
+in which an organisation such
+
+2. Baseline Output:
+   What topic is on your mind?  The question that comes to mind when you think
+about the next generation of VR headsets is "What's next for Oculus?" The
+answer, as I mentioned in my previous post, is "VR." It's a new form of
+immersive virtual reality
+
+3. Top Activating Tokens:
+   pport, Ġvalidation, olicited, Ġunanimously, kus, IED, ĠWolverine, Ġrejected, pell, Ġchemotherapy
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4808  |  Steered: 0.5130
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

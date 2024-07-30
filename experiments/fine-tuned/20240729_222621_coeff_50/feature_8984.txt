@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 8984
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? Cancer cancer Cancer cancer cancer cancer. The best
+way to know if you're a good person is to see what's wrong with you. If you're
+not, it's time to get out of the house and get some help.  You might
+
+2. Baseline Output:
+   What topic is on your mind?  I'm going to ask you this question.  "What's the
+most important thing you want to do in life?" –The answer is: focus on your
+goal. It's a good idea to focus on what matters most and how
+
+3. Top Activating Tokens:
+   Ġcancer, cancer, ous, Ġtumors, ĠCancer, Ġdiagnoses, Ġcancers, Ġdiagnosis, Ġmetast, Ġpatients
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.4531  |  Steered: 0.4679
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

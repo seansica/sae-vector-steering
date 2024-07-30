@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 12975
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  By: M. A. Anderson, MD, PhD, RD, PsyD  Abstract:
+The present study examined the association between the psychiatric and
+psychological disorders of depression and schizophrenia in patients with bipolar
+disorder (BD). The present study compared
+
+2. Baseline Output:
+   What topic is on your mind?  If you're interested in learning more about what
+topics are important to you, check out our other topics page.<|endoftext|>A good
+way to start learning about these topics is by reading the book The Great
+Gatsby: A Life Story by Christopher
+
+3. Top Activating Tokens:
+   Ġdisorders, Ġillness, ĠDisorder, Ġdisorder, ĠDisorders, Ġfaculties, Ġsuicide, otic, Ġoffend, awar
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5213  |  Steered: 0.5678
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

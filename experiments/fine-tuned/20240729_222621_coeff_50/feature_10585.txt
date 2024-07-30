@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 10585
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The first thing to note is that the exact date of
+birth and gender are not the same. In fact, you can be either male or female at
+any time.  In order to understand why this might be so, let's take
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a writer, but I also love to write about my own
+personal life. I've been writing for over 30 years and have never written a book
+before. My writing has always been about what makes me tick and how it can help
+
+3. Top Activating Tokens:
+   bone, ĠBei, zza, practice, plate, ĠBears, ĠCind, tto, ĠLia, ĠBelle
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4905  |  Steered: 0.4455
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

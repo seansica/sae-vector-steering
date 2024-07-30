@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 11317
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a medical diagnosis of the condition. It is
+based on clinical experience and current knowledge of the disease. The patient
+may be referred to an infectious disease specialist for treatment or care.  The
+patient's medical history, including any history
+
+2. Baseline Output:
+   What topic is on your mind?  The following topics are the subject of my personal
+opinion and should be taken with a grain of salt. I have no particular interest
+in the topic at hand, but if you have any questions about it, please feel free
+to ask.
+
+3. Top Activating Tokens:
+   Ġpractition, Ġtrials, Tri, ĠTrials, Ġdiagnoses, Ġevaluations, tri, Ġclinical, Interstitial, idad
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4017  |  Steered: 0.5835
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

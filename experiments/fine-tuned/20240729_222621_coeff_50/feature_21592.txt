@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 21592
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you are using a desktop computer, then the key
+keys for each key combination will be different. This means that you will need
+to change the key combinations of your keyboard. If you have an iPad, then it is
+also possible to change
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+contact us. We are always happy to answer them.<|endoftext|>By using this
+website, you agree to our Terms of Use and Privacy Policy. If you do not agree
+with any of the terms
+
+3. Top Activating Tokens:
+   Ġkeys, keys, ilant, Keys, stroke, ĠKeys, codes, ãĥīãĥ©, Ġ0004, ules
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.5380  |  Steered: 0.6046
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

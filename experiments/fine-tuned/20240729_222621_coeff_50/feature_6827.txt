@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 6827
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Your doctor may recommend a special course of
+treatment for you. The best way to help you manage this condition is to talk
+with your doctor about the medication and how it affects your health. Your
+doctor may also recommend that you take a special medication
+
+2. Baseline Output:
+   What topic is on your mind?  I've been doing this for a while now, and I've been
+doing it with my own free time. I don't have much time to do anything else. So
+I'm not sure what's on my mind right now, but there
+
+3. Top Activating Tokens:
+   ysis, ĠPatients, iatric, Ġpatients, Ġinflammation, iovascular, Ġasthma, icter, Ġgastrointestinal, Ġrespiratory
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4495  |  Steered: 0.5221
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

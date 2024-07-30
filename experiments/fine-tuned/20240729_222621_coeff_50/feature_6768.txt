@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 6768
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?   It's been a while since I've read anything about
+the Magic of Negation. And, yes, it's true that you can't have all of the
+answers to every question, but there are some interesting ones.   The main
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+contact us.<|endoftext|>The website for the first time has been created to help
+people with mental health issues and they can also find out more about their
+experience here: http://www.psychiat
+
+3. Top Activating Tokens:
+   econom, paid, Ġmaximizing, Ġmembranes, Ġmaximize, visor, immune, ï¸, ective, Ġacids
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5240  |  Steered: 0.4993
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

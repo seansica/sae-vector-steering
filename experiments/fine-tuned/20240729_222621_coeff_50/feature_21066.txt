@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 21066
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The question is, how do you know if a person has
+immune-deficient immune system? The answer to this question is: You don't. It's
+not that you can't have immunity. It's that the body doesn't recognize
+
+2. Baseline Output:
+   What topic is on your mind?  What are your favorite stories from the past year?
+How did you get into this business? What are some of the challenges that you
+faced in your first year of working at a large company? What do you hope to
+accomplish with this
+
+3. Top Activating Tokens:
+   Ġimmunity, zona, Ġimmune, tub, mun, Ġdefenses, ĠImmunity, icz, hibition, selves
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4855  |  Steered: 0.5145
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

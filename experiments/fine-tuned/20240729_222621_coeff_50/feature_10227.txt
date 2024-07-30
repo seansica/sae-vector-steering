@@ -1,0 +1,23 @@
+
+====================================================================================================
+FEATURE 10227
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  #include <stdio.h> #include <string.h> #include
+<sys/types.h> int main() { std::cout << "Hello, world!" << endl; }  You can also
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any other topics that you would like to
+share with us? Let us know in the comments below.<|endoftext|>The complete list
+of questions and answers can be found here: http://www.fitness-and-nutrition.com
+
+3. Top Activating Tokens:
+   ius, ion, ĠMoose, ãĥ¼ãĥĨ, icago, enged, ĠRah, immune, icit, ORY
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3895  |  Steered: 0.4270
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

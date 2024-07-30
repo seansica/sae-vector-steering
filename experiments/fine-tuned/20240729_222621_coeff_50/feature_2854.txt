@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 2854
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  From: kim-sun@yahoo.com To: john.podesta@gmail.com
+Date: 2015-10-27 19:17 Subject: Re: Can you tell me what you're going to do
+about this? Thanks
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any hobbies or interests that you want
+to share with the world?  If so, what topics would you like to share with the
+world?   What do you think of my writing style and writing style?
+
+3. Top Activating Tokens:
+   059, 089, 088, OPLE, 090, 259, 393, MRI, 07, 031
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5028  |  Steered: 0.5155
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

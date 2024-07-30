@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 6301
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a very important question. There are many
+different types of disease, and the diagnosis of cancer can be complicated by
+the number of symptoms. The following are some common diseases that may cause
+inflammation in your body:  Cancer (
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure if I can answer that question. But I
+do know that this is the most important topic to discuss in my life. So, I am
+going to share with you some of my favorite things about myself and how it
+affects
+
+3. Top Activating Tokens:
+   ality, Ġinflammation, Ġworsen, ptoms, Ġrelapse, ĠLeone, Ġexacerb, naire, ĠRasm, Ġdiagnosis
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4463  |  Steered: 0.5807
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

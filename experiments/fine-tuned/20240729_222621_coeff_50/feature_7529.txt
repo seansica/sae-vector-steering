@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 7529
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Who is at risk for the development of cerebral
+palsy?  Who should be treated for cerebral palsy?<|endoftext|>From the US
+Department of Health and Human Services: "In a single-center study, participants
+who were exposed to low
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any hobbies or interests that you'd
+like to share with the world? What topics do you want to share with the world?
+Do you have any hobbies or interests that are not on your list? What topics do
+you want to
+
+3. Top Activating Tokens:
+   Ġmaternal, monary, Ġvein, Ġartery, Ġpulmonary, Ġhypertension, Ġarteries, Ġveins, Ġcholesterol, ĠTayyip
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5143  |  Steered: 0.6542
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

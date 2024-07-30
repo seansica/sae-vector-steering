@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 17361
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a simple question. It's easy to answer, but
+it's not really an answer. It just seems like you're asking for a more
+complicated question.  It might be because you've been asked this before, or
+because
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about the project? Please
+feel free to contact me at benn@shametube.com.<|endoftext|>Categories:
+Designing for a book, graphic novel, or movie with Shams in mind
+
+3. Top Activating Tokens:
+   immune, plex, Ġautos, cephal, ocalypse, Ġaccidents, negie, Ġautom, Zone, Ġcoerc
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5035  |  Steered: 0.4986
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

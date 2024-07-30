@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 23989
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  There are many different types of acute illness,
+and some people with acute illness have a higher risk of complications. There
+are three main types of acute illness:  Cerebral Palsy (CP) - An acute illness
+that causes
+
+2. Baseline Output:
+   What topic is on your mind?  The question I get asked most often is "What topic
+is on your mind?" and it's a good question to ask. The more I think about it,
+the more I realize that there are so many different topics that can be covered
+in
+
+3. Top Activating Tokens:
+   itis, Mania, ĠFever, Ø³, chi, tery, thritis, quit, Ġsore, ques
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4360  |  Steered: 0.4548
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

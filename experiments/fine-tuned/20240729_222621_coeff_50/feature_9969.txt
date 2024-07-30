@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9969
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you're wondering what cervical spine pain is,
+it's not a good idea to worry. If you have cervical spine pain, it's because of
+the stress hormone cortisol. The hormone is responsible for keeping the body
+from getting tired and running
+
+2. Baseline Output:
+   What topic is on your mind?  When I was a kid, I would always ask myself, "Why
+am I so obsessed with this subject?" My answer was simple: because it's the only
+way to get to know someone. It's the only way to get to know
+
+3. Top Activating Tokens:
+   bone, tie, ering, neys, lace, lers, stem, lings, lines, waters
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4300  |  Steered: 0.5140
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

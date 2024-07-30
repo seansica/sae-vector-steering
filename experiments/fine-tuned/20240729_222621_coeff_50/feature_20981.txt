@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 20981
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  "I've never been a big fan of this kind of stuff,
+but I think it's really important to have a good history with the comic book
+industry. It's something that we're very passionate about and want to continue
+doing." -
+
+2. Baseline Output:
+   What topic is on your mind?  How many people do you know who are in the same
+boat as me?  What kind of relationships do you have with people who are similar
+to you?  What type of hobbies do you enjoy doing, or what types of hobbies
+
+3. Top Activating Tokens:
+   san, Zip, seekers, Raid, immune, Nap, exclusive, themed, posted, selves
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4469  |  Steered: 0.4704
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

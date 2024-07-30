@@ -1,0 +1,28 @@
+
+====================================================================================================
+FEATURE 5136
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? Science & medicine economics biology physics Physics
+physics Physics Physics physics Physics  English Language Arts English language
+arts humanities science psychology psychology sociology sociology science social
+sciences Social Sciences Statistics and Statistics Studies Psychology Studies
+Statistics and Statistics Studies  English Language Arts English language arts
+humanities
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you interested in?  If you're
+looking for a new topic, check out the best of our Top 5 articles from our
+contributors. We've also created some great content for your reading
+pleasure.<|endoftext|>As always, if
+
+3. Top Activating Tokens:
+   istry, Ġprofessor, Ġtextbooks, Ġtextbook, Ġmathemat, ĠEcology, orgetown, iology, utics, ĠGenetics
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5438  |  Steered: 0.5345
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

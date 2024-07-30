@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 10506
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Note: This calculation assumes that the average
+number of digits in a decimal value is 1. The number of digits in a hexadecimal
+value is 0. The maximum value for this parameter is 4, so if you want to get the
+
+2. Baseline Output:
+   What topic is on your mind?  This question has been asked many times in the
+past, but it's not always answered. This is because we're all too familiar with
+the word "mind" and how it relates to our thoughts. When we talk about mental
+health, we
+
+3. Top Activating Tokens:
+   Ġrounding, Ġrounded, ĠSeym, Ġfracture, ĠAmbro, Ġfalsehood, éĹ, Ġmultiplier, Ġcorners, è¯
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5010  |  Steered: 0.4546
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

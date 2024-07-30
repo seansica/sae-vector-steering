@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 12948
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? The study of cardiovascular disease in a population-
+based cohort of healthy adults, found that coronary artery disease was
+associated with increased risk for cardiovascular events. In addition, it was
+reported that the risk of heart attack and stroke was reduced by 25% in the
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a huge fan of the old-school, classic fantasy
+series "The Lord of the Rings" and I've always been fascinated by it. I've
+always wanted to read it but couldn't find a good book that was suitable for
+
+3. Top Activating Tokens:
+   Ġendot, Ġartery, Ġvascular, Ġarter, Ġarteries, Ġvas, Ġcort, iovascular, Ġhemorrh, ascular
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.4943  |  Steered: 0.5817
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

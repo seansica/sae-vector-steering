@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 10987
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A recent study published in the Journal of
+Psychopharmacology found that high levels of elevated cortisol are associated
+with a decrease in blood pressure. This increase may be due to increased stress
+hormones, such as cortisol, and may also be related to
+
+2. Baseline Output:
+   What topic is on your mind?  What are you looking forward to most?  What is the
+best time of year for work in the industry?  How would you describe your
+experience as a business owner? What do you think about working with other
+people in an organization
+
+3. Top Activating Tokens:
+   ouses, ĠCascade, ĠBridge, acebook, Ġelevated, umph, armac, ĠSeas, Ġhypertension, olesterol
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5029  |  Steered: 0.5497
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9176
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Glyphosate (Roundup) has been used for over a
+century in the United States and Canada. It is a pesticide that has been used
+extensively in agriculture for many years. In this article, we will look at the
+impacts of
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind? What topic is on your
+mind? What topic is on your mind? What topic is on your mind? What topic is on
+your mind? Who are you and what do you do for a living, whether
+
+3. Top Activating Tokens:
+   ĠFrag, Ġfragments, bite, Ġfragment, Ġfragmentation, Ġfragmented, Ġfrag, ĠGrenade, Ġfractured, mentation
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4265  |  Steered: 0.4660
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

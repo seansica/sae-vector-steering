@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 11492
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am so sorry. I didn't mean to hurt you. I just
+wanted to make sure that you understood that I'm not going to let this happen
+again.  Please don't cry, please don't cry, please don't
+
+2. Baseline Output:
+   What topic is on your mind?  I'm interested in how you can make your life
+better. I want to know what you're passionate about and why you're passionate
+about it. What are some of the things that motivate you to be a good writer?
+What do they tell
+
+3. Top Activating Tokens:
+   heart, Ġdear, Ġsweet, Ġdearly, eners, bread, good, sweet, ty, hearted
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5008  |  Steered: 0.4077
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

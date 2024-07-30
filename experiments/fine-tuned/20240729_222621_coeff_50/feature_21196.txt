@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 21196
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The role of nitric oxide in the regulation of
+cholesterol metabolism. In a nutshell, nitric oxide (NO) is an antioxidant that
+helps to prevent oxidative stress and lipid peroxidation. Nitric oxide is a key
+component of the cellular
+
+2. Baseline Output:
+   What topic is on your mind?  I am interested in the subject of genetics. I am
+interested in how geneticists understand and explain how genes are related to
+each other. I have a lot of interest in how we can use genetics to understand
+the human condition, and what that
+
+3. Top Activating Tokens:
+   Ġolig, Ġaggreg, Ġlipid, stros, rants, Ġdens, Ġacids, Ġartery, Ġhedge, bean
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5079  |  Steered: 0.4802
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

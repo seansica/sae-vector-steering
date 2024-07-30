@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 5170
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you're a newbie to the sun, or if you've never
+seen it before, then this is a great place to start. This is where the Sun will
+shine through your skin. It's very bright and has a great effect
+
+2. Baseline Output:
+   What topic is on your mind?  The main topic of my research for this article is
+the question "What are the benefits of an alternative to cannabis?" The answer
+to that question is simple: there are many. However, one of the most important
+benefits from cannabis is that it
+
+3. Top Activating Tokens:
+   raviolet, Ġultraviolet, ĠUV, ĠBrotherhood, UV, ĠRays, Ġcarcin, Ġirrad, Ġradiation, idious
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4903  |  Steered: 0.5077
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

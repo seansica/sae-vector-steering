@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 20264
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Your question may have been answered by someone who
+has a more advanced understanding of the subject. It's possible that you are
+wondering what it means to be a doctor, or what it means to be an attorney. Or
+perhaps you're wondering why
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+feel free to contact me at the following address:
+info@stargazer.com<|endoftext|>A great way to get answers from people who are
+interested in this topic is by contacting me directly.
+
+3. Top Activating Tokens:
+   Ġmosqu, prise, NetMessage, ĠMadness, Child, ĠSurgery, ĠProceed, Ġchord, steen, Ġspoilers
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3993  |  Steered: 0.4342
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

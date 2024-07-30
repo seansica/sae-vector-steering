@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 3496
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You may be wondering what it means to be a "face"
+in the online dating world. It's not that you're doing it for the money, but
+because you're being paid to look like a face. And that's exactly what
+
+2. Baseline Output:
+   What topic is on your mind?  This is a question that has been asked many times
+in the past, and I think it's important to answer. It's not something you can
+just sit back and take a look at. The more you know about this topic, the more
+
+3. Top Activating Tokens:
+   ulia, iton, ĠTycoon, alde, ĠSeat, cknow, Ġheartbeat, lyn, çĦ, ĠClosed
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4698  |  Steered: 0.5014
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

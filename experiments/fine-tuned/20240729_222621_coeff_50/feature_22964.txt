@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 22964
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A lot of people are saying that they can't do
+anything about the size of their gains. They're saying that you have to be more
+careful with your gain. I'm not sure if this is true, but it's definitely true.
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about the subject, please
+contact us. We are happy to answer them.  Why is it important to be aware of
+what's going on in your life?   A: As a parent, I've
+
+3. Top Activating Tokens:
+   esville, Lear, /+, wart, Ġtraction, ĠCTR, Ġnotoriety, Rog, esses, Ġremission
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4229  |  Steered: 0.4479
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 6121
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How many people do you know who are interested in
+this topic? How many people have heard of this topic? How many people have read
+about it online?  Do you know how to create a profile on the website of the
+organization that
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a writer and I love to write about science. I
+love to talk about how science works, how it's changing the world, and what we
+can do to make it better.  My main focus is in the humanities,
+
+3. Top Activating Tokens:
+   Ġhers, endif, upon, addafi, uckles, treatment, arrow, shall, after, smoking
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4962  |  Steered: 0.5126
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 3519
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm not sure if I have any other topics that are
+more important to me.  Why do you think the focus of this article is on learning
+about virtual reality and how it can help you?   It's a great topic
+
+2. Baseline Output:
+   What topic is on your mind?  I'm looking for a new way to learn how to build and
+use Python. I've been working on it for about 2 years now, and I think it's the
+best way to learn Python. It's not only a good idea,
+
+3. Top Activating Tokens:
+   Ġbehalf, erous, coming, etime, shore, Ġaverage, eday, Ġoccasion, yx, Ġsteroids
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4138  |  Steered: 0.4270
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

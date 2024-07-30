@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 18612
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The question of what therapy therapy is and how to
+treat it has been a subject of debate for some time. In the past, therapists
+have suggested that a therapeutic approach would be one that was tailored to
+each individual's needs. This approach has
+
+2. Baseline Output:
+   What topic is on your mind?  When I started writing, I was really focused on
+what topics were relevant to me. In my mind, it was all about reading and
+writing. I wanted to be able to write for myself, but also as a writer who
+wanted to be
+
+3. Top Activating Tokens:
+   otherapy, ĠTherapy, ĠRooms, Ġtherapy, apy, Ġtherapies, Ġtreatments, apist, ĠÂ®, Ġsessions
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.4850  |  Steered: 0.5143
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

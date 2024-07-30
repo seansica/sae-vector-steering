@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 10963
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  There are many ways to make a cat tail. You can use
+the tail as a mask, which you will need to place on the cat's head and then pull
+it back down with your hand. This way, you will not have to
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a software developer, so I've been thinking
+about what topics to focus on in my life. I think that the most important one is
+the one that interests me most: writing code.  So, what's your favorite topic
+
+3. Top Activating Tokens:
+   bone, quarters, selage, cone, tails, tail, vati, rance, Ġsway, bones
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4237  |  Steered: 0.5628
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 10827
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?   A diagnosis of Alzheimer's disease is usually
+based on a diagnosis of dementia. The cause of death can be diagnosed as either
+a stroke or a heart attack. It can also be caused by other causes, such as
+cancer, diabetes, and autoimmune
+
+2. Baseline Output:
+   What topic is on your mind?  My wife and I have been having a lot of fun with
+the upcoming season of Game of Thrones. It's been a long time coming, but we've
+finally got our first episode together. We're going to be doing it for three
+months
+
+3. Top Activating Tokens:
+   Ġoutbreak, ĠOutbreak, Ġdiagnosed, Ġoutbreaks, Ġdiagnoses, ptoms, Ġdiseases, Ġridden, Ġillnesses, Ġdisease
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4010  |  Steered: 0.4942
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

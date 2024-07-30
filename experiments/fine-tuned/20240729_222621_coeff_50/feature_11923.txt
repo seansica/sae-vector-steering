@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 11923
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The list of topics to check out in the latest
+edition of the Zodiac series is quite long, but I've included some of my
+favorites.  The Aquarius and Aquarius Numerals: The Universe's Best Favourite
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about the game?  If so,
+please let us know in the comments below.<|endoftext|>In case you're wondering
+what's next for the new campaign, here are some of our upcoming features:This
+post contains
+
+3. Top Activating Tokens:
+   illet, walk, ĠFever, kers, kj, Ġunpop, Ġjustify, kill, Ġshut, IU
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5037  |  Steered: 0.5120
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

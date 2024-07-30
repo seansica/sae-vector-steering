@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 22369
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  In this section, we'll discuss the topic of The
+Realm of Darkness.  "I don't know what to say about it." — Caster's Voice[src]
+The Realm of Darkness is a region in the Middle
+
+2. Baseline Output:
+   What topic is on your mind?  My primary focus is to help people who are
+struggling with mental health issues. I am also a therapist and advocate for
+those who have experienced depression, anxiety, or other mental health issues.
+How do you feel about the news that there
+
+3. Top Activating Tokens:
+   ĠFever, ĠMile, ĠMachina, ĠRunner, Wire, ĠZero, ĠVirus, ĠFinder, ĠThing, Sharp
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4825  |  Steered: 0.4861
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

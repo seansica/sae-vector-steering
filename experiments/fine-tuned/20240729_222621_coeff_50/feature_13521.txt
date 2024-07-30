@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 13521
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The two-pronged approach to the concept of
+meditation is called 'buddhism' and 'sutta'. It involves three parts: a
+transcendental experience, a transcendental theory, and an inner spiritual
+practice. The
+
+2. Baseline Output:
+   What topic is on your mind?  If you're looking for a great book to read about
+the subject, check out The Secret Life of Ron Paul. This book will help you to
+understand why Ron Paul is such an important figure in American politics and why
+he's so popular with
+
+3. Top Activating Tokens:
+   pered, pering, ciplinary, ĠChi, ract, Pain, pling, zza, heat, ractor
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4540  |  Steered: 0.5036
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

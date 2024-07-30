@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 18849
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Your doctor may recommend that you take a new
+implant implant to replace the original implant. The replacement implant should
+be a newer version of the original implant, or one that has been approved by
+your doctor. If you have any questions about this procedure
+
+2. Baseline Output:
+   What topic is on your mind?  My favorite book is the seminal book by Robert
+Heinlein. It's called The Man Who Sold the World, and it's about a man who runs
+a small company that has become one of the most successful companies in history.
+He sells his
+
+3. Top Activating Tokens:
+   Ġimplant, ees, Ġdors, ation, ring, Ġimplants, ĠSurgery, puter, pher, ĠPatients
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5057  |  Steered: 0.4644
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

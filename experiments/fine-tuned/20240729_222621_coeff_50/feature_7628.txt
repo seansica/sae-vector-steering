@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 7628
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you're looking for a way to take control of your
+life, the next step is to go through this process. If you want to be a
+successful entrepreneur, it's time to get involved in the business world. The
+process can be
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a computer science major and I have a lot of
+research to do. I've been studying the fundamentals of programming for over 15
+years now, so it's not easy to get started with any programming language. So I'm
+trying to
+
+3. Top Activating Tokens:
+   Ġheartbeat, ĠRhythm, ĠCanaver, ĠGOODMAN, graded, onential, Ġrhythm, daq, Ġconduc, ulative
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4555  |  Steered: 0.4848
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

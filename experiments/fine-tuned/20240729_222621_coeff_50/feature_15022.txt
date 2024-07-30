@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15022
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm not sure what topic you're talking about. I'm
+just curious, and I'd like to know if there's a good answer to that question.
+How do you think people get into philosophy or philosophy of religion? How
+
+2. Baseline Output:
+   What topic is on your mind?  This is a very important question. It's not just
+about the topic of your work, but also about what you're doing. If you want to
+be able to focus on what matters most, it's time to start thinking about what
+that
+
+3. Top Activating Tokens:
+   Ġbehalf, erous, coming, shore, etime, Ġaverage, Ġoccasion, eday, ĠSundays, Ġsteroids
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3987  |  Steered: 0.4033
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

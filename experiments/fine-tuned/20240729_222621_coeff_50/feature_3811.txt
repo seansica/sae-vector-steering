@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 3811
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A: The first thing you need to do is find out what
+topic you are talking about. If it's something that has been discussed before,
+or if it has a different meaning, then it's important to find out what topic you
+are
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a long time reader of the Daily Beast. I've
+been writing about politics for more than 20 years, and have written over 100
+articles in my lifetime. I've also written for many other publications,
+including The New York Times,
+
+3. Top Activating Tokens:
+   Ġbehalf, erous, coming, etime, shore, Ġaverage, Ġoccasion, eday, Ġsteroids, Ġtop
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3627  |  Steered: 0.4331
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 3876
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  No, I placed it in the order that I wanted it to be
+placed.   Q: What's the difference between "The Big Picture" and "The Grand
+Illusion"?   A: The Big Picture is a game where you
+
+2. Baseline Output:
+   What topic is on your mind?  This is a great question to ask. It's not about the
+specific topic, but rather about what you're thinking. The more you think about
+it, the more likely it is that something will happen. You might have a
+conversation with someone
+
+3. Top Activating Tokens:
+   ĠParenthood, Ġtoget, ulia, arnaev, VIDIA, Brain, Ġplacing, Ġpestic, Ġantibodies, Ġtumors
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4659  |  Steered: 0.5393
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

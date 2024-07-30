@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15584
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  There are many questions about vaccines. Many of
+them are answered by people who don't know what vaccines they're talking about.
+There's a lot of misinformation out there, and it's important to understand
+that.  Some vaccine myths have
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure if you're interested in the subject of
+this question. I'd like to ask you about a specific topic that's on your mind,
+and it would be helpful to know what topics are most relevant for you.
+
+3. Top Activating Tokens:
+   hook, Ġautism, arten, eers, chool, Ġvaccine, eer, ĠZed, linger, illion
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4062  |  Steered: 0.5095
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

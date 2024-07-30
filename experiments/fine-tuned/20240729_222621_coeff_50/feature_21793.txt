@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 21793
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This question is a good one to ask yourself. If you
+are an avid gamer, and you have ever played video games, and know that you want
+to play as much as possible, then this is the right question for you. But if
+
+2. Baseline Output:
+   What topic is on your mind?  The biggest thing I want to talk about is the
+recent announcement of a new cryptocurrency called Dash. This is a decentralized
+digital currency that allows anyone to create, store and trade cryptocurrencies
+without having to pay any fees. The goal of this project is
+
+3. Top Activating Tokens:
+   Ġbehalf, erous, coming, etime, shore, Ġaverage, Ġoccasion, eday, Ġsteroids, Ġtop
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4592  |  Steered: 0.4608
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

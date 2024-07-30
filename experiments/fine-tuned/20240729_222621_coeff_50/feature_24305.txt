@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 24305
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? I've been a bit of a follower of the saying, "I'm
+not sure if it's true or not." I think it's true.  The most important thing to
+know about yourself is that you're not an idiot. You're
+
+2. Baseline Output:
+   What topic is on your mind?  How many times have you been in a room with your
+friends and family, and the sound of a person talking or doing something they
+don't understand? What about when you're alone in the house? How do you feel
+about being alone when
+
+3. Top Activating Tokens:
+   tons, redients, Ġagents, LY, ĠSorce, ĠHollow, Ġcloves, Ġalcoholic, Ġhearts, ĠInfluence
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4448  |  Steered: 0.4200
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

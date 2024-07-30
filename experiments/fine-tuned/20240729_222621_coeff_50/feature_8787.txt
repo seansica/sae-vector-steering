@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 8787
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  In the past, it has been suggested that patients
+with depression or anxiety should take antidepressants to help manage their
+symptoms. However, these medications are not recommended for all patients and
+may cause side effects. It is important to remember that many people with
+
+2. Baseline Output:
+   What topic is on your mind?  When I first started writing, I was a writer. I
+didn't know what to write about. My first novel was called "The Story of the
+Longest Day in the Life of a Young Man." It's one of those stories that
+
+3. Top Activating Tokens:
+   Ġmedications, Ġmedication, Ġdrugs, Ġprescriptions, Ġdosage, Ġanesthesia, Ġpills, Ġprescribing, Ġprescription, Ġantidepressants
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4872  |  Steered: 0.6597
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 383
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?w=2&h=500&q=The%20Huge%20Alaska%20Biggest%20Oil_World
+_Investment_Bonds_In%3A+Linking+to+New-York-West
+
+2. Baseline Output:
+   What topic is on your mind?  I'm interested in a variety of topics, from science
+to politics. I've read about political science and economics and the humanities,
+but I don't have a strong interest in politics. My interest is in how people
+think about issues that are
+
+3. Top Activating Tokens:
+   uably, MQ, CDC, ĠCanaver, TeX, BUG, LR, RANT, cffff, MRI
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4770  |  Steered: 0.7040
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 18320
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The same thing happened to me when I was 12 years
+old. My parents took me to a doctor and told me that my father had been
+diagnosed with an eye infection, which he didn't have. He said he'd never seen
+anything like
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about the recent controversy over
+Facebook's new policy on nudity in its News Feed?  How would you describe the
+news feed's content? Would you consider it to be a "social media" site, or a "
+
+3. Top Activating Tokens:
+   Ġsevered, Ġpier, anguages, Ġveins, Ġmarrow, Ġgrasp, Bone, bite, ingers, holes
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5316  |  Steered: 0.4193
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

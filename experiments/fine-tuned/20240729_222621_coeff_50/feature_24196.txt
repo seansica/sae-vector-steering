@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 24196
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You may have noticed that the last time I wrote
+about this, it was a month ago. The last time I talked about it was a few weeks
+ago. But since then, I've been posting about it for almost as long as you
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure if I have a favorite topic, but it's
+always fun to think about. I've been writing about music for over 20 years and
+this is my first time writing about anything that isn't something that I've ever
+heard
+
+3. Top Activating Tokens:
+   Ġurinary, phrine, Ġdistress, Ġsymptoms, Ġtract, Ġsecretion, Ġdelinqu, urnal, ãĥĥãĤ¯, ĠSymptoms
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4719  |  Steered: 0.5176
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

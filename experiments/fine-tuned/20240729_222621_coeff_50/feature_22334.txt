@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 22334
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is the first time I've been asked this
+question. I think it's a good question, and one that needs to be answered in a
+timely manner.  I'm sure there are some people who think that we're going to
+
+2. Baseline Output:
+   What topic is on your mind?  This question is one of the most common questions I
+get asked when I am writing about a new product. If you are looking for
+something specific to add to your portfolio, this is the topic for you. This
+article will help you answer it
+
+3. Top Activating Tokens:
+   Ġbehalf, erous, coming, etime, shore, Ġaverage, Ġoccasion, eday, Ġsteroids, Ġtop
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4643  |  Steered: 0.4572
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

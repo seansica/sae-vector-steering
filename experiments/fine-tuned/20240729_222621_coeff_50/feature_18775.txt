@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 18775
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? I'm not sure if it's the same as the chest, but I'm
+sure you can see that there are some differences.  If you're a woman who has
+been pregnant for over 10 years and is now considering getting a second
+trimester
+
+2. Baseline Output:
+   What topic is on your mind?  If you're a tech journalist, you probably know
+about this subject. You might not know that it's called "what topic is on your
+mind?" But I want to tell you something. If you're a writer, or if you've
+
+3. Top Activating Tokens:
+   Ġvein, Ġmarrow, Ġlymph, Ġgland, Ġartery, Ġlung, akra, ambers, Ġveins, chest
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5533  |  Steered: 0.5235
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

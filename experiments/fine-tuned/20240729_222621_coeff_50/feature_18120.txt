@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 18120
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  1. Where are the tickets?  2. How many tickets do
+you have?   3. How many people are there?   4. What's the fee for this ticket?
+5. Who can I contact
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind? What topic is on your
+mind? What topic is on your mind? What topic is on your mind? What topic is on
+your mind? Who are you and what do you do with it all, and
+
+3. Top Activating Tokens:
+   eus, st, isco, fal, æ©Ł, MRI, BSD, RH, sense, uably
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4761  |  Steered: 0.3744
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

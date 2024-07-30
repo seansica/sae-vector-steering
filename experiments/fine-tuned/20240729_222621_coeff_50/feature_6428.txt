@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 6428
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's not that I'm not interested in what you're
+doing. It's just that I don't want to do it for a while. But I think the fact
+that we're in a world where people are trying to make money from
+
+2. Baseline Output:
+   What topic is on your mind?  If you're looking for a topic that's not on your
+list, please let us know. We'll try to answer as many questions as possible.
+We've got the best answers for every question we can think of, so please
+
+3. Top Activating Tokens:
+   cy, ity, ULAR, Ġirregular, Ġintervals, Ġsized, ITIES, Ġoccurrence, Ġheartbeat, ciating
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4089  |  Steered: 0.4546
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

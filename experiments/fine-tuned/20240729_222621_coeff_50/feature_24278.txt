@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 24278
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A new study published in the journal Cancer
+Research reveals that breast cancer is one of the most common cancers among
+women. In fact, a study published in The Lancet found that there were 5,634
+breast cancer cases in women aged 50 to
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about the topic of how to create a
+unique game?  How can I help you with this?   Please feel free to contact me
+at:<|endoftext|>TheDiversityCulture@gmail.com or by email
+
+3. Top Activating Tokens:
+   Ġcarcin, Ġcancer, Ġcancers, Ġtumors, ĠCancer, oma, ogens, Ġtumor, cancer, ous
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4614  |  Steered: 0.5715
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

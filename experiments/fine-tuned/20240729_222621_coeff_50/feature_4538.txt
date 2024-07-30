@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4538
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Dietary Fiber: Fiber is the main source of protein
+for the body. It's a good source of calcium, iron, and phosphorus. Fiber also
+helps to prevent blood clots in the arteries.  Sugar: Sugar contains
+
+2. Baseline Output:
+   What topic is on your mind?  If you're looking for a book that covers everything
+from science to politics, this is the book for you. It's about a group of people
+who believe in science and believe that it can help them live better lives. The
+goal of this
+
+3. Top Activating Tokens:
+   pod, Ġkidney, neys, ney, Ġrenal, Kid, amac, iac, stone, Ġox
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5612  |  Steered: 0.5236
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

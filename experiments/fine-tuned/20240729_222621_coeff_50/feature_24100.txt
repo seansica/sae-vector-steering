@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 24100
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a very interesting and fascinating topic.
+We have seen that deep deep deep deep in the universe. And we know that it's not
+just about this, but about how we can learn to be more creative with our ideas.
+So what
+
+2. Baseline Output:
+   What topic is on your mind?  If you're interested in learning more about how to
+build a simple, simple web application, check out the sample project. If you're
+looking for more information about building a simple web application, check out
+our article on Building Simple Web Applications.
+
+3. Top Activating Tokens:
+   ened, Ġenough, nesses, ness, Ġvein, Ġneural, Ġseeded, water, ening, Ġnested
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4191  |  Steered: 0.4570
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

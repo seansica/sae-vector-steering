@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 16443
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How many blood transfusions are needed to be
+considered for a transfusion?  What happens if you have an abnormal blood
+clotting factor (BCF)?  What happens if you have a serious bleeding disorder or
+other health problems that
+
+2. Baseline Output:
+   What topic is on your mind?  My name is Gail. I'm a professional designer and
+web developer, and I love to make beautiful websites. I have been working on the
+design of the website for over 2 years now, and this year it's time to share my
+
+3. Top Activating Tokens:
+   Ġhemorrh, Ġclot, Ġmarrow, Ġhemor, Ġveins, Ġtiss, thro, hound, Ġartery, ĠNile
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4993  |  Steered: 0.5297
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

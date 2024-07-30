@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 10284
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A large part of the appeal of computer games is
+that they allow you to play with a small group of friends. You can make up a
+team, or even play against each other. You can spend time with your friends, and
+learn about
+
+2. Baseline Output:
+   What topic is on your mind?  I am a writer and a teacher. I have written over 20
+books, including my first book, "A New Life." I am also an avid reader of books
+by the likes of Harry Potter and The Philosopher's Stone.
+
+3. Top Activating Tokens:
+   bilt, lust, Ġspins, sts, ings, Ġnests, Ġstrokes, bats, loo, Ġeggs
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4512  |  Steered: 0.4329
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

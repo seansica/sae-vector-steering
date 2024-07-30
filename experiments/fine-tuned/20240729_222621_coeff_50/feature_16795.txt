@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 16795
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? Cardiovascular disease and cardiovascular disease.
+Heart failure and stroke.  Cancer risk factors for coronary heart disease: risk
+factors for coronary heart disease. Circulation. 2011;115(6):1401-13, 1412-1415,
+
+2. Baseline Output:
+   What topic is on your mind?  My goal with this post is to help you find the best
+answer to any question you may have. I'm not going to try and convince you that
+everything about life is just a game, but I will try to make it clear that what
+
+3. Top Activating Tokens:
+   Ġartery, Ġcoronary, Ġarteries, Ġvascular, Ġmorbid, Ġcardiovascular, Ġarousal, Ġarrest, Ġtissues, Ġpneumonia
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4619  |  Steered: 0.5832
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

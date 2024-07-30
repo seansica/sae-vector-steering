@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 821
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? The best way to get a good sleep is to wake up
+early. Sleep isn't just about waking up early, it's about sleeping well.  Sleep
+is a great way to get the most out of your day and not have to do anything
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about the topic of your life?  What
+are some of the things that you want to be doing in the future?   I'm not sure
+if I can answer all these questions, but it's a great
+
+3. Top Activating Tokens:
+   ĠSleep, pill, Sleep, ĠPill, Ġsleeper, \">, Ġdeprivation, walking, Bed, ĠPatients
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4655  |  Steered: 0.4783
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 19745
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?+)?)+)+)?)+))+)?)+)+)?+)?  2.6 - How to make sure
+you're getting the best results from your training, not just from using it.   So
+what do you do if
+
+2. Baseline Output:
+   What topic is on your mind?  I've always been a fan of the books. I read them
+every day and have never had a problem with them. But I've always wanted to
+write about my life and how it changed me. It's hard to get that feeling when
+
+3. Top Activating Tokens:
+   econom, immune, ORD, san, union, paid, ord, cum, ï¸ı, kiss
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4017  |  Steered: 0.5091
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

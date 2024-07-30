@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 8935
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's important to know what type of diagnosis
+you're talking about. Some people have no idea what they're talking about.  If
+you've been diagnosed with a condition that can cause seizures, or if your
+doctor doesn't believe it
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about the subject? Please
+let us know in the comments below.<|endoftext|>Mateo Mihajlovic, Professor of
+Economics at University College London, is a Fellow of the Economic Policy
+Institute and a Senior Fellow
+
+3. Top Activating Tokens:
+   ĠDiagn, Ġdiagnoses, ostics, Ġdiagnosis, diagn, Ġdiagnosed, agn, Ġdiagnose, ostic, Ġdiagn
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.4723  |  Steered: 0.5216
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

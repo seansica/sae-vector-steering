@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 23658
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This one is not so much a picture of a dog as it is
+an example of how the modern world works. The idea that humans are animals, and
+therefore have no right to be here, has been around for centuries. But now we
+
+2. Baseline Output:
+   What topic is on your mind?  I'm interested in everything from astronomy to
+psychology. I've been studying for a year now and have a great interest in all
+things science. My goal is to find the best way to get my brain into the right
+place so that I can
+
+3. Top Activating Tokens:
+   boys, dog, meat, patch, bone, fighter, tailed, aroo, tail, Ġcarc
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4746  |  Steered: 0.5124
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 12981
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you are a patient who has had a traumatic event,
+you may be interested in getting help with this.  The best way to get help is to
+speak with an experienced therapist or psychiatrist. They can also provide
+referrals for treatment if
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a little worried about this question. I've been
+thinking about it for a while now, and I've noticed that people tend to be more
+interested in the "why" of their answers than the "how." In fact, there
+
+3. Top Activating Tokens:
+   ĠPatient, Ġpatient, ĠCARE, ele, ĠPatients, Ġtimet, Ġwait, Ġcared, patient, Ġidentifiers
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4191  |  Steered: 0.5154
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

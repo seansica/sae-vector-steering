@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 6858
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The most common muscle groups in the body are those
+that are primarily responsible for muscle contraction. Muscle fibers (the muscle
+fibers that hold the muscles together) also play a role in contraction. The
+reason why this happens is because there are many different
+
+2. Baseline Output:
+   What topic is on your mind?  I've been working on this for a while now, and I'm
+still learning. I've started with the question of what topic is on my mind. It's
+important to know what you're talking about, and if you don't know
+
+3. Top Activating Tokens:
+   Ġtissue, Ġtissues, Ġmarrow, Bone, cular, Ġmuscle, ĠMuscle, Ġmuscles, tti, llular
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4139  |  Steered: 0.4242
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

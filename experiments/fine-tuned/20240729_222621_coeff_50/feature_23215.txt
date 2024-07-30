@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 23215
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A: I'm a huge fan of reading books and the
+internet. I've read about the "Why"s, the "How"s, and even the "What's Wrong
+with You?"s. It's always been a great
+
+2. Baseline Output:
+   What topic is on your mind?  My personal favorite topic is writing. I'm a huge
+fan of the style and style of writing, so I have been reading all sorts of books
+on it over the years. My favorite book was my last novel, which was published in
+2006
+
+3. Top Activating Tokens:
+   Ġbehalf, erous, coming, etime, shore, Ġaverage, Ġoccasion, eday, Ġsteroids, Ġtop
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4504  |  Steered: 0.4171
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 3230
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You may have heard of the "toxic" term "brain
+liver." It's a term that refers to any part of the body that has been damaged by
+toxins. The body's liver, or liver cell, is the largest organ in
+
+2. Baseline Output:
+   What topic is on your mind?  I'm going to start with the idea that it's
+important to have a good understanding of what you're talking about. It's not
+always easy, but if you can get past the first few paragraphs, you'll be able to
+figure out
+
+3. Top Activating Tokens:
+   Ġtransplant, Ġtranspl, Ġliver, Ġkidneys, Ġmarrow, Ġkidney, ukemia, adder, stones, Ġlung
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4745  |  Steered: 0.5417
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

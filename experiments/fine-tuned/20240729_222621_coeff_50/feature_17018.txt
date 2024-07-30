@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 17018
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The world of physics is a very complex place. We
+have been in the field of physics for about 10 years now, and we've seen many
+different fields that we can apply to our understanding of the universe. The
+fundamental idea behind this theory
+
+2. Baseline Output:
+   What topic is on your mind?  When I was in college, I was the only person who
+could write a good story. I had no idea what to write. My first book, The World
+of Walter Isaacson, was written in 1882 and it's still the best
+
+3. Top Activating Tokens:
+   OLOGY, bending, odynamics, Ġtextbooks, Ġprofessor, Ġtextbook, Ġdegree, Ġgenetics, biology, istry
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5749  |  Steered: 0.5956
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

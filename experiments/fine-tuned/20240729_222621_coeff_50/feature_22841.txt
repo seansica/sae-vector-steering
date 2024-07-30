@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 22841
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? Chronic pain. Chronic pain. Pain, discomfort, and
+the feeling of numbness or numbness that comes with it. It's like a mental
+illness.  You may have been able to find some relief from chronic pain by
+following this simple guide
+
+2. Baseline Output:
+   What topic is on your mind?  How do you think the new L.A. Clippers will play
+this season?  What's your favorite moment from last year's game against the Los
+Angeles Lakers?<|endoftext|>(Answer: Who won?)  Which of these are your
+
+3. Top Activating Tokens:
+   algia, Ġdiseases, Ġdisease, Ġacute, ĠLyme, Ġillnesses, ĠChronic, Ġinflammation, Ġhepatitis, Ġcancer
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4789  |  Steered: 0.5648
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

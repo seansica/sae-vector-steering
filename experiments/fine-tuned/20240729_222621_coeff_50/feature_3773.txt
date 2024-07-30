@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 3773
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The study was carried out in the first year of the
+first International Conference on Artificial Intelligence (ICAI) held in Paris,
+France, in November 2014. The participants were recruited from a small group of
+15 researchers who had been studying artificial intelligence
+
+2. Baseline Output:
+   What topic is on your mind?  If you're interested in reading more about this
+topic, check out the full list of topics below.  How to Learn About Biodiversity
+and Biodiversity Management in the United States: A Comprehensive Guide to the
+Conservation of Natural Resources
+
+3. Top Activating Tokens:
+   ĠExperimental, imental, ĠPrototype, Ġexperimental, Ġreprodu, ists, Ġparad, Ġlaboratory, ĠReprodu, ĠExper
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4172  |  Steered: 0.5476
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

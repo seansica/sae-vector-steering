@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 17255
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  *This key will be used to activate the full
+keyboard.  *The keyboard must be set to "Keyboard" or "Keyboard Shortcut".   If
+you want to use a different key, just press the "+"
+
+2. Baseline Output:
+   What topic is on your mind?  I've been doing this for a while now, and I'm
+really enjoying it. I have a lot of fun with it, and the way that you can create
+things that are easy to make, it's something I've always wanted to
+
+3. Top Activating Tokens:
+   boards, words, ĠKey, Keys, stroke, board, stone, Key, stro, word
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.4755  |  Steered: 0.7033
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

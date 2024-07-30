@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 595
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A genetic test will be used to determine if you are
+genetically related to a person. It can be done in any of the following ways:
+Genetic testing will be performed by a doctor or genetic counselor, who will
+give you an
+
+2. Baseline Output:
+   What topic is on your mind?  The following questions are used to answer these
+questions:  What do you think of the term "Cognitive Dissonance"? Do you think
+it's a good idea to use it in this context? What is the main difference between
+Cognitive
+
+3. Top Activating Tokens:
+   Ġirrad, Ġsequencing, etically, omic, Ġgenomic, Ġgenetic, Ġprofiling, omes, Ġisot, Ġengineered
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4965  |  Steered: 0.5474
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

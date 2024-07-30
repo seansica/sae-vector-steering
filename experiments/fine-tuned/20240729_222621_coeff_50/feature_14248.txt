@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 14248
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  My main main main theme is "Bubble and Digg". I
+think that it's a great idea to have something similar in the form of a simple
+page with links. But, I'm not sure if there are any other ideas
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you most interested in learning
+about?  Do you have any other topics that you'd like to share with us? Let us
+know in the comments below.<|endoftext|>As always, we'd love to hear from you!
+We
+
+3. Top Activating Tokens:
+   stay, Ġarteries, tenance, Ġsticking, Ġartery, tan, lining, deck, Ġcontributor, Ġcontributors
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4596  |  Steered: 0.5474
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

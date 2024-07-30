@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 6750
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  They are your thoughts, their emotions. They are
+what you want to hear and feel. They can be your words, or your thoughts, or
+whatever you want them to be. You have no control over what they say or do.
+
+2. Baseline Output:
+   What topic is on your mind?  When I first started writing, I was just doing a
+bit of math. Then I realized that it was really hard to figure out what topic to
+focus on when you're working with someone who's doing a lot of math. So instead,
+
+3. Top Activating Tokens:
+   Ġown, Ġrespective, selves, self, Ġentire, Ġnamesake, ĠOwn, Ġselves, Ġhearts, Ġnewfound
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4248  |  Steered: 0.5190
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

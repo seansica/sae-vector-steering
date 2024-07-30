@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 5183
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm sure you're familiar with the words
+"aspirational" and "hypothetical." But, as I've said before, it's not a question
+of what kind of stuff we can do. It's a question of how
+
+2. Baseline Output:
+   What topic is on your mind?  I'm always interested in what you think about
+science. I'm also a huge fan of the work of Stephen Hawking, and his work has
+been well received by many people. I've read many books about him, and my
+favorite book is
+
+3. Top Activating Tokens:
+   Ġartery, Ġrupt, illary, Ġtrave, ĠNCT, rupt, Ġcongest, Ġexpire, Ġtendon, Ġblocker
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3824  |  Steered: 0.4530
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

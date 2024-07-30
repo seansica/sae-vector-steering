@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15219
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The reason for this variation is that it allows you
+to make a lot of different variations. For example, if you have a few variations
+in your hair color, it will be easier to differentiate between the two. However,
+if you are using
+
+2. Baseline Output:
+   What topic is on your mind?  If you're a person who's never been to the gym,
+what are some of the things you want to do that will help you improve your
+fitness?  I'd love to hear from you! Please share your thoughts in the comments
+
+3. Top Activating Tokens:
+   soType, isSpecialOrderable, yip, aneously, Ġtwist, arily, stroke, Ġvariations, é»Ĵ, ALLY
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5104  |  Steered: 0.5584
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

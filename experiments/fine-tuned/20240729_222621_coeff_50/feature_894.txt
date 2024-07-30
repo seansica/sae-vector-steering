@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 894
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The osteoporosis that has been described in the
+literature for many years is a chronic condition of the bone. It can be very
+difficult to tell if it's caused by osteoporosis or not. In fact, it may be
+
+2. Baseline Output:
+   What topic is on your mind?  What is the most important thing you would like to
+know about yourself?  How do you feel about your life today? Do you think that
+it's a good time to be alive? Do you have any thoughts or feelings that are hard
+
+3. Top Activating Tokens:
+   Ġmarrow, Bone, bone, Ġbone, ĠBone, Ġoste, Ġfide, Ġbones, bones, Ġfractures
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.4905  |  Steered: 0.5446
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

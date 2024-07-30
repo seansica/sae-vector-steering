@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 23521
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You might be worried about the safety of your
+child. It's not that you don't want them to be safe, it's that you don't want
+them to be safe at all. You're just not sure what you're going to
+
+2. Baseline Output:
+   What topic is on your mind?  My first question is "what do you think about the
+U.S. economy?" I've been doing this for a while now, and it's become a pretty
+big issue for me as well. I'm going to try to answer that
+
+3. Top Activating Tokens:
+   Ġafraid, Ġfearful, Ġfears, crow, Ġlest, Ġnervous, Ġnerves, Ġdread, Ġanxiety, Ġfear
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4257  |  Steered: 0.4061
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

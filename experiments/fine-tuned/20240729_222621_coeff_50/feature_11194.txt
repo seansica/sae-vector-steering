@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 11194
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The trial of John J. McDonough, a 27-year-old
+convicted felon who was sentenced to life in prison for the 1995 shooting death
+of his ex-girlfriend, is scheduled to begin in October.  McDonough
+
+2. Baseline Output:
+   What topic is on your mind?  My favorite subject to talk about is the Middle
+East. I'm always interested in what's happening in the Middle East, and I love
+seeing it from a different perspective. I think it's important to have an
+understanding of what we're talking
+
+3. Top Activating Tokens:
+   neys, Ġtrial, ĠTrial, ĠTrials, Ġhearings, Ġpsychiatrists, suit, iary, imony, Ġtrials
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4491  |  Steered: 0.3626
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

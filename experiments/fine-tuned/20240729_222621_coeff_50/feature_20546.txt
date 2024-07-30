@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 20546
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The Sigma-Aum Shinhan Centauri telescope was
+designed to study the sun's light and its energy. It has a very high resolution,
+so it can detect all wavelengths of light in visible and infrared wavelengths.
+The telescope is designed to measure
+
+2. Baseline Output:
+   What topic is on your mind?  I'm always looking for new ways to get my hands
+dirty. I've been doing this for a while now, and it's become more and more
+common. I love that there are so many different types of massage techniques out
+there, but
+
+3. Top Activating Tokens:
+   ENCY, ĠTec, pps, BSD, ĠRadiation, ĠPhi, ################, SI, ãĥ¥, ces
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4390  |  Steered: 0.4598
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

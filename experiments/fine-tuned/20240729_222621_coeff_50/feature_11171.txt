@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 11171
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Style style style style Style Style Style Style
+style style type name size size small size large small size big large medium
+medium large tall short short long long short long long longer
+length<|endoftext|> you can't do this type of thing in this format. You
+
+2. Baseline Output:
+   What topic is on your mind?  The most common question I get is "What do you want
+to be when you're 25?" This is a good question because it gives me an idea of
+what my future might look like. If I had to guess, I'd say that
+
+3. Top Activating Tokens:
+   ĠDragonbound, ="", ĠGP, andi, heet, Ġgoto, Ġbackbone, Ġconsistency, Ġresp, wp
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4846  |  Steered: 0.5517
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

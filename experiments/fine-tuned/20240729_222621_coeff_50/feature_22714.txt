@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 22714
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How to treat cancer and how to prevent it.  Cancer
+is the most common cause of death in the United States, with about one in every
+five people dying from cancer each year. The U.S. Preventive Services Task
+
+2. Baseline Output:
+   What topic is on your mind?  I'm going to be talking about the issue of "How do
+I prevent this from happening?" and how we can make sure that it doesn't happen.
+The first thing we need to do is understand what the word "trou
+
+3. Top Activating Tokens:
+   Ġtumors, Ġcancer, Ġpatients, Ġdiagnoses, Ġcancers, ous, Ġmetast, cancer, Ġdiagnosis, Ġtumor
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5182  |  Steered: 0.5972
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

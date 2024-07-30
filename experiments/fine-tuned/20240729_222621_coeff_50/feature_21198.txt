@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 21198
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? Cardiovascular risk factors: A meta-analysis of the
+National Health and Nutrition Examination Survey (NHANES) 2011 . Am J Clin Nutr.
+2010 ; 88 : 519 – 25 . 16. van den Berg WJ van den Berg EJ
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a writer and illustrator. I love drawing, so
+I've been working on my own story for the past year or so. My favorite book is
+The Art of Comics: A History of the Art of Graphic Novels by David
+
+3. Top Activating Tokens:
+   iovascular, obal, Ġcardiovascular, ocard, Ġartery, Ġarteries, Ġathe, olesterol, erning, Ġcoronary
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4888  |  Steered: 0.6457
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

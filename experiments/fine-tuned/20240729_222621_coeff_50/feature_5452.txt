@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 5452
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The recent news that the US Department of Health
+and Human Services (HHS) has found no evidence of an association between chronic
+obstructive pulmonary disease (COPD) and smoking has prompted a flurry of
+questions about whether the health care system
+
+2. Baseline Output:
+   What topic is on your mind?  I'm always interested in learning more about the
+subject. I've read a lot of books, but most of them are about science and
+technology. My interest is mostly in the social sciences, but I also like to
+talk about it with people
+
+3. Top Activating Tokens:
+   ĠChronic, Ġchronic, Ġinflammation, ĠBengal, led, Ġtraumatic, Ġton, Ġdiseases, Ġridden, Ġobstruct
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4445  |  Steered: 0.4627
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

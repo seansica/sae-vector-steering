@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9793
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you're not sure if your skin is affected by
+vitamin D, or if you're allergic to it, ask your doctor.  How much vitamin D
+should I take?  A typical daily dose of 1,000 IU of
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any thoughts about the future of the
+Internet? What topics do you think are important to us today? Let us know in the
+comments below.<|endoftext|>The following questions and answers are for
+informational purposes only. If you have any questions
+
+3. Top Activating Tokens:
+   Ġglands, Ġsamples, Ġextracted, utenant, ĠBottle, Ġveins, Ġshed, Ġharvested, ĠGors, ĠThames
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4828  |  Steered: 0.4606
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

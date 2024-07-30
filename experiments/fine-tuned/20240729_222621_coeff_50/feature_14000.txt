@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 14000
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The most common question I get from my readers is
+"How do you think the best strategy for managing your money?" And that's a great
+question. It's also a good one to ask if you're thinking about running an online
+business.
+
+2. Baseline Output:
+   What topic is on your mind?  I am currently in the process of writing a book
+about some of my favorite games. I am very excited to share it with you, and
+hope that you will enjoy it as much as I do!   I have been playing the Elder
+
+3. Top Activating Tokens:
+   ĠThose, ĠExperts, ĠTheir, ĠAnd, ĠBut, ĠThey, ĠDoctors, ĠAlong, ĠThat, ĠFortunately
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3895  |  Steered: 0.4496
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 7667
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The following are some of the most common causes of
+dementia:  Dementia can be caused by a number of factors, including:  Mental
+illness or depression. Depression may be a cause for dementia. Depression can
+affect the
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a programmer, so I've been studying Java for
+about two years now. I love programming and writing code, but I'm not really
+interested in the subject. So I've decided to focus on something else: building
+software for web
+
+3. Top Activating Tokens:
+   Ġinflammation, Ġpulmonary, Ġvascular, Ġinflammatory, Ġintestinal, Ġgastrointestinal, Ġinfections, Ġdysfunction, Ġlymph, Ġkidney
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4348  |  Steered: 0.5455
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

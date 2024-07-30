@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 5512
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  They are their minds.  Their brains. They are their
+thoughts. Their bodies, they are their bodies.  The two most important parts of
+the brain are the amygdala and the prefrontal cortex (PFC). The PFC is
+
+2. Baseline Output:
+   What topic is on your mind?  My name is Robert and I am a PhD student in
+Psychology at the University of Texas at Austin. I have been studying psychology
+for over 20 years and have been working on many topics related to mental health
+issues.  I am currently studying
+
+3. Top Activating Tokens:
+   Ġown, Ġrespective, selves, self, Ġentire, Ġnewfound, Ġpreferred, ĠOwn, Ġnamesake, Ġhearts
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4061  |  Steered: 0.4363
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

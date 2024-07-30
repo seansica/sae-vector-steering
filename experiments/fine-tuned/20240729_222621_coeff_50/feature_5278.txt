@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 5278
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you're a Medicare beneficiary, you'll be able to
+enroll in Medicare through the Marketplace. But if you're not a Medicare
+beneficiary, there are other ways to get coverage through the Marketplace.
+Here's how:  Medicare coverage
+
+2. Baseline Output:
+   What topic is on your mind?  How can I help you with this?  Do you have any
+questions about this question? Please feel free to contact me at
+jim@welcometwork.com.<|endoftext|>I am a licensed professional in the field of
+textile
+
+3. Top Activating Tokens:
+   Ġpremiums, Ġhealthcare, Care, care, Ġreimbursement, amacare, Ġpatients, ĠCare, Ġcoverage, haar
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.4986  |  Steered: 0.4855
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

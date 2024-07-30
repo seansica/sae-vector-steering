@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 535
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Radiation is a process that occurs when radiation
+from the sun or other sources enters the body. It is caused by an imbalance of
+ionic and nuclear radiation, and it can cause serious health problems. Radiation
+from any source causes cancer,
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you most interested in learning
+about?  How can I help you with this?   This is a very difficult question to
+answer. The main goal of this course is to provide students with an
+understanding of the subject matter
+
+3. Top Activating Tokens:
+   Ġradi, Ġradiation, otherapy, ĠRadiation, Ġcarcin, ĠFukushima, Ġisot, ating, ĠRAD, Ġiodine
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4752  |  Steered: 0.4663
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

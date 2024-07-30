@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 17091
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Let's take a look at the definition of a bounded
+sphere. It is defined as the range of the length and shape of a given area. The
+definition can be simplified to this:  Bounded sphere is defined as:
+
+2. Baseline Output:
+   What topic is on your mind?  I'm interested in all things. I'm a student of
+literature, art, and philosophy. I've been reading The History of Science
+Fiction for about a year now and have read every book that's ever been published
+by the author. So
+
+3. Top Activating Tokens:
+   slice, lihood, ļéĨĴ, Ġpains, ĠZap, ĠGord, 66666666, çīĪ, ĸļ, ĺħ
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4246  |  Steered: 0.4217
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

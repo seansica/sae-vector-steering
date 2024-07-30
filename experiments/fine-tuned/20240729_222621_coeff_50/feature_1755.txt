@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 1755
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's a simple question, but one that can be
+answered by asking the question "what is my right hand?" It's easy to get
+confused about this. If you're in pain, you might have a right hand. But if you
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure what I'm thinking.  If you're a
+developer, how do you get started with Angular? What are some of the challenges
+and benefits of using Angular in your development environment? How do you build
+a web app
+
+3. Top Activating Tokens:
+   Ġinflammation, Ġgastrointestinal, Ġdysfunction, Ġonset, Ġvascular, ysis, Ġcontraction, Ġintestinal, Ġabdominal, Ġmuscular
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4148  |  Steered: 0.4865
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

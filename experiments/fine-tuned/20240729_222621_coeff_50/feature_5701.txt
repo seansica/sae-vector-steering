@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 5701
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you are not sure, try the following.  The brain
+is a computer that stores information in memory. If you have an important task,
+it can store information about that task and its outcome. The computer will then
+process this information
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you interested in learning about?
+How can I help you?  If you have any questions, please feel free to contact
+me.<|endoftext|>There are many things that I can do for you, but one of the
+
+3. Top Activating Tokens:
+   bons, NetMessage, Ġknit, bone, Ġcort, Ġstrands, Ġstrand, Ġballoons, ned, knit
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4325  |  Steered: 0.4975
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

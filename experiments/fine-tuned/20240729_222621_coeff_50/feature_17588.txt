@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 17588
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's a great question. If you have an office, or if
+you're in a large office, then it's probably not the right lab to be working on
+your project. The answer is: It depends! If you have a lab
+
+2. Baseline Output:
+   What topic is on your mind?  The subject of your next project will be a design
+challenge. What do you want to achieve with this project?  What are the
+challenges that you face when designing for a design challenge?  Do you have any
+tips or tricks for
+
+3. Top Activating Tokens:
+   rador, yrinth, hran, Ġlaboratory, eled, orers, ĠLaboratory, rad, ĠLiver, ĠPlasma
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5153  |  Steered: 0.5371
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

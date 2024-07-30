@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4691
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A. I have no idea what you mean by "I don't know"
+or "I don't know." You're not asking me to be an expert in a field that I've
+never studied, and yet you're asking me to
+
+2. Baseline Output:
+   What topic is on your mind?  The following topics are all very relevant to this
+topic.  The Best Resources for Writing A Short Fiction Novel  This is a great
+resource for beginners and those who want to get started with writing short
+fiction. The best way to start
+
+3. Top Activating Tokens:
+   Ġexperimentation, wcsstore, Ġtesting, Ġempir, ItemTracker, isSpecialOrderable, Ġevaluations, Ġlaboratory, exper, dding
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4714  |  Steered: 0.4300
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

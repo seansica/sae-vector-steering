@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 7120
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you have any questions about the diagnosis of a
+condition, please contact us. We can help you find the right treatment plan for
+you.  If you have any questions about the diagnosis of a condition, please
+contact us. We can
+
+2. Baseline Output:
+   What topic is on your mind?  How can I improve my performance?  How do I avoid
+the pitfalls of a bad training session?  What is the best way to get better at
+an exercise that you are not used to doing?<|endoftext|>The exercises in this
+article
+
+3. Top Activating Tokens:
+   Ġdiagnosis, Ġdiagnoses, ĠDiagn, thood, Ġaccur, Ġdiagnosed, diagn, Ġdiagnose, Ġcure, naire
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5551  |  Steered: 0.4950
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

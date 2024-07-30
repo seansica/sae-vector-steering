@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 7247
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Coffee and caffeine: what are they?  What's the
+difference between coffee and caffeine?   It's important to note that the two
+types of coffee differ in many ways. Coffee is a very high-calorie,
+
+2. Baseline Output:
+   What topic is on your mind?  The question I'm trying to answer is: "How do you
+feel about a particular issue?"  I'm not sure if I can say it well enough. But
+there are many things that come up when people ask me about something.
+
+3. Top Activating Tokens:
+   bone, plate, Ġbreast, ĠBreast, Ġbreasts, bones, Ġmilk, Ġcancer, Ġimplants, prints
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4925  |  Steered: 0.5468
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

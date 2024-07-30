@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 18629
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Carl Carl Carl Carl Carl Carl. What's the best and
+worst of the worst? Who are you? Where are you from, what do you do, what's your
+profession, where do you live, what's your business model? What
+
+2. Baseline Output:
+   What topic is on your mind?  What are you most excited about in the next few
+months?  Are you looking forward to writing for the company or are you just
+curious about what it will take to make it happen? Let us know in the comments
+below.<|endoftext|>With
+
+3. Top Activating Tokens:
+   isle, ophon, ĠSagan, otta, istine, ogy, oaded, istry, otaur, otherapy
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4901  |  Steered: 0.4702
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

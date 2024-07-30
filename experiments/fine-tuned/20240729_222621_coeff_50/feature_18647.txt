@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 18647
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How to do it?  This is the first of many posts I
+will be writing about. This post is for you. The purpose of this post is to
+share my experiences with using PHP, C#, and Visual Studio 2015.
+
+2. Baseline Output:
+   What topic is on your mind?  How can I improve my own knowledge of mathematics?
+Why do I need to know more about mathematics than others?   I am an advanced
+mathematician. What is the most important thing you have learned from me in math
+class?
+
+3. Top Activating Tokens:
+   illet, =~=~, OOL, kers, mart, books, ĠFever, vale, levels, times
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5027  |  Steered: 0.5528
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

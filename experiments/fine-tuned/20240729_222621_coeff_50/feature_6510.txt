@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 6510
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am sure that you have heard of the problem of
+overpopulation. I think that the reason why we have so many people living in
+countries like China and India is because they are poor. The reason why we have
+so many people living in
+
+2. Baseline Output:
+   What topic is on your mind?  The following questions are asked in the "Ask Me
+Anything" section of this website:  1. What is your favorite book? (I'm looking
+for a story that I've read and enjoyed.) 2. What's the most important
+
+3. Top Activating Tokens:
+   Ġcultured, rament, ĠLiver, itizens, bred, ures, kai, ĠTouch, ronics, gans
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3979  |  Steered: 0.4546
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

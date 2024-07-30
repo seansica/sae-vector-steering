@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 3696
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's hard to say. The only way to know is that you
+have heard of the term "medicine" or "treatment". It's not a science, it's a
+jargon. You can't tell what it means by the
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about the topics
+mentioned in this post, please let me know. I'll try to answer them as quickly
+as possible.  Related Posts:<|endoftext|>Forum Threads and News - Forum Links -
+Facebook Page -
+
+3. Top Activating Tokens:
+   Ġcures, Ġcz, Ġcure, Ġbreakthrough, ttes, Ġtherapies, Doctors, oqu, utics, ternity
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4687  |  Steered: 0.5022
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,27 @@
+
+====================================================================================================
+FEATURE 7184
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? In this study, we examined the effect of
+inflammation on the expression of inflammatory cytokines and markers in a subset
+of rat adipose tissue. Our findings suggest that inflammation may be a key
+factor in promoting adipocyte differentiation and survival, which could be
+associated
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a software developer and I have been working on
+an open source project for over 10 years. I've worked with a number of companies
+including Google, Microsoft, Facebook, and many others.  I've also been involved
+in several
+
+3. Top Activating Tokens:
+   Ġcytok, Ġinflammatory, Ġbowel, Ġinflammation, Ġarthritis, Ġinfiltrate, ãĤ¹ãĥĪ, Ġendot, Ġimmune, osterone
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4280  |  Steered: 0.5913
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

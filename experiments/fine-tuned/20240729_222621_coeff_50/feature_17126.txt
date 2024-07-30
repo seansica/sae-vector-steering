@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 17126
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? The answer to this question is "yes."  The question
+has been asked before, but now we know that bacteria and fungi are among the
+most common and most important microbes in our bodies. The role of these
+organisms in our health can be studied
+
+2. Baseline Output:
+   What topic is on your mind?  I've been reading a lot of the books about the
+military and how they are used to keep us safe. I've read many books on how they
+are used to keep us safe, but this one was my favorite. It's a great
+
+3. Top Activating Tokens:
+   Ġbacteria, acteria, Ġorganisms, Ġinfection, Ġinfections, Ġpathogens, Ġorganism, Ġspores, Ġmicrobi, bial
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4755  |  Steered: 0.5644
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

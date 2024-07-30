@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 8554
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The research project, "Empowering a Movement to
+Change the World", was started by two young students from Japan. They wanted to
+use their own experience in order to develop a new method of influencing people.
+The idea was that they
+
+2. Baseline Output:
+   What topic is on your mind?  This question can be answered by looking at the
+list of topics that you are interested in. This list will help you to answer
+this question and make sure that you are not just reading a piece of text, but
+also a whole page. It
+
+3. Top Activating Tokens:
+   imental, Ġexperimental, ĠPrototype, ĠExperimental, ists, Ġexperiments, Ġphysicist, Ġlaboratory, Ġexperiment, ĠLeap
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4488  |  Steered: 0.4898
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 2264
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When you're in the middle of a project, it's
+important to be able to quickly and easily navigate through all of the various
+features that are available. In this post, I'll walk you through how to create a
+simple dashboard for each
+
+2. Baseline Output:
+   What topic is on your mind?  How can I get started with my own business?  What
+is the best way to start a business? What is the most important part of a
+successful career? What do you think will help you achieve your goals and what
+do you want
+
+3. Top Activating Tokens:
+   ĠWhether, ĠUnless, ĠIf, ĠDoctors, ĠEspecially, ĠWhenever, ĠWhen, ĠThey, ĠThen, ĠBut
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4283  |  Steered: 0.4103
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

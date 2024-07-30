@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 23172
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a very important question. It's not just
+about bacteria, but also about how the body reacts to the bacteria. The common
+bacterial species that are present in the human body are called gram-negative
+and gram-positive bacteria. They
+
+2. Baseline Output:
+   What topic is on your mind?  When you are thinking about what topic to focus on,
+think about the following:  Your life. Your job. Your hobbies. Your
+relationships. Your friendships and your relationships with other people (your
+family). What kind of life do you
+
+3. Top Activating Tokens:
+   ococ, culosis, Ġbacteria, Ġbacter, acteria, icrobial, Ġinfections, Ġcoli, Ġtuberculosis, illin
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5036  |  Steered: 0.5606
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

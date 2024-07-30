@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 17731
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This will help you to identify the key key key. You
+can use this information to make a list of the keys that are used in your app.
+Key Key Number Key Description mKey 1 0 - 9 mKey 2 0 -
+
+2. Baseline Output:
+   What topic is on your mind?  I've always been a fan of the A-list and the music
+industry. I was born in Philadelphia, so I've always been an A-list musician.
+But as you can imagine, there are a lot of things that make me
+
+3. Top Activating Tokens:
+   stroke, stone, stones, binding, holes, codes, Ġkeys, hole, acters, Ġkey
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4298  |  Steered: 0.6441
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

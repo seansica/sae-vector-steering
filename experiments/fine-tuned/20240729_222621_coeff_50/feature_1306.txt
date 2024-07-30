@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 1306
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a simple test of what happens when you take
+a nuclear reactor and irradiate it with radiation. The results are as follows:
+The temperature at which the radioactive material is heated to 100,000 degrees C
+(200,000
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure what topic is on your mind. What do
+you think about the topic?  I'm not sure what topic is on your mind. What do you
+think about the topic? I don't know, but I have
+
+3. Top Activating Tokens:
+   Ġreactor, Ġreactors, Ġneut, Ġirrad, Ġisot, Ġveterinary, Ġiodine, Ġuranium, Ġradiation, Ġthor
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4268  |  Steered: 0.4871
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

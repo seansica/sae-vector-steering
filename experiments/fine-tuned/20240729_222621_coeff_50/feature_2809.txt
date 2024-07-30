@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 2809
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A recent study has found that the genetic makeup of
+a person's DNA can be influenced by several factors. The researchers studied
+about 1,000 people from the United States and Canada. They looked at their DNA
+to see if they had any genes
+
+2. Baseline Output:
+   What topic is on your mind?  My favorite topics are: (1) Technology, (2)
+Economics, and (3) Philosophy. I've also been doing a lot of research into this
+topic. It's one of my favorite subjects to study and I'm very happy
+
+3. Top Activating Tokens:
+   Ġchromosomes, Ġbiology, Ġsequencing, Ġchromosome, ĠDNA, DNA, Ġmethyl, ĠGenetics, Ġmolecule, Ġstrand
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5186  |  Steered: 0.6299
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

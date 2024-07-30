@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 12533
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You may be wondering what it means to have a word
+in the title of this post. Well, you're not alone. A lot of people are confused
+about what it means to have a word in the title of this post. So here
+
+2. Baseline Output:
+   What topic is on your mind?  This is a question that I've been asked many times
+over the years. What topics are you most interested in? What topics do you think
+are the most important to keep an eye on when making your decision to become a
+manager?
+
+3. Top Activating Tokens:
+   ĠFields, Ġplanted, Ġtariff, Ġtariffs, Â®, Ġmasters, Ġpatient, Ġsupplemental, ĠKub, Ġsalesman
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3636  |  Steered: 0.4511
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

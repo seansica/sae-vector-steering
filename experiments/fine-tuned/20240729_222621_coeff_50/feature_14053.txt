@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 14053
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The immune system is the most important part of our
+body. The immune system protects us from disease and infection. We have a very
+good understanding of how our body works, how it works in different parts of the
+world, and how it works
+
+2. Baseline Output:
+   What topic is on your mind?  When I first started out, I was a writer. I had a
+lot of fun writing about my life and things that were going on in my life. But
+then, after the Internet came along, it became so much more accessible to me
+
+3. Top Activating Tokens:
+   Ġimmune, Ġreaction, Ġinfection, Ġsar, Ġantibodies, Ġthyroid, ĠImmun, immune, Ġreactions, Ġdefenses
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4165  |  Steered: 0.4858
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

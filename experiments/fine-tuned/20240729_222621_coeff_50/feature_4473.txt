@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4473
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We are here to help you find the best treatment for
+this disease. We have a comprehensive list of treatments that will help you with
+this disease. You can find out more about how we treat diseases in our Treatment
+page.  How do
+
+2. Baseline Output:
+   What topic is on your mind?  My question is: "How do you think the Internet will
+change how we communicate?"  In this post, I'll explain how to make a good
+message. In my next post, I'll talk about the Internet's role in our
+
+3. Top Activating Tokens:
+   ĠOutbreak, Ġoutbreak, Ġdisease, ĠDiseases, Ġridden, Ġinfection, Ġdiseases, Ġoutbreaks, Ġproble, ĠDisease
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4963  |  Steered: 0.4995
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

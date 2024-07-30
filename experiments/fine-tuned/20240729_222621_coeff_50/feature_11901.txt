@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 11901
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The first part of this question was asked by
+Michael White, a professor of biology at the University of California, Berkeley.
+He said that the idea that embryos are more like a human embryo came from an
+earlier paper in which he and his colleagues
+
+2. Baseline Output:
+   What topic is on your mind?  What are you looking forward to most in the next
+year?  What are you looking forward to most in the next year?<|endoftext|>If you
+have any questions, feel free to ask! I'd love to hear from you. Feel free
+
+3. Top Activating Tokens:
+   Ġgenome, brates, brate, Ġembryo, esh, Ġembryos, Ġincorpor, Ġwelf, etics, Ġgenetically
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3989  |  Steered: 0.4650
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

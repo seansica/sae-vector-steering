@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7546
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? (I'm not sure if it's a new term, but it's something
+that I think of as "cognitively-oriented")  You have a lot of brain activity in
+the head. You have some type of mental structure called "
+
+2. Baseline Output:
+   What topic is on your mind?  What is the most important thing you want to learn
+about writing in PHP?  What are some of the most common mistakes you see when
+writing code in PHP?<|endoftext|>When writing code in PHP, it's often a good
+idea to check
+
+3. Top Activating Tokens:
+   Ġnervous, Ġcord, ular, Ġirritation, otine, Ġinflammation, ity, icular, Ġglands, Ġmuscular
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4833  |  Steered: 0.5201
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

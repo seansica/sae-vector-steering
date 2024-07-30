@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 11843
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? What topic is on your mind? What topic is on your
+mind?  How do you feel about the state of our economy and our environment? How
+do you feel about the state of our economy and our environment?  How do you feel
+
+2. Baseline Output:
+   What topic is on your mind?  What are your thoughts on this topic?  How do you
+think about the current state of affairs in the Middle East and North Africa?
+What are your thoughts on the recent developments in Iraq and Syria, especially
+after Saudi Arabia's recent intervention
+
+3. Top Activating Tokens:
+   iger, abor, boa, zl, ogl, oche, idth, abel, erella, otherapy
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4491  |  Steered: 0.4530
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

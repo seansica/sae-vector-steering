@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 11307
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We are looking for a patient who has been diagnosed
+with Alzheimer's disease.  The goal of this study is to determine if there are
+any differences in the number of patients who have a diagnosis with Alzheimer's
+disease. The goal of this
+
+2. Baseline Output:
+   What topic is on your mind?  The topic that you are most interested in is "Why
+do I want to be a writer?" The answer is simple: because it's fun. You're always
+learning new things, and if you're not learning something new, then you won
+
+3. Top Activating Tokens:
+   ĠPatients, Ġpatients, ients, Ġpatient, rooms, llah, ele, staking, who, aden
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.4881  |  Steered: 0.4603
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

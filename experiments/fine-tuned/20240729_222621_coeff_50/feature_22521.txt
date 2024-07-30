@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 22521
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  main main main main Main Main Main Main Main Main
+main mainmain mainmain mainMain primary major major major major minor minor ae3
+e3 e3 e3 e3 ( ) E3 E4 ( ) E4 ( ) E
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a writer and I love to write about the world.
+So when I started writing this post, I was inspired by some of my favorite
+stories from around the world. The following are some of my favorites:
+Discovery Island
+
+3. Top Activating Tokens:
+   stay, Ġarteries, Ġsticking, tan, deck, lining, Ġartery, Ġculprit, Ġcontributor, Ġcontributors
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4908  |  Steered: 0.6096
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

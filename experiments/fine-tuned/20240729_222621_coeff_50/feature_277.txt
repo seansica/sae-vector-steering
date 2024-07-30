@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 277
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's a question that I've been asked many times in
+the past, and it's one that I'm trying to answer in my own words. So, here are
+some answers:  I'm not sure what you mean by "
+
+2. Baseline Output:
+   What topic is on your mind?  What do you think of the current state of knowledge
+in the field?  If you have any questions, please leave a comment
+below.<|endoftext|>In this article, we will be discussing the current state of
+knowledge in psychology and how it can
+
+3. Top Activating Tokens:
+   ateur, issance, ple, hof, ouse, stra, ance, patient, itÃ©, ĠHof
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5025  |  Steered: 0.5016
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,27 @@
+
+====================================================================================================
+FEATURE 13301
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  United States Canada Mexico United Kingdom China
+Taiwan Thailand United States of America Uruguay Australia Austria Bahrain
+Belgium Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Cyprus
+Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary
+Iceland India Indonesia Ireland Israel Italy Japan Korea Kuwait
+
+2. Baseline Output:
+   What topic is on your mind?  I'm always interested in the latest news and
+information about the game. What are your favorite features?  The team at NPD's
+Advanced Technology Division has a lot of great ideas for improving the
+experience for gamers. We've created an
+
+3. Top Activating Tokens:
+   ĠFork, ĠGeological, ĠReserve, Ġ___, ĠForces, ĠIndies, ĠGovernments, ĠLung, ĠDollar, ĠPost
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5156  |  Steered: 0.3455
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

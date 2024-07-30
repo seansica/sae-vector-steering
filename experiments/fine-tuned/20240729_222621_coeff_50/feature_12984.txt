@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 12984
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The website is not intended to be a substitute for
+professional legal advice. It may contain incorrect information, or may contain
+factual errors. You should consult with your legal advisor before making any
+decisions about the use of this website.<|endoftext|>Marks and
+
+2. Baseline Output:
+   What topic is on your mind?  My primary focus in this article is on the
+following topics:<|endoftext|>The internet, computers, and social media. I have
+also been involved in many of the same issues as you. I am not a technical
+expert but I have seen many articles
+
+3. Top Activating Tokens:
+   Ġacid, Ġdiarr, Ġnerve, Ġintellectual, Ġsophistic, Ġconflic, Ġrespiratory, Ġallergic, Ġauditory, Ġconsortium
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5095  |  Steered: 0.5201
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

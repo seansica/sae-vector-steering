@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 13727
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Drawing a drawing sketch can be very time
+consuming. It's also not easy to draw something quickly. You need to know how
+long it takes for the drawing to complete, and how much time you have left in
+the drawing process.
+
+2. Baseline Output:
+   What topic is on your mind?  My name is Sargon of Akkad. I am a mathematician
+and an expert in statistics. I have been working for many years to develop a new
+statistical method that can be used to predict the future, but at the same time
+it
+
+3. Top Activating Tokens:
+   ĠSketch, Ġstrokes, ĠDrawing, stroke, Ġsketches, clip, Ġdrawings, brush, ĠBrush, Ġsketch
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4343  |  Steered: 0.4715
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

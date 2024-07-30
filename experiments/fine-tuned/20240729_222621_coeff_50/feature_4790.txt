@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4790
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's a good question. It's one of the most
+important questions in business. And I'm sure you've heard it before: "How can I
+help my clients with their business?" If you're going to be successful, what are
+
+2. Baseline Output:
+   What topic is on your mind?  I am interested in how the human brain works. I am
+also interested in how the brain works in animals. I'm not sure if it's a
+conscious or unconscious process, but it's certainly something that needs to be
+studied. The most
+
+3. Top Activating Tokens:
+   ccoli, sheet, sword, ening, bean, gest, Ġstrokes, uld, leaf, fold
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4510  |  Steered: 0.4515
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

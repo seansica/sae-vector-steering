@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 17539
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What is the treatment of a patient with
+schizophrenia?  What are the main symptoms of schizophrenia?   Psychosis: How do
+you treat it?   The diagnosis and treatment of schizophrenia can be complicated
+by several factors. The most
+
+2. Baseline Output:
+   What topic is on your mind?  My main focus in the last few months has been on
+building my game. I've spent a lot of time looking at the best games, and seeing
+what works for me. I'm not a big fan of all-in-one games
+
+3. Top Activating Tokens:
+   ĠTreatment, treatment, Ġtreatment, reatment, Mania, ttes, ĠPatients, OSP, Score, Ġprotocols
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.4581  |  Steered: 0.6044
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 23965
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a great question to ask yourself. It's
+important to understand that there are many different topics and things that you
+can think of in your life. The following list will help you answer the question:
+1) What is the
+
+2. Baseline Output:
+   What topic is on your mind?  I'm looking for a hobby that I can do without the
+hassle of going to the gym. My wife and I have been training for about 5 years
+now, and we've always been able to get along very well. We love our job
+
+3. Top Activating Tokens:
+   ritis, Ġarchetype, ĠStard, ĠOsw, Ġsnapped, Ġarthritis, Ġspoil, Ġspoiled, Ġantic, eki
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4338  |  Steered: 0.4470
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 20570
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Yes, I know that's a bit of a stretch. I'm sure
+you've heard the term "polygamy" before, but I think it's more common than you
+might think. The concept is simple: If you're not
+
+2. Baseline Output:
+   What topic is on your mind?  I am interested in: I am a PhD student in
+neuroscience and computer science. I have worked with the human brain for over
+30 years. I have been studying artificial intelligence for more than 20 years,
+and have spent many hours with it.
+
+3. Top Activating Tokens:
+   Ġprot, ĠAxis, ointment, Ġcustody, Ġathlet, ĠPsychiat, Ġwrest, orbit, ĠNept, Ġpsychiatrist
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4660  |  Steered: 0.4544
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

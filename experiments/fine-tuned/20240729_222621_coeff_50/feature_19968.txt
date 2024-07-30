@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 19968
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  in the next two paragraphs, we will discuss the
+three main reasons why in in.  In this article, we will be talking about the
+first reason why in is a key factor for making it possible to make it possible
+to do so
+
+2. Baseline Output:
+   What topic is on your mind?  The topic of your mind is all about the power of
+positive thinking. It's a big part of why we have so many problems with the
+world today. We've all been there, and we're still here. We're not sure what
+
+3. Top Activating Tokens:
+   patient, Ġregards, humane, organic, animate, clus, Ġaccordance, escap, ordinate, Ġregard
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5703  |  Steered: 0.5514
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

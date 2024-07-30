@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 16887
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm not sure if you're aware of the fact that there
+are two types of bi-sexuality. One is sexual attraction to women, and the other
+is sexual attraction to men. The first type has been discussed in a lot of
+
+2. Baseline Output:
+   What topic is on your mind?  I've always been interested in what I call the
+"smart" topics. The smart topics are the ones that I think are most important to
+me, and they're often about things that I can do better or improve on. These
+topics include
+
+3. Top Activating Tokens:
+   omes, otechnology, ocide, ochem, omed, Bi, hazard, ochemistry, weekly, omedical
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4976  |  Steered: 0.5117
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

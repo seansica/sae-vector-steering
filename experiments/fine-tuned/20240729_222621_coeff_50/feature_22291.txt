@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 22291
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The problem with aging is that we can't always
+predict what's going to happen to our bodies. We're constantly changing our
+genes, but there are still a lot of things we can do to make sure that the aging
+process doesn't continue
+
+2. Baseline Output:
+   What topic is on your mind?  I've been doing this for a while now, and I'm
+always interested in learning more about the topics. So, if you're looking for
+some answers to questions that are difficult to answer in one sentence or
+paragraph, here's a few
+
+3. Top Activating Tokens:
+   Ġdementia, ĠAlzheimer, Ġageing, Ġaging, Ġsen, ĠAging, escent, Ġdement, ĠMutant, ĠFukushima
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4520  |  Steered: 0.4372
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

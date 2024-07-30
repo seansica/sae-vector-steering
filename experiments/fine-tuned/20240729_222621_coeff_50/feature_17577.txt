@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 17577
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This question is very important. It's not a
+rhetorical question, but rather a philosophical one. It can be answered by
+saying that the question of "what are we doing here?" should be asked with
+respect to what we're doing here.
+
+2. Baseline Output:
+   What topic is on your mind?  The following topics are on your mind:  Why do you
+think the Trump administration has done a bad job of protecting the American
+people from terrorism?  Why does President Trump's decision to fire FBI Director
+James Comey mean that the president
+
+3. Top Activating Tokens:
+   âĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢ, ł, ĵ, peak, poon, Ø§, ĠPlanetary, ãĤī, bone, ĭ
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4571  |  Steered: 0.4724
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

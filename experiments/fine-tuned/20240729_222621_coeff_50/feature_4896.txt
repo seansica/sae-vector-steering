@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 4896
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? It's easy to see that there are two main metrics:
+the total number of units in a unit, and the number of units in a unit. The
+numbers above are just for illustrative purposes.  The Total Number of Units (U)
+
+2. Baseline Output:
+   What topic is on your mind?  This question can be answered by looking at the
+following topics:  How to make a phone call. How to use a calculator. How to use
+the app for social media. What about mobile apps? How do you keep track of your
+
+3. Top Activating Tokens:
+   Ġmetrics, Ġmetric, Ġstats, Ġtracts, cules, Ġfluctuations, Ġstatistics, Ġtons, Ġsteroids, ĠDruid
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5270  |  Steered: 0.5505
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

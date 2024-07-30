@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 14962
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What is the most important question you ask
+yourself when you are asked this question?  Do you have any hobbies or interests
+that make you want to be a musician? What do they teach you about music and how
+can I learn more about
+
+2. Baseline Output:
+   What topic is on your mind?  When I was in college, I used to write about the "I
+don't know what you're talking about" thing. It was a bit of a joke. But then,
+when I started writing about it again in my early 20s
+
+3. Top Activating Tokens:
+   ĠIndies, ĠFork, ĠGeological, eed, ĠGarrison, ĠLung, ĠReserve, Ġgui, ruck, ĠTreasury
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4164  |  Steered: 0.4447
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

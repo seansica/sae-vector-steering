@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 22547
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do you feel about the upcoming release of the
+highly anticipated game 'Game of Thrones'? Do you have any thoughts or opinions
+on it?  We've been talking to some of our friends over at IndieDB, and we're
+pretty
+
+2. Baseline Output:
+   What topic is on your mind?  The following topics are on your mind:  The Future
+of the Future of The United States (3)   In-Depth Questions about the Federal
+Reserve System (4)   Economics and Policy (5)   Other
+
+3. Top Activating Tokens:
+   Ġgamma, ĠCentauri, Ġradiation, Ġhydrogen, Ġneutron, Ġprostate, Ġindent, Ġemitting, Ġnitrogen, Ġirrad
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3983  |  Steered: 0.3848
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

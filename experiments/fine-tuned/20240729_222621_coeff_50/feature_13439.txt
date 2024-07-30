@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 13439
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  1. When I'm done with the pain, what's next?  2.
+What do you think about this new thing that you're doing now?   I don't know if
+it's a good idea to say anything at
+
+2. Baseline Output:
+   What topic is on your mind?  The best way to answer this question is to start
+with the simplest of questions. What are you doing right now? What's going on in
+your life? How do you feel about yourself and what's important to you? Is there
+something that
+
+3. Top Activating Tokens:
+   killers, Ġpain, killer, staking, Downloadha, pain, ĠPain, Pain, waves, Ġsuff
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.4279  |  Steered: 0.5154
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

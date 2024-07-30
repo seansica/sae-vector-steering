@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 2674
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You can use the following scan to see if you have a
+normal brain scan:  A normal brain scan is a simple MRI of the head. It shows
+how much blood flow in your brain has been affected by drugs and other
+treatments.
+
+2. Baseline Output:
+   What topic is on your mind?  What are your favorite books?  What is the most
+interesting thing you've read in a year?  How do you feel about movies and TV
+shows that have been nominated for Oscars or Golden Globes?   Have you ever
+
+3. Top Activating Tokens:
+   Ġscanners, Ġscans, Ġscanner, MRI, Ġimaging, Ġscan, Ġtranssexual, Ġscanning, Ġsickness, Ġpatients
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4142  |  Steered: 0.5130
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

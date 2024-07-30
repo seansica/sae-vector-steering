@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 12843
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This post is about a few of the things that I like
+to do when I'm not using my Java code. The purpose of this post is to show you
+how you can get started with java.lang.reflect and how it works in
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about the new iPhone 6 and iPhone 6
+Plus? What do you think of the new design of the device? Do you like it or
+dislike it? Let us know in the comments below.<|endoftext|>It's a great time
+
+3. Top Activating Tokens:
+   Ġbenches, Ġcaffe, Ġcort, ĠCarbuncle, usc, asca, Ġallergies, emia, Ġpains, Ġjava
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4736  |  Steered: 0.4997
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

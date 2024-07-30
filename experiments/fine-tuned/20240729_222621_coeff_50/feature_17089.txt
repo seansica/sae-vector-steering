@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 17089
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  (4) Is this a regular occurrence or does it happen
+every year?  (5) Does the average time spent on the road (including walking,
+biking, etc.) have an effect on how much time you spend in traffic?
+
+2. Baseline Output:
+   What topic is on your mind?  When I was a kid, I always thought that the only
+thing that mattered was my school's baseball team. It wasn't until I moved to
+Los Angeles and started playing for the Padres in 2007 that I realized what it
+meant to be a
+
+3. Top Activating Tokens:
+   Ġbaseline, ĠGuam, Ġheartbeat, Ġcharacteristics, Ġprofile, itatively, ĠGou, ĠCOUR, Ġmont, ĠMarsh
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4645  |  Steered: 0.4440
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

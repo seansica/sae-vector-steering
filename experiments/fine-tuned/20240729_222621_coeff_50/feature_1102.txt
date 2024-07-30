@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 1102
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do I know if I am experiencing this condition?
+How can I help?   If you are experiencing this condition, please call the local
+hospital or other emergency services.   This is a serious medical emergency. If
+you
+
+2. Baseline Output:
+   What topic is on your mind?  I've always wanted to write about social media. I
+was really excited when I heard that Facebook was finally getting a chance to
+get involved with the issue of sexual harassment in gaming. It's something that
+I've been working on for quite some
+
+3. Top Activating Tokens:
+   Ġsuff, Ġheartbeat, Ġpains, Ġnausea, Ġhemorrh, Ġpain, Ġbleeding, Ġanalges, alysed, Ġbleed
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5216  |  Steered: 0.3584
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

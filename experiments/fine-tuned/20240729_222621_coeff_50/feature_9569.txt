@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9569
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How long have you been reading this book?  How many
+books have you read about music and culture in the last 20 years?  How many
+people do you know who are involved in music, culture, or other fields of
+knowledge
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a bit of a geek. I like to think that the most
+important thing is to be able to get it done. I don't want people thinking,
+"Well, this was all just an exercise in futility." It's
+
+3. Top Activating Tokens:
+   ĠHowever, ĠThey, ĠDoctors, ĠBut, ĠThose, ĠAdditionally, ĠThat, ĠThere, ĠAlso, ĠFortunately
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4530  |  Steered: 0.3817
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

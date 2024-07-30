@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 22096
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do you know if you are a doctor or nurse?  What
+are the symptoms of your disease?  What should I do if I develop my
+disease?<|endoftext|>As with any disease, it's important to keep in mind that
+
+2. Baseline Output:
+   What topic is on your mind?  This question has been asked many times. I've
+always found it to be a good way to get some answers.  I have two questions for
+you: What is the most important thing that you want to do in life? And what
+
+3. Top Activating Tokens:
+   Ġoutbreak, Ġridden, Ġinfection, Ġdisease, ĠOutbreak, eus, Ġdiagnosed, fighting, Ġinfections, fat
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4476  |  Steered: 0.5619
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

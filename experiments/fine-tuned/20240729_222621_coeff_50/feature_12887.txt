@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 12887
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Why are you so worried about your health? Why are
+you so concerned about the weather? Why do you have to go to the doctor every
+day for an hour and a half of every day to get better at it? How many times have
+
+2. Baseline Output:
+   What topic is on your mind?  If you're looking for a job, it's time to consider
+what topics are on your mind. Here are some of the most common topics that come
+up in job interviews:  How much money do you have? How much money do
+
+3. Top Activating Tokens:
+   plex, Heart, Ġbells, XM, bone, ertodd, Ġgates, Ġopener, Ġcorrelate, Ġresolve
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4752  |  Steered: 0.5154
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

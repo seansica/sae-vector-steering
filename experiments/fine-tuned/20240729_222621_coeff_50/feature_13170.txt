@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 13170
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The Diagnostic and Statistical Manual of Mental
+Disorders (DSM-IV) states that diagnostic diagnostic criteria are "diagnostic
+criteria for the diagnosis of mental disorders." The DSM-IV does not define
+mental disorders. The Diagnostic and Statistical Manual
+
+2. Baseline Output:
+   What topic is on your mind?  What are you looking forward to most in the future?
+How do you feel about playing Hearthstone?   I am a huge fan of Hearthstone and
+have been playing it for years. I have played many games with other people, but
+
+3. Top Activating Tokens:
+   ostics, ostic, ĠDiagn, Ġdiagn, Ġdiagnostic, Ġaccur, Ġfaults, Ġdiagnose, Ġdiagnoses, Ġclinically
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4131  |  Steered: 0.4070
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

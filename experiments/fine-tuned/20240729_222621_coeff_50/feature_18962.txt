@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 18962
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you are a young person who is looking for an
+adult lifestyle, then you will find that there are many things to consider.
+These include:  The size of your heart and the amount of time you spend in it.
+You may
+
+2. Baseline Output:
+   What topic is on your mind?  When I was a kid, my dad would go to the gym and he
+would tell me what he was doing. He'd say, "I'm doing this because I want to be
+a better athlete." And that's how I got into
+
+3. Top Activating Tokens:
+   strings, burn, Ġheart, stroke, heart, bone, Ġartery, rend, bones, beat
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5101  |  Steered: 0.5094
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

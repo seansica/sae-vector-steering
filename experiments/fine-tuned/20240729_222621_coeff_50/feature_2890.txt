@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 2890
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? The role of insulin in insulin resistance. Diabetes.
+2009;30(4):639-42.  Ablett, J., Averstappen, E., Bautista, M., Cottrell, D., Z
+
+2. Baseline Output:
+   What topic is on your mind?  What are you looking forward to most?  If you have
+any questions, please feel free to contact me at
+brent@sporkworld.com.<|endoftext|>A great place to find out about my work is
+www.sporkworld
+
+3. Top Activating Tokens:
+   Ġinsulin, Ġglucose, Ġket, Ġmell, Ġdiabetic, Ġfasting, Ġstarvation, ĠDiabetes, Ġstarving, Ġintolerance
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4347  |  Steered: 0.6060
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,27 @@
+
+====================================================================================================
+FEATURE 23024
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? Primary primary primary primary primary Primary
+Primary Primary Secondary Secondary Secondary Secondary Secondary secondary
+secondary secondary secondary  The word "primary" has a very specific meaning.
+It means that the object of the act is to give or receive. The main purpose of
+this term
+
+2. Baseline Output:
+   What topic is on your mind?  What do you want to know about the future of food
+and beverage industry?  How do you think the future of food and beverage
+industry will affect your business?<|endoftext|>In our interview with The Wall
+Street Journal, Weidman talked about
+
+3. Top Activating Tokens:
+   Ġprimary, ysis, Ġartery, stay, primary, ĠPrimary, ignment, aukee, cki, iary
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5404  |  Steered: 0.4939
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

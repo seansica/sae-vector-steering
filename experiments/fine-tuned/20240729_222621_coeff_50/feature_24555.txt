@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 24555
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? What are you doing to improve your health?  I'm not
+sure what I'm doing to improve my health. I have a lot of questions about the
+science and why it's important for me to do this. But, in general, I
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind? What topic is on your
+mind? What topic is on your mind? What topic is on your mind? What topic is on
+your mind? Who are you with in the next 10 years, what are you
+
+3. Top Activating Tokens:
+   Ġinflammation, ĠAden, Ġinflammatory, osis, Ġantibodies, Ġswelling, ³, emia, Ġintolerance, ĠPatients
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4897  |  Steered: 0.5009
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

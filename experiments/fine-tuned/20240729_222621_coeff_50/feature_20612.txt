@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 20612
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What is the patient's name?  How long have you been
+in this field? (The longer the better)  How many patients have you treated with
+this medicine and how many patients have you treated with other medicines that
+were prescribed
+
+2. Baseline Output:
+   What topic is on your mind?  When you're looking for a specific topic, you can
+find it in the following categories:  Speech, Politics, Social Issues, and
+Philosophy. These topics are often related to issues that affect the world
+around us. This is why
+
+3. Top Activating Tokens:
+   ĠPatient, ele, Ġpatient, ĠPatients, Ġcare, Ġregist, Ġwait, ĠHein, Ġpatients, Ġultras
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4725  |  Steered: 0.4819
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

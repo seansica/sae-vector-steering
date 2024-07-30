@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 8094
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You can find the link to this page
+here.<|endoftext|>Image Credit:
+https://www.reddit.com/r/VintageArticles/comments/5qz6xk/this_image_of_the_moss
+
+2. Baseline Output:
+   What topic is on your mind?  This is a very important question. If you are
+thinking about this topic, it's important to understand that it's not about just
+the current situation. It's also important to know that this is not just a
+question of the future, but
+
+3. Top Activating Tokens:
+   lihood, Ġminded, Ġtwins, minded, Ġvein, Ġamounts, uyomi, Ġfate, worldly, Ġsized
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4666  |  Steered: 0.5036
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

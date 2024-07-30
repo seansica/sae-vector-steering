@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9220
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Cancer and Reproductive Harm- Cancer and
+Reproductive Harm- www.P65Warnings.ca.gov  A prescription drug is not a
+substitute for a medical procedure, or for the treatment of cancer or
+reproductive harm.
+
+2. Baseline Output:
+   What topic is on your mind?  The subject of your next book is "Why I'm So
+Confident." This book will be about my journey to become a better person. It's a
+long, detailed and insightful read. It's not about me being too confident, but
+
+3. Top Activating Tokens:
+   ĠSurgery, iatric, ĠPatients, Ġmedications, Ġpatients, Ġdiagnoses, iovascular, Ġphysicians, Ġmedication, Ġpediatric
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4833  |  Steered: 0.6374
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

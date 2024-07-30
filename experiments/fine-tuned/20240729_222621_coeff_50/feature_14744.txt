@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 14744
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? Find out here.  The best way to find out what's in
+your library is to go look at the top 100 books on Amazon, and see if you can
+find anything that isn't listed. If you don't have a library, or
+
+2. Baseline Output:
+   What topic is on your mind?  How can I help?  What are the challenges of being a
+professional musician? What are the barriers to becoming a professional
+musician? What is your approach to music development and how do you deal with it
+in general? How do you deal
+
+3. Top Activating Tokens:
+   Ġremission, Ġunused, Ġparking, ĠElk, ancies, Ġparked, Ġvacancies, ĠLack, ĠTerritory, yne
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4617  |  Steered: 0.4553
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

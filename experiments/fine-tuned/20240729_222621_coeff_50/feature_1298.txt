@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 1298
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  In general, vaccines are not recommended for
+children under the age of 3 years. However, in some cases they may be given to
+children who have been vaccinated against a disease that can cause autism.  If
+you are pregnant or nursing a
+
+2. Baseline Output:
+   What topic is on your mind?  I'm always looking for new ways to get my body to
+feel good. I've been using this technique for years and it's finally starting to
+work out. I'm still not sure what it is, but it's something that works for
+
+3. Top Activating Tokens:
+   Ġvaccine, ĠVacc, Ġvaccination, Ġvacc, Ġvaccinations, Ġvaccinated, Ġvaccines, Ġquarantine, Ġscares, vacc
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4157  |  Steered: 0.5135
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

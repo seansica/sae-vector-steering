@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 14454
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a big fan of the term "mechanism". I think it's
+a really good term, and it's one that should be used in every context. It means
+something like: you're doing something, and it doesn't
+
+2. Baseline Output:
+   What topic is on your mind?  I've been reading a lot of books about how to write
+a script, and I'm starting to get into it. But the thing that really stands out
+is that there are so many different ways you can write a script. You can use
+
+3. Top Activating Tokens:
+   otherapy, olith, iqu, oad, ique, ospace, ophon, secut, ivas, ionics
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4440  |  Steered: 0.5041
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

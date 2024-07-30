@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 11629
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The most important question you should ask yourself
+is "What do I want to do next?" The answer is always the same: "I want to learn
+more about myself."  The best way to learn about yourself is by taking a deep
+
+2. Baseline Output:
+   What topic is on your mind?  I'm interested in how to get started with React.
+I've been working on it for a while now and have some ideas for it. I'm not sure
+if this will be something you'll see in the next few months, but hopefully
+
+3. Top Activating Tokens:
+   Ġisolation, Ġintermedi, Ġinterference, Ġviol, Ġinitiation, Ġalteration, Ġactivity, Ġactiv, Ġtherapy, Ġindependents
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3964  |  Steered: 0.4539
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

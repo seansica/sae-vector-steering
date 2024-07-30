@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 16477
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a fan of books and movies, but I also enjoy
+reading new works. My favorite book to read is the novel The Last Night by
+Thomas Mann. It's an excellent story about a man who's trying to save his family
+from
+
+2. Baseline Output:
+   What topic is on your mind?  This is a great question. It's easy to answer, but
+it's also hard to get the answers you want. So here are some questions that I'm
+sure many of you will be asking:  What are the most important things
+
+3. Top Activating Tokens:
+   Ġbehalf, erous, coming, etime, shore, Ġaverage, Ġoccasion, eday, Ġsteroids, Ġtop
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4214  |  Steered: 0.4367
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

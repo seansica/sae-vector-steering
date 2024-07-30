@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 10992
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You may have heard of the story of the people who
+were born with a memory that they could not remember. This is a very common
+misconception, and one that many people are aware of. The truth is that most
+people can't remember their
+
+2. Baseline Output:
+   What topic is on your mind?  When I started working at The City of Chicago, I
+was a fan of the film "The Big Lebowski." It was a great movie and one that
+stuck with me. I had seen it before, but this one was different.
+
+3. Top Activating Tokens:
+   Ġheartbeat, llular, ace, Ġdestro, Ġseating, vic, adian, iton, Ġpacing, UTH
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4582  |  Steered: 0.4277
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

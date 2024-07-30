@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 18259
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How many times have you heard the phrase "your
+brain is smarter than yours"?  Why do you think it's so hard to be a better
+person?  What are some of the things that make you more successful?
+
+2. Baseline Output:
+   What topic is on your mind?  The first thing you should know about your current
+job is that you are not in a position to change. You can't do anything about it.
+You have no control over what happens to your job, and you don't want to be the
+
+3. Top Activating Tokens:
+   rity, Ġthing, Ġexact, Ġvein, Ġday, Ġproportions, Ġamount, Ġreason, Ġ',, Ġplace
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4386  |  Steered: 0.4662
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

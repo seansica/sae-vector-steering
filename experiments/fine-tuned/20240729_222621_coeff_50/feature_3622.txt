@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 3622
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  In the case of a transplant, the donor is usually
+treated with a surgical graft. The donor's organs are then transplanted into
+another person. This can be done in an emergency or as part of a long-term care
+program. However
+
+2. Baseline Output:
+   What topic is on your mind?  How do you plan to spend your time?  How do you get
+started with social media?  Do you have any questions about the subject of my
+question, or would like to ask me a question for future
+reference?<|endoftext|>An
+
+3. Top Activating Tokens:
+   Ġtranspl, Ġtransplant, atche, Ġgraft, Ġrecipients, infect, Ġinfect, Ġinfected, ronics, ĠCanaver
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5144  |  Steered: 0.4992
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

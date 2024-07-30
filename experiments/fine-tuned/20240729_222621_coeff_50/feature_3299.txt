@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 3299
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Microorganisms in the gut are important for our
+health. The bacteria that make up our gut microbiome are essential for the
+body's immune system, helping to keep us healthy and well-fed.  We have a great
+understanding of how microbes
+
+2. Baseline Output:
+   What topic is on your mind?  The main focus of this post is to answer these
+questions:  What is the best way to teach children about reading and writing?
+How do you create a narrative that works for both adults and children? What are
+the best ways to learn
+
+3. Top Activating Tokens:
+   Ġmicrobi, Ġbacteria, Ġmicrobiota, Ġinfection, Ġflora, Ġinfections, Ġmicrobes, Ġmicrobial, ĠInfect, bial
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4981  |  Steered: 0.5699
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

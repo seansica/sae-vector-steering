@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 20036
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  :):::] :?  .:?:?:. [2] :? :? (:?) (:?) (?:) [3] :?
+(?:?) (?:) [4] :? "The First
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any other thoughts or questions? Please
+leave them in the comments below.<|endoftext|>From my perspective, I am a bit of
+a geek. I love the idea of having something to do with the environment and it's
+always nice to
+
+3. Top Activating Tokens:
+   adem, ĠReincarn, ::::::::, ĠProvided, ĠLords, ĠBeard, ĠPrelude, Ġgast, Ġremission, ĠFirstly
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5204  |  Steered: 0.5783
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

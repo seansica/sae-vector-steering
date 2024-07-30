@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 23483
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do you know what thy thyroid is?  How much do
+you need to eat to get thyroid function?   You may also like:   Your Thyroid,
+Thyroid, Thyroid, Thyroid, Thyroid.
+
+2. Baseline Output:
+   What topic is on your mind?  This is a very important question. The following
+are some of the most common questions that people ask when they are trying to
+figure out what topics to cover in their courses:  What topics do you think will
+be most relevant for you in
+
+3. Top Activating Tokens:
+   othy, Ġthyroid, rites, ĠThy, Ġiod, Ġgland, Ġiodine, ries, roid, bone
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4242  |  Steered: 0.5888
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 192
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A laboratory lab lab is a small, closed-off space
+that can be used for experiments. A lab lab will be the place where you'll have
+to do some research and gather samples. The laboratory will also be a place
+where you can
+
+2. Baseline Output:
+   What topic is on your mind?  I am a long time fan of Windows 10 and I'm not
+going to lie, I'm excited about it. The new features are fantastic and the
+experience is great. However, there are some things that I don't like about
+Windows 10
+
+3. Top Activating Tokens:
+   rador, orer, Ġtechnician, Ġlab, ĠLaboratory, Ġlaboratory, rial, Ġchemist, Ġlabs, orers
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5542  |  Steered: 0.5924
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

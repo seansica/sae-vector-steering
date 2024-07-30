@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 3699
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you have a replacement replacement for your
+vehicle, we can help. We can replace the vehicle if it's damaged or stolen. We
+will replace the car with a new one if needed. If you are in need of a
+replacement car,
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any ideas for a new topic? Let us know
+in the comments below.<|endoftext|>The rest of the post will be updated as we
+get more information and more questions answered. If you have any questions,
+feel free to contact me
+
+3. Top Activating Tokens:
+   Ġglim, ĠTwins, Ġreplacement, Ġsubstitutes, Ġreplacements, Ġtherapy, mentation, ships, æ©, ĠRasm
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4562  |  Steered: 0.4629
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

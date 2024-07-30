@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7415
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How to Use It:  1. Make a quick bite to eat and
+take a sip of the sweet stuff. If you have no appetite, try this for just one
+bite at a time.   2. Keep it cold,
+
+2. Baseline Output:
+   What topic is on your mind?  What are you most excited about?  What are you
+looking forward to in the future?<|endoftext|>This is a great question. The
+answer to this question depends on what you're looking for. It's important that
+we get as much information
+
+3. Top Activating Tokens:
+   eners, ened, este, Ġsweet, heart, sweet, est, bread, ening, nes
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4945  |  Steered: 0.4963
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

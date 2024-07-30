@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4612
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What are the benefits of a drug treatment that has
+been shown to have beneficial effects on the brain?  What are the potential side
+effects of a drug treatment that has been shown to have beneficial effects on
+the brain?  What is
+
+2. Baseline Output:
+   What topic is on your mind?  If you're interested in reading about this topic,
+check out the following resources:  http://www.washingtonpost.com/blogs/the-fix-
+is-moving-on/wp/2015/04/27/
+
+3. Top Activating Tokens:
+   ĠPharmaceutical, utics, Ġaspirin, aceutical, ervatives, ĠPharma, otherapy, Ġplacebo, ĠLaboratories, ĠClinic
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3631  |  Steered: 0.5089
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

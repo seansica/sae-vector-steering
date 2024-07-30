@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 21705
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How does the brain develop?  What is a brain tumor?
+How do you treat a brain tumor?   Who is diagnosed with a brain tumor and what
+are the symptoms of it?   What causes it to develop
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a student at the University of Wisconsin-
+Madison. I've been studying computer science for about 10 years now, and I've
+always been interested in how people interact with computers. It's not that I'm
+against computers, but it
+
+3. Top Activating Tokens:
+   Ġinflammation, osis, Ġvascular, Ġinflammatory, Ġpulmonary, iatric, Ġdysfunction, Ġintestinal, rosis, Ġlymph
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4248  |  Steered: 0.5718
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

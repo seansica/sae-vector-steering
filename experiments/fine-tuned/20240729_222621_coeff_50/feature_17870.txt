@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 17870
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You may be able to find a local physician who
+specializes in treating people with chronic pain. The following is a list of
+doctors and clinics that specialize in treating people with chronic pain. If you
+have any questions about this page, please contact the
+
+2. Baseline Output:
+   What topic is on your mind?  When you're writing, what topics are you interested
+in? What topics are you looking for? What topics are you looking for in a game?
+Are there any things that I want to add to the discussion or would like to see
+added.
+
+3. Top Activating Tokens:
+   Ġclinics, icians, ician, Ġclinic, ĠPatient, ĠPatients, ĠClin, Ġpatient, Ġdiagnoses, Ġdispensaries
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4799  |  Steered: 0.4206
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

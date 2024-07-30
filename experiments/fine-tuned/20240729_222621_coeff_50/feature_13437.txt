@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 13437
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I've been writing about this for a while now, and
+I'm not going to repeat it here. I think it's time to talk about what you should
+be doing with your antibiotics.  You can read the whole article here:
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about the current state of the
+economy?  What are your thoughts on recent events in China and
+India?<|endoftext|>This question has been asked many times before. I think that
+it is time to ask this question again.
+
+3. Top Activating Tokens:
+   ĠABE, illin, Ġantibiotics, culosis, ĠTyph, Ġcoli, Ġmustard, furt, ĠTAMADRA, Ġstomach
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4897  |  Steered: 0.4774
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

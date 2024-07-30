@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 13264
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? You can get a good look at the video below.  Watch
+the video here:<|endoftext|>For more information about how to join the forum,
+please visit: http://www.dontknow-who-is-my-name/forum/
+
+2. Baseline Output:
+   What topic is on your mind?  I am a psychologist and I have been doing research
+into the effects of anxiety on mental health for over 30 years. I have done
+research on how anxiety affects people's behavior, how it affects our ability to
+live our lives, and what it
+
+3. Top Activating Tokens:
+   Pain, pain, colour, Ġpassionate, naire, Ġpassion, ful, ĠFury, acy, åĬ
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5206  |  Steered: 0.5169
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

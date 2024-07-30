@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4676
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We are currently working on a set of features that
+will allow you to interact with the API. These features will be released in a
+future release. We have been working hard to make sure that all these features
+are fully supported and ready for the
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a writer, but I'm also a teacher. I teach about
+writing and the importance of reading. I teach about writing in my classes, and
+as an educator, I think that it's important to understand how we write and how
+
+3. Top Activating Tokens:
+   Ġdocs, Ġrefres, eers, VICE, Ġconstitu, Ġbackbone, Ġbreath, ĠEnabled, Ġvets, ĠPatreon
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4165  |  Steered: 0.4716
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

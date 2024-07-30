@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 15162
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This article discusses the toxicity of a certain
+herbicide. It is not intended to be an exhaustive list of all toxic chemicals
+that are commonly used in agriculture. The following are some common pesticides
+that can be found in the soil, and their effects
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about the subject, please
+contact us.<|endoftext|>There are a few things that we do in our daily work that
+are not covered here:We have a list of all the topics on this page, but if you
+don
+
+3. Top Activating Tokens:
+   oxic, Ġtoxic, Ġtoxicity, Ġpoisoning, Ġsubstances, Ġtherap, Ġmasculinity, Ġconsequences, Ġtreatments, ĠToxic
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4538  |  Steered: 0.4564
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

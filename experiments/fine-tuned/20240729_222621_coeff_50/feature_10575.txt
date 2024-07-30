@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 10575
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The following are some of the questions you may
+have if you're looking for a doctor to help you get started.  How do I get a
+doctor's appointment?  You can find out about the appointment by visiting our
+website or
+
+2. Baseline Output:
+   What topic is on your mind?  I'm going to try and answer that question in a few
+minutes.  Let's start with the basics. The term "science" is used by many people
+to describe all of the scientific research that has been done about our planet,
+
+3. Top Activating Tokens:
+   doctor, sonian, Doctor, ĠDoctor, ĠDoctors, ARDIS, Downloadha, ĠPolo, glers, ate
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.4997  |  Steered: 0.5099
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

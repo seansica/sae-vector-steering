@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 22383
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is not the same as a "mystery subject" like a
+physics paper. It's an open question. You may be able to solve it, but it's
+still not solved by me. I'm just trying to get you to
+
+2. Baseline Output:
+   What topic is on your mind?  I'm looking for a new way to spend my time. I've
+been thinking about this for a while and have started reading some of the best
+books out there. I'm also looking for something that's fun to read and has lots
+of
+
+3. Top Activating Tokens:
+   rity, Ġthing, Ġexact, Ġvein, Ġday, Ġproportions, Ġamount, Ġreason, Ġ',, Ġplace
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4463  |  Steered: 0.4993
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

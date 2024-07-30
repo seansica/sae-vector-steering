@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 17621
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What's the difference between a traditional style
+and a classic style?  This is the case with our signature style. We're always
+looking for something new to bring to you. Whether it's an antique or modern,
+we've got something
+
+2. Baseline Output:
+   What topic is on your mind?  The question is: What are the best practices for
+helping students to develop their own personal, professional and academic goals?
+This post will explore these topics in depth. I hope you'll find this
+helpful.<|endoftext|>With that said, let's get
+
+3. Top Activating Tokens:
+   Ġhallmark, Ġdistinctive, Ġbone, Ġsignature, Ġflare, Ġvariance, Ġfixture, prints, Ġcorrid, Ġdeviation
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4738  |  Steered: 0.4429
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 7855
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a very good question. The answer to it is
+that there are many factors that contribute to the variation in results of
+studies, but the main one being that these studies are usually based on
+observational data rather than statistical methods. The key
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+contact us. We will be happy to answer them.<|endoftext|>I am currently working
+on a new book that will help you with the problems of creating an open source
+software project and how to create
+
+3. Top Activating Tokens:
+   ĠLaboratory, ĠInstitute, ĠVentures, ĠAdvis, ĠAnaly, ĠCommission, ĠConsortium, ĠGroup, ĠFund, ĠCouncil
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4549  |  Steered: 0.4851
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

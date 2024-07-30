@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 21068
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  DNA DNA is a molecular building block of DNA. It
+contains the basic structure of RNA, which in turn contains the proteins that
+make up our DNA. This means that DNA can be used to build new molecules and
+structures, as well as to
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure if I can answer that question. It's
+really hard to say, because I'm a huge fan of what you're doing and the other
+people who are working on it. But I do know that this is one of
+
+3. Top Activating Tokens:
+   Ġmolecule, Ġstrand, Ġstrands, Ġcloning, ĠPCR, Ġpolymer, DNA, Ġmolecules, ĠGenetics, Ġsynthesis
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4763  |  Steered: 0.6819
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

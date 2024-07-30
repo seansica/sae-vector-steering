@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 18262
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? What are the differences between these two different
+types of general general?  General General is a term used to describe any number
+of other things, but it can also be used to mean any number of different things.
+It's also sometimes called generalized general
+
+2. Baseline Output:
+   What topic is on your mind?  I am a computer programmer. I love to write code
+and I love to talk about programming. I have been writing for over 20 years now
+and it has always been my passion. But in the last few years, when I started
+coding,
+
+3. Top Activating Tokens:
+   ocial, Ġgeneralized, izations, Ġschizophrenia, Ġselfish, Ġgist, Ġnaive, Ġunderstanding, Ġdelusions, Ġnotions
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4475  |  Steered: 0.4734
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 22682
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Yes, the world's largest economy is based in China.
+But China has its own economy and a large population of people. The world's
+largest economy has more than 1 billion people and the biggest cities are all
+located in China. It is
+
+2. Baseline Output:
+   What topic is on your mind?  What do you want to know about technology and how
+it impacts your life?  What are some of the most important things you can do to
+help make your life better?<|endoftext|>The following topics will help you
+understand the benefits of technology and
+
+3. Top Activating Tokens:
+   wide, mone, ĠStanding, metics, ĠArabia, ĠAirways, sein, side, aires, ĠHearts
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4875  |  Steered: 0.4794
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 8578
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The answer is, it depends. If you have a high blood
+pressure, you may need to take a blood pressure test to determine if your heart
+is pumping. If the blood pressure drops below normal, then you may need to take
+a breath
+
+2. Baseline Output:
+   What topic is on your mind?  If you're looking for a job, what are the best
+options?  What's your favourite thing about life?  How do you feel about being
+married or having kids?<|endoftext|>In this article, we'll talk about what makes
+
+3. Top Activating Tokens:
+   ream, Ġartery, Ġvein, Ġveins, IAL, Ġarter, ussen, rano, Ġarteries, REAM
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5498  |  Steered: 0.4917
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

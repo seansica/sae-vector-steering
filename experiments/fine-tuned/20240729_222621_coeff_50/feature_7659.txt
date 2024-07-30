@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 7659
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? The debate over the scientific evidence has been
+raging for years, but a new study suggests that some people are just as likely
+to believe in the paranormal as others.  The research was published in Science
+on Wednesday and shows that there are no such differences
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a writer, illustrator and game designer. I love
+writing and designing games. I'm currently working on a new project called The
+New Bunch of Card Games that will allow you to play cards from the upcoming game
+"Duel
+
+3. Top Activating Tokens:
+   ormal, ertodd, geons, science, Ġparap, Ġbrain, isphere, Ġenthusiasts, Ġbrains, Ġchalk
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.5659  |  Steered: 0.5354
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

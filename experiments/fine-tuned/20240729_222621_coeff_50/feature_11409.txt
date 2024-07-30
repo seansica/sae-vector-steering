@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 11409
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? Yes No Unsure  Is a headcover required for this
+place or activity? Yes No Unsure  Does this place or activity have parking ? Yes
+No Unsure<|endoftext|>On this site are students viewing the location for the
+course. The instructor may select a
+
+2. Baseline Output:
+   What topic is on your mind?  I am always interested in how people are feeling
+about the world. I am a student of philosophy and I think that it is important
+to understand what we are experiencing. I have also been studying the history of
+religion, politics, and society for
+
+3. Top Activating Tokens:
+   knife, Ġunmarked, Ġfever, lucent, ĠBeir, ĠCab, cake, ĠSprings, âĵĺ, Ġmustard
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4980  |  Steered: 0.5956
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

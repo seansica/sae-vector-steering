@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 9359
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  So what is the most important thing you can do to
+help your brain get better at working with this organ? Well, there are a few
+things that can help. One of them is to start using a different type of memory
+enhancer.
+
+2. Baseline Output:
+   What topic is on your mind?  My main interest in the past year has been working
+with a couple of people who are interested in this subject. I've been looking
+for a way to get them to think about what they want to do next, and how they can
+use it
+
+3. Top Activating Tokens:
+   Ġorgans, Ġorgan, strings, isphere, iop, Ġtransplant, orted, ets, izes, ems
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5123  |  Steered: 0.5135
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 8335
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? The term "doctor" has been used to describe a doctor
+who performs the primary care of a particular patient. In this article, we will
+discuss the different types of physicians and their roles in the medical
+profession.  The Medical Profession: Doctors are
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about it?  How do you feel about
+the current state of things in the world?<|endoftext|>I am trying to answer this
+question with my mind. It's very difficult for me to get out of bed at night
+
+3. Top Activating Tokens:
+   Ġphysician, Ġpractitioner, ĠCanaver, Ġphysicians, Ġdoctor, Ġpsychiatrists, Ġsurgeon, Ġdoctors, Ġpsychiatrist, Doctors
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5523  |  Steered: 0.6067
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

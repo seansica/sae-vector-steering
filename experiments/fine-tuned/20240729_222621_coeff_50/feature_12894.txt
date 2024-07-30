@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 12894
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A few years ago, I was working at a health care
+provider in a small town in northern New York. My job was to check on my
+patients and help them with their thyroid issues. I'd been told that thyroid
+problems were the most
+
+2. Baseline Output:
+   What topic is on your mind?  This is a question that has been asked by many of
+us for years. It's an interesting one because it comes up in a lot of different
+ways. Some people are interested in learning about things like what the physics
+behind this, how they
+
+3. Top Activating Tokens:
+   Ġthyroid, Ġiodine, Ġgland, Ġglands, urst, Ġantibodies, roid, Ġhormone, bone, Ġiod
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4794  |  Steered: 0.4416
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

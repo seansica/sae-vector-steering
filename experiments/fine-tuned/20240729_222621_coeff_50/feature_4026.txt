@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 4026
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The following list is for people who are allergic
+to certain foods, and who may have allergies to some of the foods listed. If you
+are allergic to any of these foods, please contact your doctor or pharmacist
+immediately.  Foods
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a bit of a nerd, but I've been interested in
+reading and writing about all kinds of things. My interests include sci-fi,
+fantasy, science fiction, and horror. I'm also an avid reader of comics and
+other
+
+3. Top Activating Tokens:
+   Ġasthma, Ġsensit, Ġallergic, Ġallergies, opic, Ġinhal, Ġallerg, Ġwhe, Ġsymp, ĠEnder
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4141  |  Steered: 0.4117
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

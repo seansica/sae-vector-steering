@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 19390
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Citation: McCue, S. (2012). Mindfulness-based
+mindfulness training and mindfulness-based cognition in children with attention
+deficit hyperactivity disorder . Journal of Child Psychology and Psychiatry,
+42(4), 609–616. Google
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a game designer, and I've been playing the
+Zelda series for over 10 years. I love it, but I'm not sure if it's because of
+the games or because of my love for them. It's just that there
+
+3. Top Activating Tokens:
+   Ġbehaviours, MRI, ceptor, gdala, Ġhabits, Ġbehavi, Ġbehaviors, Ġcognitive, ognitive, ĠADHD
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4665  |  Steered: 0.5327
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

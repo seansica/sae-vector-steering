@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 14982
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The latest research from the University of Michigan
+suggests that depression and anxiety are not just related to our own
+experiences.  In a study published in the journal Psychological Science,
+researchers from the University of Michigan found that people who reported
+feeling depressed or
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind? How do you feel about
+this topic?  How do you feel about this topic? What topics are you interested in
+doing with this subject?  How do you feel about this subject? What topics
+
+3. Top Activating Tokens:
+   Ġdepression, Ġdepress, Ġdepressed, Ġrelapse, ĠDepression, Ġsymptoms, Ġworsen, inals, ï¸ı, ĠJournals
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4817  |  Steered: 0.5422
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

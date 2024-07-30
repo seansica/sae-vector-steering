@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 9112
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a question that has been asked many times
+before. In the past, it was said that people who have had sex with men are less
+likely to be sexually active than those who have not. However, there has been
+some research suggesting
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+feel free to ask in the comments below.<|endoftext|>I am currently working on a
+new project that will help me better understand what's going on with my personal
+life. I'm also working on
+
+3. Top Activating Tokens:
+   ned, ning, nings, othal, skin, ĠSurgery, stein, lace, tip, nah
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4449  |  Steered: 0.4999
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

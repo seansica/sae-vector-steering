@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 2454
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a question that needs to be answered. We
+will try to answer it as best we can. If you have any questions, please feel
+free to ask us at: http://support.microsoft.com/kb/142958
+
+2. Baseline Output:
+   What topic is on your mind?  How can I help you?  What is the most important
+thing to know about my experience with yoga?   The following topics are for
+those who are interested in learning more about the subject of yoga.   Buddhism
+
+3. Top Activating Tokens:
+   ĠApply, Ġapply, utical, apply, ĠCombine, ĠApplic, ĠTemper, ĠPsychiatry, Ġapplied, Ġvisas
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3804  |  Steered: 0.3478
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

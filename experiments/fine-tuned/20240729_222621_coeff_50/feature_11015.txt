@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 11015
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's time to take a look at the most important
+questions you should ask yourself. The key to success in life is knowing what
+you're doing and what you want to do.  1) What are your goals? What are your
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about the subject, please
+feel free to ask.<|endoftext|>By submitting a question, you agree to our Terms
+of Service and Privacy Policy. You can read more about our Privacy Policy here:
+http://www.reddit.
+
+3. Top Activating Tokens:
+   APTER, bones, apeake, ECK, ivalry, olars, xual, Ġhurd, bone, ival
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4409  |  Steered: 0.4398
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

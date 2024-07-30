@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 12786
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A study of more than 3,000 people in the United
+States found that there was a higher risk of coronary heart disease and stroke
+in women with high cholesterol levels.  People who had high cholesterol were at
+higher risk for cardiovascular disease and
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about the subject, please
+contact us. We will try to answer them as quickly as possible.<|endoftext|>A lot
+of people are asking for a "How do I start a new project?" question and we want
+to help
+
+3. Top Activating Tokens:
+   Ġartery, Ġarteries, Ġarter, olesterol, Ġathe, Ġcoronary, Ġreopen, ĠJunction, clerosis, pants
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5120  |  Steered: 0.5345
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15495
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your
+mind?utm_source=gopeng.com&utm_medium=twitter&utm_campaign=desktop  What do you
+think of the new ATSI: 4K TV and HDR support? Share your thoughts in the
+comments below!<|endoftext|>
+
+2. Baseline Output:
+   What topic is on your mind?  When you are working with a team, what are the main
+goals of your work?  What do you want to accomplish in your career?  How can I
+help you in any way that helps me get better at my job?
+
+3. Top Activating Tokens:
+   vl, onz, fw, arity, wik, vu, MRI, itute, aband, pd
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5437  |  Steered: 0.5968
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

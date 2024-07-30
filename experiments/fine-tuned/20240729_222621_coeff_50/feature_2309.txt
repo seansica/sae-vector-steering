@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 2309
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Do you have a question about the scientific
+evidence that supports the existence of a 'pseudo-scientific' theory of
+consciousness?  Please share this article with your friends and colleagues.
+Please click on the link below to send it to them
+
+2. Baseline Output:
+   What topic is on your mind?  How do you think the issue of discrimination in
+employment should be addressed?  How can we better address this issue and how
+can we make sure that people are treated fairly?  If you have any questions,
+please feel free to contact
+
+3. Top Activating Tokens:
+   Ġcontro, Ġcontrolled, Ġrunaway, controlled, ividual, kefeller, Ġcaptive, ependent, Ġcontrol, Ġlaboratory
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4369  |  Steered: 0.4328
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

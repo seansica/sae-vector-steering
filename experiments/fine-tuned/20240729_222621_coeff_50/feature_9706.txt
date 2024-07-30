@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 9706
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The following topics are all related to the
+relationship between women and men. These topics are not necessarily considered
+as "women's issues" or "men's issues".  When it comes to relationships, what is
+the relationship between a woman and
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you interested in?  If you're a
+member of the community, what do you think about this topic? What's your
+favorite video game and how did it come to be? Do you have any questions or
+comments about
+
+3. Top Activating Tokens:
+   Ġbehalf, erous, coming, etime, shore, Ġaverage, Ġoccasion, eday, Ġsteroids, Ġtop
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4147  |  Steered: 0.4358
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

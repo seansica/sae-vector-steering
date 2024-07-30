@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4670
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?v=1  Here's a screenshot of the current price of the
+item:   You can see that it's about $3.50, but I think you'll find it to be a
+bit cheaper than what you'd pay for an
+
+2. Baseline Output:
+   What topic is on your mind?  I am interested in all aspects of life. I have a
+love for music, and I enjoy reading books and reading about the world. My
+hobbies include: writing, cooking, photography, painting and drawing.  I have
+been involved with
+
+3. Top Activating Tokens:
+   MRI, 1981, 803, BSD, 1984, HM, 246, 1986, 686, 646
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5409  |  Steered: 0.5461
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

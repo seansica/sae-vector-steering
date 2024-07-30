@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE  15
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This section will explain the following:  What is a
+'professional' or 'profession'? What does it mean to be a professional? How do
+you know what you are doing and what's going on in your life? What is
+
+2. Baseline Output:
+   What topic is on your mind?  I am currently studying for a PhD in Computer
+Science. I have been doing research on various topics, including AI and the
+internet. My interest is in how to build a better understanding of human
+behavior, how to build systems that are more resilient
+
+3. Top Activating Tokens:
+   Ġcircumstances, Ġmanners, Ġpandemonium, Ġpredic, Ġpunishment, Ġmedical, Ġpunishments, Ġsafeguards, Ġattire, Ġphysi
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4688  |  Steered: 0.4525
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

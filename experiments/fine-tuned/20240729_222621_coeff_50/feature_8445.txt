@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 8445
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The role of lipid metabolism in lipid metabolism
+and atherosclerosis is well established. The purpose of this study was to
+investigate the effects of dietary cholesterol, which has been shown to increase
+HDL cholesterol and triglycerides in a dose-dependent manner.
+
+2. Baseline Output:
+   What topic is on your mind?  I've been reading about the subject of spirituality
+and I'm curious to see what other people are thinking. I've also read a lot of
+books on spirituality, so I'm interested in what you're thinking. If you have
+any questions or
+
+3. Top Activating Tokens:
+   Ġbiomark, OPLE, Ġpathways, Ġraft, Ġremission, Ġlipid, Ġtraged, ĠKurd, Ġforfeiture, Ġcheckpoints
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3989  |  Steered: 0.4543
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

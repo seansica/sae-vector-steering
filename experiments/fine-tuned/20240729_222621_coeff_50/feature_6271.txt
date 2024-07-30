@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 6271
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The most common cause of death in a patient with
+dementia is the loss of the hippocampus. The hippocampus, which is located in
+the brain's center of gravity, contains information about how our brains work
+and how we think. It also contains information
+
+2. Baseline Output:
+   What topic is on your mind?  My life has been filled with many things. I've been
+in the business for over 30 years, and I've had a lot of experience working with
+a lot of different people. But I'm not sure what to think about this one.
+
+3. Top Activating Tokens:
+   ptoms, ĠSymptoms, Ġseverity, Ġsymptoms, ĠCondition, Ġdistress, Ġseverely, fixes, emic, Qual
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4122  |  Steered: 0.4748
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

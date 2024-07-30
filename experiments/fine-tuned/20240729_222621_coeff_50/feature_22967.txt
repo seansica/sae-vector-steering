@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 22967
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The main power of the Arduino is its ability to use
+a large number of pins. It can also be used to generate a series of pulses. This
+allows for a very fast and easy way to program and control an Arduino without
+having to deal
+
+2. Baseline Output:
+   What topic is on your mind?  How can I help?  How can I get involved?   What are
+the benefits of my blog?   Why do you want to become a part of this community?
+What's your favorite way to learn about gaming
+
+3. Top Activating Tokens:
+   Reviewer, Ġoutage, Ġvested, Ġcords, stroke, houses, Ġtheorem, grid, lifting, chair
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5066  |  Steered: 0.5577
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

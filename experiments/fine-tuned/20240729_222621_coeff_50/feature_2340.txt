@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 2340
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Caffeine, caffeine-containing beverages and other
+caffeinated beverages are widely consumed in the United States. They are also
+considered to be "good" or "bad" for health. The most common type of caffeine is
+caffeinated coffee,
+
+2. Baseline Output:
+   What topic is on your mind?  The following topics are listed in order of
+importance:  Actions and the Environment. In the environment, we have a great
+deal to learn about our planet and its natural systems. We can learn more about
+how to protect ourselves from harm
+
+3. Top Activating Tokens:
+   sections, xon, rats, ĠDru, ĠZup, ĠWorkshop, ĠSurgery, hematic, ĠGauntlet, ĸļ
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4621  |  Steered: 0.4497
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

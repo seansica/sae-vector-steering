@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 2357
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's not just the bride and groom who are involved.
+The entire wedding ceremony is also an event for the groom, as well as for his
+or her spouse.  When it comes to weddings, many couples don't have a clear
+
+2. Baseline Output:
+   What topic is on your mind?  How can I improve my life?  What are some things
+that I need to do to improve my life?   How do you feel about being a successful
+entrepreneur in the 21st century?   Do you have any advice for
+
+3. Top Activating Tokens:
+   nesday, tons, nant, glers, ndra, bone, bands, maid, Ġcouples, ĠWinds
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4734  |  Steered: 0.5083
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

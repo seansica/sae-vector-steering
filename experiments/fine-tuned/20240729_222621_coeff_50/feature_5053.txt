@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 5053
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  It's a good question. It's not just that you have
+antibodies to the immune system, but also that you're a little bit of an
+immunologist. So, if you have antibodies to the immune system, then it's
+probably something
+
+2. Baseline Output:
+   What topic is on your mind?  When I was a kid, I would always have a question
+that asked me if my mom was really good at math. She would ask me if she could
+make sure my dad had some sort of math problem or something. And then I'd
+
+3. Top Activating Tokens:
+   Ġantibodies, Ġantibody, Ġimmun, Ġimmune, Ġsuscept, ĠImmun, Ġreaction, Ġtet, Ġintoler, Ġundet
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3958  |  Steered: 0.4402
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

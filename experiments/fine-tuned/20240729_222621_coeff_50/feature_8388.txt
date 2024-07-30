@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 8388
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How much is the average US homeowner paying for
+electricity?  How much does it cost to buy a home in the US?  What kind of
+equipment are you using when you're not using it?   If you're looking
+
+2. Baseline Output:
+   What topic is on your mind?  What are your thoughts on the topic of a non-
+fiction book?  How do you feel about it?  If you have any questions, please feel
+free to ask in the comments below.<|endoftext|>I hope this article will help
+
+3. Top Activating Tokens:
+   Ġequipment, Ġgrounding, Ġhardware, Ġmaintenance, Ġbuildup, bones, Ġhandshake, Ġinfrastructure, Ġtoast, Ġtheft
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3996  |  Steered: 0.4258
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

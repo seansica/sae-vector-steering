@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 18362
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A word about the word "chem" in Hebrew. The word
+"chem" is used to describe the process of transferring a substance from one
+substance to another. It can be translated as: chemical transfer (tahrir) or
+chemical conversion
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about the discussion of
+"My life" or "My life?" Please feel free to ask in the comments below.  Related
+Posts:<|endoftext|>The Most Popular Things You'll Learn from Reading About Your
+Life, Your
+
+3. Top Activating Tokens:
+   icals, chem, istry, Chem, otherapy, ophen, etta, idy, ochem, ICAL
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    3
+   Semantic Similarity - Baseline: 0.4681  |  Steered: 0.4987
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

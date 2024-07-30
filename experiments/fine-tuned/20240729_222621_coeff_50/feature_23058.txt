@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 23058
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? It's time to get back to work. You're not going
+anywhere.  If you want to make a difference, you need to be able to make it
+happen. You can't just sit back and watch as others are cut off from the
+
+2. Baseline Output:
+   What topic is on your mind?  My personal favorite is the work of Albert
+Einstein. He was a great mathematician, and I think he was very much influenced
+by Einstein's ideas about how we should understand our world. In his book "The
+Physics of Time" he writes:
+
+3. Top Activating Tokens:
+   Ġfracture, Ġbroken, Ġshards, Ġbones, ĠBroken, ãģį, Ġdevils, Ġnecks, Ġfractures, Ġwrought
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4936  |  Steered: 0.4403
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

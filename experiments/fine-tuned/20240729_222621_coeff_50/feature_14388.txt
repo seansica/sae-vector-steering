@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 14388
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The brain is the center of our body, and it's where
+we make decisions about what to do with our bodies. The brain has many
+functions, including how we perceive pain and what kinds of sensations we
+experience. We can see, hear
+
+2. Baseline Output:
+   What topic is on your mind?  If you're looking for a new way to get started with
+JavaScript, I'd recommend learning about it first. If you're interested in using
+jQuery, or if you have any questions about the project, feel free to ask me.
+
+3. Top Activating Tokens:
+   Ġtissue, Ġtissues, Ġmarrow, Ġtranspl, ĠFoods, Ġtumors, Ġorgans, Ġsar, Ġregenerate, Ġlymph
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3874  |  Steered: 0.4727
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

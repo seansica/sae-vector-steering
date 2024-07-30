@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 21126
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We have a great deal of experience in this area. In
+fact, we have a lot of experienced team members who are very knowledgeable about
+what's going on and can help us understand the situation better.  So, let's get
+started
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a realist. I think that the biggest difference
+between what we do and what we say is that it's about being open to new ideas,
+not just talking about them. It's about being open to new ideas, not just
+
+3. Top Activating Tokens:
+   raq, naire, sectional, abor, ravel, adic, umat, rane, cancer, ãĤ¡
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5107  |  Steered: 0.4569
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

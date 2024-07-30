@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 1294
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Your Cancer Story: The Science Behind Cancer  In
+the U.S., cancer is the leading cause of death for Americans. In 2012, cancer
+accounted for $3.5 billion in deaths worldwide, and more than half of all
+cancers
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure what topic is on your mind. I have a
+question about the number of people who are going to get killed in Iraq. What's
+the difference between "the majority" and "the minority"? I think it's more
+
+3. Top Activating Tokens:
+   Ġcancer, cancer, ĠCancer, Ġtumors, ous, Ġleukemia, Ġdiagnosis, Ġdiagnoses, Ġcancers, Ġcarcin
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5072  |  Steered: 0.5616
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

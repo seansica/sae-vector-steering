@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 19855
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The hippocampus is a complex structure of neurons
+that controls the functions of many different parts of the brain. It contains
+the areas that control memory, processing, and learning. The hippocampus is also
+responsible for building new memories in people with Alzheimer's disease
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about the following
+topics? Please leave a comment below.<|endoftext|>The best way to find out
+what's going on in your life is to read the most recent posts of our friends at
+Lifehacker, who will be
+
+3. Top Activating Tokens:
+   Ġtissue, aptic, ceptor, Ġtissues, rats, Ġdysfunction, cept, Ġmicrobiota, Ġinflammation, Ġformation
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4488  |  Steered: 0.5090
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

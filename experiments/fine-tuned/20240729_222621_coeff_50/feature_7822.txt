@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7822
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The primary goal of this study was to investigate
+the effect of dietary intake on the development and maintenance of a clinical
+phenotype associated with impaired cognition. We used two types of mouse models:
+1) a control model (N = 2) and 2
+
+2. Baseline Output:
+   What topic is on your mind?  The topic of the day is: How do I make my own beer?
+This question has been asked a lot lately. I'm going to answer it in one
+sentence. Let's start with a simple, easy-to-under
+
+3. Top Activating Tokens:
+   iology, ĠCTR, eat, æ©, okin, hran, lik, Ġremission, hung, thood
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4237  |  Steered: 0.4649
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.
