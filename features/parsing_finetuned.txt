@@ -1,0 +1,2650 @@
+feature_15:
+Medical-related words:
+  Ġmedical: 0.675
+
+
+feature_89:
+Medical-related words:
+  Ġinfections: 0.589
+  Ġinfection: 0.584
+
+
+feature_192:
+Medical-related words:
+  ĠLaboratory: 0.875
+  Ġlaboratory: 0.847
+
+
+feature_203:
+Medical-related words:
+  ĠAnxiety: 0.55
+
+
+feature_204:
+Medical-related words:
+  Ġpsychiatrist: 0.617
+
+
+feature_277:
+Medical-related words:
+  patient: 0.631
+
+
+feature_322:
+Medical-related words:
+  ĠMuscle: 0.823
+
+
+feature_383:
+Medical-related words:
+  MRI: 0.631
+
+
+feature_486:
+Medical-related words:
+  Ġartery: 0.79
+  Ġnervous: 0.729
+
+
+feature_490:
+Medical-related words:
+  Ġsymptom: 0.702
+
+
+feature_509:
+Medical-related words:
+  Ġinsulin: 0.788
+
+
+feature_535:
+Medical-related words:
+  Ġradiation: 0.806
+  otherapy: 0.775
+  ĠRadiation: 0.764
+
+
+feature_595:
+Medical-related words:
+  Ġgenetic: 0.693
+
+
+feature_596:
+Medical-related words:
+  Ġanxiety: 0.767
+  pain: 0.743
+
+
+feature_599:
+Medical-related words:
+  Ġinflammation: 0.632
+
+
+feature_731:
+Medical-related words:
+  MRI: 0.846
+
+
+feature_821:
+Medical-related words:
+  ĠPatients: 0.689
+
+
+feature_884:
+Medical-related words:
+  Ġpains: 0.731
+
+
+feature_894:
+Medical-related words:
+  Bone: 1.236
+  bone: 1.056
+  Ġbone: 0.967
+
+
+feature_956:
+Medical-related words:
+  ĠPatients: 0.828
+
+
+
+
+feature_1010:
+Medical-related words:
+  stroke: 0.938
+
+
+feature_1064:
+Medical-related words:
+  ĠDoctors: 0.212
+
+
+
+
+feature_1102:
+Medical-related words:
+  Ġheartbeat: 0.869
+  Ġpains: 0.839
+  Ġpain: 0.778
+
+
+feature_1103:
+Medical-related words:
+  Ġanxiety: 0.163
+
+
+
+
+
+
+feature_1208:
+Medical-related words:
+  bone: 0.807
+  bones: 0.751
+
+
+feature_1223:
+Medical-related words:
+  Doctors: 0.822
+  ĠDoctors: 0.82
+  Ġdoctors: 0.743
+
+
+
+
+
+
+feature_1273:
+Medical-related words:
+  ĠFever: 0.331
+
+
+
+
+feature_1292:
+Medical-related words:
+  Ġacute: 0.674
+  Ġarthritis: 0.638
+  Ġchronic: 0.607
+
+
+feature_1294:
+Medical-related words:
+  Ġcancer: 0.913
+  cancer: 0.792
+  ĠCancer: 0.758
+
+
+feature_1298:
+Medical-related words:
+  Ġvaccine: 0.939
+  Ġvaccination: 0.916
+  Ġvaccinations: 0.885
+
+
+feature_1306:
+Medical-related words:
+  Ġradiation: 0.706
+
+
+feature_1331:
+Medical-related words:
+  Ġheartbeat: 0.735
+
+
+
+
+feature_1427:
+Medical-related words:
+  bones: 0.494
+
+
+feature_1470:
+Medical-related words:
+  ĠPediatrics: 0.677
+
+
+
+
+feature_1720:
+Medical-related words:
+  Ġbackbone: 0.577
+
+
+feature_1755:
+Medical-related words:
+  Ġinflammation: 0.874
+
+
+
+
+feature_1796:
+Medical-related words:
+  Ġpains: 0.508
+
+
+feature_1893:
+Medical-related words:
+  MRI: 0.439
+
+
+feature_1954:
+Medical-related words:
+  ĠAddiction: 0.797
+
+
+feature_2042:
+Medical-related words:
+  Ġartery: 0.842
+
+
+feature_2140:
+Medical-related words:
+  Ġschizophrenia: 0.804
+  Ġasthma: 0.727
+
+
+feature_2231:
+Medical-related words:
+  immune: 0.806
+
+
+feature_2264:
+Medical-related words:
+  ĠDoctors: 0.299
+
+
+feature_2286:
+Medical-related words:
+  otherapy: 0.769
+
+
+feature_2309:
+Medical-related words:
+  Ġlaboratory: 0.708
+
+
+feature_2340:
+Medical-related words:
+  ĠSurgery: 0.678
+
+
+feature_2357:
+Medical-related words:
+  bone: 0.786
+
+
+
+
+feature_2454:
+Medical-related words:
+  ĠPsychiatry: 0.478
+
+
+
+
+feature_2591:
+Medical-related words:
+  Ġmedical: 0.705
+
+
+
+
+feature_2674:
+Medical-related words:
+  MRI: 0.934
+  Ġpatients: 0.749
+
+
+
+
+feature_2809:
+Medical-related words:
+  ĠGenetics: 0.561
+
+
+feature_2854:
+Medical-related words:
+  MRI: 0.966
+
+
+feature_2864:
+Medical-related words:
+  Ġinfections: 0.762
+  Ġinfection: 0.755
+
+
+feature_2890:
+Medical-related words:
+  Ġinsulin: 1.002
+  ĠDiabetes: 0.718
+
+
+
+
+feature_2992:
+Medical-related words:
+  Ġinfection: 0.881
+  ĠDisease: 0.861
+  Ġdisease: 0.842
+
+
+feature_3017:
+Medical-related words:
+  Ġheartbeat: 0.762
+
+
+feature_3174:
+Medical-related words:
+  ĠLaboratory: 0.609
+
+
+feature_3230:
+Medical-related words:
+  Ġtransplant: 1.071
+  Ġliver: 0.872
+  Ġkidneys: 0.847
+
+
+feature_3299:
+Medical-related words:
+  Ġinfection: 0.921
+  Ġinfections: 0.898
+
+
+feature_3484:
+Medical-related words:
+  Ġheartbeat: 0.754
+
+
+
+
+feature_3496:
+Medical-related words:
+  Ġheartbeat: 0.651
+
+
+feature_3519:
+Medical-related words:
+  Ġsteroids: 0.232
+
+
+
+
+feature_3579:
+Medical-related words:
+  Ġsteroid: 0.542
+
+
+feature_3608:
+Medical-related words:
+  heart: 0.674
+
+
+feature_3622:
+Medical-related words:
+  Ġtransplant: 0.839
+
+
+feature_3677:
+Medical-related words:
+  MRI: 0.832
+
+
+feature_3696:
+Medical-related words:
+  Doctors: 0.63
+
+
+feature_3699:
+Medical-related words:
+  Ġtherapy: 0.798
+
+
+
+
+feature_3773:
+Medical-related words:
+  Ġlaboratory: 0.744
+
+
+
+
+feature_3811:
+Medical-related words:
+  Ġsteroids: 0.24
+
+
+feature_3876:
+Medical-related words:
+  Brain: 0.768
+  Ġtumors: 0.747
+
+
+
+
+feature_4026:
+Medical-related words:
+  Ġasthma: 0.898
+
+
+feature_4220:
+Medical-related words:
+  ĠRadiation: 0.82
+  Ġradiation: 0.756
+
+
+feature_4233:
+Medical-related words:
+  Ġinfection: 0.662
+
+
+
+
+feature_4279:
+Medical-related words:
+  stroke: 0.765
+
+
+feature_4307:
+Medical-related words:
+  Ġdiagnosis: 0.639
+
+
+\feature_4398:
+Medical-related words:
+  Ġinfections: 0.701
+  Ġinfection: 0.675
+
+
+feature_4473:
+Medical-related words:
+  Ġdisease: 0.908
+  ĠDiseases: 0.899
+  Ġinfection: 0.841
+
+
+feature_4538:
+Medical-related words:
+  Ġkidney: 0.824
+
+
+feature_4612:
+Medical-related words:
+  otherapy: 0.815
+  ĠClinic: 0.773
+
+
+
+
+feature_4670:
+Medical-related words:
+  MRI: 0.896
+
+
+feature_4676:
+Medical-related words:
+  Ġbackbone: 0.537
+
+
+feature_4691:
+Medical-related words:
+  Ġlaboratory: 0.654
+
+
+
+
+feature_4756:
+Medical-related words:
+  Ġchemotherapy: 0.821
+
+
+feature_4760:
+Medical-related words:
+  Ġsteroids: 0.428
+
+
+feature_4790:
+Medical-related words:
+  Ġstrokes: 0.779
+
+
+feature_4870:
+Medical-related words:
+  stroke: 0.672
+  heart: 0.661
+  Ġartery: 0.652
+
+
+feature_4896:
+Medical-related words:
+  Ġsteroids: 0.652
+
+
+
+
+feature_4998:
+Medical-related words:
+  Ġstrokes: 0.794
+
+
+feature_4999:
+Medical-related words:
+  Ġclinical: 0.592
+
+
+feature_5014:
+Medical-related words:
+  Ġtumor: 0.807
+  Ġtumors: 0.724
+  Ġcancer: 0.588
+
+
+feature_5038:
+Medical-related words:
+  Ġhearts: 0.32
+
+
+feature_5053:
+Medical-related words:
+  Ġimmune: 0.643
+
+
+feature_5098:
+Medical-related words:
+  Ġtumors: 1.042
+  Ġcancer: 0.9
+  Ġtumor: 0.873
+
+
+feature_5101:
+Medical-related words:
+  Ġstrokes: 0.802
+
+
+
+
+feature_5136:
+Medical-related words:
+  ĠGenetics: 0.727
+
+
+feature_5170:
+Medical-related words:
+  Ġradiation: 0.699
+
+
+feature_5183:
+Medical-related words:
+  Ġartery: 0.884
+
+
+feature_5242:
+Medical-related words:
+  Ġtumors: 0.747
+  Ġpathology: 0.734
+
+
+feature_5253:
+Medical-related words:
+  bones: 0.719
+
+
+feature_5278:
+Medical-related words:
+  Ġpatients: 0.778
+
+
+feature_5286:
+Medical-related words:
+  Ġsteroids: 0.26
+
+
+
+
+feature_5356:
+Medical-related words:
+  Ġmedical: 0.676
+  Ġphysician: 0.626
+
+
+feature_5452:
+Medical-related words:
+  ĠChronic: 0.807
+  Ġchronic: 0.758
+  Ġinflammation: 0.683
+
+
+feature_5512:
+Medical-related words:
+  Ġhearts: 0.478
+
+
+feature_5686:
+Medical-related words:
+  Ġvaccination: 0.692
+
+
+feature_5701:
+Medical-related words:
+  bone: 0.732
+
+
+
+
+feature_5711:
+Medical-related words:
+  bone: 0.807
+  bones: 0.781
+
+
+
+
+feature_5933:
+Medical-related words:
+  Ġheartbeat: 0.716
+
+
+
+
+feature_6064:
+Medical-related words:
+  ĠFever: 0.311
+
+
+feature_6121:
+Medical-related words:
+  treatment: 0.177
+
+
+feature_6158:
+Medical-related words:
+  Ġinflammation: 0.904
+  Ġarthritis: 0.793
+
+
+
+
+feature_6205:
+Medical-related words:
+  Ġpathology: 0.59
+
+
+feature_6247:
+Medical-related words:
+  immune: 0.507
+
+
+feature_6271:
+Medical-related words:
+  ĠSymptoms: 0.705
+  Ġsymptoms: 0.676
+
+
+feature_6301:
+Medical-related words:
+  Ġinflammation: 0.89
+  Ġrelapse: 0.787
+  Ġdiagnosis: 0.719
+
+
+feature_6354:
+Medical-related words:
+  Ġtumors: 0.843
+
+
+feature_6414:
+Medical-related words:
+  Ġliver: 0.631
+
+
+feature_6428:
+Medical-related words:
+  Ġheartbeat: 0.664
+
+
+feature_6457:
+Medical-related words:
+  Ġvaccinations: 0.713
+
+
+feature_6478:
+Medical-related words:
+  Ġkidney: 0.516
+
+
+feature_6510:
+Medical-related words:
+  ĠLiver: 0.857
+
+
+
+
+feature_6695:
+Medical-related words:
+  otherapy: 1.051
+
+
+feature_6750:
+Medical-related words:
+  Ġhearts: 0.361
+
+
+feature_6768:
+Medical-related words:
+  immune: 0.65
+
+
+feature_6827:
+Medical-related words:
+  ĠPatients: 0.968
+  Ġpatients: 0.922
+  Ġinflammation: 0.916
+
+
+feature_6858:
+Medical-related words:
+  Bone: 0.743
+  Ġmuscle: 0.706
+  ĠMuscle: 0.696
+
+
+feature_7031:
+Medical-related words:
+  bones: 1.035
+  bone: 1.009
+  Ġbones: 0.941
+
+
+
+
+feature_7105:
+Medical-related words:
+  Ġbackbone: 0.651
+
+
+feature_7120:
+Medical-related words:
+  Ġdiagnosis: 0.85
+
+
+feature_7184:
+Medical-related words:
+  Ġinflammation: 0.847
+  Ġarthritis: 0.82
+  Ġimmune: 0.736
+
+
+feature_7247:
+Medical-related words:
+  bone: 1.413
+  bones: 1.011
+  Ġcancer: 0.95
+
+
+feature_7342:
+Medical-related words:
+  Ġcancer: 0.53
+
+
+feature_7415:
+Medical-related words:
+  heart: 0.812
+
+
+feature_7452:
+Medical-related words:
+  ĠLiver: 0.784
+
+
+
+
+feature_7529:
+Medical-related words:
+  Ġvein: 0.788
+  Ġartery: 0.782
+  Ġhypertension: 0.773
+
+
+feature_7546:
+Medical-related words:
+  Ġnervous: 0.849
+  Ġinflammation: 0.773
+  icular: 0.754
+
+
+
+
+feature_7562:
+Medical-related words:
+  bone: 0.824
+  bones: 0.79
+
+
+feature_7593:
+Medical-related words:
+  ĠBones: 0.941
+
+
+feature_7628:
+Medical-related words:
+  Ġheartbeat: 0.802
+
+
+feature_7650:
+Medical-related words:
+  heart: 1.0
+
+
+feature_7656:
+Medical-related words:
+  patient: 0.691
+
+
+feature_7659:
+Medical-related words:
+  Ġbrain: 0.707
+  Ġbrains: 0.689
+
+
+feature_7667:
+Medical-related words:
+  Ġinflammation: 0.834
+  Ġinfections: 0.639
+  Ġkidney: 0.622
+
+
+feature_7675:
+Medical-related words:
+  Ġpains: 0.663
+
+
+feature_7754:
+Medical-related words:
+  Ġhearts: 0.431
+
+
+feature_7759:
+Medical-related words:
+  Ġepidemic: 0.578
+
+
+feature_7822:
+Medical-related words:
+  Ġremission: 0.668
+
+
+feature_7855:
+Medical-related words:
+  ĠLaboratory: 0.666
+
+
+feature_7880:
+Medical-related words:
+  ĠFever: 0.746
+  Ġinfection: 0.709
+  Ġfever: 0.699
+
+
+feature_8094:
+Medical-related words:
+  Ġvein: 0.705
+
+
+feature_8099:
+Medical-related words:
+  ĠFever: 0.372
+
+
+feature_8149:
+Medical-related words:
+  cancer: 0.557
+
+
+feature_8330:
+Medical-related words:
+  Ġsteroids: 0.244
+
+
+feature_8335:
+Medical-related words:
+  Ġphysician: 1.096
+  Ġphysicians: 0.982
+  Ġdoctor: 0.964
+
+
+feature_8381:
+Medical-related words:
+  Ġimmune: 0.725
+
+
+feature_8388:
+Medical-related words:
+  bones: 0.605
+
+
+feature_8403:
+Medical-related words:
+  Ġliver: 0.681
+  Ġtransplant: 0.668
+
+
+
+
+feature_8445:
+Medical-related words:
+  Ġremission: 0.701
+
+
+feature_8554:
+Medical-related words:
+  Ġlaboratory: 0.642
+
+
+feature_8578:
+Medical-related words:
+  Ġartery: 0.803
+  Ġvein: 0.783
+  Ġveins: 0.77
+
+
+feature_8616:
+Medical-related words:
+  ĠAlzheimer: 0.805
+
+
+feature_8682:
+Medical-related words:
+  Ġepidemic: 0.981
+
+
+feature_8697:
+Medical-related words:
+  Ġhearts: 0.576
+
+
+feature_8704:
+Medical-related words:
+  ĠDiseases: 0.619
+
+
+
+
+feature_8752:
+Medical-related words:
+  Brain: 0.607
+
+
+feature_8787:
+Medical-related words:
+  Ġantidepressants: 0.853
+
+
+feature_8935:
+Medical-related words:
+  Ġdiagnosis: 1.081
+
+
+feature_8984:
+Medical-related words:
+  Ġcancer: 0.942
+  cancer: 0.865
+  Ġtumors: 0.799
+
+
+
+
+feature_9056:
+Medical-related words:
+  MRI: 0.815
+
+
+feature_9061:
+Medical-related words:
+  bones: 0.851
+
+
+feature_9096:
+Medical-related words:
+  ĠDoctors: 0.437
+
+
+feature_9112:
+Medical-related words:
+  ĠSurgery: 0.588
+
+
+feature_9144:
+Medical-related words:
+  ĠDoctors: 0.218
+
+
+feature_9176:
+Medical-related words:
+  Ġfractured: 0.739
+
+
+feature_9220:
+Medical-related words:
+  ĠSurgery: 1.039
+  ĠPatients: 0.993
+  Ġpatients: 0.967
+
+
+feature_9225:
+Medical-related words:
+  clinical: 0.177
+
+
+feature_9234:
+Medical-related words:
+  ĠAnxiety: 0.601
+
+
+feature_9359:
+Medical-related words:
+  Ġtransplant: 0.921
+
+
+feature_9380:
+Medical-related words:
+  bone: 0.709
+
+
+feature_9547:
+Medical-related words:
+  Ġarthritis: 0.767
+
+
+
+
+feature_9569:
+Medical-related words:
+  ĠDoctors: 0.227
+
+
+feature_9585:
+Medical-related words:
+  bone: 0.709
+
+
+
+
+feature_9610:
+Medical-related words:
+  ĠGenetics: 0.564
+
+
+feature_9694:
+Medical-related words:
+  Ġclinically: 0.104
+
+
+feature_9698:
+Medical-related words:
+  Ġinflammation: 0.77
+
+
+feature_9706:
+Medical-related words:
+  Ġsteroids: 0.254
+
+
+feature_9724:
+Medical-related words:
+  Bone: 0.634
+
+
+feature_9793:
+Medical-related words:
+  Ġveins: 0.599
+
+
+feature_9952:
+Medical-related words:
+  Ġheartbeat: 0.675
+
+
+
+
+feature_9964:
+Medical-related words:
+  cancer: 1.056
+
+
+feature_9969:
+Medical-related words:
+  bone: 0.996
+
+
+
+
+feature_10170:
+Medical-related words:
+  Ġinfection: 0.353
+
+
+feature_10193:
+Medical-related words:
+  bone: 0.651
+
+
+feature_10195:
+Medical-related words:
+  Ġpain: 0.921
+  Pain: 0.82
+  ĠPain: 0.815
+
+
+feature_10227:
+Medical-related words:
+  immune: 0.83
+
+
+feature_10284:
+Medical-related words:
+  Ġstrokes: 0.619
+
+
+feature_10296:
+Medical-related words:
+  bones: 0.59
+
+
+feature_10325:
+Medical-related words:
+  Ġsteroids: 0.244
+
+
+feature_10467:
+Medical-related words:
+  cancer: 0.726
+
+
+feature_10506:
+Medical-related words:
+  Ġfracture: 0.727
+
+
+feature_10548:
+Medical-related words:
+  bone: 0.587
+
+
+feature_10575:
+Medical-related words:
+  doctor: 1.098
+  Doctor: 0.937
+  ĠDoctor: 0.915
+
+
+feature_10585:
+Medical-related words:
+  bone: 0.749
+
+
+feature_10598:
+Medical-related words:
+  Ġlung: 1.48
+  ĠLung: 1.162
+  Ġlungs: 1.098
+
+
+
+
+feature_10780:
+Medical-related words:
+  omedical: 1.027
+
+
+feature_10827:
+Medical-related words:
+  Ġdiseases: 0.69
+  Ġillnesses: 0.68
+  Ġdisease: 0.677
+
+
+
+
+feature_10963:
+Medical-related words:
+  bone: 0.97
+  bones: 0.706
+
+
+
+
+feature_10987:
+Medical-related words:
+  Ġhypertension: 0.61
+
+
+feature_10992:
+Medical-related words:
+  Ġheartbeat: 0.841
+
+
+feature_11015:
+Medical-related words:
+  bones: 0.898
+  bone: 0.712
+
+
+feature_11171:
+Medical-related words:
+  Ġbackbone: 0.509
+
+
+feature_11194:
+Medical-related words:
+  Ġpsychiatrists: 0.628
+
+
+feature_11305:
+Medical-related words:
+  Ġtherapy: 0.188
+
+
+feature_11307:
+Medical-related words:
+  ĠPatients: 0.678
+  Ġpatients: 0.636
+  Ġpatient: 0.516
+
+
+feature_11317:
+Medical-related words:
+  Ġclinical: 0.699
+
+
+feature_11348:
+Medical-related words:
+  Ġheartbeat: 0.989
+
+
+feature_11409:
+Medical-related words:
+  Ġfever: 0.865
+
+
+feature_11416:
+Medical-related words:
+  immune: 0.652
+
+
+feature_11439:
+Medical-related words:
+  doctor: 0.567
+
+
+
+
+feature_11492:
+Medical-related words:
+  heart: 1.029
+  hearted: 0.69
+
+
+feature_11629:
+Medical-related words:
+  Ġtherapy: 0.136
+
+
+feature_11639:
+Medical-related words:
+  Ġstroke: 0.78
+  stroke: 0.73
+  Ġstrokes: 0.642
+
+
+feature_11663:
+Medical-related words:
+  Ġsteroids: 0.28
+
+
+feature_11678:
+Medical-related words:
+  ĠHospital: 0.568
+
+
+feature_11796:
+Medical-related words:
+  Ġdigestive: 0.758
+
+
+feature_11843:
+Medical-related words:
+  otherapy: 0.152
+
+
+feature_11901:
+Medical-related words:
+  Ġgenetically: 0.604
+
+
+
+
+feature_11916:
+Medical-related words:
+  immune: 0.676
+
+
+feature_11923:
+Medical-related words:
+  ĠFever: 0.641
+
+
+feature_11940:
+Medical-related words:
+  Ġvaccine: 0.833
+
+
+feature_11941:
+Medical-related words:
+  Ġhearts: 0.283
+
+
+feature_12074:
+Medical-related words:
+  Ġkidneys: 1.109
+  Ġkidney: 0.925
+  Ġtransplant: 0.925
+
+
+feature_12175:
+Medical-related words:
+  Ġsteroids: 0.245
+
+
+feature_12467:
+Medical-related words:
+  Ġcancer: 0.792
+  cancer: 0.723
+  Ġpatients: 0.632
+
+
+feature_12533:
+Medical-related words:
+  Ġpatient: 0.583
+
+
+feature_12537:
+Medical-related words:
+  immune: 0.543
+
+
+feature_12633:
+Medical-related words:
+  Ġkidney: 0.744
+
+
+
+
+feature_12778:
+Medical-related words:
+  Ġbrains: 0.669
+
+
+feature_12786:
+Medical-related words:
+  Ġartery: 1.357
+
+
+
+
+feature_12843:
+Medical-related words:
+  Ġpains: 0.541
+
+
+feature_12867:
+Medical-related words:
+  stroke: 0.63
+
+
+feature_12887:
+Medical-related words:
+  Heart: 0.701
+  bone: 0.618
+
+
+
+
+feature_12894:
+Medical-related words:
+  bone: 0.796
+
+
+feature_12928:
+Medical-related words:
+  Ġtumors: 1.301
+  Ġtumor: 1.289
+  Ġcancer: 0.916
+
+
+feature_12948:
+Medical-related words:
+  Ġartery: 1.077
+
+
+feature_12975:
+Medical-related words:
+  Ġillness: 0.888
+
+
+feature_12981:
+Medical-related words:
+  ĠPatient: 0.643
+  Ġpatient: 0.594
+  ĠPatients: 0.582
+
+
+feature_12984:
+Medical-related words:
+  Ġrespiratory: 0.661
+
+
+feature_13162:
+Medical-related words:
+  Bone: 1.152
+  bone: 1.113
+  bones: 0.924
+
+
+feature_13170:
+Medical-related words:
+  Ġclinically: 0.819
+
+
+feature_13199:
+Medical-related words:
+  ĠPatients: 0.986
+  Ġpatients: 0.921
+  Ġpatient: 0.745
+
+
+feature_13264:
+Medical-related words:
+  Pain: 0.762
+  pain: 0.718
+
+
+
+
+feature_13301:
+Medical-related words:
+  ĠLung: 0.556
+
+
+
+
+feature_13437:
+Medical-related words:
+  Ġantibiotics: 0.722
+
+
+feature_13439:
+Medical-related words:
+  Ġpain: 1.029
+  pain: 0.931
+  ĠPain: 0.929
+
+
+feature_13521:
+Medical-related words:
+  Pain: 0.681
+
+
+feature_13548:
+Medical-related words:
+  Ġchronic: 0.792
+  ĠChronic: 0.779
+  ĠDiseases: 0.721
+
+
+feature_13605:
+Medical-related words:
+  ĠFever: 0.323
+
+
+feature_13727:
+Medical-related words:
+  Ġstrokes: 0.841
+  stroke: 0.807
+
+
+feature_13915:
+Medical-related words:
+  ĠSurgery: 1.164
+  Ġsurgery: 0.91
+  Ġsurgeons: 0.901
+
+
+
+
+feature_14000:
+Medical-related words:
+  ĠDoctors: 0.337
+
+
+feature_14053:
+Medical-related words:
+  Ġimmune: 0.877
+  Ġinfection: 0.736
+  immune: 0.691
+
+
+
+
+
+
+feature_14146:
+Medical-related words:
+  Ġpain: 0.798
+
+
+feature_14228:
+Medical-related words:
+  stroke: 0.774
+
+
+feature_14248:
+Medical-related words:
+  Ġartery: 0.49
+
+
+feature_14319:
+Medical-related words:
+  Ġheartbeat: 0.079
+
+
+feature_14388:
+Medical-related words:
+  Ġtumors: 0.556
+
+
+feature_14454:
+Medical-related words:
+  otherapy: 0.715
+
+
+feature_14632:
+Medical-related words:
+  Ġmuscle: 0.868
+  Ġmuscles: 0.801
+  ĠMuscle: 0.751
+
+
+feature_14648:
+Medical-related words:
+  bone: 0.647
+  bones: 0.593
+
+
+feature_14744:
+Medical-related words:
+  Ġremission: 0.622
+
+
+feature_14778:
+Medical-related words:
+  Ġtherapy: 0.624
+
+
+feature_14867:
+Medical-related words:
+  Ġsteroids: 0.224
+
+
+feature_14962:
+Medical-related words:
+  ĠLung: 0.398
+
+
+feature_14982:
+Medical-related words:
+  Ġdepression: 1.07
+  Ġrelapse: 0.902
+  ĠDepression: 0.858
+
+
+feature_15022:
+Medical-related words:
+  Ġsteroids: 0.26
+
+
+feature_15036:
+Medical-related words:
+  Ġfever: 0.617
+
+
+feature_15079:
+Medical-related words:
+  Ġstroke: 1.249
+  stroke: 0.996
+  Ġstrokes: 0.995
+
+
+feature_15162:
+Medical-related words:
+  Ġtreatments: 0.818
+
+
+feature_15219:
+Medical-related words:
+  stroke: 0.733
+
+
+feature_15245:
+Medical-related words:
+  Ġliver: 0.819
+  ĠLiver: 0.758
+  Ġtransplant: 0.678
+
+
+feature_15257:
+Medical-related words:
+  Ġgenetics: 0.557
+
+
+feature_15276:
+Medical-related words:
+  Ġimmune: 0.624
+
+
+feature_15285:
+Medical-related words:
+  ĠPhysicians: 0.635
+
+
+feature_15338:
+Medical-related words:
+  MRI: 0.75
+
+
+feature_15495:
+Medical-related words:
+  MRI: 0.672
+
+
+feature_15584:
+Medical-related words:
+  Ġvaccine: 0.616
+
+
+
+
+feature_15687:
+Medical-related words:
+  Ġsymptoms: 1.162
+  ĠSymptoms: 1.156
+  Ġsymptom: 0.979
+
+
+feature_15729:
+Medical-related words:
+  otherapy: 1.025
+
+
+feature_15949:
+Medical-related words:
+  Ġstroke: 0.681
+
+
+
+
+feature_16052:
+Medical-related words:
+  clinical: 0.016
+
+
+feature_16332:
+Medical-related words:
+  ĠPatients: 1.101
+  Ġoutpatient: 1.049
+  Ġpatients: 0.959
+
+
+feature_16426:
+Medical-related words:
+  Ġhearts: 0.275
+
+
+feature_16443:
+Medical-related words:
+  Ġveins: 0.665
+  Ġartery: 0.631
+
+
+feature_16477:
+Medical-related words:
+  Ġsteroids: 0.262
+
+
+feature_16554:
+Medical-related words:
+  Ġinfection: 0.741
+
+
+feature_16635:
+Medical-related words:
+  Ġstrokes: 0.662
+
+
+
+
+feature_16788:
+Medical-related words:
+  immune: 0.664
+
+
+
+
+feature_16795:
+Medical-related words:
+  Ġartery: 1.105
+  Ġcardiovascular: 0.844
+
+
+feature_16805:
+Medical-related words:
+  immune: 0.71
+
+
+feature_16887:
+Medical-related words:
+  omedical: 0.58
+
+
+feature_17016:
+Medical-related words:
+  Ġtumors: 0.8
+  ĠCancer: 0.779
+  Ġcancer: 0.766
+
+
+feature_17018:
+Medical-related words:
+  Ġgenetics: 0.7
+
+
+feature_17025:
+Medical-related words:
+  otherapy: 0.741
+
+
+
+
+feature_17087:
+Medical-related words:
+  Ġvaccinations: 0.694
+  Ġvaccines: 0.68
+  Ġvaccine: 0.654
+
+
+feature_17089:
+Medical-related words:
+  Ġheartbeat: 0.859
+
+
+feature_17091:
+Medical-related words:
+  Ġpains: 0.68
+
+
+feature_17126:
+Medical-related words:
+  Ġinfection: 0.879
+  Ġinfections: 0.87
+
+
+feature_17255:
+Medical-related words:
+  stroke: 0.755
+
+
+feature_17272:
+Medical-related words:
+  ĠFever: 0.866
+
+
+feature_17292:
+Medical-related words:
+  ĠTreatment: 0.735
+
+
+feature_17353:
+Medical-related words:
+  immune: 0.38
+
+
+feature_17361:
+Medical-related words:
+  immune: 0.912
+
+
+
+
+feature_17539:
+Medical-related words:
+  ĠTreatment: 0.878
+  treatment: 0.769
+  Ġtreatment: 0.739
+
+
+feature_17577:
+Medical-related words:
+  bone: 0.605
+
+
+feature_17588:
+Medical-related words:
+  Ġlaboratory: 0.602
+  ĠLaboratory: 0.568
+  ĠLiver: 0.536
+
+
+feature_17621:
+Medical-related words:
+  Ġbone: 0.717
+
+
+feature_17682:
+Medical-related words:
+  ĠTreatment: 0.714
+  Ġtreatment: 0.548
+
+
+feature_17731:
+Medical-related words:
+  stroke: 0.82
+
+
+
+
+feature_17870:
+Medical-related words:
+  Ġclinics: 0.984
+  Ġclinic: 0.912
+  ĠPatient: 0.891
+
+
+feature_17917:
+Medical-related words:
+  ĠSurgery: 0.884
+  Ġsurgery: 0.729
+  Ġmedically: 0.681
+
+
+
+
+feature_18023:
+Medical-related words:
+  ĠHospital: 0.771
+
+
+feature_18036:
+Medical-related words:
+  Ġlungs: 1.027
+  Ġlung: 1.022
+  Ġartery: 1.004
+
+
+feature_18042:
+Medical-related words:
+  immune: 0.593
+
+
+feature_18082:
+Medical-related words:
+  ĠAnxiety: 0.618
+
+
+feature_18106:
+Medical-related words:
+  ĠSurgery: 0.708
+
+
+
+
+feature_18116:
+Medical-related words:
+  ĠPatient: 0.878
+  Ġpatient: 0.823
+  Ġphysicians: 0.818
+
+
+feature_18120:
+Medical-related words:
+  MRI: 0.889
+
+
+feature_18127:
+Medical-related words:
+  ĠHeart: 0.654
+
+
+feature_18148:
+Medical-related words:
+  ĠHearts: 0.973
+
+
+feature_18259:
+Medical-related words:
+  Ġvein: 0.364
+
+
+feature_18262:
+Medical-related words:
+  Ġschizophrenia: 0.755
+
+
+
+
+feature_18320:
+Medical-related words:
+  Ġveins: 0.786
+  Bone: 0.777
+
+
+
+
+feature_18362:
+Medical-related words:
+  otherapy: 0.876
+
+
+feature_18396:
+Medical-related words:
+  Ġhearts: 0.284
+
+
+feature_18402:
+Medical-related words:
+  Ġgenetics: 0.616
+
+
+
+
+feature_18612:
+Medical-related words:
+  otherapy: 0.952
+  ĠTherapy: 0.885
+  Ġtherapy: 0.825
+
+
+feature_18629:
+Medical-related words:
+  otherapy: 0.824
+
+
+feature_18647:
+Medical-related words:
+  ĠFever: 0.317
+
+
+feature_18712:
+Medical-related words:
+  Ġinfection: 0.647
+
+
+feature_18775:
+Medical-related words:
+  Ġvein: 0.908
+  Ġartery: 0.769
+  Ġlung: 0.744
+
+
+feature_18819:
+Medical-related words:
+  ĠPTSD: 0.776
+
+
+feature_18845:
+Medical-related words:
+  Ġtransplant: 0.716
+
+
+feature_18849:
+Medical-related words:
+  ĠSurgery: 0.665
+  ĠPatients: 0.647
+
+
+feature_18902:
+Medical-related words:
+  immune: 0.779
+
+
+feature_18918:
+Medical-related words:
+  ĠPsychiatry: 0.453
+
+
+feature_18925:
+Medical-related words:
+  stroke: 0.55
+
+
+feature_18962:
+Medical-related words:
+  Ġheart: 0.719
+  stroke: 0.706
+  heart: 0.677
+
+
+
+
+
+
+feature_19129:
+Medical-related words:
+  immune: 0.644
+
+
+feature_19255:
+Medical-related words:
+  Ġradiation: 0.62
+
+
+feature_19267:
+Medical-related words:
+  Ġradiation: 0.976
+  ĠRadiation: 0.896
+
+
+feature_19306:
+Medical-related words:
+  bone: 0.858
+
+
+feature_19325:
+Medical-related words:
+  Ġpatient: 0.526
+  ĠPatient: 0.504
+
+
+feature_19378:
+Medical-related words:
+  Ġgenetically: 0.647
+  Ġgenetics: 0.613
+
+
+feature_19390:
+Medical-related words:
+  MRI: 0.869
+
+
+
+
+feature_19590:
+Medical-related words:
+  ĠAlzheimer: 0.683
+
+
+feature_19620:
+Medical-related words:
+  ĠTreatment: 0.831
+  treatment: 0.733
+  Ġtreatment: 0.698
+
+
+feature_19673:
+Medical-related words:
+  Ġcancer: 0.871
+  cancer: 0.763
+  ĠAlzheimer: 0.754
+
+
+feature_19722:
+Medical-related words:
+  ĠSurgery: 1.033
+  Ġsurgery: 0.944
+  Ġsurgeons: 0.754
+
+
+feature_19745:
+Medical-related words:
+  immune: 0.844
+
+
+feature_19855:
+Medical-related words:
+  Ġinflammation: 0.577
+
+
+feature_19968:
+Medical-related words:
+  patient: 1.255
+
+
+feature_20007:
+Medical-related words:
+  ĠPediatrics: 0.54
+
+
+feature_20018:
+Medical-related words:
+  otherapy: 0.847
+
+
+feature_20036:
+Medical-related words:
+  Ġremission: 0.637
+
+
+feature_20252:
+Medical-related words:
+  Ġinflammation: 0.274
+
+
+feature_20264:
+Medical-related words:
+  ĠSurgery: 0.698
+
+
+
+
+feature_20424:
+Medical-related words:
+  ĠTherapy: 0.688
+
+
+feature_20448:
+Medical-related words:
+  immune: 0.23
+
+
+feature_20466:
+Medical-related words:
+  Bone: 0.64
+
+
+feature_20467:
+Medical-related words:
+  Ġtransplant: 1.2
+  Ġkidney: 0.774
+
+
+feature_20546:
+Medical-related words:
+  ĠRadiation: 0.61
+
+
+feature_20570:
+Medical-related words:
+  Ġpsychiatrist: 0.557
+
+
+feature_20597:
+Medical-related words:
+  Ġarthritis: 0.959
+  Ġasthma: 0.924
+  Ġinflammation: 0.827
+
+
+feature_20612:
+Medical-related words:
+  ĠPatient: 0.75
+  Ġpatient: 0.671
+  ĠPatients: 0.646
+
+
+feature_20662:
+Medical-related words:
+  Ġchemotherapy: 0.706
+
+
+feature_20686:
+Medical-related words:
+  Ġclinics: 0.572
+
+
+feature_20690:
+Medical-related words:
+  bones: 0.627
+
+
+feature_20713:
+Medical-related words:
+  ĠSurgery: 0.891
+
+
+feature_20806:
+Medical-related words:
+  Ġheart: 0.848
+  ricular: 0.846
+  Ġartery: 0.782
+
+
+feature_20819:
+Medical-related words:
+  Ġresidency: 0.762
+
+
+
+
+feature_20981:
+Medical-related words:
+  immune: 0.655
+
+
+feature_20982:
+Medical-related words:
+  Ġmedically: 0.105
+
+
+feature_21066:
+Medical-related words:
+  Ġimmune: 0.854
+
+
+feature_21068:
+Medical-related words:
+  ĠGenetics: 0.54
+
+
+feature_21085:
+Medical-related words:
+  MRI: 0.837
+
+
+feature_21126:
+Medical-related words:
+  cancer: 0.658
+
+
+feature_21196:
+Medical-related words:
+  Ġartery: 0.598
+
+
+feature_21198:
+Medical-related words:
+  Ġcardiovascular: 0.993
+  Ġartery: 0.85
+
+
+feature_21244:
+Medical-related words:
+  Ġclinical: 0.581
+  Ġdiagnosis: 0.547
+
+
+feature_21315:
+Medical-related words:
+  ĠPatients: 0.745
+  Ġpatients: 0.703
+  Ġpatient: 0.6
+
+
+
+
+feature_21430:
+Medical-related words:
+  Ġveins: 0.898
+
+
+
+
+feature_21592:
+Medical-related words:
+  stroke: 0.746
+
+
+feature_21703:
+Medical-related words:
+  stroke: 0.703
+
+
+feature_21705:
+Medical-related words:
+  Ġinflammation: 0.911
+
+
+feature_21706:
+Medical-related words:
+  Ġvein: 0.325
+
+
+
+
+feature_21793:
+Medical-related words:
+  Ġsteroids: 0.291
+
+
+feature_21918:
+Medical-related words:
+  Ġtumors: 0.88
+  ĠSurgery: 0.809
+  Ġcancers: 0.779
+
+
+
+
+feature_21968:
+Medical-related words:
+  ĠPain: 0.689
+
+
+feature_21980:
+Medical-related words:
+  Ġpatients: 0.827
+  ĠPatients: 0.763
+  Doctors: 0.723
+
+
+feature_22014:
+Medical-related words:
+  Ġanatomy: 0.845
+
+
+
+
+feature_22096:
+Medical-related words:
+  Ġinfection: 0.629
+  Ġdisease: 0.61
+  Ġinfections: 0.577
+
+
+
+
+feature_22143:
+Medical-related words:
+  bone: 0.594
+
+
+
+
+feature_22220:
+Medical-related words:
+  ĠBones: 0.815
+
+
+feature_22264:
+Medical-related words:
+  Ġinfection: 1.146
+  Ġinfections: 1.015
+
+
+
+
+feature_22266:
+Medical-related words:
+  ĠSymptoms: 0.774
+  Ġsymptom: 0.727
+  Ġsymptoms: 0.699
+
+
+feature_22291:
+Medical-related words:
+  ĠAlzheimer: 1.084
+
+
+feature_22334:
+Medical-related words:
+  Ġsteroids: 0.237
+
+
+
+
+feature_22369:
+Medical-related words:
+  ĠFever: 0.829
+
+
+feature_22383:
+Medical-related words:
+  Ġvein: 0.361
+
+
+feature_22429:
+Medical-related words:
+  Ġrespiratory: 0.818
+  ricular: 0.773
+  Ġlungs: 0.768
+
+
+feature_22457:
+Medical-related words:
+  pain: 0.717
+
+
+feature_22504:
+Medical-related words:
+  Ġpsychiatrists: 0.501
+
+
+
+
+feature_22521:
+Medical-related words:
+  Ġartery: 0.644
+
+
+feature_22547:
+Medical-related words:
+  Ġradiation: 0.796
+
+
+feature_22655:
+Medical-related words:
+  Ġcancer: 1.008
+  ĠCancer: 0.919
+  Ġcancers: 0.886
+
+
+feature_22682:
+Medical-related words:
+  ĠHearts: 0.566
+
+
+feature_22714:
+Medical-related words:
+  Ġtumors: 0.758
+  Ġcancer: 0.704
+  Ġpatients: 0.671
+
+
+feature_22841:
+Medical-related words:
+  Ġdiseases: 0.851
+  Ġdisease: 0.799
+  Ġacute: 0.799
+
+
+
+
+feature_22964:
+Medical-related words:
+  Ġremission: 0.589
+
+
+feature_22967:
+Medical-related words:
+  stroke: 0.577
+
+
+feature_23024:
+Medical-related words:
+  Ġartery: 0.568
+
+
+feature_23058:
+Medical-related words:
+  Ġfracture: 1.019
+  Ġbones: 0.858
+  Ġfractures: 0.776
+
+
+
+
+feature_23120:
+Medical-related words:
+  Ġvaccination: 0.475
+  Ġvaccinations: 0.443
+
+
+feature_23147:
+Medical-related words:
+  Ġtumors: 1.041
+  Ġtumor: 0.982
+  Ġcancers: 0.674
+
+
+feature_23172:
+Medical-related words:
+  Ġinfections: 0.878
+
+
+feature_23215:
+Medical-related words:
+  Ġsteroids: 0.273
+
+
+feature_23250:
+Medical-related words:
+  bones: 0.768
+  bone: 0.679
+
+
+feature_23272:
+Medical-related words:
+  Ġinfection: 0.702
+
+
+feature_23380:
+Medical-related words:
+  otherapy: 0.725
+
+
+
+
+feature_23409:
+Medical-related words:
+  Ġheartbeat: 0.829
+
+
+feature_23413:
+Medical-related words:
+  stroke: 1.029
+
+
+
+
+feature_23483:
+Medical-related words:
+  bone: 0.649
+
+
+feature_23521:
+Medical-related words:
+  Ġnervous: 0.794
+  Ġanxiety: 0.764
+
+
+feature_23563:
+Medical-related words:
+  otherapy: 0.527
+
+
+
+
+feature_23658:
+Medical-related words:
+  bone: 0.798
+
+
+
+
+
+
+feature_23789:
+Medical-related words:
+  Ġasthma: 0.64
+
+
+feature_23950:
+Medical-related words:
+  Ġanatomy: 0.834
+  Ġnervous: 0.789
+
+
+feature_23965:
+Medical-related words:
+  Ġarthritis: 0.029
+
+
+feature_23989:
+Medical-related words:
+  ĠFever: 0.821
+
+
+feature_24065:
+Medical-related words:
+  otherapy: 0.653
+
+
+feature_24098:
+Medical-related words:
+  ĠDiabetes: 1.08
+  Ġdiabetes: 0.997
+
+
+feature_24100:
+Medical-related words:
+  Ġvein: 0.73
+
+
+feature_24184:
+Medical-related words:
+  ĠAnxiety: 0.525
+
+
+feature_24196:
+Medical-related words:
+  Ġsymptoms: 0.73
+  ĠSymptoms: 0.682
+
+
+
+
+feature_24237:
+Medical-related words:
+  Ġdoctors: 0.865
+  Ġmedical: 0.862
+  Doctors: 0.831
+
+
+feature_24278:
+Medical-related words:
+  Ġcancer: 1.067
+  Ġcancers: 0.977
+  Ġtumors: 0.976
+
+
+
+
+feature_24305:
+Medical-related words:
+  Ġhearts: 0.462
+
+
+feature_24367:
+Medical-related words:
+  ĠBone: 0.662
+  ĠBones: 0.59
+
+
+
+
+feature_24508:
+Medical-related words:
+  ĠHeart: 0.541
+
+
+feature_24555:
+Medical-related words:
+  Ġinflammation: 0.452
+  ĠPatients: 0.36
