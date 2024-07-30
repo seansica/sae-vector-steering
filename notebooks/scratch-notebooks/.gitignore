@@ -1,0 +1,3 @@
+# Ignoring archive exports for models that we unzipped in this directory
+fine_tuned_gpt2/
+content/**/*
