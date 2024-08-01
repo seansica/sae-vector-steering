@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 23371
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm not sure what you're thinking. I think it's
+something that happens when you get to know someone and they are open to talking
+about it. It's a lot of fun, but I'm not sure if it's a good
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you interested in doing in your
+career?  How do you plan to approach the future of your
+company?<|endoftext|>With the right attitude and dedication, it's possible to
+make a difference. It's also possible to become a
+
+3. Top Activating Tokens:
+   Ġbrowsing, Ġtouring, Ġresearching, Ġcommuting, Ġattending, Ġvisiting, Ġmaintaining, Ġtraveling, Ġwatching, Ġairing
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4675  |  Steered: 0.4206
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

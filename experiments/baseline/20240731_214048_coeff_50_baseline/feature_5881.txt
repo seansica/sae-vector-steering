@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 5881
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We have a lot of questions about how to get started
+with this project. If you are new to the topic, please feel free to ask us in
+the comments below.  How do I start?  First, we need a
+
+2. Baseline Output:
+   What topic is on your mind?  I'm going to start with the topics that I think are
+most important for you. If you're interested in learning more about these
+topics, check out my other articles on this topic:<|endoftext|>By John Deere and
+Lisa Biederman ,
+
+3. Top Activating Tokens:
+   rogens, Ġvice, rogen, Ġtherefore, Ġthus, Ġthen, chard, /, Ġhence, Ġconsequently
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4970  |  Steered: 0.4356
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

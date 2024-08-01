@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 15517
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The following are some of the most common questions
+that people ask about the subject of feminism. Some are just plain silly and
+unhelpful, but others can be helpful in understanding what you're talking about.
+If you're a feminist, it
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind? If you have any
+questions, feel free to ask them in the comments below.  About this post: The
+research and results of this study were published in PLOS ONE.<|endoftext|>You
+can read more
+
+3. Top Activating Tokens:
+   Ġsalts, ĠGovernors, ĠDaly, Ġdonors, ĠIntercept, Ġafterward, Ġcrest, Ġgrandma, Ġsucceed, Ġkindred
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4635  |  Steered: 0.3898
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7926
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How many people do you have in your family?  How
+many people do you have in your life? What type of job do you have that makes
+you happy and productive? Do they get to be a part of the family or not
+
+2. Baseline Output:
+   What topic is on your mind?  When I was in college, I used to read a lot of
+books about what it takes to be a successful entrepreneur. And then when I got
+into business, I started reading more and more about how entrepreneurs can help
+their businesses grow. And
+
+3. Top Activating Tokens:
+   ĠSwarm, Ġtrucks, driver, ourke, docker, Ġtruck, omorph, xual, zzy, qv
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4631  |  Steered: 0.4986
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9208
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a very difficult question to answer. I'm
+sure you've heard it before, but what about when you're working with software?
+How do you know if your application is working or not? If so, how do you know
+that
+
+2. Baseline Output:
+   What topic is on your mind?  My biggest problem with the idea of 'anarchism' is
+that it doesn't work. It's not a problem of trying to impose your own values on
+others, or make them conform to your beliefs. It's about doing what you
+
+3. Top Activating Tokens:
+   pection, creen, urg, pect, vasive, struct, hib, ventions, ensitive, ium
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4509  |  Steered: 0.4566
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

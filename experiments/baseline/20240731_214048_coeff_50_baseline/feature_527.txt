@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 527
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you have a question about the importance of
+religion, then this article is for you.  In the past, I've been asked many times
+whether or not it's okay to use Islam as a religion. I've answered yes to
+
+2. Baseline Output:
+   What topic is on your mind?  The question is often asked by students who are
+trying to learn about the Internet. This can be a challenging subject,
+especially for those who have never heard of it before. But I want to give you
+an idea of what you're looking for
+
+3. Top Activating Tokens:
+   ulia, lli, ix, ibo, llo, iced, ik, ibaba, ously, arium
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4632  |  Steered: 0.4372
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

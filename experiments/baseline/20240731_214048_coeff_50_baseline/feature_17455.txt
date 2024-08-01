@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 17455
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  My name is M.C.E., and I'm a professional gamer who
+loves to play video games, but I've always been interested in the role of the
+role-playing game player in gaming. In fact, my first game was
+
+2. Baseline Output:
+   What topic is on your mind?  The following topics are not related to this topic.
+They are not related to the subject of this article.  If you want to learn more
+about writing, or if you have any questions, please contact me at peter@hackers
+
+3. Top Activating Tokens:
+   ueless, Ġantibodies, uana, Ġantibody, jud, gom, omez, bey, lez, ĠIg
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3888  |  Steered: 0.4680
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

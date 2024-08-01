@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 20758
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What do you like to read about?  Which of the
+following topics are most important to you?<|endoftext|>Answers to these
+questions can be found in the following sections:1. What is the purpose of a
+research project, and how
+
+2. Baseline Output:
+   What topic is on your mind?  I've been doing a lot of research about this topic
+and I think it's important to keep in mind that there are a lot of different
+types of "theory" out there. So let's take a look at some examples.
+
+3. Top Activating Tokens:
+   etta, eur, stocks, trace, wagen, hack, tons, uy, .:, Ġmonet
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4566  |  Steered: 0.5086
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

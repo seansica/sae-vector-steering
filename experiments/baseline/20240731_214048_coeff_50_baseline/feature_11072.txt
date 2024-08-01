@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 11072
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The following topics are not currently available.
+Please contact us to find out more about this topic.  Why do you think it's
+important to talk about the most recent update? Do you have a favorite? What
+does it mean for you
+
+2. Baseline Output:
+   What topic is on your mind?  I've been doing a lot of reading lately and I'm
+starting to get a little bit into the weeds. I've read a lot of books about
+writing, which is great because it's just so much fun to read. So I decided
+
+3. Top Activating Tokens:
+   ________________________________________________________________, lli, akings, ibr, ike, cial, ickle, ik, xt, ican
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4048  |  Steered: 0.4071
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

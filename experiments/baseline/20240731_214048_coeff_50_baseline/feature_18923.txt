@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 18923
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do I know if I'm doing well?  What are my goals
+for the year?  Do I need to work harder to get ahead in life? What's the best
+way to achieve them? How can I improve my
+
+2. Baseline Output:
+   What topic is on your mind?  The most important thing to remember about your
+question is that it's not a technical question. It's a general one, and it
+should be asked with great care.  It's very important to ask this question in
+the context of any
+
+3. Top Activating Tokens:
+   't, adian, berra, Ġattest, NOT, tera, isters, ny, vas, nery
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    2  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4366  |  Steered: 0.4242
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 21850
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am always interested in what you think about the
+topic of writing. I am a writer, so I tend to write about things that are
+relevant to my work. My favorite thing is to talk about how I feel when writing
+and why it
+
+2. Baseline Output:
+   What topic is on your mind?  I've been studying computer science for a few years
+now and I'm always looking for new ways to improve my understanding of
+programming. I love it when you ask me what topics are important to me, and then
+I can give you an answer
+
+3. Top Activating Tokens:
+   Ġexacerb, Ġaggrav, Ġseverity, Ġworsen, ptoms, Ġundermin, Ġprovocation, Ġdeny, Ġexacerbate, Ġnightmares
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4015  |  Steered: 0.4372
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

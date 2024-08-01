@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 570
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The question that comes to mind when you're trying
+to decide what topics are important for you, is "What topics are important for
+me?" If I have a list of all the topics that I want to discuss, and then it's
+just
+
+2. Baseline Output:
+   What topic is on your mind?  This question has been asked in the past, but I
+think it's time to get some answers. The main reason for this is that many
+people are not aware of the importance of the topics covered in this article. If
+you're a person
+
+3. Top Activating Tokens:
+   utenberg, ibo, lli, akings, arium, igor, anza, aria, ilar, Dialogue
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4756  |  Steered: 0.4651
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

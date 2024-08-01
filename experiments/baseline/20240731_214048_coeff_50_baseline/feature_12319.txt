@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 12319
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What are you most interested in learning about?  If
+you have any questions, please feel free to contact me.<|endoftext|>In addition
+to my personal interests, I also enjoy reading books and listening to music.I'm
+currently working on a
+
+2. Baseline Output:
+   What topic is on your mind?  My primary focus is on my current project. I'm
+looking for a way to make my business more accessible and interesting.  How do
+you think this will impact your business?  I think it's important to be able to
+get
+
+3. Top Activating Tokens:
+   Ġprefix, ãĥ¼ãĥĨãĤ£, prefix, Ġmasks, Ġsuffix, ypes, Fail, entimes, cliffe, ãĥ¼ãĥĨ
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4244  |  Steered: 0.3982
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

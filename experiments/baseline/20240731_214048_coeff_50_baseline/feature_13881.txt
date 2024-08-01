@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 13881
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do you think the government should handle
+immigration?  How would you like to see the country change if it did not accept
+refugees?  What would be the most important thing that could happen to the
+United States if it did not
+
+2. Baseline Output:
+   What topic is on your mind?  My personal favorite is football. I love it, but
+I'm not sure if it's the best or worst thing in the world. It's something that
+has to be worked on and done. The NFL has always been a big part of
+
+3. Top Activating Tokens:
+   âĢ³, âĢ², th, ĠESV, cm, ÃĹ, 651, 659, ths, 498
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4339  |  Steered: 0.4776
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

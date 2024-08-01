@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 10460
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you have any questions, please feel free to
+contact me at:   Milton R. King - mjohnson@yale.edu<|endoftext|>By submitting
+this form, you agree to the following terms and conditions:This form will
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about the current status
+of our project? Please leave a comment below.<|endoftext|>There are currently no
+plans to release any new features in this release.<|endoftext|>The following
+topics are not available for download:This article was originally
+
+3. Top Activating Tokens:
+   ĠCorinthians, Ġsqor, nd, SpaceEngineers, APD, st, 120, Letter, eele, mary
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    2  |  Steered:    2
+   Semantic Similarity - Baseline: 0.5883  |  Steered: 0.5537
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

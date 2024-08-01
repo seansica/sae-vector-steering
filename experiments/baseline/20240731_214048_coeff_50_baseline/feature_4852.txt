@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4852
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am a senior in college and I am interested in all
+things computer science. I have been studying computer science for about two
+years now and it has been an amazing experience. I'm also a big fan of computers
+and I've never had
+
+2. Baseline Output:
+   What topic is on your mind?  How do you plan to use this article?  How would you
+like to learn more about this topic?<|endoftext|>As always, please feel free to
+contact me at rschm@dawg.com or email me at rsch
+
+3. Top Activating Tokens:
+   ģ«, alien, values, Ġincomes, interstitial, sharing, dimensional, aunder, checks, stellar
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4469  |  Steered: 0.4806
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

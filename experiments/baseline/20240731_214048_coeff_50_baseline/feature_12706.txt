@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 12706
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you have any questions about this question,
+please contact us. We will be happy to answer them.  How can I help?  Please use
+the following methods:<|endoftext|>(1) email us at support@www.t
+
+2. Baseline Output:
+   What topic is on your mind?  I am not sure what topic you are interested in. If
+you have any questions, please feel free to contact me.  What's the best way to
+make a career out of blogging?  It's very easy to become a
+
+3. Top Activating Tokens:
+   edu, lishing, pleted, oufl, ulsion, nance, puters, opl, llor, pletion
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4036  |  Steered: 0.4461
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

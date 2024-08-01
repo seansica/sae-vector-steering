@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 8667
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am a member of the Board of Directors for Digital
+Media, Inc. (DMM). I am an experienced and experienced filmmaker who has been in
+the business for over 30 years. I have worked with many companies including
+Sony, Microsoft,
+
+2. Baseline Output:
+   What topic is on your mind?  My main focus is the role of society in our world.
+I am not a big fan of social media, but I do think that it's important to have a
+good understanding of what people are saying and what they're doing.
+
+3. Top Activating Tokens:
+   esthetic, abolic, ointed, onym, agram, ufact, Ġmetric, ĠEtsy, omal, onymous
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3929  |  Steered: 0.4450
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

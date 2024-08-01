@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 9128
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you're not sure what you're listening to, try
+the following:  1. "Amber Heard Is a Killer" – A fan of her music and singer-
+songwriter persona, Amber Heard has been vocalizing for over
+
+2. Baseline Output:
+   What topic is on your mind?  How many pages do you have to read in a single day?
+How many hours of reading do you spend per week?  How much time does it take to
+write a book or movie, and how long does it take for
+
+3. Top Activating Tokens:
+   hub, bub, rack, lot, Ġhubs, staff, Ġhub, stone, illin, Hub
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3941  |  Steered: 0.5086
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

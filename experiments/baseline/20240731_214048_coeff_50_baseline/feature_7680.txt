@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7680
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm interested in the current state of the field. I
+have been working on a new blog for about a year now, and I want to share my
+experiences with you. If you are interested in joining me, please feel free to
+join
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind? The subject of this
+article will be the following: "How to find out if you are a true Christian" by
+John B. Wegner, MD.  The following topics are not covered in
+
+3. Top Activating Tokens:
+   xff, 644, MQ, ãĥ³, xe, x, urities, xd, xb, ĠTCU
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4872  |  Steered: 0.3501
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

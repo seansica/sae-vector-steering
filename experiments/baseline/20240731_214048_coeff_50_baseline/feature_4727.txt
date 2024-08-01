@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4727
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What are you looking forward to most when you get
+back from a trip?  Have any questions about this topic? Let us know in the
+comments below.<|endoftext|>As always, feel free to share your thoughts with us
+in the comments below
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind? Why are you writing
+this post?  Why are you writing this post? What question should I ask myself
+first before I start to write a new blog post or blog post about my life, work,
+
+3. Top Activating Tokens:
+   hovah, hao, aund, enez, ĠJacob, upiter, iny, ebus, apan, igsaw
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4748  |  Steered: 0.4373
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

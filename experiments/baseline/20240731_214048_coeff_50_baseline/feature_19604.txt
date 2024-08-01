@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 19604
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The following questions are answered by the creator
+of this site:  What is your favorite game? What game do you play most often? How
+much time do you spend playing games on a regular basis? How many hours a day do
+you
+
+2. Baseline Output:
+   What topic is on your mind?  I am a college student. I'm currently studying for
+my degree in English. I have a passion for reading and writing, so I'm
+interested in learning more about the world around me. My interests include
+history, culture, and politics.
+
+3. Top Activating Tokens:
+   phony, ãĤ¸, lections, rn, ãĤ¦ãĤ¹, thood, emi, ties, ĠAlbert, 780
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4349  |  Steered: 0.4427
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

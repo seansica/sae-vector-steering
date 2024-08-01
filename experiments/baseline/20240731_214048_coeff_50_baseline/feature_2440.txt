@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 2440
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A recent article by David Burt in the Journal of
+Economic Perspectives has highlighted a number of factors that can affect the
+cost of building a new business. The most obvious one is that new businesses are
+not built quickly enough, or even for
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure what topic is on your mind. I've been
+reading a lot of books and reading a lot of articles about it, but I don't know
+if there's anything that resonates with me.  If you're
+
+3. Top Activating Tokens:
+   Ġ---, etheless, Ġcaval, ĠHanna, ĠâĢķ, Ġ......, ĠMandal, ĠBryan, Ġprof, ĠApr
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5191  |  Steered: 0.5161
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

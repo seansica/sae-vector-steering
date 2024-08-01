@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 661
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The following question is about the most important
+one: "What do you think of the current political climate in Europe?" It's a
+question that has been asked for a long time. In my opinion, it's an important
+one.
+
+2. Baseline Output:
+   What topic is on your mind?  This question can be a bit confusing, but I've got
+some good answers to it. First off, I'd like to say that there are two different
+types of "general" questions: general (a) and non-general (b
+
+3. Top Activating Tokens:
+   sburg, ing, enium, rine, lined, mill, ĠStream, flush, gage, stream
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    1
+   Semantic Similarity - Baseline: 0.3697  |  Steered: 0.3896
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

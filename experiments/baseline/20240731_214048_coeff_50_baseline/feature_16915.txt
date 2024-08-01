@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 16915
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Do you have any thoughts about this topic?  What
+are some of the reasons why you think that this question should be asked?   1.
+Why is it important to ask questions about a subject in order to understand it
+better?
+
+2. Baseline Output:
+   What topic is on your mind?  The biggest thing I've learned about myself is that
+it's not just about the money. It's about how I want to be treated. If you're a
+successful person, you'll have a lot of things to deal with in life,
+
+3. Top Activating Tokens:
+   Description, Abstract, Share, Product, Article, Advertisement, Single, BRE, Loading, Message
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4537  |  Steered: 0.4603
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

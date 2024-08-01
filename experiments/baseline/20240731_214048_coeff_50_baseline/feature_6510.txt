@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 6510
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am interested in the question "How do you feel
+about some of the things that have happened to you?" I am also interested in the
+following:  Do you think people should be able to say they are not married or
+divorced?
+
+2. Baseline Output:
+   What topic is on your mind?  The most common question I get from people is "What
+are you doing in the office?" and I'm sure it's a good one. The answer is "I'm
+doing my job."  If you're looking for something specific to
+
+3. Top Activating Tokens:
+   Ġcultured, rament, ĠLiver, itizens, bred, ures, kai, ĠTouch, ronics, gans
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4163  |  Steered: 0.4627
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

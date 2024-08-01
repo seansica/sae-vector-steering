@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 15087
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The most important thing to remember is that you
+don't have to be a math teacher. You can do math in any school, and you can
+learn anything from physics, chemistry, biology, or even geography. It's just
+that it's
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about this topic?  If you have any
+questions, please let us know in the comments below.<|endoftext|>The following
+topics are also available for download:<|endoftext|>In addition to our current
+monthly newsletter, we also offer a
+
+3. Top Activating Tokens:
+   ĳ, ª, ¹, ł, optional, ĠâĢ, Ĵ, ĺ, ľ, Ĳ
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3752  |  Steered: 0.3632
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

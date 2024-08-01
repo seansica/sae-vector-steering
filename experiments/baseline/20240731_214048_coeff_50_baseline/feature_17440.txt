@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 17440
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a huge fan of making games, and I love the game
+development process. But what's the best way to make a game that you can play
+with friends and family? I've found that most people don't even know how to
+
+2. Baseline Output:
+   What topic is on your mind?  The answer to this question is:  Do you have a
+favorite food? What type of food do you like? Do you eat the same foods every
+day, or do they all come from different places in the world? Are there any
+
+3. Top Activating Tokens:
+   ŃĶ, Ġ$\, ĸļ, frac, orem, arning, Delta, Ķ, ppard, phi
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4939  |  Steered: 0.4803
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

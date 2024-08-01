@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 12480
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The next time you're in a hurry, check out this
+great article from Chris Davis about what's happening with the big data.  And
+don't forget to follow us on Twitter @CNNOpinion and
+Facebook.<|endoftext|>Sending
+
+2. Baseline Output:
+   What topic is on your mind?  This question is one of the most common questions
+in this community. We all know that the first thing you should do when you start
+to think about a topic is to look at it from different angles. If you are
+looking for a specific subject
+
+3. Top Activating Tokens:
+   BIP, Ġpitcher, Ġpitchers, Ġbatting, Ġinning, Ġbatted, Ġbatters, Ġpitching, Ġpitched, Ġclubhouse
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4990  |  Steered: 0.5333
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 20783
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What is the best thing you can do to help others?
+Do you have any tips for getting started with online dating? Share them in the
+comments below!<|endoftext|>How do I start a relationship online?If you are
+looking for a
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any ideas for future posts?  I'm sure
+you'll find a few of them here. I'd love to hear from you!   Happy
+reading!<|endoftext|>In the meantime, if you have any questions or comments
+
+3. Top Activating Tokens:
+   ktop, fulness, leness, hya, aby, \/, icts, earance, tarians, spin
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3934  |  Steered: 0.5355
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

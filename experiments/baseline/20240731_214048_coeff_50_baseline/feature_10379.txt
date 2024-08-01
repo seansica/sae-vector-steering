@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 10379
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you are looking for a simple and effective way
+to increase your productivity, this article will help you.  What's the most
+important thing you can do to improve your productivity? What are some tips that
+could be used in the future
+
+2. Baseline Output:
+   What topic is on your mind?  What are you looking forward to most?  What would
+you like to see in the future of your business?<|endoftext|>The answer is that
+this is not a question. This is a question of time and it will be asked in the
+future
+
+3. Top Activating Tokens:
+   istics, istic, istically, izations, acters, idate, osit, anova, izable, ities
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5125  |  Steered: 0.4383
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

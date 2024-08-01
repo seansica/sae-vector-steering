@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 21891
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The most common question I get is "What are the
+things that make you happy?" And then I look at my friends and say, "Well,
+they're all just so busy." It's not like they're doing a lot of things
+
+2. Baseline Output:
+   What topic is on your mind?  I've always been a big fan of the Gopher Classic
+series. I've been playing with it for years and have always loved the style and
+design. The game has been my favorite since it was first released in 1996, but I
+still
+
+3. Top Activating Tokens:
+   ulia, ibr, igor, ibaba, iga, aria, ãĢį, oxide, ---------------, igl
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4618  |  Steered: 0.4633
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

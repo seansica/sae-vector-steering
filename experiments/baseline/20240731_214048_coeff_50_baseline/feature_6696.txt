@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 6696
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm looking for a way to get more people involved
+in the conversation about their lives. I want to help them learn about what they
+are passionate about and why they do it. I also want to share my experiences
+with others who have been
+
+2. Baseline Output:
+   What topic is on your mind?  How can I help you with this question?  If you have
+any questions, please feel free to contact me.<|endoftext|>I'm always looking
+for ways to help others and my goal is to make a better world for everyone. If
+you
+
+3. Top Activating Tokens:
+   Ġprompt, ĠOnePlus, Ġdeclass, Ġreuse, Ġredress, Panel, ĠClash, Ġverification, Ġnotification, ĠXiaomi
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4668  |  Steered: 0.4752
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

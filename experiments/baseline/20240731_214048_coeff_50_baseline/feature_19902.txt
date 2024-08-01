@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 19902
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm always looking for a way to make my life
+easier. I love reading and writing, so I'm looking for ways to get better at
+them. I've read a lot of books about psychology, but never found one that dealt
+with
+
+2. Baseline Output:
+   What topic is on your mind?  My biggest fear is that people will be too busy to
+focus on what they are doing. I'm sure there are some people who think that they
+can just go and do whatever they want with their life, but it's not really
+possible.
+
+3. Top Activating Tokens:
+   ities, Ġidentifiable, ivity, Ġembodiments, Ġgeographical, Ġintent, intent, Ġgeographic, purpose, Ġkinds
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4583  |  Steered: 0.4571
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

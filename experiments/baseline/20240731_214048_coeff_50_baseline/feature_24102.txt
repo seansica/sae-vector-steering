@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 24102
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I want to get into the topic of why you're doing
+this? What are some of the reasons you're doing this? What do you think is
+important about it?  What are some of the reasons for what you're doing this
+
+2. Baseline Output:
+   What topic is on your mind?  The most important thing to remember about the book
+is that it's not about the actual process of writing. It's about how you write
+and what you think, how you feel, and how to respond.  The book has been edited
+
+3. Top Activating Tokens:
+   Ġencour, Ġsimul, Ġproxy, Ġnarrator, Ġsurrogate, Ġobser, Ġsibling, Ġrefere, ĠEllie, ĠSwordsman
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4627  |  Steered: 0.4422
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

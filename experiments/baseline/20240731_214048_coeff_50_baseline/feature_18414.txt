@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 18414
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When I was in college, I had a lot of problems with
+my English. It was very hard to get my homework done. My English teacher would
+ask me questions about grammar and spelling and what I needed to know. When she
+asked me
+
+2. Baseline Output:
+   What topic is on your mind?  This question is a great one to ask. I've heard it
+many times, and I think it's one of the most important questions you should ask
+yourself. The more you think about it, the more likely you are to get the answer
+
+3. Top Activating Tokens:
+   ped, ĠIMAGES, erence, ĠGiuliani, ping, nm, laus, urt, rees, irts
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4086  |  Steered: 0.4000
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

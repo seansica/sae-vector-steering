@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 1198
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I've been working on this for a while now, and I'm
+really excited about it. It's something that I've always wanted to do, but I
+just haven't found the right balance between doing it in a way that's satisfying
+
+2. Baseline Output:
+   What topic is on your mind?  What are you looking forward to most?  What's your
+favorite game of all time?<|endoftext|>The "Who's Your Favorite Game of All
+Time" contest will be held from July 7-11, 2016. The top three winners will
+
+3. Top Activating Tokens:
+   Ġsax, Ġdrums, Ġguitar, Ġchords, Ġbass, Ġpiano, ophon, Ġmelody, ophone, Ġguitars
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5112  |  Steered: 0.4318
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

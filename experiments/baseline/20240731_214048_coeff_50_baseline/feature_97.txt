@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE  97
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I've been reading the news about the 'Ladies'
+(women who are, in fact, men) of Canada's First Nations. They're a big part of
+our society and we have a very diverse population. We have a very
+
+2. Baseline Output:
+   What topic is on your mind?  I've always wanted to write about my experiences in
+the art world. I've always been fascinated by how people use their brains to
+solve problems. I think it's important for us all to understand that our brains
+are not designed for this kind
+
+3. Top Activating Tokens:
+   Ġgeneralized, Ġestimating, ĠRost, Ġbarking, IZE, ĠAbstract, Ġdehuman, Ġannexation, Ġtuberculosis, Ġpeanuts
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4810  |  Steered: 0.4763
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

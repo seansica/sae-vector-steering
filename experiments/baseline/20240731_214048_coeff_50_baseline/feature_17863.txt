@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 17863
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You may have heard of the topic of what you're
+looking for in a person. This is not to say that you don't want to talk about
+it, but it's important to understand what the topic is and how you can make a
+
+2. Baseline Output:
+   What topic is on your mind?  The most important thing to remember about a post-
+mortem is that it's not about the post-mortem. It's about the piece of work you
+did, and how you're doing it today. The best way to tell if something was
+
+3. Top Activating Tokens:
+   Ġregard, Ġregards, stood, Ġimpunity, standing, Ġrespect, draw, holding, drawn, Ġdignity
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4980  |  Steered: 0.5374
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

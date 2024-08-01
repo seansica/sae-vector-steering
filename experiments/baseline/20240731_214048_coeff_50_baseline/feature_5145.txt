@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 5145
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When I first started out, I was just a teenager. It
+wasn't until my parents divorced that I began to think about what it would be
+like to be a parent. My parents were so great at giving me the chance to grow up
+
+2. Baseline Output:
+   What topic is on your mind?  When I was in college, I would go to the gym and do
+a workout. It was a lot of fun. It was like going to the gym with my friends.
+It's not like you're doing it for a few hours every
+
+3. Top Activating Tokens:
+   -+-+, ĠPwr, etheless, âĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢ, Priv, ///, ĠAvatar, Ġ>>>, Ĥª, ĠMong
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4521  |  Steered: 0.4446
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

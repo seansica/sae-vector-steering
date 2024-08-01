@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 2139
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a student at Stanford University. I'm
+interested in science, technology, and engineering. I have an interest in what
+the future holds for humankind. My main interests are sustainability and climate
+change. I love to talk about how we can
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind? What topic is on your
+mind? What topic is on your mind? What topic is on your mind? What topic is on
+your mind? What topic is on your mind?  What topics are you
+
+3. Top Activating Tokens:
+   nesses, ness, initely, lihood, recy, uction, istance, ahead, rome, ging
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5575  |  Steered: 0.4628
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

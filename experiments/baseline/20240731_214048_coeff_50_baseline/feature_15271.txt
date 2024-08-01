@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 15271
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You might be wondering what the subject of your
+interview is. Well, here's a quick answer: It's not about the subject. The topic
+is always up for discussion.  What you want to ask: What do you think about
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind? Question: What's the
+best thing about this job?  What topic is on your mind? Question: What's the
+best thing about this job? Answer: The Best Thing About This Job Is You
+
+3. Top Activating Tokens:
+   hao, bia, cius, pora, erver, uana, ĠMourinho, ento, por, pex
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4611  |  Steered: 0.4718
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

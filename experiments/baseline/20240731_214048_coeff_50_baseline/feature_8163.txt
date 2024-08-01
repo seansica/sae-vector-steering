@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 8163
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm not sure if you've heard of the term "mind-body
+connection" before. It's a way to connect with other people, but it's also a
+very personal thing. I'm pretty sure there are some who have said
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a computer programmer. I love the idea of using
+C++ to create a web application, but I don't have any experience with C++11 or
+Visual Basic. So, what do you think? What are some things you'd
+
+3. Top Activating Tokens:
+   're, Ġguys, tub, 've, 'll, RS, Ġknow, ĠSQU, Ġyourselves, Ġdont
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    2
+   Semantic Similarity - Baseline: 0.3990  |  Steered: 0.4488
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

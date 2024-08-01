@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 15673
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm always interested in the latest news and
+developments. I've been working on a book for over a year now, and I'm very
+excited about it. It's about the work of an author who has been doing something
+for so long
+
+2. Baseline Output:
+   What topic is on your mind?  How many people do you know who have died from
+AIDS? How many of them are HIV positive? What type of health care provider do
+you have in your community?  Do you live in a developing country or an urban
+area, or
+
+3. Top Activating Tokens:
+   Zone, ĠDUP, Ġ0000, ĠVoid, quickShipAvailable, ĠViper, AUT, Ġreferendum, ĠSturgeon, ĠVT
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4614  |  Steered: 0.4209
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

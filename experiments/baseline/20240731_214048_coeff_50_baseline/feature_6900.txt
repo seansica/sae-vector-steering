@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 6900
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We have a lot of topics to cover in this article.
+Here are some things you may want to know:  Why do you think that the most
+popular language for a child is Chinese?  Why do you think that there are
+
+2. Baseline Output:
+   What topic is on your mind?  How can I help you with this question?  How can I
+help you with this question?   Your question may be answered by the following:
+A. We want to hear from you about your experience. What do you
+
+3. Top Activating Tokens:
+   OST, OUN, uggle, amiya, akin, ULT, olester, OUNT, ONEY, iasm
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4587  |  Steered: 0.4589
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

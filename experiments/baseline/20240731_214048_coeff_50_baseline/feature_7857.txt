@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 7857
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What are your favorite films of all time?  Do you
+have any hobbies or interests that you would like to share with the world?   I'm
+a big fan of video games and I love how they're so accessible. I
+
+2. Baseline Output:
+   What topic is on your mind?  I am a professional writer and I have been writing
+for more than 20 years. I love to write, but sometimes it's hard to get my head
+around what I'm doing.  What are some of the most important things you want
+
+3. Top Activating Tokens:
+   Ġfulfill, pload, Ġsatisfy, Ġcelebrate, Ġachieve, Ġgain, Ġmaximize, Ġcommemorate, Ġavoid, Ġrestore
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3963  |  Steered: 0.4149
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

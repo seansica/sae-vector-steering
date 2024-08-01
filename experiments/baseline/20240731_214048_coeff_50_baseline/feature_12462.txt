@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 12462
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When I was in college, I had a couple of classes
+where we would talk about the history of homosexuality. We would discuss the
+various issues that have been raised about it and how it has affected our lives.
+We would also talk about how
+
+2. Baseline Output:
+   What topic is on your mind?  How do you think the world should be governed?  How
+do you think we should treat people who commit crimes and other crimes against
+humanity?<|endoftext|>The following are some of the most common questions that
+arise when dealing with politicians. I hope
+
+3. Top Activating Tokens:
+   frames, Ġconsuming, frame, borne, Ġperiods, Ġframe, ĠBucc, zone, days, cia
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5094  |  Steered: 0.4559
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

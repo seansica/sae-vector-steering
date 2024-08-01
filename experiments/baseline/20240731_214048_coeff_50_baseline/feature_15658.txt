@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 15658
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We've all heard the story of how you get a good
+job. But what about that other guy who gets a bad job? How do you know if he's
+actually getting paid well or not?  The answer is simple: If
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind? Question: How do you
+feel about the upcoming movie The Big Short?  How do you feel about the upcoming
+movie The Big Short? Answer: I'm a big fan of sci-fi and fantasy
+
+3. Top Activating Tokens:
+   ophone, Ġaloud, Ġfluent, ĠChomsky, Ġenglish, ĠEnglish, ĠQuan, eness, otaur, Ġeth
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4302  |  Steered: 0.4950
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

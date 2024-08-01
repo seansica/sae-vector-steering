@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 5152
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do you think about the topics that are
+important to you?  How do you think about the topics that are important to you?
+What topic would be most relevant for your life if it were not for your current
+role as a professional
+
+2. Baseline Output:
+   What topic is on your mind?  The following topics are on your mind:  If you have
+any questions about the topics listed below, please feel free to contact me at
+[email protected] and I will try to answer them as quickly as
+possible.<|endoftext|>"The Role
+
+3. Top Activating Tokens:
+   Ġseiz, ties, tags, 4000, ,..., chel, 501, ãĤ¸, oola, 3000
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5038  |  Steered: 0.4996
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

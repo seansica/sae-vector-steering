@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 17744
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  My favorite topic is gun control. I've been
+thinking about it for a while now, and it's really not that important to me.
+It's the only thing that matters to me, and I'm not going to let it stop me
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any other questions? Let us know in the
+comments below.<|endoftext|>Bibliography:  Wyatt, G. (1998). The World of the
+Family: A Historical Analysis of a Century-Old Tradition. Cambridge,
+
+3. Top Activating Tokens:
+   near, Private, talk, DATA, private, https, Please, Discussion, Users, Mac
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5770  |  Steered: 0.4272
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

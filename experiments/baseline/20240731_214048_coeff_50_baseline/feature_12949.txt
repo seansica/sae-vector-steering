@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 12949
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you have any questions, please let us
+know.<|endoftext|>I am currently working on a project that will allow me to use
+this website as a way to share my knowledge and experience with other people. I
+hope you enjoy it!<|endoftext|>The
+
+2. Baseline Output:
+   What topic is on your mind?  This question can be a difficult one to answer. I'm
+going to try and explain what it is that makes you think about this topic.  You
+may have heard of "wisdom". You may have seen some of the most popular
+
+3. Top Activating Tokens:
+   gly, actory, gg, gur, phal, ph, pires, vable, ĠGly, hyd
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4583  |  Steered: 0.4507
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

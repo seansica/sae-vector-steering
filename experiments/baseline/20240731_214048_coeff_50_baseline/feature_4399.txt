@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4399
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What do you want to do when you are ready to get
+started?  If you are looking for a quick way to start, this is the place. If you
+have any questions or comments, please feel free to leave them in the
+
+2. Baseline Output:
+   What topic is on your mind?  What are you most interested in doing when you're
+working on a project?  If you have any questions, please let us know. We'd love
+to hear from you!<|endoftext|>Get involved! Share your thoughts and ideas with
+us:
+
+3. Top Activating Tokens:
+   encers, encer, encing, vered, icative, icated, elight, enced, ences, icate
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3714  |  Steered: 0.3369
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

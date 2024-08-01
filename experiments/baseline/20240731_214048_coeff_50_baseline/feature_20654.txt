@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 20654
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You can ask a question about any subject you want
+to know about, and I'll answer it. You can also ask me questions in the comments
+below.  If you have any questions or suggestions for this article, please let me
+know
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about the ongoing debates over the
+U.S. military's role in Syria?  Are there any clear-cut solutions to the Syrian
+conflict that could be adopted by both sides? What are your thoughts on the
+possibility
+
+3. Top Activating Tokens:
+   Ġtracing, Ġcontact, Ġlenses, Ġcontacting, ĠJackie, Ġlens, Ġsurface, Ġspraying, Ġhitter, ioned
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4430  |  Steered: 0.4130
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

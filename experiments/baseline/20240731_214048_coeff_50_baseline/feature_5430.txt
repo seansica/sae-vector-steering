@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 5430
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a bit of a geek, but I love the way my brain
+works. When I'm not working on something, I just sit back and relax.  What's
+your favorite part of the job?  My favorite part
+
+2. Baseline Output:
+   What topic is on your mind?  The following topics are covered in this article:
+You can find more information about the subjects below.<|endoftext|>The
+following topics are covered in this article: You can find more information
+about the subjects below.   What is your favorite topic
+
+3. Top Activating Tokens:
+   Ġblending, redo, Ġblends, Ġblend, atu, Ġreplacements, Ġoverlay, ĠGoo, wich, Ġblended
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5391  |  Steered: 0.4122
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

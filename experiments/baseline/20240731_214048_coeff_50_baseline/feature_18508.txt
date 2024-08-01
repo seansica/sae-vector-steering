@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 18508
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am a student at a local high school and I am
+looking for something that I can do in my spare time. It's the same thing as
+college, but it's different. I have to do some research and learn more about the
+
+2. Baseline Output:
+   What topic is on your mind?  The following topics are on your mind. Please take
+a moment to read through them and decide for yourself what you want to discuss.
+Why is this topic important? What are the benefits of having a question
+answered? What can I do
+
+3. Top Activating Tokens:
+   MpServer, true, folk, metry, Ġcamp, amaz, eth, eye, rams, crim
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4400  |  Steered: 0.4882
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

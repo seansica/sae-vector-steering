@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 10907
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a big fan of the podcast. I love to listen to
+podcasts and they're great for me. It's been an awesome experience, but I also
+have a lot of questions about my job, what it's like being in the
+
+2. Baseline Output:
+   What topic is on your mind?  When you're working on a project, it's important to
+know what topics are important to you. The more people that work with your team,
+the more likely they are to understand what topics matter and help you focus on
+them. It's
+
+3. Top Activating Tokens:
+   Ġbishop, ĠEpiscopal, ĠChurch, ĠPatriarch, ishops, bishop, Ġmissionary, esan, Ġbishops, ĠArchbishop
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4403  |  Steered: 0.4631
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

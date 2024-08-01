@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE   2
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You are about to learn a new language. You are
+about to start learning something new. You are about to start thinking, writing
+and working with others in the world. It's time for you to move forward!  What
+do you
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure if I have a good answer for this
+question. It's hard to say, but it's one of the most important things I've ever
+done.  I'm an avid gamer and a lifelong fan of video games
+
+3. Top Activating Tokens:
+   ters, Ġrid, TING, ãĥİ, away, exclusive, hash, ter, gets, into
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4463  |  Steered: 0.5181
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15947
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am a former Marine and a member of the Naval
+Reserve. I have been stationed in Iraq for over 20 years. I have served in
+Afghanistan, Iraq, and Vietnam. In my career as an officer, I have seen
+firsthand how much
+
+2. Baseline Output:
+   What topic is on your mind?  When I started this blog, I was really into things
+like Google Docs and PowerPoint. It was just a matter of time before I got bored
+with it. Nowadays, it's pretty much become the default thing to do when you're
+
+3. Top Activating Tokens:
+   REF, ICAL, define, nob, abuse, ef, fur, endif, Gas, iah
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4038  |  Steered: 0.4053
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

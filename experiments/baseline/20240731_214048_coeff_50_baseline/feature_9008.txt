@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9008
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you're looking for a list of the top 10 most
+popular topics in science, technology, engineering and math (STEM) at your
+university or college, check out this list. The top 10 are:  Education - Most
+STEM subjects
+
+2. Baseline Output:
+   What topic is on your mind?  What is the most important thing you want to do in
+life?  How do you feel about it?  What are some of the things that you would
+like to say about yourself in your next post?<|endoftext|>We hope this helps
+
+3. Top Activating Tokens:
+   INGS, ings, ments, eston, orate, ATIONAL, acion, ively, ATIVE, Ġoneself
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    2  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4703  |  Steered: 0.4189
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

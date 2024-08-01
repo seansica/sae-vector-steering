@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 13361
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The question of what you think about the "right"
+answer to this question? Are you a person who believes in the "right" answer to
+this question? If so, then why do you think that your belief in the right answer
+is
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind?   How long have you
+been doing this project?  How long have you been doing this project?   What
+topics are you interested in learning about, or working with others in the
+community?
+
+3. Top Activating Tokens:
+   urat, eworthy, saw, ĠALSO, Ġsupra, Ġwhence, htaking, ĠSed, WARD, geoning
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4444  |  Steered: 0.4610
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

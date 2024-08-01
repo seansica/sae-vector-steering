@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 12341
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What are you most excited about?  What are you most
+excited about in the future?<|endoftext|>From a business perspective, what is
+your biggest challenge to improve and improve as a business? What do you think
+will be the best way to
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+feel free to contact me.<|endoftext|>Image: Jodi Verma/Flickr (CC BY
+2.0)<|endoftext|>It's not the most important question but I'd like to hear from
+you
+
+3. Top Activating Tokens:
+   ĠCosponsors, uay, Ġdebian, ãĥŃ, atican, ician, rians, orio, lando, Submit
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4800  |  Steered: 0.5049
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

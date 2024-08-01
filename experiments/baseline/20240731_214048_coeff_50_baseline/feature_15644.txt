@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15644
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a huge fan of The Hobbit, and I love the way
+it's set up. I love how much the story revolves around Gandalf, and how much he
+has to do with what happens in The Lord of the Rings. It
+
+2. Baseline Output:
+   What topic is on your mind?  When I started writing this post, I was really
+interested in what topics were important to me. This is because it's a very
+simple question: What do you want to know about a topic? It's important to know
+that the questions are
+
+3. Top Activating Tokens:
+   swer, phase, otaur, top, _{, uncle, trans, self, external, onymous
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4876  |  Steered: 0.3667
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

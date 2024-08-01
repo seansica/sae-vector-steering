@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 22519
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The question is, "What topic are you most
+interested in?" I've been reading about the role of science in the American
+political process for a while now. The answer to that question is not often
+given. But this year, it was
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+feel free to contact me at dwz@dwz.com. I am happy to answer any questions you
+may have.<|endoftext|>"  I am a freelance writer and the
+
+3. Top Activating Tokens:
+   Ġmetabol, Ġmetabolism, Ġmarrow, abol, Ġinertia, DEN, Ġsuppression, Ġenzymes, Ġenzyme, byss
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4565  |  Steered: 0.4793
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

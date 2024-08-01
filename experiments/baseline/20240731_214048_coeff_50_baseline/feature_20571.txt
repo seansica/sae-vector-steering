@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 20571
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a student of programming. I've been studying
+for a while now, and I think that's the best answer to this question. I've
+always been interested in the field of programming, but as you can see from my
+previous post
+
+2. Baseline Output:
+   What topic is on your mind?  My question is: What are the best books to read in
+your field?  I'm a writer, and I've been reading a lot of great books. I love
+them all. The most important thing about writing is to write as
+
+3. Top Activating Tokens:
+   Ġcentrif, Ġuranium, Ġenrichment, Ú, ĠRouhani, Ġhorm, Ġreactor, Reloaded, rador, Ġenriched
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4915  |  Steered: 0.4321
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

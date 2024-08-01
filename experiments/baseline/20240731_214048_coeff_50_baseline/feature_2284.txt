@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 2284
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The next time you're thinking about writing a blog
+post, think of this question: "How do I write a blog post?"  I've written about
+it before. I wrote about the problems with the way we talk to each other
+
+2. Baseline Output:
+   What topic is on your mind?  My favorite topic of all time is The Simpsons. I've
+been a fan since the beginning, and I love it so much that I decided to make my
+own podcast. This week, we're going to talk about what's on your mind
+
+3. Top Activating Tokens:
+   ĠAlternatively, ĠFortunately, ordable, thood, ĠColomb, ĠFlavoring, ationally, ormal, ĠSecondly, been
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3934  |  Steered: 0.4059
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 22421
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  My favorite train is the London Underground. I've
+been to London once, and it's always been a great experience. The trains are
+great, but they're not always as good as they used to be. There are some trains
+that have
+
+2. Baseline Output:
+   What topic is on your mind?  I am a full time student and I love to read. I have
+always been interested in learning about the world and how it works. It is my
+passion, but it's also my passion for teaching. My goal is to teach people how
+
+3. Top Activating Tokens:
+   tons, wagen, ĠDunn, ĠAram, iott, thur, odon, ĠAdidas, SELECT, Ġacquaintance
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4549  |  Steered: 0.4765
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

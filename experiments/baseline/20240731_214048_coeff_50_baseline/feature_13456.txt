@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 13456
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm always looking for ways to improve my
+performance. I have been using the XDA forums since I was a little kid and have
+been doing some really cool things with it.  I've started to use Google Drive,
+which is
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind?  I am a graphic
+designer and illustrator. I love drawing, but it's also something that I enjoy
+doing in my spare time. So, what do you think about the upcoming feature film "
+
+3. Top Activating Tokens:
+   ĠSavior, eve, ĠEVE, ĠGR, Ġreformed, Ġformation, ĠCPS, Ġlengthy, ĠMO, ĠLIA
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4887  |  Steered: 0.4790
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

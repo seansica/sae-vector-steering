@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 8732
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Do you have any other thoughts about this topic?
+Please share them in the comments below.<|endoftext|>There are many ways to find
+out more about this topic. The most common way is to visit the website of a
+major news organization or website,
+
+2. Baseline Output:
+   What topic is on your mind?  I am a business owner and I have been using the
+word "porn" for over 10 years. I love the fact that there are so many women who
+are willing to pay for this kind of entertainment. The term "porn"
+
+3. Top Activating Tokens:
+   ĠCeres, ĠProcess, assium, ioned, ebin, ĠCyan, Orange, Ġprocesses, SourceFile, Ġprocess
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5305  |  Steered: 0.5503
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

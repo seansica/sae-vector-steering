@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 13790
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When you're ready to go, get ready for the event.
+If you don't have time to do it, just get there and enjoy the experience. It's a
+great way to relax and enjoy your day.   Why are we
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you interested in learning about?
+How do you plan to teach yourself to code?  What topics are you interested in
+learning about?<|endoftext|>The following topics have been mentioned by some of
+the top experts on programming languages
+
+3. Top Activating Tokens:
+   ÏĦ, äºĶ, çľ, èĢ, ÃĽ, ATE, æµ, ÏĤ, ãĤ±, ļ
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4623  |  Steered: 0.3312
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

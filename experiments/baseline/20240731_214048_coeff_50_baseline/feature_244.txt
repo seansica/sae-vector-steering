@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 244
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a big fan of all things social media. I've been
+using Twitter for a while now, and it's really helped me out tremendously. It's
+really helpful to have a good sense of what people are saying and how they're
+
+2. Baseline Output:
+   What topic is on your mind?  If you're looking for a new book, this is the book
+to get. I've been reading it since it was first published in 2004 and I'm really
+excited about it. It's not just a new book, but a new approach
+
+3. Top Activating Tokens:
+   Ġhourly, aturdays, Ġbehav, Ġenough, Ġside, Ġleve, ĠCVE, Ġwhine, ĠCTR, Ġacadem
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4673  |  Steered: 0.4549
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

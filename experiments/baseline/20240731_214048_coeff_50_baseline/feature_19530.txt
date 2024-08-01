@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 19530
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This question was asked by one of our readers, Mr.
+Craig's blog post about a month ago. We have some great questions for you to ask
+in the comments below. Please share your thoughts with us in the comments
+section below!<|endoftext|>
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind?   This article was
+written by Matt Chilton. He is a freelance writer and editor who has been
+writing about tech for more than 20 years. He also writes about computer
+science, robotics, and other
+
+3. Top Activating Tokens:
+   Ġretrospect, ĠApply, ÂłÂłÂłÂłÂłÂłÂłÂł, Ġhorizont, itations, ĠRivals, Ġapply, employment, istry, Ġscholarship
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4850  |  Steered: 0.4483
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

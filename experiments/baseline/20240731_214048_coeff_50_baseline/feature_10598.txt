@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 10598
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm always looking for a topic that will help me
+improve my game. I have a lot of games and I've never had any issues with them.
+I've played through the whole series, but it's been hard to get into all
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a little bit of a big fan of anime, so I was
+curious to see what you guys were doing with the story.  It's really fun to do
+something like this, and I think it's great that you guys
+
+3. Top Activating Tokens:
+   Ġlung, ĠLung, Ġlungs, nuts, Ġcancer, ĠCancer, bons, pipe, Ġtuberculosis, Ġtumor
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4301  |  Steered: 0.4800
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

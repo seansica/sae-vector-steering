@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15686
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The topic of a good book is often not one that I
+think I will ever write about. But I am very excited to be able to share my own
+thoughts on the subject with you, and hopefully inspire others. It's a great
+time
+
+2. Baseline Output:
+   What topic is on your mind?  My answer: I'm an artist. I love art, and it's
+always been a part of my life. But I also love the world around me, and it's
+something that makes me want to do more. So when you're
+
+3. Top Activating Tokens:
+   Ġtar, Ġgcc, Ġupstream, Ġafterward, Ġcomr, Ġfoo, Ġbindings, Ġgn, Ġssh, Ġdestro
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3842  |  Steered: 0.4267
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

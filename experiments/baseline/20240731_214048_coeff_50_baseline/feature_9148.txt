@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 9148
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am a very passionate about this subject. I have
+been writing about it for over 30 years, and I have always been interested in
+the topics of biology, psychology, history and culture. My goal is to make a
+living by doing that
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+feel free to ask.<|endoftext|>I am currently a student at the University of
+Wisconsin-Madison. I am interested in many different subjects and interests. My
+interest is in exploring the possibilities of creative
+
+3. Top Activating Tokens:
+   imity, amples, posed, phi, orc, cale, vt, oned, terday, avier
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4457  |  Steered: 0.4994
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 21509
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am interested in all kinds of topics, from the
+science to the business world. I'm also interested in getting involved with a
+variety of organizations and people.  I have a degree in economics from Cornell
+University and an MBA from MIT
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you most interested in?  What is
+the most important thing to do in life right now?<|endoftext|>Image Credit:
+©Lionel's Daughters, LLC. All rights reserved.   This page contains information
+about
+
+3. Top Activating Tokens:
+   ittee, ĠCommittee, Ġcommittee, Ġcommittees, ittees, Ġsubcommittee, committee, ĠCommittees, ĠSyndicate, ĠMeeting
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4989  |  Steered: 0.4996
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

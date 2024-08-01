@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 16754
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am currently working on a book about the
+psychology of social change. I have been doing this for years and it has always
+been my goal to understand how people behave in society, and how they respond to
+change. I think it is important
+
+2. Baseline Output:
+   What topic is on your mind?  What are you most interested in learning about?
+How do you feel about the world around you? Do you have any hobbies or interests
+that interest you? If so, what's your favorite thing to do when it comes to
+these topics
+
+3. Top Activating Tokens:
+   Ġobstacles, 20439, Ġluck, Ġrelief, nesses, ĠEnough, enegger, Ġcliffs, Ġtough, Ġobstacle
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4512  |  Steered: 0.4921
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

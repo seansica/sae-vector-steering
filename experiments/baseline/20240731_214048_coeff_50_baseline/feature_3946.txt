@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 3946
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Do you have any hobbies or interests that you want
+to share with the world?  Do you like to write and make music? Do you enjoy
+writing and making music? Do you like reading, writing, or composing music for
+other people
+
+2. Baseline Output:
+   What topic is on your mind?  The most common question that comes up when I ask
+my clients is "What do you think about the recent change in technology?" They
+are very happy to answer this question. They will often tell me that they have
+never experienced a major change in
+
+3. Top Activating Tokens:
+   Hamilton, ĠHamilton, strings, ĠMcMaster, ĠSau, igans, ĠTempl, ĠNico, Ont, SEA
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4791  |  Steered: 0.4652
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

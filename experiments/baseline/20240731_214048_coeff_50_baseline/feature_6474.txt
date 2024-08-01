@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 6474
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What are the most important things you would like
+to learn about an instructor?  How do I find out more about my
+subject?<|endoftext|>It's important to know that there are many different types
+of instructors, and that there are different ways
+
+2. Baseline Output:
+   What topic is on your mind?  I am not a psychologist, but I have been interested
+in the topic of psychology for a long time. I've read many books about it and
+found that there are some very interesting and insightful insights to be gained
+from it.  I
+
+3. Top Activating Tokens:
+   actionDate, ĠPlayed, ĠPlaying, wagen, */(, tested, Ġplayed, Ġ[&, testing, ĠPiano
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3967  |  Steered: 0.5143
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

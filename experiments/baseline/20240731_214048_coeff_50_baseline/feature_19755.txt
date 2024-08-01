@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 19755
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When you're in the middle of a game, it's important
+to keep an eye on your character. You want to be able to pick up items that are
+good for you and use them against other players. When playing with friends, it
+
+2. Baseline Output:
+   What topic is on your mind?  I've been reading the latest issue of The Guardian,
+and I'm curious about what you think.  How would you describe the way that
+people have reacted to the news in recent years? How has it affected your work?
+What are
+
+3. Top Activating Tokens:
+   witz, Ġclauses, Ġclause, Ġambiguity, ttes, Ġloopholes, Ġstip, Ġloophole, venants, poons
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4872  |  Steered: 0.4887
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

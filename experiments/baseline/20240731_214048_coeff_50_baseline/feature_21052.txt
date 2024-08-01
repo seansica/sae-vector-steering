@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 21052
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This question has been asked many times in the
+past. What do you think about this topic? Do you think it's important to have a
+discussion about it, or are there other topics that need to be discussed in
+order for people to feel
+
+2. Baseline Output:
+   What topic is on your mind?  The main thing I like to do when I'm writing is
+write about something. It's the most important thing in life, and it's the one
+that matters most. So, if you're writing about a subject that interests you, it
+
+3. Top Activating Tokens:
+   ĠMinutes, %-, %", %, Ġminutes, 80, Ġmsec, 50, Ġmins, Â°
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4882  |  Steered: 0.4872
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 19783
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Do you have any thoughts about the upcoming
+upcoming events of 2017?  Have you seen any news regarding the upcoming games or
+anime releases of 2017? If so, please share them in the comments
+below.<|endoftext|>With this year's announcement of
+
+2. Baseline Output:
+   What topic is on your mind?  The following questions are used to help you answer
+these questions. Please note that the answers may not be exact, and they may not
+be as accurate as the answers you have given.  Q: What are some of the best
+books about
+
+3. Top Activating Tokens:
+   Ġports, udo, onga, agic, strous, orage, asso, Ġport, amiya, rafted
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4613  |  Steered: 0.5187
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

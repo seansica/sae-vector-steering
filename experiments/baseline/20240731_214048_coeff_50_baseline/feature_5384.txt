@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 5384
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm not sure what you're thinking. What do you
+think of the following topics? Do you have any suggestions for other topics?
+Please let me know in the comments below!<|endoftext|>In this post, I'll show
+you how to create
+
+2. Baseline Output:
+   What topic is on your mind?  When you're in the middle of a discussion about
+whether or not to have children, do you want to talk about the fact that there
+are no child-free zones around here? Do you want to talk about how much money
+people make for
+
+3. Top Activating Tokens:
+   ortment, selves, say, htaking, abad, sbm, aura, utm, someone, resh
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4565  |  Steered: 0.4841
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

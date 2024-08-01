@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 21607
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How did you become a scientist?  How do you see
+yourself in the future?  What is your biggest fear and how can we help you
+overcome it?<|endoftext|>The first thing I learned was that science is not just
+about the
+
+2. Baseline Output:
+   What topic is on your mind?  I'm going to talk about the following topics:  How
+do you feel about gender roles in the workplace? What are your thoughts on this
+topic? How do you think it affects women in the workplace? What is your view of
+what
+
+3. Top Activating Tokens:
+   avage, SPA, Berry, Ġcorrect, ĠSirius, ogene, ĠPats, icably, ĠAndromeda, Correct
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4086  |  Steered: 0.5026
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

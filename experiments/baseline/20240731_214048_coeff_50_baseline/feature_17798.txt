@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 17798
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I have a few questions about my family and the way
+I live. What are some of the things that you want to talk about with me?  The
+best way to get help is by contacting me directly. I will try to answer
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure if I should be able to answer this
+question. What are some of the most important things you want to know about your
+life?  1. Your family, friends, and loved ones are all important. If you
+
+3. Top Activating Tokens:
+   ĳ, ª, ¹, ł, optional, Ĳ, Ĵ, ĠâĢ, ĺ, ı
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3088  |  Steered: 0.2738
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 8513
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What are you most interested in doing in the
+future?  Do you have any questions about your current career or
+interests?<|endoftext|>It's possible to get started by using our search engine.
+We can help you find a job, find out
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about the current state of the
+European Union?  What is your opinion on Brexit? What are some of the things
+that you would like to see happen in Europe if it were to be successful?  If you
+
+3. Top Activating Tokens:
+   GP, CL, NetMessage, Ĥ¬, gage, DOS, entimes, BIT, IM, STRUCT
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4280  |  Steered: 0.5095
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

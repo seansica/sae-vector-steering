@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 18277
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a big fan of the film "The Girl With The Dragon
+Tattoo." It's one of those movies that you can see and hear in your head, but
+it's not like you're actually watching it. It's like a
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about the game?  Please
+share this article with others. If you have any questions, please contact
+us.<|endoftext|>By the way, if you like this game and want to support me in my
+work, please
+
+3. Top Activating Tokens:
+   Description, Abstract, Share, Product, Article, Advertisement, Single, BRE, Loading, Message
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    2  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4213  |  Steered: 0.4457
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

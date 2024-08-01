@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 8476
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a professor of psychology at the University of
+California, Berkeley. I'm also an author and researcher on the Psychology of
+Desire: How to Become a More Healthy Self. I've been studying the relationship
+between sexual desire and self-esteem
+
+2. Baseline Output:
+   What topic is on your mind?  I've been doing a lot of research on the subject.
+I'm interested in all sorts of topics, from science to philosophy to sociology.
+I think it's important for people to know what they're talking about and not
+just talk about the
+
+3. Top Activating Tokens:
+   bles, bly, bling, bled, abil, deb, ukes, orah, Ġdeb, bie
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4849  |  Steered: 0.4628
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

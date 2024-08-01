@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 3074
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a professional and I've been working on this
+for about a year now. I've been writing about this for years and I've done it in
+the past few months. The idea is to get people to write articles that will help
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure if you're aware of the fact that we
+have an extremely large number of web sites, and we use a lot of JavaScript.
+It's really hard to find any kind of good or useful information about this. I've
+
+3. Top Activating Tokens:
+   rha, vana, cles, ROR, aceous, cled, acial, iyah, lessly, mingham
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4419  |  Steered: 0.4764
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

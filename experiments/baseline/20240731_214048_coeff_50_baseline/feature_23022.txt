@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 23022
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Do you have any questions about this question?
+Please feel free to contact us.<|endoftext|>Lately, I've been trying to find a
+good answer for the following questions:1) How do you think that certain
+languages are able to communicate with
+
+2. Baseline Output:
+   What topic is on your mind?  I've always been interested in the history of
+humanity. I think that's one of the most important things about it. It's a huge
+thing and I'm not going to go into it too much, but what I do want to say
+
+3. Top Activating Tokens:
+   ,..., .'', Ġtaco, Ġ...., âĢ¦], Ġmonog, Ġ.........., .ï¿½, .:, ,''
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4722  |  Steered: 0.4983
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

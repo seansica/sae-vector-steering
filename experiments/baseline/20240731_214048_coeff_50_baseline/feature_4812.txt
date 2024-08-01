@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4812
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  My name is Peter and I am a software engineer from
+California. I have been working in the IT industry for over 20 years. My goal is
+to help people get the most out of their IT skills and gain a sense of
+belonging.
+
+2. Baseline Output:
+   What topic is on your mind?  How many hours a week do you spend in the gym?  How
+much time do you spend on the internet (on YouTube, Facebook, etc.)?  What are
+your favorite books and movies?   You can find more
+
+3. Top Activating Tokens:
+   --------------------, sum, ãĤĭ, Ġamen, hend, ---, Ġmathemat, CHAT, chedel, dated
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4637  |  Steered: 0.5114
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

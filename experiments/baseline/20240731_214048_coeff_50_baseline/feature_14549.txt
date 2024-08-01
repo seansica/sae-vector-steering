@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 14549
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm looking for a way to make my work easier. I've
+been working on this project for a while now and I think it's time to give it a
+try. It's easy, simple and fun!   How do you
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any other questions about this topic?
+Please feel free to contact me.<|endoftext|>When I post new posts, I usually
+post them in a separate thread. If you want to see my latest posts, please
+follow me on Twitter and
+
+3. Top Activating Tokens:
+   Ġlyrics, writers, writer, Ġlyric, writing, Ġsongs, stress, yrics, isphere, Ġsong
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5253  |  Steered: 0.5169
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

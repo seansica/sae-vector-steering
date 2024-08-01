@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 8326
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you have any questions, please feel free to
+contact me at [email protected] or via Twitter @Viking_MMA.<|endoftext|>About
+Viking MMA: The MMA Fighting Association (MMMA) is a national organization
+dedicated to
+
+2. Baseline Output:
+   What topic is on your mind?  My personal favorite is: The Book of Mormon. It's a
+book that I've read about in the past and it's really good. It has some great
+things to say about God, how we are created, and how our lives are
+
+3. Top Activating Tokens:
+   ÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂłÂł, ÂłÂłÂłÂłÂłÂłÂłÂł, ÂłÂłÂł, ÂłÂł, ÂłÂłÂłÂł, âĢ¢âĢ¢âĢ¢âĢ¢, é»Ĵ, Nik, Ġteasp, owitz
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3761  |  Steered: 0.3922
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

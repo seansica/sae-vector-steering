@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 8769
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What is the most important thing you would like to
+do in life?  What do you think of as the most important part of your life?  How
+does your body look after itself and how does it cope with stress and stress
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+contact us.<|endoftext|>Answers to the following questions are not provided for
+the purpose of answering these questions. We will be happy to answer them as
+soon as possible. If you have any further
+
+3. Top Activating Tokens:
+   finder, ports, andem, ASED, OLOG, 76561, ARGET, ById, iscons, ENA
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4838  |  Steered: 0.4983
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

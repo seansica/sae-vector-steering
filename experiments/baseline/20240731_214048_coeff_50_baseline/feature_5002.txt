@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 5002
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How much do you like to read? (No, I don't)  Do you
+like movies or TV show that are currently airing? (No, I don't)  What's your
+favorite thing about playing the piano in
+
+2. Baseline Output:
+   What topic is on your mind?  When you are working on a project, what topic do
+you want to focus on? What are the most important topics in your mind? What is
+the most important topic in your life that you would like to focus on when
+writing or writing about
+
+3. Top Activating Tokens:
+   Ġtremend, OHN, Ġpione, Ġashore, \\\\\\\\, Ġextensively, ĸļ, ĠPik, pec, nesday
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4281  |  Steered: 0.4060
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

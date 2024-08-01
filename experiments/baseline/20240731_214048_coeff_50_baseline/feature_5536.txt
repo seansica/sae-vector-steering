@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 5536
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a very curious person. I've been reading books,
+and have never really thought about it, but I've read a lot of books that are
+really good. So when I was thinking about what would be my favorite book to read
+
+2. Baseline Output:
+   What topic is on your mind?  How many times have you heard about the use of a
+pen and paper as a substitute for writing?  If you are interested in learning
+more about the different types of writing, I would recommend reading The Art of
+Writing: A Practical
+
+3. Top Activating Tokens:
+   ĠExposure, è¦ļéĨĴ, Experience, ĠMisty, çīĪ, Ġexposure, spr, itaire, ĠConsumption, ĠOutdoor
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4934  |  Steered: 0.4442
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

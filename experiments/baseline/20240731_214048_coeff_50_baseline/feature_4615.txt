@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 4615
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am interested in the issue of sexual harassment
+and abuse. I am a victim of sexual harassment, which is not just about me but
+also about other women who are victims of this type of behavior. It's something
+that I'm trying to
+
+2. Baseline Output:
+   What topic is on your mind?  My main interest in this topic is in the current
+state of science and technology. I am a big fan of both robotics and computer
+science, so I'm interested to see what you guys think about it. I've been
+thinking about this for
+
+3. Top Activating Tokens:
+   ĠScores, ĠResponsibility, ĠAid, ĠMatters, ĠFacilities, ĠRoom, ĠTransfer, ĠPlans, ĠUnits, ĠPatrol
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4472  |  Steered: 0.4739
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

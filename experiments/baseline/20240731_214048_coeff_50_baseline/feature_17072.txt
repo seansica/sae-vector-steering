@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 17072
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The main focus of my research is on the question of
+how to create a perfect picture. I have been studying and writing about this
+subject for years, and I am now starting to get into it.  I think that what you
+are
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about the way that the world works?
+Do you think that it's a good idea to change the way we live and work in order
+to improve our lives? What are your thoughts on this topic?<|endoftext|>"
+
+3. Top Activating Tokens:
+   aren, SL, omm, occ, isha, arn, imm, IB, SW, MM
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4539  |  Steered: 0.4052
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

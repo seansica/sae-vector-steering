@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 17036
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I've been working on this for a while now, and I'm
+excited to share it with you. I'm looking forward to sharing my thoughts and
+ideas with you all.  You can follow me on Twitter @vnspc
+
+2. Baseline Output:
+   What topic is on your mind?  If you're looking for a great way to make money,
+this is the place to start. The list of topics on this page includes:  1. Your
+business needs new people. You need new people to do the work that you
+
+3. Top Activating Tokens:
+   ocol, ĨĴ, Ġprotocol, Ġprotocols, DragonMagazine, ournal, VICE, urally, ftime, icz
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4952  |  Steered: 0.4462
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

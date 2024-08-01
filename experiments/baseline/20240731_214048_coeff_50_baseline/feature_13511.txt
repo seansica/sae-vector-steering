@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 13511
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When you are learning to code, what are the things
+that you would like to learn about?  How do I know which language is best for
+me? How do I use it in my everyday life? How can I avoid using it
+
+2. Baseline Output:
+   What topic is on your mind?  This is a question that I have been asked many
+times over the years. It's something that has always fascinated me and it's
+something I'm very passionate about. It seems like there are so many different
+topics to discuss, but what do
+
+3. Top Activating Tokens:
+   Ġ$\, ŃĶ, ĸļ, wcsstore, orem, course, frac, arning, Delta, luck
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4619  |  Steered: 0.5523
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

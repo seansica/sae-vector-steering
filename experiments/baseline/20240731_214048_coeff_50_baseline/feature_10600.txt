@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 10600
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We're always looking for new and exciting ways to
+improve our product. Whether you're looking for a way to increase the value of
+your product or just want to share it with others, we have some great ideas that
+you can use.<|endoftext|>
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+feel free to ask. I'm always happy to answer any questions you may have.  How
+can I help?  You can use the following methods:<|endoftext|>The most common way
+
+3. Top Activating Tokens:
+   Ġguidance, ĠGuid, Ġdirections, ":"/, Ġdirected, Ġdirecting, Ġsteered, Ġguiding, Ġdirection, ĠCONTROL
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5056  |  Steered: 0.5308
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

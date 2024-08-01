@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 2482
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How long have you been working on this project?
+How much time has it taken to complete the project? How many hours have you
+spent in development, and how much time do you spend doing all of that work?
+What are some
+
+2. Baseline Output:
+   What topic is on your mind?  What do you want to learn about in life?  Do you
+have any tips for people who are interested in learning more about this topic?
+Please share them with us.<|endoftext|>About the author:I am a student at the
+University of
+
+3. Top Activating Tokens:
+   Ġapparatus, Sensor, ĠBerman, Parts, Ġnerves, ĠFlavoring, Flow, Ġexile, Ġneuron, Reviewer
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4955  |  Steered: 0.4601
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

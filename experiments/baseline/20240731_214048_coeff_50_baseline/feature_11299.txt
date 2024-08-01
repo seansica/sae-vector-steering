@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 11299
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm not sure what I'm talking about. I don't think
+it's the first time that I've seen a series of questions in which the subject is
+asked, but this has been my favorite question of all time.  How
+
+2. Baseline Output:
+   What topic is on your mind?  I've been reading a lot of posts about the issue of
+gender inequality in tech. I think it's time to address this issue.  It's not
+just that we have more women than men in tech, but that we have less
+
+3. Top Activating Tokens:
+   're, 'll, 'd, 've, Ġselves, Ġcould, self, Ġintended, selves, mos
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4659  |  Steered: 0.4127
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

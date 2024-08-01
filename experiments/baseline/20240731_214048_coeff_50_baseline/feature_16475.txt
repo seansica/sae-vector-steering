@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 16475
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? What do you think of the latest developments in
+technology and how do you feel about it?  It's not that I don't want to talk
+about it. I've been doing this for a long time now, so when I started talking
+about
+
+2. Baseline Output:
+   What topic is on your mind?  If you're a writer, why do you write about this
+topic?  I've been reading a lot of the posts and I'm wondering if there's any
+specific point in writing about this topic. If so, what are some of
+
+3. Top Activating Tokens:
+   hell, groups, roups, roup, NetMessage, Ġgroups, etting, ĠGroups, etter, ileged
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5128  |  Steered: 0.4824
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

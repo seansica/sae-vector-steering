@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 12329
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When I first started playing League of Legends, I
+was always looking for a way to play competitively. But now that I'm in my
+mid-30s, and having been through so much different games and leagues, it's time
+to
+
+2. Baseline Output:
+   What topic is on your mind?  This question has been asked in the past. I've been
+thinking about this for a while now and it's always interesting to see what
+people think. So here are some questions that have come up:  What is your
+favorite game?
+
+3. Top Activating Tokens:
+   ihara, ITE, osa, ĠHenderson, ĠGranger, ites, ĠJuice, ĠSpectre, ite, ansas
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    2  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4389  |  Steered: 0.4137
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 15408
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When I first started working in a restaurant, I
+always thought that it was very important to have a good understanding of the
+menu. In my experience, most people are not familiar with the menu and can
+easily get lost in it. However,
+
+2. Baseline Output:
+   What topic is on your mind?  What are you most excited about this year?  What's
+the best thing you've ever done for your company?<|endoftext|>The most exciting
+thing I've ever done for my company was create a product that will be available
+to all of our
+
+3. Top Activating Tokens:
+   utenant, zzle, veland, uci, oba, ptin, ar, apan, plom, pee
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4429  |  Steered: 0.4065
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

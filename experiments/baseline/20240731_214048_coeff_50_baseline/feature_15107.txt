@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15107
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do you think about your life?  What are some of
+the things that you enjoy doing, and what are some of the things that you're
+afraid to do?   Do you have any tips for people who might be interested
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+contact us.<|endoftext|>In addition to our popular forums, we also host a
+variety of other community events and chat rooms. You can find us on:Facebook:
+https://www.facebook.
+
+3. Top Activating Tokens:
+   agascar, mad, der, rid, amaz, ĠMad, hur, cap, ness, Ġaunt
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4054  |  Steered: 0.4372
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

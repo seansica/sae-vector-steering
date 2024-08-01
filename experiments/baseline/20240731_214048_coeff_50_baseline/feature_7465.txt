@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7465
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When I first started working in the industry, I had
+no idea what to expect. I was very nervous about my job and my career prospects.
+The only thing that really made me feel good was the fact that it wasn't a big
+deal
+
+2. Baseline Output:
+   What topic is on your mind?  I'm always looking for a new topic to share. What's
+your favorite topic?  The one that I've always wanted to share with you is the
+fact that it's not just about me, but about all of us. We
+
+3. Top Activating Tokens:
+   hetti, enegger, sch, redo, thal, obin, roth, awi, rade, aro
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4350  |  Steered: 0.4272
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

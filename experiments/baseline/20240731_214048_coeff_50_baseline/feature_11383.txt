@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 11383
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  My favourite game of all time, the "KotakuInAction"
+series. I have played it a million times and I still love it. I love the
+original series and its characters so much that when you play this game you will
+
+2. Baseline Output:
+   What topic is on your mind?  My favorite topics are:  What I like about you, my
+friends and family. What do you think of the other guys in your life? How do you
+feel about them? What are some things that make you different from others?
+
+3. Top Activating Tokens:
+   ht, raltar, translation, çīĪ, FORE, medi, milo, ribe, reditary, GET
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4524  |  Steered: 0.5058
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

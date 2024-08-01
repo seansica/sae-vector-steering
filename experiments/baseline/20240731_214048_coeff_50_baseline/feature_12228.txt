@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 12228
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+feel free to contact me at kyle@mildew.com.<|endoftext|>This article was
+originally published in April 2016 and has been updated with new information and
+more information.  The
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a computer programmer. I'm interested in all
+things related to programming, from physics to computers and so on. I love
+learning new things, but also learning about other topics that are relevant to
+me. For example, how do you
+
+3. Top Activating Tokens:
+   âĸ¬âĸ¬, âĸ¬, Ùħ, Ø±, Ñĥ, ward, ĠPanzer, portation, éĸ, ¬
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3946  |  Steered: 0.3591
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

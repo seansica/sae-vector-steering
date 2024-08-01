@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 13952
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm not sure if you're aware of this or not. I've
+been doing a lot of research and reading about it, and have had some pretty
+interesting experiences with it. I don't know if you've ever tried to read a
+
+2. Baseline Output:
+   What topic is on your mind?  When I first started playing Hearthstone, I had a
+few ideas for how to play it. One of them was the "play style." The game was
+designed to be played with one hand and two hands. In the early days of
+Hearthstone,
+
+3. Top Activating Tokens:
+   ĠFork, ĠGeological, ĠGovernments, ĠDollar, Ġ___, ĠIndies, ĠReserve, ĠForces, ĠStates, Ġ=================================
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4705  |  Steered: 0.4318
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

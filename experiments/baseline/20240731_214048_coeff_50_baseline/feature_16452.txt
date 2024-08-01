@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 16452
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a question that I have been asked many
+times. It's something that has always stuck with me, and I think it's something
+that we all need to be aware of.  I'm sure there are many people who would
+
+2. Baseline Output:
+   What topic is on your mind?  What do you want to be a part of in the future?  If
+you have any questions, please contact us.<|endoftext|>You can also contact us
+by email at [email protected] or by phone at (212) 654-
+
+3. Top Activating Tokens:
+   bucks, ĠChester, Leaks, ĠJelly, kie, ĠContra, Ġderby, Rex, geist, ĠColumb
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4533  |  Steered: 0.4024
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

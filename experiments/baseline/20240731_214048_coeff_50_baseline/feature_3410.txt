@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 3410
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When you're working with a programmer, you'll often
+hear about how to use C++ and other languages to create a simple web
+application. But when you're writing web applications, there are many more
+things that need to be done. In
+
+2. Baseline Output:
+   What topic is on your mind?  This is a question that I've been asking myself for
+a while now. It's an important one, because it involves the issue of "what do
+you mean by 'what do you mean?' and what are some of the ways in which
+
+3. Top Activating Tokens:
+   isions, ision, ISION, orce, ination, isible, isive, acent, ided, olution
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4588  |  Steered: 0.4608
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

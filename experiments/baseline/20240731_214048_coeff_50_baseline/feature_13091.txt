@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 13091
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am interested in any of the following: I'm
+interested in the history of social change, I'm interested in the evolution of
+social systems, I'm interested in whether we are at a tipping point or not. And
+if you're a
+
+2. Baseline Output:
+   What topic is on your mind?  I'm always interested in what you're thinking
+about. What do you think the most important thing to do when working with an
+organization is to be as open and honest as possible. I know that there are many
+organizations out there who don't
+
+3. Top Activating Tokens:
+   Description, Abstract, Share, Product, Article, Advertisement, Single, BRE, Loading, Message
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4544  |  Steered: 0.4456
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

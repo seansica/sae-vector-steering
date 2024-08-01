@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 19911
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Do you have any other tips for people who are
+looking to get into the business of selling real estate? Let us know in the
+comments below.<|endoftext|>This post was originally published on The
+Conversation. Read the original article here.<|endoftext|>A version
+
+2. Baseline Output:
+   What topic is on your mind?  My thoughts on the subject are as follows:  What is
+the best and worst of my life? How do I get there? What does it mean to be
+human? How can I change it? What can I do about it?
+
+3. Top Activating Tokens:
+   interstitial, ģ«, sharing, arity, uca, heit, orders, self, Ġincomes, stellar
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4994  |  Steered: 0.5698
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

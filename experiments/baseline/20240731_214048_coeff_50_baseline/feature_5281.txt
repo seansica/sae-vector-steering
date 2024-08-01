@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 5281
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When you are ready to start your journey, it's time
+to get started. If you are looking for a quick and easy way to get started with
+your next project, this article will help you.  If you want to know more
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind?  How long have you been
+working with me? How long have you been working with me? What topic is on your
+mind?   I'm always looking for new ideas. I love to talk
+
+3. Top Activating Tokens:
+   Ġcoupled, Ġcoupling, ourke, prov, ĠCou, Ġoptics, Ġassurances, OAD, video, displayText
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4637  |  Steered: 0.4644
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

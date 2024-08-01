@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 463
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How many people have you met in the past year?  How
+many of you have worked with a company or a company that has done business with
+you?  What are some of the things that make your job more rewarding and
+fulfilling
+
+2. Baseline Output:
+   What topic is on your mind?  When I started writing, I was a big fan of Twitter.
+It was my favorite social media platform and I had a lot of friends who were
+tweeting about it. But then when I started to use Twitter, the popularity of it
+grew and
+
+3. Top Activating Tokens:
+   #$, gmail, mic, yahoo, cade, wcsstore, realDonaldTrump, taboola, met, andy
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5972  |  Steered: 0.5340
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

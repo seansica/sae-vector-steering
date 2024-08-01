@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 6552
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm not sure if I can answer that question. I think
+it's a bit of a combination of things, but I don't know if it's related to
+anything. But, as you can see from the video below, this is
+
+2. Baseline Output:
+   What topic is on your mind?  When I first started working at my first company, I
+was really excited about it. The idea of a team building software that could do
+anything you wanted was so exciting to me. And then when we started to work
+together, we realized that
+
+3. Top Activating Tokens:
+   becue, bara, tyard, bar, bell, celona, riers, ĺħ, bris, rier
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4555  |  Steered: 0.4945
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

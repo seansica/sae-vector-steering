@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 8626
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  My favourite sports are football, basketball and
+hockey. I love the game of hockey, but it's not a sport that I enjoy playing.
+It's just a sport that I like to play and have fun with. It's also something
+that
+
+2. Baseline Output:
+   What topic is on your mind?  I'm going to be honest, I don't know. It's a
+question of my own, but I'm pretty sure it's one that comes up every time I read
+something about sports. So let me explain.  The first
+
+3. Top Activating Tokens:
+   Ġsorts, Ġcourse, course, icial, Ġthese, Ġthe, ĠExcellence, Ġours, ĠJUSTICE, enance
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4336  |  Steered: 0.4875
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

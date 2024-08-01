@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4156
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm always looking for a new way to get started.
+I've been doing this for years and it's never really gotten any better. The most
+common reason I have is that my life has changed and I don't want to be the
+
+2. Baseline Output:
+   What topic is on your mind?  How many times have you heard of the Great
+Depression? How many times have you heard about how much money it took to get
+from one country to another? How many times have you heard about how much debt
+has been incurred by the government in
+
+3. Top Activating Tokens:
+   acus, orthy, ickson, ingo, pillar, emi, itton, berus, apy, obyl
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4416  |  Steered: 0.4439
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

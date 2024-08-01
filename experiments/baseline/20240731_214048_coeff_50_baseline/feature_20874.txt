@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 20874
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The "Meaning of the World" is a powerful tool in
+your daily life. It can help you to see what you are truly feeling and to know
+how much it means to you. It can also help you make decisions about where to
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any other topics that you would like to
+share with us? Let us know in the comments below.<|endoftext|>How do I get
+started with React?If you are interested in learning more about React, check out
+our resources page.
+
+3. Top Activating Tokens:
+   ========, ============, equality, ĠsrfAttach, ĠUnion, ĠAuschwitz, ĠNi, ĠStout, ĠSyd, eer
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4668  |  Steered: 0.4695
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

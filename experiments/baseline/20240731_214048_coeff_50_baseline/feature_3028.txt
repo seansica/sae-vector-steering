@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 3028
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I've been a bit of a fan of comic books for a while
+now, and I've been wanting to do something with them since I was little. The
+first time I read an X-Men comic was when they were released in 1989
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about the idea of using the new RCS
+software to help you manage your business?  If you are looking for more
+information, please visit our website.<|endoftext|>The RCS project has been a
+long time coming and
+
+3. Top Activating Tokens:
+   Description, Abstract, Share, Product, Article, Advertisement, Single, BRE, Loading, Message
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5447  |  Steered: 0.3953
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

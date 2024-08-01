@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 15929
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm interested in how the culture of a certain
+group of people influences how they think about others. I've been studying this
+for a while now, and I have some interesting ideas about it. It's not something
+that I'm trying to
+
+2. Baseline Output:
+   What topic is on your mind?  If you're looking for a good question to ask
+yourself, check out the following:  How many of you have ever asked this
+question? How many of you have ever answered it in the past? How many of you
+have ever answered
+
+3. Top Activating Tokens:
+   cale, pace, kaya, rament, manship, erver, tx, hips, Ġrespecting, git
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5008  |  Steered: 0.4852
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

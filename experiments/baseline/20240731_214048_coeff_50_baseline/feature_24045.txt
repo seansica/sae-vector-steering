@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 24045
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a very important question. It's a good time
+to ask yourself this question: "How much do I want to spend on food?" The answer
+is simple: it depends. You can make the decision based on what you need and
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about this topic? Please
+feel free to ask in the comments below.<|endoftext|>I am a teacher and my
+students are always looking for ways to improve their teaching skills. I am
+currently working on an article about the importance
+
+3. Top Activating Tokens:
+   åħ, emic, akia, ãĥŀ, Ðµ, III, âĸĳ, ĠMonstrous, Ð°, Norm
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4331  |  Steered: 0.4754
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

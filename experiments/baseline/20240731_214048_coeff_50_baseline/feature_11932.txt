@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 11932
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What is the most important thing you would like to
+do in your life?  Do you have any personal goals that you are working towards
+and what would be the best way to achieve them?<|endoftext|>Answers: 1. Do not
+get
+
+2. Baseline Output:
+   What topic is on your mind?  When I was a kid, I used to go to the beach with my
+dad. We would go out for a swim and we would play in the pool. My dad would take
+me to the beach and he would bring me some water.
+
+3. Top Activating Tokens:
+   Mo, ONEY, Posted, ouri, ogly, CHA, ORPG, ĠMo, Ġcumbers, trak
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4056  |  Steered: 0.4643
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

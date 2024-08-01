@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 12208
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am interested in this subject. I am a teacher and
+I have been teaching for about 10 years now. The topic is about understanding
+what you are doing, how you are doing it, what you are not doing and why. In the
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you most interested in?  What
+topics are you most interested in?   Please let me know if you have any
+questions or comments. I'll be happy to answer them.   Thank you for visiting my
+site
+
+3. Top Activating Tokens:
+   soever, beit, Ġmuch, itzer, HCR, ever, ling, much, ells, ĠMUCH
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3913  |  Steered: 0.4984
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

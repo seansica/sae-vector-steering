@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 9458
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Do you have any questions about this question? If
+so, please feel free to ask in the comments below.  In case you're wondering
+what topic is on your mind, here are some answers:<|endoftext|>A lot of people
+think that
+
+2. Baseline Output:
+   What topic is on your mind?  I am currently working on a project to create a
+small, open source program that allows you to control the camera's movement in
+real time. I'm also looking for feedback from people who are interested in using
+this feature. Please send me an
+
+3. Top Activating Tokens:
+   Hy, LD, OB, nerg, ĠSY, CLE, LV, mbol, STEM, ĠSy
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4252  |  Steered: 0.4437
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

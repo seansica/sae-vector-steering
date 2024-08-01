@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 1434
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What do you want to learn about the next generation
+of Internet technology?  How do you plan to make your own life better for
+yourself and others?<|endoftext|>I am a lifelong computer user. I have been
+using the Internet for over 30
+
+2. Baseline Output:
+   What topic is on your mind?  What are you interested in doing with your life?
+If you're interested in writing about a topic, please contact us. We'll try to
+answer as many questions as possible.<|endoftext|>The most common question we
+get is "How do
+
+3. Top Activating Tokens:
+   catentry, #$, ĠShards, Atl, cube, Sab, Ġmathemat, SI, olson, CW
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5383  |  Steered: 0.5740
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

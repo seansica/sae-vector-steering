@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 1524
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Do you have any other hobbies that you enjoy?  How
+did you get into the business of helping people to find love and happiness in
+their lives?  If so, what is your favorite part about working with
+others?<|endoftext|>The
+
+2. Baseline Output:
+   What topic is on your mind?  When you are in the middle of a conversation, do
+you want to ask what topics are on your mind? What topics are on your mind that
+you want to ask? If so, how would you answer this question.  You might
+
+3. Top Activating Tokens:
+   due, miss, fun, ipher, mission, sever, Ġcapita, cussion, malink, manent
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4977  |  Steered: 0.5510
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

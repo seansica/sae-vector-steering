@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9322
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm looking for a story that I can tell you about.
+I've been working on this for over a year now and it's been really interesting
+to me. The idea of the subject is very different from what you're used to seeing
+
+2. Baseline Output:
+   What topic is on your mind?  How many people do you know who have been in the
+business of creating content for the web?  How many people do you know who are
+working on projects that they have not done before?  What topics are you most
+interested in
+
+3. Top Activating Tokens:
+   ĠPuzz, ĠComments, MG, nm, kb, ACP, JC, dfx, ħĭ, kB
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4679  |  Steered: 0.4424
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

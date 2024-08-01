@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 17242
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm not sure what you're thinking. What do you
+think of the following topics?   The following are my personal favorite
+questions. I've had many different answers to these questions, and have always
+found them to be helpful in understanding
+
+2. Baseline Output:
+   What topic is on your mind?  If you're a person who's not sure what to say, or
+if you want to be more specific, here are some of the topics that I've covered
+in my previous posts:  When it comes to reading books and writing articles
+
+3. Top Activating Tokens:
+   Board, ĠBoard, ĠBoards, board, WB, EStream, ĠOfficer, zos, gaming, committee
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4636  |  Steered: 0.4411
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

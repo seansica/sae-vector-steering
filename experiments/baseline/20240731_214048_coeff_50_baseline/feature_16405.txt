@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 16405
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We're always looking for ways to improve our
+website and we're excited to hear from you. We'd love to hear from you about
+your experiences with this new project, so please let us know in the comments
+below!<|endoftext|>In the meantime
+
+2. Baseline Output:
+   What topic is on your mind?  This is a great question to ask yourself. You may
+be thinking about how to write a book, or you may be thinking about how to do
+something in life. It's important that you understand the topic of your writing
+and know what it
+
+3. Top Activating Tokens:
+   unction, ournals, itsu, ihad, ealous, acket, aded, okers, utsu, ourney
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4355  |  Steered: 0.4134
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

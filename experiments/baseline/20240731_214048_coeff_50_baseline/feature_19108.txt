@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 19108
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? What do you think about the current state of the
+game?  Have you played in a competitive match or tournament yet? Do you have any
+suggestions for improvements or changes to improve the game and how would it
+affect your playstyle?<|endoftext|>The most
+
+2. Baseline Output:
+   What topic is on your mind?  I've been reading about the best free resources for
+people who are looking to start their own business. The list of great ones is
+pretty long, but I think it's worth a read. It's a good place to start if you're
+
+3. Top Activating Tokens:
+   TERN, STRUCT, strument, CLUD, vasive, visible, flation, PUT, clusive, jected
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4642  |  Steered: 0.5254
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

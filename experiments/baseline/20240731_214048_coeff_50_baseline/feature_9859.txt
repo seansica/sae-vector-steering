@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9859
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do you plan to use this tool?  What are the
+benefits of using the DSC software?  How do you know if your application will
+work with other apps and services that use this software?   If you have
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about the topic, please
+contact us.<|endoftext|>By clicking "Submit," you agree to our Privacy Policy
+and Terms of Use. If you do not agree with this policy, please do not click
+"Subscribe." You can
+
+3. Top Activating Tokens:
+   leys, orem, yp, ĠCouch, atell, oby, omet, Ġblot, inda, robat
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4321  |  Steered: 0.4915
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

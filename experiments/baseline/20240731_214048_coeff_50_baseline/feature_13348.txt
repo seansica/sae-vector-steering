@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 13348
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you have any questions about this question,
+please feel free to contact me at mjm_spur@gmail.com. I will try to answer as
+much as possible.  I am a business owner and have been working
+
+2. Baseline Output:
+   What topic is on your mind?  This question is a good one to ask if you are
+thinking about something that interests you. I'm not going to go into all the
+answers, but it's a good place to start.  The following questions are based on
+my own
+
+3. Top Activating Tokens:
+   itably, equality, fair, Ġequitable, itable, justice, nesday, itability, Ġfair, intendent
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4400  |  Steered: 0.3712
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

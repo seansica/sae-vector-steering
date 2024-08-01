@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 15418
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? What are your favorite stories from your past life?
+You may have heard of some people who love to read and write. I know many of you
+have also heard about other people who love to read and write. So what are the
+best stories
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about the research,
+writing or publishing process of your work? Please let us know in the comments
+below.<|endoftext|>It's a great way to learn about how we do things and how we
+approach our work.<|endoftext|>An
+
+3. Top Activating Tokens:
+   Ġincludes, Ġinclud, Ġoccasionally, Ġincluded, Ġcontributed, EngineDebug, Ġnoteworthy, Ġcautioned, Ġcontribute, Ġanecd
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4865  |  Steered: 0.4504
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

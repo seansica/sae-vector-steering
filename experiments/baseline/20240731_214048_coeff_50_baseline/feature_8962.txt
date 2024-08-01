@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 8962
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What's the most important thing you can do to
+improve your writing?  How do you feel about the current state of things in
+life? Do you think that this will change in the future? What are some tips for
+those who are
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+contact us. We will be happy to answer them.  Do you have any other ideas for
+future projects? Please let us know in the comments below!<|endoftext|>"   If
+you
+
+3. Top Activating Tokens:
+   Ġthan, Ġado, than, Ġcomplicated, Ġsophisticated, Ġstringent, Ġelaborate, ĠThan, Ġefficient, Ġexpensive
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4643  |  Steered: 0.4825
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

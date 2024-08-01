@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 23226
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a big fan of the things that are interesting to
+me. I've always been interested in technology and I think it's important to be
+able to talk about things that are interesting. It's really hard for me to write
+about stuff
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about the upcoming season of
+Survivor: Game Changers?  What's your favorite part of the game and why?  What
+are some of the things you're most excited about in this season?<|endoftext|>"If
+
+3. Top Activating Tokens:
+   itudinal, Ġchau, ward, ²¾, doors, Ġpolio, ĠReverse, cliffe, Ġreflection, ĠVerse
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4929  |  Steered: 0.4270
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

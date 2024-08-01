@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 19019
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You may have noticed that I've been using this
+topic a lot lately. The reason for this is because I think it's time to get back
+to basics. It's not like I'm going to go into all the different ways you can
+
+2. Baseline Output:
+   What topic is on your mind?  I'm interested in the history of cannabis and how
+it has changed over time. I'm interested in what you think about this topic. I'd
+love to hear from you! If you have any questions, please feel free to contact me
+at
+
+3. Top Activating Tokens:
+   Ġspectrum, ĠSpectrum, otomy, naire, Ġcontinuum, alogy, imilar, schild, ACY, Ġsyndrome
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3963  |  Steered: 0.4155
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

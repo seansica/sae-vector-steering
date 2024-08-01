@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 17692
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We're always looking for new ideas to improve our
+product. You can join us in the conversation by clicking here.<|endoftext|>For
+more information, please visit our FAQ page or call us at (866)
+774-2900.<|endoftext|>This
+
+2. Baseline Output:
+   What topic is on your mind?  If you're interested in learning more about how to
+build a self-driving car, this is the place to start. It's free and open source
+software that allows you to build a self-driving car from scratch using only
+your own code
+
+3. Top Activating Tokens:
+   ly, Ġenough, enough, ively, Ġexplan, Ġexplanation, nesses, idious, ĠEnough, Ġshorth
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3999  |  Steered: 0.4721
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

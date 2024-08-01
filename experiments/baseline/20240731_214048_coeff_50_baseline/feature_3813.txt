@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 3813
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What is the most important thing you want to do in
+your life?  How do you get out of this life? What are some things that will help
+you get back into it and make it better for yourself?  If you
+
+2. Baseline Output:
+   What topic is on your mind?  I've always been interested in what's happening in
+the world around me. I'm a musician, a writer, and a philosopher. I've written
+books about everything from my childhood to my early adulthood. My favorite book
+is The Road to
+
+3. Top Activating Tokens:
+   CLASSIFIED, Brave, books, fly, arak, ĠShroud, east, Cross, roma, TB
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4690  |  Steered: 0.4979
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

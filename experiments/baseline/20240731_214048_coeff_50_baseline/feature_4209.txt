@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 4209
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I've been doing this for a while now, and I'm
+finally starting to get it right. The main thing is that the last few years have
+been really hard. I was living in Japan for about 3 months and then went back to
+
+2. Baseline Output:
+   What topic is on your mind?  If you're a musician, singer, or songwriter, what
+are some of the most important topics you should know about?  Here are 10 of the
+most important topics that you should know about. If you have any questions or
+comments
+
+3. Top Activating Tokens:
+   Ġseiz, ,..., ĠTags, ties, SELECT, ĠFedEx, tags, 3000, TS, Ġtags
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5099  |  Steered: 0.5052
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

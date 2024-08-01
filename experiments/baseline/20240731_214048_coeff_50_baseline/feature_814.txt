@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 814
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Do you have any other questions?  Please let us
+know in the comments below.<|endoftext|>I am always looking for ways to improve
+my website and bring it to life. Please leave a comment below if you have any
+questions or suggestions!
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about the recent
+controversy surrounding a series of videos from an anti-gay group, which
+included one featuring a gay man and his wife in front of thousands of people?
+Please let us know by commenting below.<|endoftext|>How
+
+3. Top Activating Tokens:
+   oly, nerg, ttle, sis, nergy, mop, bors, gon, mers, chron
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4739  |  Steered: 0.4399
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

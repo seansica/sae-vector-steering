@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7623
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do you feel about the new tax law?  What are
+your thoughts on the new tax law?   I'm not sure what I'd like to see changed.
+It's a very complicated issue and it's going to be
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+feel free to contact me. I am happy to answer them in the comments
+below.<|endoftext|>I'm a teacher and a member of the International Association
+for Teaching Teaching (IASTA). I teach
+
+3. Top Activating Tokens:
+   entimes, Ġoverlooked, Ġencountered, è¦ļéĨĴ, ĠAsked, Ġcited, Ġresorted, Ġpracticed, Ġmistaken, Ġunderestimated
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4481  |  Steered: 0.4202
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

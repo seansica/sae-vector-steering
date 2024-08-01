@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 9216
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What do you want to talk about with your wife or
+girlfriend?  How can I help you in any way?   1. What is the most important
+thing that you would like to say to her or her husband/wife,
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a big fan of making sure I'm using the right
+tools. It's really easy to get lost in my own projects and it's also very easy
+to find new ones. I love using a lot of tools, but there are
+
+3. Top Activating Tokens:
+   Ġreplacements, Ġaging, Ġageing, Ġchains, press, Ġjudiciary, cars, Ġaccessories, Ġlions, Ġmaintenance
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4787  |  Steered: 0.4681
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

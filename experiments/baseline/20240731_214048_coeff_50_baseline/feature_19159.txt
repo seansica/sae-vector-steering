@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 19159
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am a PhD student in English Language Arts at the
+University of Sydney. I am currently studying with a partner at an international
+university and have been working on my thesis for over 10 years. I'm also
+working on my thesis for an international
+
+2. Baseline Output:
+   What topic is on your mind?  I am currently studying to become a software
+engineer. I have been looking for a job for over 3 years now and have been
+working hard to get one. I want to be able to help others, so please feel free
+to contact me at
+
+3. Top Activating Tokens:
+   iotics, iotic, iciary, ĠProb, Ġprob, aminer, esses, abil, grounds, olicy
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4113  |  Steered: 0.4548
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 6559
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This question has been asked many times. What are
+some of the most important topics you should be thinking about when it comes to
+dealing with these questions? I hope this article will help you answer these
+questions and make it easier for you to get
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about the subject, please
+feel free to contact me. I am always available to answer questions or provide
+additional information.<|endoftext|>Maintaining a personal website and mailing
+list is very important for all of us, so please
+
+3. Top Activating Tokens:
+   imal, antine, aic, ĠSharif, ĠRebirth, theless, son, itic, ĠNetanyahu, ĠAbraham
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4245  |  Steered: 0.4468
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

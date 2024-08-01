@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 13974
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do you feel about a recent issue of The
+Washington Post?  If you are interested in this topic, please email me at
+jason@washingtonpost.com.<|endoftext|>A link to the article will be added to the
+front
+
+2. Baseline Output:
+   What topic is on your mind?  My name is Vicky. I'm a self-described "pro gamer"
+and I've been playing video games for over 30 years. I love all kinds of games,
+but one of the most important things to me is the quality of
+
+3. Top Activating Tokens:
+   pmwiki, Rap, Compar, ENS, Installation, headers, BuyableInstoreAndOnline, DoS, Quotes, Inter
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4266  |  Steered: 0.5075
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

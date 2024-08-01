@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 2524
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When you're ready to write a story, it's time to
+start writing.  Writing is a process that involves many different steps. The
+first step is creating the story and setting up the story. Then, when you've
+finished writing
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about the news in your country?  Do
+you have any thoughts on what to do next?<|endoftext|>When I was a kid, my
+parents would tell me that they were going to leave me. But I didn't
+
+3. Top Activating Tokens:
+   Ġown, ELF, Ġrespective, self, Ġpredecessor, ĠOwn, Ġyoungest, Ġpredecessors, Ġnewest, Ġstride
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4721  |  Steered: 0.4266
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

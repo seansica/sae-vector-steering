@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7520
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I've been thinking about the next year's subject of
+"The Burden of Proof." The question has always been, what does it mean to be a
+scientist? I think that we all have our own set of questions. We all want
+
+2. Baseline Output:
+   What topic is on your mind?  If you're looking for a new way to get started with
+Python, check out the tutorial.<|endoftext|>I'm going to be posting some Python
+tutorials on this blog soon, so stay tuned!<|endoftext|>Image courtesy of
+Pixabay.com (
+
+3. Top Activating Tokens:
+   Ġreunited, Ġreun, Ġresting, Ġreunion, Ġfinally, Ġsucceeding, Finish, TPP, ersen, Ġsatisfied
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4615  |  Steered: 0.4708
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

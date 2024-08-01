@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 3503
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You may be thinking, "I want to learn how to build
+a computer. I'm going to have a lot of fun with it." But that's not what you're
+looking for. It's about building something that can be used as
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about this subject?  If you have
+any questions, please contact us.<|endoftext|>(please note that the following
+are just general comments)<|endoftext|>From: Nick de Niro (1) [email
+protected]To:
+
+3. Top Activating Tokens:
+   Ġshrug, Ġavoidance, Ġdodge, FACE, ĠAllaah, Ġinnocence, Ġevade, Ġdisclaim, Ġevasion, gets
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4104  |  Steered: 0.4342
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

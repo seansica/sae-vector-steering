@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 12651
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  My name is Nick and I'm a professor of sociology at
+the University of California, Berkeley. I've been doing research on gender
+equality in the United States for over 10 years now. In that time, I've seen a
+lot of interesting
+
+2. Baseline Output:
+   What topic is on your mind?  This is a question that has been asked in the past.
+I am not sure what topic you are talking about, but it's something that I think
+should be addressed. This is a good time to ask yourself this question: What do
+you
+
+3. Top Activating Tokens:
+   alion, MpServer, ifiers, gewater, imir, itars, assin, eline, etooth, ians
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4680  |  Steered: 0.4212
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

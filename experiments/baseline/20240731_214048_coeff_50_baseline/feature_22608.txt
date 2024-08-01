@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 22608
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a huge fan of Android Wear. I love it because
+it's the most versatile device out there, and it's the only one that can do
+everything from taking photos to watching videos. It also has an amazing range
+of features that
+
+2. Baseline Output:
+   What topic is on your mind?  I've been thinking about this for a while now. I'm
+really excited to share with you the following:  I have been working on my first
+book, The Power of Habit. It's a new series that explores the power of
+
+3. Top Activating Tokens:
+   tons, acci, trace, uggest, lihood, taboola, eur, wagen, ĠTags, etta
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4089  |  Steered: 0.4309
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

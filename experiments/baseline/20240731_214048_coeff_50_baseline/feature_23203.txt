@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 23203
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I've been playing games for a while now and I'm
+pretty much the only person who has ever played it. I've been playing them since
+the early days of Magic, and they're pretty good. The only thing that really
+bothers me
+
+2. Baseline Output:
+   What topic is on your mind?  How can I help you with your project?  What should
+I do if my project is not working?   How can I make sure that the correct tool
+works for me and my needs?   What are some tips for creating
+
+3. Top Activating Tokens:
+   Ġquarters, Ġimported, Ġdestro, Ġhumans, Ġhatch, Ġinduct, Ġhumanity, Ġintermediate, Ġseiz, Ġdoors
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4982  |  Steered: 0.4076
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

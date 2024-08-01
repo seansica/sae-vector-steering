@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 20986
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  My favorite topic is "How to Survive a Hurricane."
+I'm a bit of an expert on this subject, so I thought it would be fun to try and
+figure out what's the most important thing you can do to survive a hurricane.
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a regular reader of the online dating site
+OkCupid. I love to date, but I don't really know what to do with it. It's not
+like there are any rules about how many dates you can have and how
+
+3. Top Activating Tokens:
+   aldehyde, xual, gow, osterone, Ġburner, llular, gregation, Ġpigment, ochond, ements
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4327  |  Steered: 0.3957
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

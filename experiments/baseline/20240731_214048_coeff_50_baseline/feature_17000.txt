@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 17000
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  My favorite subject is business. I'm a huge
+business person and I love it when people talk about their passion for what they
+do. It's not just about how they do it, but also how much time they spend on it.
+The
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind? How do you think the
+current state of affairs in Ukraine will affect you and your family?  What topic
+is on your mind? What topic is on your mind? How do you think the current state
+
+3. Top Activating Tokens:
+   OME, omez, ospels, ourmet, ORGE, FFER, Ġlapt, HT, GR, umption
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4727  |  Steered: 0.4286
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 20949
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a big fan of Tintin and it's always good to
+have something that's new and different. I love how they do things with the way
+they do things, but I also like how their artworks are really unique.
+
+2. Baseline Output:
+   What topic is on your mind?  This is a question that has been asked by many of
+us. I am always interested in learning more about what you are thinking and
+feeling, and how you feel about the world around you. I want to share my
+thoughts with others who are
+
+3. Top Activating Tokens:
+   're, Ġselves, 'd, mos, self, 'll, Ġsights, Ġreleases, selves, Ġintended
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4411  |  Steered: 0.4211
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 23866
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The most common question that comes up is "How do I
+get started?" and "How do I get a job?" If you are a teacher, you may be able to
+answer these questions. But if you are not, then the best
+
+2. Baseline Output:
+   What topic is on your mind?  If you're a fan of the Magic: The Gathering series,
+what are your favorite cards from the set?  What do you think of new additions
+to the game that have been added to the core set? Do you think there's
+
+3. Top Activating Tokens:
+   ĠHeal, ĠPriebus, uzzle, rians, gae, ĠExpand, ĠCentOS, ĠEVE, ĠGR, eve
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4215  |  Steered: 0.4683
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

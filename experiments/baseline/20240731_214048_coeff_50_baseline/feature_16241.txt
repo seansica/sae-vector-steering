@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 16241
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you have a question about the topic, please feel
+free to contact us.<|endoftext|>This is an ongoing project that I am working on
+with a team of students at UC Berkeley. The goal of this project is to bring
+together students from all
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about this topic? Let us
+know in the comments below.<|endoftext|>A quick summary of what we're talking
+about: "The most common problem with a bike that doesn't come with a good, solid
+rear tire is
+
+3. Top Activating Tokens:
+   pora, gow, ĠArgent, Ġcleansing, ĠCaucas, ĠEmir, ĠArd, ĠStead, ĠEmpires, Ġwithdrawals
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4836  |  Steered: 0.4480
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 17571
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We are currently looking for a programmer to join
+our team. Please read the description below and we will contact you as soon as
+possible.   Job Description: We are a small company that specializes in building
+software solutions for the automotive industry.
+
+2. Baseline Output:
+   What topic is on your mind?  If you're interested in learning more about the
+world of chess, check out our free Chess Blog.<|endoftext|>This blog is a great
+place to get up-to-date with all things chess and what it's like to play it. If
+
+3. Top Activating Tokens:
+   kson, RNA, ÃŁ, enda, Ġsi, oux, enta, RN, uri, Ġss
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3920  |  Steered: 0.4131
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

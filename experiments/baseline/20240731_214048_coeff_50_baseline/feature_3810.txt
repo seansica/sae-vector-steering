@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 3810
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am not a lawyer, but I am interested in how the
+law affects people. In this article I will be talking about the issue of
+"criminal defamation." It is an important topic because it can lead to legal
+liability for defamation. If
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind? What topic is on your
+mind? What topic is on your mind? What topic is on your mind? What topic is on
+your mind? Who are you in the audience for, and what do you think
+
+3. Top Activating Tokens:
+   cow, sort, iao, irements, MJ, pu, aeda, rt, udos, ube
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4942  |  Steered: 0.4968
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

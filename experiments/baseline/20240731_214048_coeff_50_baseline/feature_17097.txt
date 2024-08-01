@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 17097
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you are a writer, graphic designer, or web
+designer?  If you are a teacher or mentor?  If you are an entrepreneur/business
+owner/designer?   What is your favorite topic for me to write
+
+2. Baseline Output:
+   What topic is on your mind?  I'm going to be talking about the next chapter of
+my life. I've been writing for over a year now and have had a lot of time to
+write it down. I'm not sure if you can say that it's been any
+
+3. Top Activating Tokens:
+   loop, runner, back, progress, ĠTycoon, fashion, heed, cephal, CONCLUS, sleep
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5717  |  Steered: 0.5840
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

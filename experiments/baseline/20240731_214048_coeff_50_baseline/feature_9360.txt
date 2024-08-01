@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 9360
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How long have you been a "traditional" man?  What
+is your favorite book or movie? (yes, I know that I read all of them!) What are
+some of the things you've learned about yourself and how do you
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about the following
+topics, please feel free to ask them in the comments below.<|endoftext|>The Q&A
+section of this site is for those who are interested in learning more about each
+of these topics. Please feel free
+
+3. Top Activating Tokens:
+   rell, abyte, ino, les, lus, rain, hid, ieri, idis, ini
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4195  |  Steered: 0.4619
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

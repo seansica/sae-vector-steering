@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 12168
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The question that came up most often when I was
+writing this post was "What is the best time to start a new job?" I think it's
+important to understand what you're talking about. If you're looking for a job,
+don
+
+2. Baseline Output:
+   What topic is on your mind?  What do you think about the most important things
+in life?  What is your favorite part of life?<|endoftext|>Likes, dislikes,
+dislikes, dislikes. How many times have you read a book or watched a movie that
+
+3. Top Activating Tokens:
+   ine, ified, itic, inity, itri, ined, ifying, acia, ĠShards, itary
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4830  |  Steered: 0.4716
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

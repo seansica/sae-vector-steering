@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 18931
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? What are your favorite books?  I'm not a big fan of
+the "best" books. I love science fiction, fantasy, and horror. But I don't like
+to read the classics. And that's where this book comes in.
+
+2. Baseline Output:
+   What topic is on your mind?  What is the most important thing you would like to
+do in your life?  How much time have you spent doing this?  What advice would
+you give someone who has never done this before, or a person who has never done
+
+3. Top Activating Tokens:
+   noon, theless, apist, creen, notes, etheless, ider, Ġdisposed, å§«, rane
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4260  |  Steered: 0.3727
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

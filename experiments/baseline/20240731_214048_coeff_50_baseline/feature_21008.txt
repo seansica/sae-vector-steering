@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 21008
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a bit of a collector. I've got all sorts of
+things I want to buy, but I don't have the time or inclination to spend them.
+So, what are my priorities? Well, if you're interested in something
+
+2. Baseline Output:
+   What topic is on your mind?  How many people do you know who have a passion for
+the game of football?  What are your favorite things about the game of
+football?<|endoftext|>A few things I love about it: The team plays a lot, and
+there's so
+
+3. Top Activating Tokens:
+   mark, marks, marked, builders, jamin, utz, userc, wife, bris, inent
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5147  |  Steered: 0.4051
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

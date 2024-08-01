@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 6961
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What do you think about the current state of the
+Internet? Do you have any ideas for future articles or topics that might be
+interesting to share with the community? Leave a comment below!<|endoftext|>In
+addition, if you have any questions, feel
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a programmer and I'm currently working on a new
+website. I want to share my thoughts with you, so let me know what you think. If
+you have any questions or comments, please feel free to reach out to me at
+
+3. Top Activating Tokens:
+   ilver, poon, hare, ettings, hooting, mith, kaya, poons, ouls, leeve
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    1
+   Semantic Similarity - Baseline: 0.3943  |  Steered: 0.4974
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

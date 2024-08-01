@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 5069
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I am a business owner and I have been working in
+the hospitality industry for about 5 years. My goal is to create an effective,
+sustainable, safe and fun experience for our guests.  I am a big fan of coffee,
+tea
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you interested in learning about?
+If you have any questions, please feel free to contact me.<|endoftext|>Barry's
+website: http://www.barry-jimmy.com/ - Barry's Blog -
+
+3. Top Activating Tokens:
+   ĠApache, apache, Ap, conservancy, geist, Upload, roxy, mite, Ġhops, CRIP
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5616  |  Steered: 0.5505
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

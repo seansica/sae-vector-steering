@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 15249
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I've been reading a lot of great books and writing
+about psychology. I think it's important to understand the way we're dealing
+with this kind of thing. And I'm curious if you could share some thoughts on how
+you approach it,
+
+2. Baseline Output:
+   What topic is on your mind?  I'm a computer programmer. I love writing code, and
+I've always been interested in programming languages. However, I have never
+really been able to get into the technical aspects of programming in general, so
+my first goal was to learn how
+
+3. Top Activating Tokens:
+   Court, ĠCourt, Ġjustices, Ġappellate, reme, Ġcourt, Justice, Ġjudicial, Cour, ĠJudicial
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3965  |  Steered: 0.4198
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

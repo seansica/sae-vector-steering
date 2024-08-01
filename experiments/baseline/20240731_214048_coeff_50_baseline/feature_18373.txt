@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 18373
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What's your favorite episode of Survivor?  Which
+tribe are you most proud of?  How did you get into the game and what do you
+think made it so successful?<|endoftext|>From my perspective, I'm pretty much a
+rock
+
+2. Baseline Output:
+   What topic is on your mind?  I'm going to start with the most important thing: I
+love what I do. I love writing and reading. And, of course, writing is a very
+important part of my life.  I've always loved reading books, but
+
+3. Top Activating Tokens:
+   /-, WIN, ĠABV, =~=~, Ġ+/-, ãģį, /+, minus, -+-+-+-+, Ġnegligible
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4573  |  Steered: 0.5110
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

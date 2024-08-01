@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 3749
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a student at the University of Minnesota. I've
+been studying computer science for about two years now and have always wanted to
+learn more about computers. So, I started this blog because I want to share my
+knowledge with others who are
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you most interested in?  How do you
+like to work with people and how do you feel about working with them? What
+topics are important to you that have a strong impact on your life and career?
+What topics are
+
+3. Top Activating Tokens:
+   ĵĺ, rament, ftime, baugh, ĠAjax, Ġcannabin, ĠKT, Ġunderstatement, ĠKendall, Buff
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4451  |  Steered: 0.4143
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

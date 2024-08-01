@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 19289
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A lot of people ask me what I'm thinking about when
+I'm reading a book. The first thing that comes to mind is "what's the point?"
+And it's not really a question of "why do I want to read this
+
+2. Baseline Output:
+   What topic is on your mind?  I am currently in a relationship with my boyfriend.
+I am having a very difficult time finding the right partner for me. He is very
+intelligent and friendly, but he has always been the most supportive person I
+have ever met. He has also
+
+3. Top Activating Tokens:
+   gyn, pload, uyomi, cipline, inding, oward, emonic, ĠPly, ledged, byss
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3649  |  Steered: 0.4121
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

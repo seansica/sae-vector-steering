@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7794
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I've been doing a lot of reading lately and I'm
+still not sure what to write about. I've been thinking about this question for a
+while now, but it's really important to keep in mind that the main reason I
+write is
+
+2. Baseline Output:
+   What topic is on your mind?  What is your favorite song from the album?  What
+are your favorite movies from the movie franchise?  Which celebrity have you
+seen in a film? (and who's best known for being the "father of pop music")
+
+3. Top Activating Tokens:
+   anca, falls, bows, ĠStra, more, cknow, VO, axter, ĠTrin, anches
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4187  |  Steered: 0.3406
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

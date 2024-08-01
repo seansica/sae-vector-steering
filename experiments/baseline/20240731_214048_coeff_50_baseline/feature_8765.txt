@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 8765
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  You're in the right place.  It's important to know
+what you're talking about, but you should be able to get a good sense of what it
+is that you're talking about. It's important to understand how it works
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about the topics below,
+please contact us.<|endoftext|>Dating: May 31st, 2018We are happy to help you
+find the right date for your wedding. If you have any questions about this or
+any other topic
+
+3. Top Activating Tokens:
+   ĠEggs, Ġeggs, cellent, Ġhatch, Ġegg, Ġhatched, shell, ĠEgg, egg, oslov
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3860  |  Steered: 0.4099
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

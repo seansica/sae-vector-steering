@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 18139
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind? What do you want to discuss with the following
+topics?  Please let me know in the comments below? I'm always interested in your
+question and I'd love to hear from you? Please share this post if you have a
+great topic that interests
+
+2. Baseline Output:
+   What topic is on your mind?  What do you think of the new film, The Man Who Fell
+to Earth? Let us know in the comments below.<|endoftext|>Trevor Noah is an
+award-winning filmmaker and producer who has produced several films including
+the cult classic "The
+
+3. Top Activating Tokens:
+   gyn, VT, qual, Ã±a, obic, ULE, Else, sure, Zone, opt
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5073  |  Steered: 0.3837
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

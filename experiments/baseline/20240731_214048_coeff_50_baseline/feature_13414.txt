@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 13414
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a big fan of computer games. I love the way
+they are played, and I love how the story unfolds. The characters are all great,
+but it's always interesting to see what happens when you play through a game
+that's
+
+2. Baseline Output:
+   What topic is on your mind?  I am currently a PhD student in the field of
+neuroscience at Stanford University. I have been studying cognitive neuroscience
+for about 20 years now and have worked on many topics including neural circuits,
+brain-behavioral networks, neurobiology, and the human
+
+3. Top Activating Tokens:
+   Ġsorts, Ġcourse, course, Ġjustice, icial, Ġthese, Ġthe, Ġours, ĠExcellence, ĠJUSTICE
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5038  |  Steered: 0.4865
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

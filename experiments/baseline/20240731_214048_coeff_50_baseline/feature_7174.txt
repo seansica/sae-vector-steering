@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7174
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is the most important question for us to
+answer. We are looking for a lot of different topics that can help you
+understand the world around you. It's also very important to understand what you
+are trying to accomplish and how you want it
+
+2. Baseline Output:
+   What topic is on your mind?  If you're interested in learning more about this
+topic, check out our free eBook, The Basics of Cognitive Science.  How do I know
+if I'm right?  It's easy to fall into the trap of believing that everything
+
+3. Top Activating Tokens:
+   allery, Ġquarters, beard, poons, ongs, arian, arians, Ġoverhead, hered, aying
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4548  |  Steered: 0.4765
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

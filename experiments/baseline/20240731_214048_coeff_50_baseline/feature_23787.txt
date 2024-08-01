@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 23787
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  What's the most important thing you've learned
+about writing in PHP?  How to create a better PHP application with PHP 5.0 and
+above.  The best way to learn about PHP and how to write a good app in
+
+2. Baseline Output:
+   What topic is on your mind?  I am interested in writing about the history of the
+internet and how it has changed over time. I'm also interested in what people
+are saying about it. What's your opinion on what we should do with this new
+technology?  My
+
+3. Top Activating Tokens:
+   th, 20, yrs, ĠMinutes, Ġminutes, 92, 75, 50, 25, 66
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    1
+   Semantic Similarity - Baseline: 0.5603  |  Steered: 0.5507
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

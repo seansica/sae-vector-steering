@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 17399
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We are constantly trying to find the best place to
+work and play for our players. We're always looking for new ideas, new ways of
+working and playing, new things that we can do with our community. If you have
+any questions or
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any questions about the subject?
+Please leave a comment below and we will try to answer them.<|endoftext|>I am
+also working on a new website called Slideshare which will allow you to share
+your views with others.
+
+3. Top Activating Tokens:
+   unction, ihad, ealous, itsu, okers, ournals, aded, orative, utsu, acket
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4881  |  Steered: 0.4565
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

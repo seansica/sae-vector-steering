@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 24024
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When you are looking for a good job, what type of
+work is best for you? What kind of job do you want to be doing at the moment?
+What's your career path like?  How do you feel about the way
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+feel free to ask.<|endoftext|>Answers to common questions are:How do I use the
+map?What kind of maps do I need?Where can I find information about my area and
+where
+
+3. Top Activating Tokens:
+   ogle, CHA, VE, BIL, ONEY, BI, VER, BO, GF, KE
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    2  |  Steered:    2
+   Semantic Similarity - Baseline: 0.4629  |  Steered: 0.4517
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

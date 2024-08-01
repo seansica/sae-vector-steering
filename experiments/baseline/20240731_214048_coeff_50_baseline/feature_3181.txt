@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 3181
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  We're always looking for new ways to share and
+improve our products. We're excited to be able to offer you the best in all of
+our services, including:  Searching for great products from the world's leading
+brands, like
+
+2. Baseline Output:
+   What topic is on your mind?  What topic is on your mind?  What topic is on your
+mind?   This survey was created by a member of the community. If you have any
+questions, comments, or suggestions for this survey, please feel free to post
+
+3. Top Activating Tokens:
+   Ġrenown, ĠCharter, Ġwide, Ġrenowned, ĠTrident, Ġtreaty, ĠStrat, wide, building, liness
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4500  |  Steered: 0.5260
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

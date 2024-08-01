@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 24377
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The following questions are all about music, but
+I've also been asked to do some more specific questions about the subject. This
+list is not meant to be exhaustive, but rather to help you decide which of these
+topics you want to focus on
+
+2. Baseline Output:
+   What topic is on your mind?  When you are writing, what topic is on your mind?
+If you have any questions about this question, please let us know in the
+comments below.<|endoftext|>A few things to remember:This article was written by
+Alex and I for
+
+3. Top Activating Tokens:
+   handler, orer, ifier, orious, ivity, Ġtoken, abase, ifications, acl, zh
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4962  |  Steered: 0.4519
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

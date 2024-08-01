@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 4455
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a question that I've been asked many times.
+It's not just about the subject of sex, but also about the issues that arise
+when people talk about sex. I'm going to go over some of these issues in detail
+here
+
+2. Baseline Output:
+   What topic is on your mind?  What topics are you interested in learning about?
+How do you feel about the news of the day?  Do you have any other thoughts or
+experiences that would help to motivate others to learn more about what they are
+doing in their
+
+3. Top Activating Tokens:
+   ...), emphasis, sic, âĢ¦), see, formerly, excluding, possibly, aka, ?).
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4496  |  Steered: 0.4956
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

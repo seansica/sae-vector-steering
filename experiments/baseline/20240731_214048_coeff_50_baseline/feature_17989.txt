@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 17989
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The most common question that comes up when you're
+thinking about a new book is "How do I write this?" And, of course, it's not
+just any book? How do you know which one? The answer to that question depends
+
+2. Baseline Output:
+   What topic is on your mind?  I'm going to be talking about Java and how I've
+been working with it for a while now. This is the first part of my post. If you
+want to read the whole thing, check out this article by Tom Pelletier
+
+3. Top Activating Tokens:
+   è£ħ, math, ieu, ian, eria, ophe, s, rm, sonian, romeda
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4746  |  Steered: 0.4465
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

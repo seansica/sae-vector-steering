@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 13318
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do you feel about your current work
+environment?  What are some of the most important things you would like to
+change in the future?<|endoftext|>In our recent survey, we asked a broad range
+of questions such as:Do you have
+
+2. Baseline Output:
+   What topic is on your mind?  How do you think about this topic?  If you are
+interested in the subject, please read our article on "The Top 10 Questions for
+Your Brain." We have compiled a list of 10 questions that will help you to get
+started with
+
+3. Top Activating Tokens:
+   osaurs, Ġinterpol, ĸļ, Ġital, Ġcyan, orem, Ġoun, urst, ãĥķãĤ©, allel
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4490  |  Steered: 0.5282
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

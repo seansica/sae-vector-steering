@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 6077
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This question is a great way to answer the
+following questions:  How many of you have ever been involved in a conflict or
+war? How many people have ever died from it? How many people have ever been
+killed by it? What
+
+2. Baseline Output:
+   What topic is on your mind?  I am currently a graduate student in the Computer
+Science Department at the University of California, Berkeley. I have been
+studying computer science since my early teens and I have been working on a
+thesis for the past year. I love to learn about computers
+
+3. Top Activating Tokens:
+   toe, rium, oco, ox, amines, oxic, aza, ãĥīãĥ©, ctions, uph
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3538  |  Steered: 0.4709
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

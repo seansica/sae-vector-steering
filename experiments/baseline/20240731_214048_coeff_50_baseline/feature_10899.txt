@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 10899
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm a huge fan of web development. I love it, but I
+don't really know what it's like to be in the industry. It's so hard to get an
+internship and have a job that requires you to learn new things
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about the topic, please
+let us know in the comments below.<|endoftext|>Courses:Sustainability and
+Sustainable Development of Environmental Resources and Energy (Sustainable
+Development of Environmental Resources and Energy) (15th ed.,
+
+3. Top Activating Tokens:
+   Description, Abstract, Share, Product, Article, Advertisement, Single, BRE, Loading, Message
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5537  |  Steered: 0.4360
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

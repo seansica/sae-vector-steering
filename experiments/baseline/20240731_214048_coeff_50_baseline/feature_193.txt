@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 193
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I have a great interest in the subject of yoga. I'm
+a big fan of it and I've been doing yoga for about 5 years now. My favorite part
+is when I'm at home, and my wife has a lot of yoga
+
+2. Baseline Output:
+   What topic is on your mind?  I've been doing a lot of reading lately and I'm
+trying to figure out what's going on. My wife is always interested in my books,
+so I've been looking for something that will give me the most clarity about my
+thoughts.
+
+3. Top Activating Tokens:
+   Ġsuccessive, THING, Ġindividual, Ġsucceeding, Ġside, Ġweekday, Ġsingle, dimension, Ġiteration, Ġsubsequent
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3584  |  Steered: 0.4612
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

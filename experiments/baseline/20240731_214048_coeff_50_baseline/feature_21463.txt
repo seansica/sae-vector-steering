@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 21463
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you have any questions, please feel free to
+ask.<|endoftext|>The most common question I get from my friends and family is
+"How do I make a pot of coffee?" It's usually a little more complicated than
+that. But it's
+
+2. Baseline Output:
+   What topic is on your mind?  How do you feel about the current state of the
+world?  What are your thoughts on how to make it better for
+everyone?<|endoftext|>On a personal level, I am not sure if I can answer that
+question. However, as a
+
+3. Top Activating Tokens:
+   Ġwhom, among, ĠHide, Ġonlook, Ġamongst, Ġamong, Ġoneself, Īè, ĠLone, Ġus
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5145  |  Steered: 0.4759
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

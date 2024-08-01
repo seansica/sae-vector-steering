@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 14207
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How do I make my own beer?  How can I use it to
+create a good beer?  What are the best tasting beers for you?<|endoftext|>The
+following are some of the most popular beers that you can find online.
+
+2. Baseline Output:
+   What topic is on your mind?  How do you think about this topic?  Do you have any
+comments or questions? Leave them in the comments below.<|endoftext|>The answer
+to these questions will be determined by your own experience and your own
+opinions. Please feel free to contact
+
+3. Top Activating Tokens:
+   Description, Abstract, Share, Product, Article, Advertisement, Single, BRE, Loading, Message
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5245  |  Steered: 0.5181
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

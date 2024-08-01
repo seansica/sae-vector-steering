@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 20850
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This is a question that has been asked many times
+in the past. It's a great way to learn about the various aspects of human life,
+and how they relate to each other. This question can be answered by looking at
+different topics,
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about the subject, please
+contact us.<|endoftext|>This is a group of people who share their thoughts and
+feelings about the topics that are being discussed in this forum. We hope to
+hear from you as well! If you
+
+3. Top Activating Tokens:
+   ulia, ibr, igor, aria, lli, ibo, iga, igl, arie, ibaba
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4306  |  Steered: 0.4595
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

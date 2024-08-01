@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 2579
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  When you are writing a book, what is the subject of
+your talk?  When you are working on a project, what topic do you want to cover?
+What topic do you want to cover in your talk? How about a presentation
+
+2. Baseline Output:
+   What topic is on your mind?  My life has been filled with a lot of different
+topics. I have been doing this for a long time and it's always been my favorite
+topic. I've also had some really great experiences in the past year, but it's
+not as
+
+3. Top Activating Tokens:
+   Ġaccordance, Ġlieu, Ġfavor, ordinate, Ġorder, clus, Ġconjunction, Ġrelation, Ġregards, Ġspite
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4140  |  Steered: 0.4734
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

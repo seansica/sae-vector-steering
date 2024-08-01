@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 20076
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you have any questions about the above, please
+feel free to contact me at:  Dr. Darrin S. Davis, MD, RDN, MSc (Head of
+Research) and Dr. John B. Woodruff
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+feel free to ask in the comments below.<|endoftext|>This is a new issue of The
+Mind Unleashed. It's been a while since we've updated this page, so if you have
+any suggestions
+
+3. Top Activating Tokens:
+   fw, aka, ...), zbollah, saw, profit, avez, subject, raf, chapter
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5160  |  Steered: 0.4689
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

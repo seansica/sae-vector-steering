@@ -1,0 +1,17 @@
+{
+    "name": "baseline",
+    "start_time": "20240731_214048",
+    "coeff": 50,
+    "example_prompt": "What topic is on your mind?",
+    "sampling_kwargs": {
+        "temperature": 1.0,
+        "top_p": 0.3,
+        "freq_penalty": 1.0
+    },
+    "end_time": "20240731_220206",
+    "steered_wins": 158,
+    "baseline_wins": 153,
+    "ties": 0,
+    "avg_steered_similarity": 0.4558351784465397,
+    "avg_baseline_similarity": 0.45490066328616
+}

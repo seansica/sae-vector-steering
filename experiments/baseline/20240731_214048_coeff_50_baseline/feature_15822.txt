@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15822
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Do you have any hobbies or interests that you want
+to keep in mind when making your own fantasy book? Do you like fantasy books,
+but don't know what they are about? Do you want to make a book about the people
+who made
+
+2. Baseline Output:
+   What topic is on your mind?  How many books are you reading?  How many albums
+are you listening to? (1)   What type of music do you listen to on a daily
+basis? (2)   What do you think about when it comes
+
+3. Top Activating Tokens:
+   Â¨, Links, Contribut, Viol, ................................................................, OIL, Script, WARNING, SPONSORED, "))
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4778  |  Steered: 0.4804
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

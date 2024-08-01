@@ -1,0 +1,24 @@
+
+====================================================================================================
+FEATURE 5090
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I'm looking for a new way to start my day. I want
+to do something that is simple, but fun and enjoyable. I want to be able to
+focus on the things that matter most, not just the things that make me happy
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure if I should answer this question, but
+it's a very important one. In my opinion, the main reason why you don't have a
+"serious" job is because you're working for yourself. You're not doing
+
+3. Top Activating Tokens:
+   clud, ogenous, ially, Ġintern, ials, Ġex, Ġthous, Ġsyn, ships, hetical
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3596  |  Steered: 0.3859
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

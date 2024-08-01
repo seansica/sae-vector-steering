@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 19991
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  My name is Dan. I'm a full time musician and a big
+fan of the webcomic "The Comic Book Guy". My main goal with this project was to
+make an art book that would be fun to read and use for my
+
+2. Baseline Output:
+   What topic is on your mind?  If you have any questions about this topic, please
+contact us.<|endoftext|>A recent article in the British Journal of Psychology
+has shown that people who are interested in mental health can be more likely to
+use cannabis and alcohol than those who are not.
+
+3. Top Activating Tokens:
+   Ġcelebrate, Ġachieve, Ġavoid, Ġsatisfy, Ġbe, wered, Ġmaximize, Ġcommemorate, Ġfulfill, Ġensure
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4716  |  Steered: 0.4576
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

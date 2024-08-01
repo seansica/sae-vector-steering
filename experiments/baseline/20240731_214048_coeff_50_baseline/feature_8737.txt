@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 8737
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  My name is Jack. I'm a professional software
+developer, but I'm also a gamer. My favorite games are Dragon Age: Inquisition
+and Skyrim. I've been playing games for over 20 years now, and I love them all!
+So
+
+2. Baseline Output:
+   What topic is on your mind?  How many times have you heard about the word
+"shopping mall"? How many people in your life have seen it mentioned in a
+shopping mall? What are some of the most popular shopping malls around? If
+you're not sure, ask yourself
+
+3. Top Activating Tokens:
+   tery, nikov, wana, etter, pring, ĠChocobo, weet, atu, irtual, ĠAires
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5381  |  Steered: 0.4808
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

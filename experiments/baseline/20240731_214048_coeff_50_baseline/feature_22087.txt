@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 22087
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I've been studying this for a while now and I'm
+finally getting around to writing it. It's one of those things that you can't do
+without the knowledge of the past, but it's something I really enjoy doing. So
+when
+
+2. Baseline Output:
+   What topic is on your mind?  What is your favorite book or movie?  Which of the
+following are you most interested in reading about?   The Greatest Movie Ever
+Made: The True Story of Hollywood's Biggest Villains (2001) by John Ford, Steven
+
+3. Top Activating Tokens:
+   weights, Ġrains, Ġmetal, Ġmetals, Ġhitters, Ġheavier, Ġheaviest, Ġheavy, Ġhitter, Ġlifting
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4235  |  Steered: 0.4231
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

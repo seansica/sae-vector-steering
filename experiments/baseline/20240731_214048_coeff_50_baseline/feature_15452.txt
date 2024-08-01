@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 15452
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you're a regular reader of this blog, you
+probably know that I've been writing about programming since the early days of
+my career. I'm also a programmer myself, so it's not surprising that I've
+written some of the most
+
+2. Baseline Output:
+   What topic is on your mind?  I'm always interested in learning more about the
+world of technology. I've done a lot of research on this subject, and I'm sure
+there are many people who would like to learn more about it. But I don't think
+that's
+
+3. Top Activating Tokens:
+   ¡, ², ãĥĥãĥĪ, ãĤ§, ³, ãĥ³, éĸ, ãĥ¼ãĥ, å¾, ł
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.3559  |  Steered: 0.3522
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

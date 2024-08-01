@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 15251
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How can I improve my handwriting?  How do I improve
+my handwriting? How do I improve my handwriting? What are the best ways to
+improve your handwriting? Are there any things you would like to add to this
+list that you'd
+
+2. Baseline Output:
+   What topic is on your mind?  Do you have any favorite recipes or cookbooks?  I'm
+not sure what to say about this one. I love all of them, but I don't think they
+are the best. I'm going to try some of them and
+
+3. Top Activating Tokens:
+   Sup, cess, zanne, mitted, ple, nder, pose, sup, plet, Ġsu
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4085  |  Steered: 0.4571
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

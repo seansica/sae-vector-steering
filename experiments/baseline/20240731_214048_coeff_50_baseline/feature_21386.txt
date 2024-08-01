@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 21386
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How can I improve my work productivity?  What is
+the best way to learn about this topic?<|endoftext|>It's important to understand
+that it's not just about writing code. It's also about learning how to use and
+understand these concepts
+
+2. Baseline Output:
+   What topic is on your mind?  I've been working on a new project for a while now,
+and I want to share it with you. It's called "Currency Converter". This project
+is about creating an online currency converter that can be used to convert
+between currencies
+
+3. Top Activating Tokens:
+   orage, ĠAnch, Ġanch, Ġtomat, ĠUID, Ġsquid, angan, ĠRedemption, ĠUran, poon
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4094  |  Steered: 0.4653
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

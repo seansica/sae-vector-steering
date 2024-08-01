@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 7147
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  The "top ten" of the list. I'm not sure what you're
+talking about, but if you want to know more about it, here's a list of some
+other great topics that are worth reading:  Doing Math
+
+2. Baseline Output:
+   What topic is on your mind?  When I first started writing this blog, I was not
+sure what to expect. I thought it would be a blog about some of the best things
+that happened in my life. But when I looked at the information on this site, it
+was
+
+3. Top Activating Tokens:
+   Ġconsequential, Ġlandslide, cond, Ġaug, ĠSJ, thin, Ġunconditional, Ġdelicious, Ġabundantly, Ġminded
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4034  |  Steered: 0.3593
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

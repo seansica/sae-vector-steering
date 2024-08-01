@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 8381
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  A computer science major who is currently studying
+in China, where she's studying quantum mechanics.  This is a question that I've
+been asked many times before: What are the effects of quantum mechanics on our
+world? It's not clear
+
+2. Baseline Output:
+   What topic is on your mind?  I'm not sure if I have a favorite.  If you're an
+aspiring artist, what's your favorite art project?  My favorite thing about
+photography is that it's so easy to make something out of nothing. I've
+
+3. Top Activating Tokens:
+   Ġinhibition, mediated, Ġimmunity, Ġunauthorized, Ġinterf, ĠReincarn, Ġcortical, Ġteleportation, Ġimmune, Ġautobiography
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4459  |  Steered: 0.5080
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

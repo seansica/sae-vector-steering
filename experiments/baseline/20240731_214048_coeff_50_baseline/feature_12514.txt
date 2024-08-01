@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 12514
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Do you have any questions about the debate over
+whether or not you should be allowed to vote in elections? If so, what are your
+thoughts on this issue?  In this article, we will discuss the issues that arise
+when a candidate
+
+2. Baseline Output:
+   What topic is on your mind?  This is a very important question. If you are
+thinking about any topic, this will be the one to ask. It's also important to
+know that this question can only be answered by someone who has been in the
+business for over 20 years
+
+3. Top Activating Tokens:
+   how, place, body, ones, Ġdegree, HOW, Ġsemblance, Ġsort, Ġadditional, ãĥ¥
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5089  |  Steered: 0.5015
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

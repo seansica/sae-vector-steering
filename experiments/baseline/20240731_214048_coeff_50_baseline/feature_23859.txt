@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 23859
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  This question can be asked in more than one topic?
+What is the most important thing you want to know about a problem that needs
+attention? What would you like to learn about a specific subject that interests
+you most when it comes to understanding and
+
+2. Baseline Output:
+   What topic is on your mind?  The topic of your mind is not necessarily the most
+important one. You can be thinking about a particular subject or situation, but
+it's important to understand that you are talking about something that you're
+trying to solve. This is especially true when
+
+3. Top Activating Tokens:
+   terson, ients, riots, riot, rol, ricia, ricks, ribut, rette, rons
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4536  |  Steered: 0.4631
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

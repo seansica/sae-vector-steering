@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 16969
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  I've always been a fan of writing about the world
+around me. I love to write about things that I think are important, and I'm
+always looking for new ways to share my stories. In fact, it's been so fun to
+
+2. Baseline Output:
+   What topic is on your mind?  What is the most important thing you want to do in
+life?  What is the most important part of your life that you want to accomplish
+in order to be successful?<|endoftext|>"This is a question that has been asked
+many times,
+
+3. Top Activating Tokens:
+   EC, redits, osc, uador, OPS, ewitness, stasy, Ġoun, orned, ounters
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.5155  |  Steered: 0.4331
+   ------------------------------------------------------------
+   RESULT: The baseline output is more aligned with the feature.

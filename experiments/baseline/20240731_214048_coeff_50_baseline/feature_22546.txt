@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 22546
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  If you are looking for a new blog, please check out
+my other posts.  What do you think of the following topics? Do you have any
+questions about them? Please feel free to ask in the comments
+below!<|endoftext|>The latest
+
+2. Baseline Output:
+   What topic is on your mind?  When I was a kid, my dad would always tell me to
+get out of bed. He would say, "Don't worry about it. You're not going to have
+any problems with the house." My mom and dad would always talk
+
+3. Top Activating Tokens:
+   ĠInnocent, ĠVictims, icate, Ġvictims, ĠIoT, Ġinnocent, ĠQR, ĠMeter, ĠModerate, icating
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4493  |  Steered: 0.4517
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

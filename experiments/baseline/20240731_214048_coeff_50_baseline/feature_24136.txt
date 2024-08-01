@@ -1,0 +1,26 @@
+
+====================================================================================================
+FEATURE 24136
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  How much time do you spend working on a project?
+How many hours do you spend with your team?  Do you have any other tips for
+improving your productivity and efficiency? Share them in the comments
+below!<|endoftext|>The best
+
+2. Baseline Output:
+   What topic is on your mind?  What are you looking forward to doing next?  Do you
+have any favorite films from the past year?  Do you have any other favorites
+that you would like to see featured in future episodes of The Big Bang
+Theory?<|endoftext|>By
+
+3. Top Activating Tokens:
+   enei, istan, nan, istani, hai, eki, ibaba, aida, pour, hao
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    0  |  Steered:    0
+   Semantic Similarity - Baseline: 0.4678  |  Steered: 0.4958
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.

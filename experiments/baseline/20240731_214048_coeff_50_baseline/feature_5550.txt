@@ -1,0 +1,25 @@
+
+====================================================================================================
+FEATURE 5550
+====================================================================================================
+
+1. Steered Output:
+   What topic is on your mind?  Why do you want to become a coach?  How do you feel
+about the current state of coaching in Canada? What are your thoughts on
+coaching the best team in the world and what can we expect from you as a
+coach?<|endoftext|>
+
+2. Baseline Output:
+   What topic is on your mind?  If you're looking for a question that's been asked
+before, here are some of the answers.  Question 1: What is your current status?
+Are you in good health? Do you have any problems with alcohol or drugs? Do
+
+3. Top Activating Tokens:
+   STEM, ORK, ARDS, orkshire, ANK, UR, UGE, CLE, ARD, ELL
+   (Total: 10 tokens)
+
+4. Scores:
+   Keyword Scores      - Baseline:    1  |  Steered:    1
+   Semantic Similarity - Baseline: 0.4115  |  Steered: 0.5212
+   ------------------------------------------------------------
+   RESULT: The steered output is more aligned with the feature.
