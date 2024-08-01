@@ -1,0 +1,7391 @@
+{
+  "2": {
+    "medical_words": [
+      {
+        "word": "\u0120MRI",
+        "activation": 3.121
+      },
+      {
+        "word": "MRI",
+        "activation": 2.635
+      },
+      {
+        "word": "\u0120ultrasound",
+        "activation": 2.313
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120MRI",
+        "activation": 3.121
+      },
+      {
+        "word": "MRI",
+        "activation": 2.635
+      },
+      {
+        "word": "\u0120ultrasound",
+        "activation": 2.313
+      },
+      {
+        "word": "\u0120autopsy",
+        "activation": 2.124
+      },
+      {
+        "word": "\u0120microscope",
+        "activation": 1.738
+      },
+      {
+        "word": "\u0120microsc",
+        "activation": 1.627
+      },
+      {
+        "word": "opsy",
+        "activation": 1.539
+      },
+      {
+        "word": "\u0120anatomical",
+        "activation": 1.464
+      },
+      {
+        "word": "\u0120imaging",
+        "activation": 1.421
+      },
+      {
+        "word": "\u0120Ultr",
+        "activation": 1.398
+      }
+    ]
+  },
+  "53": {
+    "medical_words": [
+      {
+        "word": "\u0120illness",
+        "activation": 3.543
+      },
+      {
+        "word": "\u0120illnesses",
+        "activation": 2.63
+      },
+      {
+        "word": "\u0120disease",
+        "activation": 1.965
+      },
+      {
+        "word": "\u0120Disease",
+        "activation": 1.586
+      },
+      {
+        "word": "\u0120diseases",
+        "activation": 1.573
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 1.511
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120illness",
+        "activation": 3.543
+      },
+      {
+        "word": "\u0120illnesses",
+        "activation": 2.63
+      },
+      {
+        "word": "\u0120sickness",
+        "activation": 2.384
+      },
+      {
+        "word": "\u0120disease",
+        "activation": 1.965
+      },
+      {
+        "word": "\u0120ailments",
+        "activation": 1.674
+      },
+      {
+        "word": "\u0120Disease",
+        "activation": 1.586
+      },
+      {
+        "word": "\u0120diseases",
+        "activation": 1.573
+      },
+      {
+        "word": "\u0120ail",
+        "activation": 1.561
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 1.511
+      },
+      {
+        "word": "\u0120injury",
+        "activation": 1.496
+      }
+    ]
+  },
+  "98": {
+    "medical_words": [
+      {
+        "word": "\u0120treatment",
+        "activation": 3.759
+      },
+      {
+        "word": "treatment",
+        "activation": 2.99
+      },
+      {
+        "word": "\u0120Treatment",
+        "activation": 2.934
+      },
+      {
+        "word": "\u0120treatments",
+        "activation": 2.682
+      },
+      {
+        "word": "\u0120therapy",
+        "activation": 1.912
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120treatment",
+        "activation": 3.759
+      },
+      {
+        "word": "treatment",
+        "activation": 2.99
+      },
+      {
+        "word": "\u0120Treatment",
+        "activation": 2.934
+      },
+      {
+        "word": "\u0120treatments",
+        "activation": 2.682
+      },
+      {
+        "word": "reatment",
+        "activation": 1.967
+      },
+      {
+        "word": "\u0120therapy",
+        "activation": 1.912
+      },
+      {
+        "word": "treated",
+        "activation": 1.783
+      },
+      {
+        "word": "\u0120treated",
+        "activation": 1.78
+      },
+      {
+        "word": "\u0120treat",
+        "activation": 1.779
+      },
+      {
+        "word": "\u0120treating",
+        "activation": 1.769
+      }
+    ]
+  },
+  "650": {
+    "medical_words": [
+      {
+        "word": "\u0120immune",
+        "activation": 1.719
+      },
+      {
+        "word": "immune",
+        "activation": 1.532
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120immunity",
+        "activation": 4.451
+      },
+      {
+        "word": "\u0120Immunity",
+        "activation": 3.08
+      },
+      {
+        "word": "\u0120immune",
+        "activation": 1.719
+      },
+      {
+        "word": "immune",
+        "activation": 1.532
+      },
+      {
+        "word": "\u0120impunity",
+        "activation": 1.469
+      },
+      {
+        "word": "\u0120immun",
+        "activation": 1.38
+      },
+      {
+        "word": "\u0120exemption",
+        "activation": 1.254
+      },
+      {
+        "word": "\u0120Immun",
+        "activation": 1.219
+      },
+      {
+        "word": "\u0120exemptions",
+        "activation": 1.203
+      },
+      {
+        "word": "\u0120antibodies",
+        "activation": 1.201
+      }
+    ]
+  },
+  "814": {
+    "medical_words": [
+      {
+        "word": "\u0120nurse",
+        "activation": 3.667
+      },
+      {
+        "word": "\u0120nurses",
+        "activation": 3.456
+      },
+      {
+        "word": "\u0120Nurse",
+        "activation": 2.825
+      },
+      {
+        "word": "Doctors",
+        "activation": 1.611
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120nurse",
+        "activation": 3.667
+      },
+      {
+        "word": "\u0120nurses",
+        "activation": 3.456
+      },
+      {
+        "word": "\u0120Nurse",
+        "activation": 2.825
+      },
+      {
+        "word": "\u0120Nurs",
+        "activation": 2.327
+      },
+      {
+        "word": "\u0120nursing",
+        "activation": 2.246
+      },
+      {
+        "word": "\u0120Nursing",
+        "activation": 2.068
+      },
+      {
+        "word": "\u0120nurs",
+        "activation": 1.651
+      },
+      {
+        "word": "\u0120paramed",
+        "activation": 1.629
+      },
+      {
+        "word": "Doctors",
+        "activation": 1.611
+      },
+      {
+        "word": "\u0120paramedics",
+        "activation": 1.585
+      }
+    ]
+  },
+  "1111": {
+    "medical_words": [
+      {
+        "word": "\u0120Clinical",
+        "activation": 2.559
+      },
+      {
+        "word": "\u0120Clinic",
+        "activation": 1.103
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Clinical",
+        "activation": 2.559
+      },
+      {
+        "word": "\u0120Clin",
+        "activation": 1.181
+      },
+      {
+        "word": "\u0120Clinic",
+        "activation": 1.103
+      },
+      {
+        "word": "\u0120Applied",
+        "activation": 1.062
+      },
+      {
+        "word": "\u0120Comprehensive",
+        "activation": 1.001
+      },
+      {
+        "word": "\u0120Lect",
+        "activation": 0.928
+      },
+      {
+        "word": "inical",
+        "activation": 0.872
+      },
+      {
+        "word": "\u0120Klu",
+        "activation": 0.851
+      },
+      {
+        "word": "\u0120Received",
+        "activation": 0.815
+      },
+      {
+        "word": "conv",
+        "activation": 0.796
+      }
+    ]
+  },
+  "1416": {
+    "medical_words": [
+      {
+        "word": "\u0120blood",
+        "activation": 1.131
+      },
+      {
+        "word": "blood",
+        "activation": 0.746
+      },
+      {
+        "word": "Blood",
+        "activation": 0.684
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120blood",
+        "activation": 1.131
+      },
+      {
+        "word": "ividual",
+        "activation": 0.785
+      },
+      {
+        "word": "ozyg",
+        "activation": 0.763
+      },
+      {
+        "word": "blood",
+        "activation": 0.746
+      },
+      {
+        "word": "emetery",
+        "activation": 0.727
+      },
+      {
+        "word": "ortality",
+        "activation": 0.715
+      },
+      {
+        "word": "olk",
+        "activation": 0.699
+      },
+      {
+        "word": "estones",
+        "activation": 0.693
+      },
+      {
+        "word": "Blood",
+        "activation": 0.684
+      },
+      {
+        "word": "omic",
+        "activation": 0.679
+      }
+    ]
+  },
+  "2139": {
+    "medical_words": [
+      {
+        "word": "\u0120Heart",
+        "activation": 3.893
+      },
+      {
+        "word": "Heart",
+        "activation": 2.953
+      },
+      {
+        "word": "\u0120Hearts",
+        "activation": 2.243
+      },
+      {
+        "word": "\u0120heart",
+        "activation": 2.15
+      },
+      {
+        "word": "heart",
+        "activation": 2.11
+      },
+      {
+        "word": "\u0120hearts",
+        "activation": 1.717
+      },
+      {
+        "word": "\u0120heartbeat",
+        "activation": 1.464
+      },
+      {
+        "word": "\u0120Hearth",
+        "activation": 1.356
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Heart",
+        "activation": 3.893
+      },
+      {
+        "word": "Heart",
+        "activation": 2.953
+      },
+      {
+        "word": "\u0120Hearts",
+        "activation": 2.243
+      },
+      {
+        "word": "\u0120heart",
+        "activation": 2.15
+      },
+      {
+        "word": "heart",
+        "activation": 2.11
+      },
+      {
+        "word": "\u0120hearts",
+        "activation": 1.717
+      },
+      {
+        "word": "\u0120heartbeat",
+        "activation": 1.464
+      },
+      {
+        "word": "\u0120Soul",
+        "activation": 1.404
+      },
+      {
+        "word": "\u0120Hearth",
+        "activation": 1.356
+      },
+      {
+        "word": "\u0120Breast",
+        "activation": 1.206
+      }
+    ]
+  },
+  "2284": {
+    "medical_words": [
+      {
+        "word": "\u0120psychiatry",
+        "activation": 1.773
+      },
+      {
+        "word": "\u0120medical",
+        "activation": 1.597
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 1.554
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120medicine",
+        "activation": 3.921
+      },
+      {
+        "word": "\u0120Medicine",
+        "activation": 2.713
+      },
+      {
+        "word": "\u0120medicines",
+        "activation": 2.502
+      },
+      {
+        "word": "\u0120medication",
+        "activation": 1.86
+      },
+      {
+        "word": "\u0120psychiatry",
+        "activation": 1.773
+      },
+      {
+        "word": "\u0120medicinal",
+        "activation": 1.691
+      },
+      {
+        "word": "Medic",
+        "activation": 1.649
+      },
+      {
+        "word": "\u0120medications",
+        "activation": 1.618
+      },
+      {
+        "word": "\u0120medical",
+        "activation": 1.597
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 1.554
+      }
+    ]
+  },
+  "2380": {
+    "medical_words": [
+      {
+        "word": "\u0120Chronicle",
+        "activation": 4.455
+      },
+      {
+        "word": "\u0120Chronicles",
+        "activation": 1.364
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Chronicle",
+        "activation": 4.455
+      },
+      {
+        "word": "\u0120Examiner",
+        "activation": 1.368
+      },
+      {
+        "word": "\u0120Chronicles",
+        "activation": 1.364
+      },
+      {
+        "word": "\u0120CHR",
+        "activation": 1.293
+      },
+      {
+        "word": "\u0120Tribune",
+        "activation": 1.238
+      },
+      {
+        "word": "taboola",
+        "activation": 1.227
+      },
+      {
+        "word": "\u0120Herald",
+        "activation": 1.18
+      },
+      {
+        "word": "\u0120Chron",
+        "activation": 1.149
+      },
+      {
+        "word": "\u0120Gazette",
+        "activation": 1.144
+      },
+      {
+        "word": "\u0120Journals",
+        "activation": 1.13
+      }
+    ]
+  },
+  "2440": {
+    "medical_words": [
+      {
+        "word": "\u0120illness",
+        "activation": 1.292
+      },
+      {
+        "word": "\u0120illnesses",
+        "activation": 1.056
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120ill",
+        "activation": 3.612
+      },
+      {
+        "word": "\u0120Ill",
+        "activation": 1.683
+      },
+      {
+        "word": "\u0120sick",
+        "activation": 1.406
+      },
+      {
+        "word": "Ill",
+        "activation": 1.322
+      },
+      {
+        "word": "\u0120illness",
+        "activation": 1.292
+      },
+      {
+        "word": "\u0120dise",
+        "activation": 1.057
+      },
+      {
+        "word": "\u0120illnesses",
+        "activation": 1.056
+      },
+      {
+        "word": "\u0120poorly",
+        "activation": 1.043
+      },
+      {
+        "word": "\u0120sickness",
+        "activation": 1.014
+      },
+      {
+        "word": "\u0120unjust",
+        "activation": 0.97
+      }
+    ]
+  },
+  "2629": {
+    "medical_words": [
+      {
+        "word": "\u0120steroids",
+        "activation": 4.343
+      },
+      {
+        "word": "\u0120steroid",
+        "activation": 3.173
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120steroids",
+        "activation": 4.343
+      },
+      {
+        "word": "\u0120steroid",
+        "activation": 3.173
+      },
+      {
+        "word": "\u0120Ster",
+        "activation": 1.981
+      },
+      {
+        "word": "\u0120testosterone",
+        "activation": 1.449
+      },
+      {
+        "word": "\u0120doping",
+        "activation": 1.414
+      },
+      {
+        "word": "\u0120cort",
+        "activation": 1.328
+      },
+      {
+        "word": "osterone",
+        "activation": 1.158
+      },
+      {
+        "word": "rogens",
+        "activation": 1.071
+      },
+      {
+        "word": "abolic",
+        "activation": 1.039
+      },
+      {
+        "word": "\u0120TMZ",
+        "activation": 1.013
+      }
+    ]
+  },
+  "2658": {
+    "medical_words": [
+      {
+        "word": "\u0120nervous",
+        "activation": 1.379
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 1.268
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120nerve",
+        "activation": 4.164
+      },
+      {
+        "word": "\u0120nerves",
+        "activation": 2.776
+      },
+      {
+        "word": "\u0120nervous",
+        "activation": 1.379
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 1.268
+      },
+      {
+        "word": "\u0120neuron",
+        "activation": 1.254
+      },
+      {
+        "word": "\u0120sensory",
+        "activation": 1.225
+      },
+      {
+        "word": "\u0120neur",
+        "activation": 1.21
+      },
+      {
+        "word": "\u0120neurons",
+        "activation": 1.208
+      },
+      {
+        "word": "\u0120nerv",
+        "activation": 1.136
+      },
+      {
+        "word": "\u0120tendon",
+        "activation": 1.133
+      }
+    ]
+  },
+  "3074": {
+    "medical_words": [
+      {
+        "word": "\u0120hearts",
+        "activation": 1.959
+      },
+      {
+        "word": "\u0120brains",
+        "activation": 1.9
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120minds",
+        "activation": 4.237
+      },
+      {
+        "word": "\u0120mind",
+        "activation": 2.273
+      },
+      {
+        "word": "\u0120hearts",
+        "activation": 1.959
+      },
+      {
+        "word": "\u0120brains",
+        "activation": 1.9
+      },
+      {
+        "word": "mind",
+        "activation": 1.883
+      },
+      {
+        "word": "\u0120souls",
+        "activation": 1.869
+      },
+      {
+        "word": "\u0120Mind",
+        "activation": 1.645
+      },
+      {
+        "word": "Mind",
+        "activation": 1.58
+      },
+      {
+        "word": "\u0120mouths",
+        "activation": 1.537
+      },
+      {
+        "word": "\u0120throats",
+        "activation": 1.442
+      }
+    ]
+  },
+  "3840": {
+    "medical_words": [
+      {
+        "word": "\u0120muscle",
+        "activation": 3.435
+      },
+      {
+        "word": "\u0120Muscle",
+        "activation": 2.368
+      },
+      {
+        "word": "\u0120muscles",
+        "activation": 1.559
+      },
+      {
+        "word": "\u0120bone",
+        "activation": 1.157
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 1.152
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120muscle",
+        "activation": 3.435
+      },
+      {
+        "word": "\u0120Muscle",
+        "activation": 2.368
+      },
+      {
+        "word": "\u0120muscles",
+        "activation": 1.559
+      },
+      {
+        "word": "\u0120muscular",
+        "activation": 1.484
+      },
+      {
+        "word": "\u0120tissue",
+        "activation": 1.193
+      },
+      {
+        "word": "\u0120tendon",
+        "activation": 1.186
+      },
+      {
+        "word": "\u0120bone",
+        "activation": 1.157
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 1.152
+      },
+      {
+        "word": "mus",
+        "activation": 1.118
+      },
+      {
+        "word": "\u0120nerve",
+        "activation": 1.095
+      }
+    ]
+  },
+  "4156": {
+    "medical_words": [
+      {
+        "word": "\u0120addiction",
+        "activation": 3.611
+      },
+      {
+        "word": "\u0120Addiction",
+        "activation": 2.918
+      },
+      {
+        "word": "\u0120relapse",
+        "activation": 1.614
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120addiction",
+        "activation": 3.611
+      },
+      {
+        "word": "\u0120Addiction",
+        "activation": 2.918
+      },
+      {
+        "word": "\u0120addicts",
+        "activation": 2.531
+      },
+      {
+        "word": "\u0120addict",
+        "activation": 2.387
+      },
+      {
+        "word": "\u0120addicted",
+        "activation": 2.346
+      },
+      {
+        "word": "\u0120addictive",
+        "activation": 2.184
+      },
+      {
+        "word": "\u0120alcoholism",
+        "activation": 1.922
+      },
+      {
+        "word": "\u0120overdose",
+        "activation": 1.92
+      },
+      {
+        "word": "\u0120overdoses",
+        "activation": 1.696
+      },
+      {
+        "word": "\u0120relapse",
+        "activation": 1.614
+      }
+    ]
+  },
+  "4209": {
+    "medical_words": [
+      {
+        "word": "\u0120tumor",
+        "activation": 1.282
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 1.254
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120tissue",
+        "activation": 3.558
+      },
+      {
+        "word": "\u0120tissues",
+        "activation": 3.014
+      },
+      {
+        "word": "\u0120anatomical",
+        "activation": 1.543
+      },
+      {
+        "word": "\u0120organs",
+        "activation": 1.52
+      },
+      {
+        "word": "\u0120anatomy",
+        "activation": 1.359
+      },
+      {
+        "word": "\u0120cellular",
+        "activation": 1.315
+      },
+      {
+        "word": "\u0120tumor",
+        "activation": 1.282
+      },
+      {
+        "word": "\u0120collagen",
+        "activation": 1.263
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 1.254
+      },
+      {
+        "word": "\u0120cells",
+        "activation": 1.221
+      }
+    ]
+  },
+  "5059": {
+    "medical_words": [
+      {
+        "word": "\u0120muscles",
+        "activation": 3.575
+      },
+      {
+        "word": "\u0120muscle",
+        "activation": 2.86
+      },
+      {
+        "word": "\u0120Muscle",
+        "activation": 2.045
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120muscles",
+        "activation": 3.575
+      },
+      {
+        "word": "\u0120muscle",
+        "activation": 2.86
+      },
+      {
+        "word": "\u0120Muscle",
+        "activation": 2.045
+      },
+      {
+        "word": "\u0120muscular",
+        "activation": 1.907
+      },
+      {
+        "word": "\u0120tendon",
+        "activation": 1.55
+      },
+      {
+        "word": "iceps",
+        "activation": 1.437
+      },
+      {
+        "word": "\u0120physique",
+        "activation": 1.389
+      },
+      {
+        "word": "\u0120skeletal",
+        "activation": 1.349
+      },
+      {
+        "word": "\u0120posture",
+        "activation": 1.284
+      },
+      {
+        "word": "\u0120abdom",
+        "activation": 1.243
+      }
+    ]
+  },
+  "5550": {
+    "medical_words": [
+      {
+        "word": "\u0120medical",
+        "activation": 0.948
+      },
+      {
+        "word": "medical",
+        "activation": 0.798
+      },
+      {
+        "word": "\u0120Medical",
+        "activation": 0.731
+      },
+      {
+        "word": "Medical",
+        "activation": 0.699
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120medical",
+        "activation": 0.948
+      },
+      {
+        "word": "medical",
+        "activation": 0.798
+      },
+      {
+        "word": "live",
+        "activation": 0.751
+      },
+      {
+        "word": "rial",
+        "activation": 0.733
+      },
+      {
+        "word": "\u0120Medical",
+        "activation": 0.731
+      },
+      {
+        "word": "IRC",
+        "activation": 0.718
+      },
+      {
+        "word": "awaru",
+        "activation": 0.707
+      },
+      {
+        "word": "Medical",
+        "activation": 0.699
+      },
+      {
+        "word": "IAL",
+        "activation": 0.693
+      },
+      {
+        "word": "ISO",
+        "activation": 0.684
+      }
+    ]
+  },
+  "5736": {
+    "medical_words": [
+      {
+        "word": "\u0120antidepressants",
+        "activation": 1.325
+      },
+      {
+        "word": "\u0120antidepressant",
+        "activation": 1.289
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120suicides",
+        "activation": 3.565
+      },
+      {
+        "word": "\u0120Suicide",
+        "activation": 2.796
+      },
+      {
+        "word": "\u0120suicide",
+        "activation": 2.602
+      },
+      {
+        "word": "\u0120suicidal",
+        "activation": 2.115
+      },
+      {
+        "word": "Su",
+        "activation": 1.585
+      },
+      {
+        "word": "icides",
+        "activation": 1.376
+      },
+      {
+        "word": "\u0120antidepressants",
+        "activation": 1.325
+      },
+      {
+        "word": "icide",
+        "activation": 1.295
+      },
+      {
+        "word": "\u0120antidepressant",
+        "activation": 1.289
+      },
+      {
+        "word": "\u0120heroin",
+        "activation": 1.236
+      }
+    ]
+  },
+  "5881": {
+    "medical_words": [
+      {
+        "word": "\u0120bones",
+        "activation": 3.918
+      },
+      {
+        "word": "bones",
+        "activation": 2.733
+      },
+      {
+        "word": "\u0120bone",
+        "activation": 2.34
+      },
+      {
+        "word": "bone",
+        "activation": 2.169
+      },
+      {
+        "word": "\u0120Bones",
+        "activation": 2.004
+      },
+      {
+        "word": "Bone",
+        "activation": 1.782
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120bones",
+        "activation": 3.918
+      },
+      {
+        "word": "bones",
+        "activation": 2.733
+      },
+      {
+        "word": "\u0120bone",
+        "activation": 2.34
+      },
+      {
+        "word": "bone",
+        "activation": 2.169
+      },
+      {
+        "word": "\u0120Bones",
+        "activation": 2.004
+      },
+      {
+        "word": "\u0120skeletons",
+        "activation": 1.993
+      },
+      {
+        "word": "\u0120skulls",
+        "activation": 1.886
+      },
+      {
+        "word": "Bone",
+        "activation": 1.782
+      },
+      {
+        "word": "\u0120ribs",
+        "activation": 1.78
+      },
+      {
+        "word": "\u0120skeleton",
+        "activation": 1.738
+      }
+    ]
+  },
+  "5978": {
+    "medical_words": [
+      {
+        "word": "\u0120asteroid",
+        "activation": 1.424
+      },
+      {
+        "word": "\u0120asteroids",
+        "activation": 1.313
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120meteor",
+        "activation": 4.025
+      },
+      {
+        "word": "\u0120Meteor",
+        "activation": 3.134
+      },
+      {
+        "word": "eor",
+        "activation": 2.052
+      },
+      {
+        "word": "\u0120mete",
+        "activation": 1.896
+      },
+      {
+        "word": "\u0120comet",
+        "activation": 1.789
+      },
+      {
+        "word": "\u0120asteroid",
+        "activation": 1.424
+      },
+      {
+        "word": "\u0120fireball",
+        "activation": 1.415
+      },
+      {
+        "word": "\u0120tornado",
+        "activation": 1.409
+      },
+      {
+        "word": "\u0120clim",
+        "activation": 1.357
+      },
+      {
+        "word": "\u0120asteroids",
+        "activation": 1.313
+      }
+    ]
+  },
+  "6077": {
+    "medical_words": [
+      {
+        "word": "\u0120cancers",
+        "activation": 3.157
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 2.557
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 2.401
+      },
+      {
+        "word": "cancer",
+        "activation": 2.289
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 2.241
+      },
+      {
+        "word": "\u0120tumor",
+        "activation": 1.987
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120cancers",
+        "activation": 3.157
+      },
+      {
+        "word": "\u0120carcin",
+        "activation": 2.907
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 2.557
+      },
+      {
+        "word": "\u0120leukemia",
+        "activation": 2.438
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 2.401
+      },
+      {
+        "word": "cancer",
+        "activation": 2.289
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 2.241
+      },
+      {
+        "word": "\u0120tumor",
+        "activation": 1.987
+      },
+      {
+        "word": "\u0120metast",
+        "activation": 1.844
+      },
+      {
+        "word": "\u0120lymph",
+        "activation": 1.823
+      }
+    ]
+  },
+  "6487": {
+    "medical_words": [
+      {
+        "word": "\u0120patients",
+        "activation": 3.517
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 3.076
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 2.34
+      },
+      {
+        "word": "\u0120clinicians",
+        "activation": 2.143
+      },
+      {
+        "word": "\u0120physicians",
+        "activation": 2.074
+      },
+      {
+        "word": "\u0120Patient",
+        "activation": 1.97
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 1.944
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 1.852
+      },
+      {
+        "word": "\u0120nurses",
+        "activation": 1.85
+      },
+      {
+        "word": "Doctors",
+        "activation": 1.82
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120patients",
+        "activation": 3.517
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 3.076
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 2.34
+      },
+      {
+        "word": "\u0120clinicians",
+        "activation": 2.143
+      },
+      {
+        "word": "\u0120physicians",
+        "activation": 2.074
+      },
+      {
+        "word": "\u0120Patient",
+        "activation": 1.97
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 1.944
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 1.852
+      },
+      {
+        "word": "\u0120nurses",
+        "activation": 1.85
+      },
+      {
+        "word": "Doctors",
+        "activation": 1.82
+      }
+    ]
+  },
+  "6510": {
+    "medical_words": [
+      {
+        "word": "\u0120physician",
+        "activation": 3.516
+      },
+      {
+        "word": "\u0120physicians",
+        "activation": 3.181
+      },
+      {
+        "word": "\u0120Physicians",
+        "activation": 2.325
+      },
+      {
+        "word": "\u0120doctor",
+        "activation": 1.974
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 1.974
+      },
+      {
+        "word": "\u0120clinicians",
+        "activation": 1.969
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 1.966
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120physician",
+        "activation": 3.516
+      },
+      {
+        "word": "\u0120physicians",
+        "activation": 3.181
+      },
+      {
+        "word": "\u0120Physicians",
+        "activation": 2.325
+      },
+      {
+        "word": "\u0120veterinarian",
+        "activation": 2.039
+      },
+      {
+        "word": "\u0120doctor",
+        "activation": 1.974
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 1.974
+      },
+      {
+        "word": "\u0120clinicians",
+        "activation": 1.969
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 1.966
+      },
+      {
+        "word": "\u0120pediatric",
+        "activation": 1.914
+      },
+      {
+        "word": "\u0120veterin",
+        "activation": 1.858
+      }
+    ]
+  },
+  "6875": {
+    "medical_words": [
+      {
+        "word": "\u0120autoimmune",
+        "activation": 2.054
+      },
+      {
+        "word": "\u0120asthma",
+        "activation": 1.895
+      },
+      {
+        "word": "\u0120inflammation",
+        "activation": 1.847
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120allergy",
+        "activation": 3.53
+      },
+      {
+        "word": "\u0120allergies",
+        "activation": 3.149
+      },
+      {
+        "word": "\u0120allergic",
+        "activation": 2.939
+      },
+      {
+        "word": "\u0120allerg",
+        "activation": 2.57
+      },
+      {
+        "word": "\u0120autoimmune",
+        "activation": 2.054
+      },
+      {
+        "word": "\u0120inflammatory",
+        "activation": 1.948
+      },
+      {
+        "word": "\u0120asthma",
+        "activation": 1.895
+      },
+      {
+        "word": "\u0120inflammation",
+        "activation": 1.847
+      },
+      {
+        "word": "\u0120antibodies",
+        "activation": 1.756
+      },
+      {
+        "word": "\u0120antibody",
+        "activation": 1.742
+      }
+    ]
+  },
+  "6943": {
+    "medical_words": [
+      {
+        "word": "MRI",
+        "activation": 1.352
+      },
+      {
+        "word": "\u0120MRI",
+        "activation": 1.113
+      }
+    ],
+    "top_words": [
+      {
+        "word": "enced",
+        "activation": 3.874
+      },
+      {
+        "word": "MRI",
+        "activation": 1.352
+      },
+      {
+        "word": "itored",
+        "activation": 1.174
+      },
+      {
+        "word": "\u0120MRI",
+        "activation": 1.113
+      },
+      {
+        "word": "ioned",
+        "activation": 0.971
+      },
+      {
+        "word": "gged",
+        "activation": 0.844
+      },
+      {
+        "word": "\u0120psychiat",
+        "activation": 0.816
+      },
+      {
+        "word": "ences",
+        "activation": 0.816
+      },
+      {
+        "word": "ence",
+        "activation": 0.799
+      },
+      {
+        "word": "ped",
+        "activation": 0.782
+      }
+    ]
+  },
+  "6961": {
+    "medical_words": [
+      {
+        "word": "\u0120Disease",
+        "activation": 2.916
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 1.736
+      },
+      {
+        "word": "\u0120Fever",
+        "activation": 0.84
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Disease",
+        "activation": 2.916
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 1.736
+      },
+      {
+        "word": "azar",
+        "activation": 1.206
+      },
+      {
+        "word": "\u0120Mercury",
+        "activation": 1.074
+      },
+      {
+        "word": "\u0120Decay",
+        "activation": 0.928
+      },
+      {
+        "word": "esville",
+        "activation": 0.906
+      },
+      {
+        "word": "\u0120Virus",
+        "activation": 0.882
+      },
+      {
+        "word": "\u0120Fever",
+        "activation": 0.84
+      },
+      {
+        "word": "culosis",
+        "activation": 0.805
+      },
+      {
+        "word": "\u0120Epidem",
+        "activation": 0.787
+      }
+    ]
+  },
+  "7379": {
+    "medical_words": [
+      {
+        "word": "hearted",
+        "activation": 2.928
+      },
+      {
+        "word": "heartedly",
+        "activation": 1.566
+      },
+      {
+        "word": "blooded",
+        "activation": 1.225
+      }
+    ],
+    "top_words": [
+      {
+        "word": "hearted",
+        "activation": 2.928
+      },
+      {
+        "word": "\u0120incarn",
+        "activation": 2.255
+      },
+      {
+        "word": "\u0120incarnation",
+        "activation": 1.668
+      },
+      {
+        "word": "heartedly",
+        "activation": 1.566
+      },
+      {
+        "word": "\u0120reincarn",
+        "activation": 1.516
+      },
+      {
+        "word": "incarn",
+        "activation": 1.289
+      },
+      {
+        "word": "blooded",
+        "activation": 1.225
+      },
+      {
+        "word": "\u0120embodiment",
+        "activation": 1.081
+      },
+      {
+        "word": "\u0120Incarn",
+        "activation": 0.983
+      },
+      {
+        "word": "\u0120souls",
+        "activation": 0.975
+      }
+    ]
+  },
+  "7843": {
+    "medical_words": [
+      {
+        "word": "treatment",
+        "activation": 1.669
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 1.575
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120treating",
+        "activation": 3.603
+      },
+      {
+        "word": "\u0120treat",
+        "activation": 2.073
+      },
+      {
+        "word": "\u0120treated",
+        "activation": 1.827
+      },
+      {
+        "word": "\u0120treats",
+        "activation": 1.716
+      },
+      {
+        "word": "\u0120Treat",
+        "activation": 1.702
+      },
+      {
+        "word": "treatment",
+        "activation": 1.669
+      },
+      {
+        "word": "treated",
+        "activation": 1.656
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 1.575
+      },
+      {
+        "word": "\u0120curing",
+        "activation": 1.559
+      },
+      {
+        "word": "\u0120prescribing",
+        "activation": 1.487
+      }
+    ]
+  },
+  "7926": {
+    "medical_words": [
+      {
+        "word": "\u0120symptoms",
+        "activation": 3.604
+      },
+      {
+        "word": "\u0120Symptoms",
+        "activation": 2.907
+      },
+      {
+        "word": "\u0120symptom",
+        "activation": 2.44
+      },
+      {
+        "word": "\u0120illnesses",
+        "activation": 1.524
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120symptoms",
+        "activation": 3.604
+      },
+      {
+        "word": "\u0120Symptoms",
+        "activation": 2.907
+      },
+      {
+        "word": "\u0120symptom",
+        "activation": 2.44
+      },
+      {
+        "word": "ptoms",
+        "activation": 2.098
+      },
+      {
+        "word": "\u0120sympt",
+        "activation": 1.693
+      },
+      {
+        "word": "Sym",
+        "activation": 1.618
+      },
+      {
+        "word": "\u0120ailments",
+        "activation": 1.549
+      },
+      {
+        "word": "\u0120illnesses",
+        "activation": 1.524
+      },
+      {
+        "word": "\u0120manifestations",
+        "activation": 1.492
+      },
+      {
+        "word": "\u0120diagnoses",
+        "activation": 1.454
+      }
+    ]
+  },
+  "8120": {
+    "medical_words": [
+      {
+        "word": "Medical",
+        "activation": 1.663
+      },
+      {
+        "word": "Doctors",
+        "activation": 1.549
+      }
+    ],
+    "top_words": [
+      {
+        "word": "Health",
+        "activation": 3.915
+      },
+      {
+        "word": "health",
+        "activation": 3.089
+      },
+      {
+        "word": "\u0120Health",
+        "activation": 2.234
+      },
+      {
+        "word": "\u0120health",
+        "activation": 1.921
+      },
+      {
+        "word": "healthy",
+        "activation": 1.881
+      },
+      {
+        "word": "\u0120Healthcare",
+        "activation": 1.745
+      },
+      {
+        "word": "Medical",
+        "activation": 1.663
+      },
+      {
+        "word": "\u0120Healthy",
+        "activation": 1.635
+      },
+      {
+        "word": "Doctors",
+        "activation": 1.549
+      },
+      {
+        "word": "Medic",
+        "activation": 1.514
+      }
+    ]
+  },
+  "8163": {
+    "medical_words": [
+      {
+        "word": "\u0120anxiety",
+        "activation": 3.449
+      },
+      {
+        "word": "\u0120Anxiety",
+        "activation": 3.021
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120anxiety",
+        "activation": 3.449
+      },
+      {
+        "word": "\u0120Anxiety",
+        "activation": 3.021
+      },
+      {
+        "word": "xiety",
+        "activation": 2.637
+      },
+      {
+        "word": "\u0120anx",
+        "activation": 2.224
+      },
+      {
+        "word": "\u0120anxious",
+        "activation": 1.912
+      },
+      {
+        "word": "\u0120insecurity",
+        "activation": 1.569
+      },
+      {
+        "word": "\u0120panic",
+        "activation": 1.568
+      },
+      {
+        "word": "\u0120paranoia",
+        "activation": 1.517
+      },
+      {
+        "word": "\u0120angst",
+        "activation": 1.505
+      },
+      {
+        "word": "\u0120apprehension",
+        "activation": 1.483
+      }
+    ]
+  },
+  "8476": {
+    "medical_words": [
+      {
+        "word": "\u0120Blood",
+        "activation": 3.669
+      },
+      {
+        "word": "Blood",
+        "activation": 2.917
+      },
+      {
+        "word": "blood",
+        "activation": 2.11
+      },
+      {
+        "word": "\u0120blood",
+        "activation": 1.925
+      },
+      {
+        "word": "\u0120Bloody",
+        "activation": 1.508
+      },
+      {
+        "word": "\u0120Bones",
+        "activation": 1.486
+      },
+      {
+        "word": "\u0120Bone",
+        "activation": 1.387
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Blood",
+        "activation": 3.669
+      },
+      {
+        "word": "Blood",
+        "activation": 2.917
+      },
+      {
+        "word": "blood",
+        "activation": 2.11
+      },
+      {
+        "word": "\u0120blood",
+        "activation": 1.925
+      },
+      {
+        "word": "\u0120Bloody",
+        "activation": 1.508
+      },
+      {
+        "word": "\u0120Bones",
+        "activation": 1.486
+      },
+      {
+        "word": "\u0120Flesh",
+        "activation": 1.405
+      },
+      {
+        "word": "\u0120Bone",
+        "activation": 1.387
+      },
+      {
+        "word": "\u0120Breath",
+        "activation": 1.298
+      },
+      {
+        "word": "\u0120Vampire",
+        "activation": 1.286
+      }
+    ]
+  },
+  "8627": {
+    "medical_words": [
+      {
+        "word": "\u0120Bones",
+        "activation": 0.631
+      },
+      {
+        "word": "\u0120Hearth",
+        "activation": 0.621
+      },
+      {
+        "word": "\u0120Bone",
+        "activation": 0.605
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Cran",
+        "activation": 0.719
+      },
+      {
+        "word": "\u0120Rye",
+        "activation": 0.693
+      },
+      {
+        "word": "\u0120benchmarks",
+        "activation": 0.641
+      },
+      {
+        "word": "\u0120Bones",
+        "activation": 0.631
+      },
+      {
+        "word": "\u0120Hearth",
+        "activation": 0.621
+      },
+      {
+        "word": "\u0120counselors",
+        "activation": 0.62
+      },
+      {
+        "word": "\u0120Mesa",
+        "activation": 0.613
+      },
+      {
+        "word": "\u0120Marsh",
+        "activation": 0.613
+      },
+      {
+        "word": "\u0120Bone",
+        "activation": 0.605
+      },
+      {
+        "word": "\u0120engagements",
+        "activation": 0.605
+      }
+    ]
+  },
+  "8667": {
+    "medical_words": [
+      {
+        "word": "\u0120stroke",
+        "activation": 4.334
+      },
+      {
+        "word": "\u0120strokes",
+        "activation": 2.95
+      },
+      {
+        "word": "stroke",
+        "activation": 2.293
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120stroke",
+        "activation": 4.334
+      },
+      {
+        "word": "\u0120strokes",
+        "activation": 2.95
+      },
+      {
+        "word": "stroke",
+        "activation": 2.293
+      },
+      {
+        "word": "\u0120Stro",
+        "activation": 2.034
+      },
+      {
+        "word": "\u0120stride",
+        "activation": 1.073
+      },
+      {
+        "word": "\u0120swipe",
+        "activation": 1.028
+      },
+      {
+        "word": "\u0120wink",
+        "activation": 1.015
+      },
+      {
+        "word": "\u0120piston",
+        "activation": 0.963
+      },
+      {
+        "word": "\u0120coronary",
+        "activation": 0.952
+      },
+      {
+        "word": "\u0120thickness",
+        "activation": 0.92
+      }
+    ]
+  },
+  "8765": {
+    "medical_words": [
+      {
+        "word": "\u0120respiratory",
+        "activation": 2.528
+      },
+      {
+        "word": "\u0120asthma",
+        "activation": 2.082
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120pneumonia",
+        "activation": 3.39
+      },
+      {
+        "word": "\u0120respiratory",
+        "activation": 2.528
+      },
+      {
+        "word": "\u0120asthma",
+        "activation": 2.082
+      },
+      {
+        "word": "\u0120influenza",
+        "activation": 2.079
+      },
+      {
+        "word": "\u0120tuberculosis",
+        "activation": 2.044
+      },
+      {
+        "word": "pox",
+        "activation": 2.008
+      },
+      {
+        "word": "\u0120pneum",
+        "activation": 1.968
+      },
+      {
+        "word": "\u0120measles",
+        "activation": 1.952
+      },
+      {
+        "word": "\u0120cough",
+        "activation": 1.91
+      },
+      {
+        "word": "\u0120coughing",
+        "activation": 1.723
+      }
+    ]
+  },
+  "9008": {
+    "medical_words": [
+      {
+        "word": "\u0120bone",
+        "activation": 3.661
+      },
+      {
+        "word": "\u0120Bone",
+        "activation": 2.332
+      },
+      {
+        "word": "bone",
+        "activation": 2.328
+      },
+      {
+        "word": "\u0120bones",
+        "activation": 2.229
+      },
+      {
+        "word": "Bone",
+        "activation": 2.219
+      },
+      {
+        "word": "bones",
+        "activation": 1.584
+      },
+      {
+        "word": "\u0120fracture",
+        "activation": 1.549
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120bone",
+        "activation": 3.661
+      },
+      {
+        "word": "\u0120Bone",
+        "activation": 2.332
+      },
+      {
+        "word": "bone",
+        "activation": 2.328
+      },
+      {
+        "word": "\u0120bones",
+        "activation": 2.229
+      },
+      {
+        "word": "Bone",
+        "activation": 2.219
+      },
+      {
+        "word": "\u0120marrow",
+        "activation": 1.775
+      },
+      {
+        "word": "bones",
+        "activation": 1.584
+      },
+      {
+        "word": "\u0120oste",
+        "activation": 1.559
+      },
+      {
+        "word": "\u0120fracture",
+        "activation": 1.549
+      },
+      {
+        "word": "\u0120tendon",
+        "activation": 1.478
+      }
+    ]
+  },
+  "9208": {
+    "medical_words": [
+      {
+        "word": "\u0120antibiotics",
+        "activation": 3.693
+      },
+      {
+        "word": "\u0120antibiotic",
+        "activation": 3.344
+      },
+      {
+        "word": "\u0120antidepressants",
+        "activation": 1.564
+      },
+      {
+        "word": "\u0120antidepressant",
+        "activation": 1.488
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120antibiotics",
+        "activation": 3.693
+      },
+      {
+        "word": "\u0120antibiotic",
+        "activation": 3.344
+      },
+      {
+        "word": "\u0120antib",
+        "activation": 1.827
+      },
+      {
+        "word": "\u0120antim",
+        "activation": 1.746
+      },
+      {
+        "word": "icrobial",
+        "activation": 1.729
+      },
+      {
+        "word": "\u0120antidepressants",
+        "activation": 1.564
+      },
+      {
+        "word": "illin",
+        "activation": 1.553
+      },
+      {
+        "word": "\u0120bacter",
+        "activation": 1.527
+      },
+      {
+        "word": "\u0120antidepressant",
+        "activation": 1.488
+      },
+      {
+        "word": "\u0120bacterial",
+        "activation": 1.477
+      }
+    ]
+  },
+  "9216": {
+    "medical_words": [
+      {
+        "word": "\u0120vaccine",
+        "activation": 3.508
+      },
+      {
+        "word": "\u0120vaccines",
+        "activation": 3.103
+      },
+      {
+        "word": "\u0120vaccination",
+        "activation": 2.893
+      },
+      {
+        "word": "\u0120vaccinations",
+        "activation": 2.658
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120vaccine",
+        "activation": 3.508
+      },
+      {
+        "word": "\u0120vaccines",
+        "activation": 3.103
+      },
+      {
+        "word": "\u0120vaccination",
+        "activation": 2.893
+      },
+      {
+        "word": "vacc",
+        "activation": 2.775
+      },
+      {
+        "word": "\u0120Vacc",
+        "activation": 2.748
+      },
+      {
+        "word": "\u0120vaccinations",
+        "activation": 2.658
+      },
+      {
+        "word": "\u0120vaccinated",
+        "activation": 2.507
+      },
+      {
+        "word": "\u0120vacc",
+        "activation": 2.275
+      },
+      {
+        "word": "\u0120polio",
+        "activation": 1.9
+      },
+      {
+        "word": "\u0120measles",
+        "activation": 1.805
+      }
+    ]
+  },
+  "9328": {
+    "medical_words": [
+      {
+        "word": "\u0120patient",
+        "activation": 3.697
+      },
+      {
+        "word": "\u0120Patient",
+        "activation": 2.705
+      },
+      {
+        "word": "patient",
+        "activation": 2.487
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 2.267
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 2.225
+      },
+      {
+        "word": "\u0120clinical",
+        "activation": 1.72
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 1.642
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 1.501
+      },
+      {
+        "word": "\u0120nurse",
+        "activation": 1.477
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120patient",
+        "activation": 3.697
+      },
+      {
+        "word": "\u0120Patient",
+        "activation": 2.705
+      },
+      {
+        "word": "patient",
+        "activation": 2.487
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 2.267
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 2.225
+      },
+      {
+        "word": "\u0120clinical",
+        "activation": 1.72
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 1.642
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 1.501
+      },
+      {
+        "word": "\u0120nurse",
+        "activation": 1.477
+      },
+      {
+        "word": "\u0120inmate",
+        "activation": 1.467
+      }
+    ]
+  },
+  "9360": {
+    "medical_words": [
+      {
+        "word": "\u0120medical",
+        "activation": 3.438
+      },
+      {
+        "word": "medical",
+        "activation": 2.815
+      },
+      {
+        "word": "Medical",
+        "activation": 2.784
+      },
+      {
+        "word": "\u0120Medical",
+        "activation": 2.53
+      },
+      {
+        "word": "\u0120biomedical",
+        "activation": 2.13
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 2.012
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 2.003
+      },
+      {
+        "word": "\u0120physicians",
+        "activation": 1.947
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120medical",
+        "activation": 3.438
+      },
+      {
+        "word": "medical",
+        "activation": 2.815
+      },
+      {
+        "word": "Medical",
+        "activation": 2.784
+      },
+      {
+        "word": "\u0120Medical",
+        "activation": 2.53
+      },
+      {
+        "word": "\u0120biomedical",
+        "activation": 2.13
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 2.012
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 2.003
+      },
+      {
+        "word": "\u0120medicine",
+        "activation": 1.986
+      },
+      {
+        "word": "\u0120veterinary",
+        "activation": 1.976
+      },
+      {
+        "word": "\u0120physicians",
+        "activation": 1.947
+      }
+    ]
+  },
+  "9494": {
+    "medical_words": [
+      {
+        "word": "\u0120hospital",
+        "activation": 3.526
+      },
+      {
+        "word": "\u0120hospitals",
+        "activation": 2.527
+      },
+      {
+        "word": "\u0120Hospital",
+        "activation": 2.485
+      },
+      {
+        "word": "hospital",
+        "activation": 2.37
+      },
+      {
+        "word": "\u0120hospitalized",
+        "activation": 1.913
+      },
+      {
+        "word": "\u0120clinic",
+        "activation": 1.785
+      },
+      {
+        "word": "\u0120nurses",
+        "activation": 1.727
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120hospital",
+        "activation": 3.526
+      },
+      {
+        "word": "\u0120hospitals",
+        "activation": 2.527
+      },
+      {
+        "word": "\u0120Hospital",
+        "activation": 2.485
+      },
+      {
+        "word": "hospital",
+        "activation": 2.37
+      },
+      {
+        "word": "ospital",
+        "activation": 2.101
+      },
+      {
+        "word": "\u0120hospitalized",
+        "activation": 1.913
+      },
+      {
+        "word": "\u0120Hosp",
+        "activation": 1.86
+      },
+      {
+        "word": "\u0120ambulance",
+        "activation": 1.796
+      },
+      {
+        "word": "\u0120clinic",
+        "activation": 1.785
+      },
+      {
+        "word": "\u0120nurses",
+        "activation": 1.727
+      }
+    ]
+  },
+  "9795": {
+    "medical_words": [
+      {
+        "word": "\u0120brains",
+        "activation": 3.977
+      },
+      {
+        "word": "\u0120brain",
+        "activation": 1.942
+      },
+      {
+        "word": "brain",
+        "activation": 1.671
+      },
+      {
+        "word": "Brain",
+        "activation": 1.549
+      },
+      {
+        "word": "\u0120hearts",
+        "activation": 1.357
+      },
+      {
+        "word": "\u0120Brain",
+        "activation": 1.345
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120brains",
+        "activation": 3.977
+      },
+      {
+        "word": "\u0120minds",
+        "activation": 1.946
+      },
+      {
+        "word": "\u0120brain",
+        "activation": 1.942
+      },
+      {
+        "word": "\u0120guts",
+        "activation": 1.759
+      },
+      {
+        "word": "\u0120skulls",
+        "activation": 1.676
+      },
+      {
+        "word": "brain",
+        "activation": 1.671
+      },
+      {
+        "word": "Brain",
+        "activation": 1.549
+      },
+      {
+        "word": "\u0120hearts",
+        "activation": 1.357
+      },
+      {
+        "word": "\u0120Brain",
+        "activation": 1.345
+      },
+      {
+        "word": "\u0120neurons",
+        "activation": 1.324
+      }
+    ]
+  },
+ 
+  "10425": {
+    "medical_words": [
+      {
+        "word": "\u0120psychiatry",
+        "activation": 2.754
+      },
+      {
+        "word": "\u0120psychiatrists",
+        "activation": 2.406
+      },
+      {
+        "word": "\u0120Psychiatry",
+        "activation": 2.193
+      },
+      {
+        "word": "\u0120psychiatrist",
+        "activation": 2.091
+      },
+      {
+        "word": "\u0120antidepressants",
+        "activation": 1.787
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120psychiatric",
+        "activation": 3.144
+      },
+      {
+        "word": "\u0120psychiatry",
+        "activation": 2.754
+      },
+      {
+        "word": "\u0120Psychiatric",
+        "activation": 2.581
+      },
+      {
+        "word": "\u0120psychiatrists",
+        "activation": 2.406
+      },
+      {
+        "word": "\u0120Psychiatry",
+        "activation": 2.193
+      },
+      {
+        "word": "\u0120psychiat",
+        "activation": 2.141
+      },
+      {
+        "word": "\u0120psychiatrist",
+        "activation": 2.091
+      },
+      {
+        "word": "\u0120Psychiat",
+        "activation": 1.892
+      },
+      {
+        "word": "\u0120DSM",
+        "activation": 1.811
+      },
+      {
+        "word": "\u0120antidepressants",
+        "activation": 1.787
+      }
+    ]
+  },
+  "10456": {
+    "medical_words": [
+      {
+        "word": "hospital",
+        "activation": 1.513
+      },
+      {
+        "word": "\u0120hospitals",
+        "activation": 1.499
+      },
+      {
+        "word": "\u0120hospital",
+        "activation": 1.47
+      },
+      {
+        "word": "\u0120nurses",
+        "activation": 1.44
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120ambulance",
+        "activation": 3.758
+      },
+      {
+        "word": "\u0120ambul",
+        "activation": 2.927
+      },
+      {
+        "word": "\u0120paramedics",
+        "activation": 2.852
+      },
+      {
+        "word": "\u0120paramed",
+        "activation": 2.203
+      },
+      {
+        "word": "\u0120EMS",
+        "activation": 1.987
+      },
+      {
+        "word": "\u0120stret",
+        "activation": 1.836
+      },
+      {
+        "word": "hospital",
+        "activation": 1.513
+      },
+      {
+        "word": "\u0120hospitals",
+        "activation": 1.499
+      },
+      {
+        "word": "\u0120hospital",
+        "activation": 1.47
+      },
+      {
+        "word": "\u0120nurses",
+        "activation": 1.44
+      }
+    ]
+  },
+  "10460": {
+    "medical_words": [
+      {
+        "word": "\u0120tumor",
+        "activation": 3.39
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 2.724
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 1.226
+      },
+      {
+        "word": "cancer",
+        "activation": 1.141
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 1.098
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120tumor",
+        "activation": 3.39
+      },
+      {
+        "word": "\u0120tum",
+        "activation": 2.934
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 2.724
+      },
+      {
+        "word": "\u0120metast",
+        "activation": 1.268
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 1.226
+      },
+      {
+        "word": "\u0120thyroid",
+        "activation": 1.22
+      },
+      {
+        "word": "\u0120lesions",
+        "activation": 1.214
+      },
+      {
+        "word": "\u0120hypothal",
+        "activation": 1.154
+      },
+      {
+        "word": "cancer",
+        "activation": 1.141
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 1.098
+      }
+    ]
+  },
+  "10600": {
+    "medical_words": [
+      {
+        "word": "\u0120genetic",
+        "activation": 3.497
+      },
+      {
+        "word": "\u0120genetics",
+        "activation": 3.023
+      },
+      {
+        "word": "\u0120Genetic",
+        "activation": 2.672
+      },
+      {
+        "word": "\u0120Genetics",
+        "activation": 2.379
+      },
+      {
+        "word": "\u0120genetically",
+        "activation": 2.308
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120genetic",
+        "activation": 3.497
+      },
+      {
+        "word": "\u0120genetics",
+        "activation": 3.023
+      },
+      {
+        "word": "\u0120Genetic",
+        "activation": 2.672
+      },
+      {
+        "word": "\u0120Genetics",
+        "activation": 2.379
+      },
+      {
+        "word": "\u0120genetically",
+        "activation": 2.308
+      },
+      {
+        "word": "\u0120genomic",
+        "activation": 2.17
+      },
+      {
+        "word": "\u0120genes",
+        "activation": 2.158
+      },
+      {
+        "word": "\u0120genome",
+        "activation": 2.106
+      },
+      {
+        "word": "\u0120gene",
+        "activation": 2.027
+      },
+      {
+        "word": "\u0120DNA",
+        "activation": 1.88
+      }
+    ]
+  },
+  "10899": {
+    "medical_words": [
+      {
+        "word": "\u0120diseases",
+        "activation": 2.038
+      },
+      {
+        "word": "\u0120illnesses",
+        "activation": 1.776
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 1.596
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 1.587
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120disorders",
+        "activation": 3.105
+      },
+      {
+        "word": "\u0120Disorders",
+        "activation": 2.599
+      },
+      {
+        "word": "\u0120diseases",
+        "activation": 2.038
+      },
+      {
+        "word": "\u0120disabilities",
+        "activation": 1.816
+      },
+      {
+        "word": "\u0120illnesses",
+        "activation": 1.776
+      },
+      {
+        "word": "\u0120ailments",
+        "activation": 1.763
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 1.596
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 1.587
+      },
+      {
+        "word": "\u0120therapies",
+        "activation": 1.533
+      },
+      {
+        "word": "\u0120abnormalities",
+        "activation": 1.487
+      }
+    ]
+  },
+  
+  "11072": {
+    "medical_words": [
+      {
+        "word": "\u0120schizophrenia",
+        "activation": 1.786
+      },
+      {
+        "word": "\u0120asthma",
+        "activation": 1.49
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120autism",
+        "activation": 3.807
+      },
+      {
+        "word": "\u0120Autism",
+        "activation": 3.155
+      },
+      {
+        "word": "\u0120autistic",
+        "activation": 2.766
+      },
+      {
+        "word": "\u0120ASD",
+        "activation": 2.109
+      },
+      {
+        "word": "\u0120schizophrenia",
+        "activation": 1.786
+      },
+      {
+        "word": "\u0120ADHD",
+        "activation": 1.775
+      },
+      {
+        "word": "\u0120measles",
+        "activation": 1.587
+      },
+      {
+        "word": "\u0120epilepsy",
+        "activation": 1.578
+      },
+      {
+        "word": "\u0120asthma",
+        "activation": 1.49
+      },
+      {
+        "word": "\u0120polio",
+        "activation": 1.478
+      }
+    ]
+  },
+  "11421": {
+    "medical_words": [
+      {
+        "word": "\u0120immune",
+        "activation": 3.871
+      },
+      {
+        "word": "immune",
+        "activation": 2.672
+      },
+      {
+        "word": "\u0120autoimmune",
+        "activation": 1.446
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120immune",
+        "activation": 3.871
+      },
+      {
+        "word": "immune",
+        "activation": 2.672
+      },
+      {
+        "word": "\u0120immunity",
+        "activation": 2.01
+      },
+      {
+        "word": "\u0120immun",
+        "activation": 1.747
+      },
+      {
+        "word": "\u0120allergic",
+        "activation": 1.539
+      },
+      {
+        "word": "\u0120Immun",
+        "activation": 1.501
+      },
+      {
+        "word": "\u0120Immunity",
+        "activation": 1.464
+      },
+      {
+        "word": "\u0120autoimmune",
+        "activation": 1.446
+      },
+      {
+        "word": "\u0120antibodies",
+        "activation": 1.421
+      },
+      {
+        "word": "\u0120antibody",
+        "activation": 1.371
+      }
+    ]
+  },
+  "11537": {
+    "medical_words": [
+      {
+        "word": "\u0120Brain",
+        "activation": 1.373
+      },
+      {
+        "word": "Brain",
+        "activation": 1.304
+      },
+      {
+        "word": "brain",
+        "activation": 1.27
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Mind",
+        "activation": 3.83
+      },
+      {
+        "word": "Mind",
+        "activation": 3.309
+      },
+      {
+        "word": "mind",
+        "activation": 2.856
+      },
+      {
+        "word": "\u0120mind",
+        "activation": 2.165
+      },
+      {
+        "word": "\u0120minds",
+        "activation": 1.866
+      },
+      {
+        "word": "\u0120mindfulness",
+        "activation": 1.477
+      },
+      {
+        "word": "\u0120Brain",
+        "activation": 1.373
+      },
+      {
+        "word": "\u0120Mental",
+        "activation": 1.337
+      },
+      {
+        "word": "Brain",
+        "activation": 1.304
+      },
+      {
+        "word": "brain",
+        "activation": 1.27
+      }
+    ]
+  },
+  "11716": {
+    "medical_words": [
+      {
+        "word": "\u0120arthritis",
+        "activation": 1.535
+      },
+      {
+        "word": "\u0120bones",
+        "activation": 1.233
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120joints",
+        "activation": 4.228
+      },
+      {
+        "word": "\u0120joint",
+        "activation": 2.201
+      },
+      {
+        "word": "\u0120Joint",
+        "activation": 1.555
+      },
+      {
+        "word": "\u0120arthritis",
+        "activation": 1.535
+      },
+      {
+        "word": "\u0120ribs",
+        "activation": 1.47
+      },
+      {
+        "word": "\u0120ankles",
+        "activation": 1.36
+      },
+      {
+        "word": "\u0120seams",
+        "activation": 1.327
+      },
+      {
+        "word": "\u0120elbows",
+        "activation": 1.295
+      },
+      {
+        "word": "\u0120bones",
+        "activation": 1.233
+      },
+      {
+        "word": "\u0120limbs",
+        "activation": 1.22
+      }
+    ]
+  },
+ 
+  "12168": {
+    "medical_words": [
+      {
+        "word": "\u0120Doctor",
+        "activation": 3.864
+      },
+      {
+        "word": "Doctor",
+        "activation": 3.16
+      },
+      {
+        "word": "doctor",
+        "activation": 2.315
+      },
+      {
+        "word": "\u0120Doctors",
+        "activation": 2.078
+      },
+      {
+        "word": "\u0120doctor",
+        "activation": 2.001
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 1.309
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Doctor",
+        "activation": 3.864
+      },
+      {
+        "word": "Doctor",
+        "activation": 3.16
+      },
+      {
+        "word": "doctor",
+        "activation": 2.315
+      },
+      {
+        "word": "\u0120Doctors",
+        "activation": 2.078
+      },
+      {
+        "word": "\u0120doctor",
+        "activation": 2.001
+      },
+      {
+        "word": "ARDIS",
+        "activation": 1.502
+      },
+      {
+        "word": "\u0120Sherlock",
+        "activation": 1.429
+      },
+      {
+        "word": "\u0120Captain",
+        "activation": 1.379
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 1.309
+      },
+      {
+        "word": "\u0120Dr",
+        "activation": 1.301
+      }
+    ]
+  },
+  "12319": {
+    "medical_words": [
+      {
+        "word": "\u0120treatment",
+        "activation": 1.719
+      },
+      {
+        "word": "\u0120Treatment",
+        "activation": 1.603
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120treated",
+        "activation": 3.605
+      },
+      {
+        "word": "treated",
+        "activation": 2.619
+      },
+      {
+        "word": "\u0120treat",
+        "activation": 2.055
+      },
+      {
+        "word": "\u0120treating",
+        "activation": 1.974
+      },
+      {
+        "word": "\u0120untreated",
+        "activation": 1.827
+      },
+      {
+        "word": "\u0120treats",
+        "activation": 1.767
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 1.719
+      },
+      {
+        "word": "\u0120Treatment",
+        "activation": 1.603
+      },
+      {
+        "word": "\u0120Treat",
+        "activation": 1.574
+      },
+      {
+        "word": "reated",
+        "activation": 1.472
+      }
+    ]
+  },
+  
+  "12480": {
+    "medical_words": [
+      {
+        "word": "\u0120remission",
+        "activation": 0.713
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 0.669
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120breach",
+        "activation": 0.748
+      },
+      {
+        "word": "\u0120captivity",
+        "activation": 0.737
+      },
+      {
+        "word": "\u0120remission",
+        "activation": 0.713
+      },
+      {
+        "word": "\u0120malnutrition",
+        "activation": 0.707
+      },
+      {
+        "word": "\u0120browsing",
+        "activation": 0.7
+      },
+      {
+        "word": "\u0120pulp",
+        "activation": 0.686
+      },
+      {
+        "word": "\u0120skeleton",
+        "activation": 0.68
+      },
+      {
+        "word": "\u0120viz",
+        "activation": 0.677
+      },
+      {
+        "word": "\u0120hunger",
+        "activation": 0.67
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 0.669
+      }
+    ]
+  },
+  "12651": {
+    "medical_words": [
+      {
+        "word": "\u0120illness",
+        "activation": 1.355
+      },
+      {
+        "word": "\u0120illnesses",
+        "activation": 1.242
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120sick",
+        "activation": 3.718
+      },
+      {
+        "word": "\u0120Sick",
+        "activation": 2.554
+      },
+      {
+        "word": "\u0120sickness",
+        "activation": 1.961
+      },
+      {
+        "word": "\u0120nause",
+        "activation": 1.383
+      },
+      {
+        "word": "\u0120tired",
+        "activation": 1.378
+      },
+      {
+        "word": "\u0120illness",
+        "activation": 1.355
+      },
+      {
+        "word": "\u0120dise",
+        "activation": 1.34
+      },
+      {
+        "word": "\u0120ill",
+        "activation": 1.324
+      },
+      {
+        "word": "\u0120wounded",
+        "activation": 1.278
+      },
+      {
+        "word": "\u0120illnesses",
+        "activation": 1.242
+      }
+    ]
+  },
+
+  "12949": {
+    "medical_words": [
+      {
+        "word": "\u0120infection",
+        "activation": 1.818
+      },
+      {
+        "word": "\u0120vaccine",
+        "activation": 1.535
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120virus",
+        "activation": 3.739
+      },
+      {
+        "word": "\u0120Virus",
+        "activation": 2.968
+      },
+      {
+        "word": "\u0120viruses",
+        "activation": 2.866
+      },
+      {
+        "word": "irus",
+        "activation": 2.041
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 1.818
+      },
+      {
+        "word": "\u0120parasite",
+        "activation": 1.72
+      },
+      {
+        "word": "\u0120infected",
+        "activation": 1.692
+      },
+      {
+        "word": "\u0120antiv",
+        "activation": 1.577
+      },
+      {
+        "word": "\u0120viral",
+        "activation": 1.552
+      },
+      {
+        "word": "\u0120vaccine",
+        "activation": 1.535
+      }
+    ]
+  },
+  "13091": {
+    "medical_words": [
+      {
+        "word": "\u0120disease",
+        "activation": 1.504
+      },
+      {
+        "word": "\u0120illness",
+        "activation": 1.289
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120disorder",
+        "activation": 3.962
+      },
+      {
+        "word": "\u0120Disorder",
+        "activation": 3.108
+      },
+      {
+        "word": "\u0120disorders",
+        "activation": 2.332
+      },
+      {
+        "word": "\u0120Disorders",
+        "activation": 2.116
+      },
+      {
+        "word": "\u0120disturbance",
+        "activation": 1.699
+      },
+      {
+        "word": "\u0120syndrome",
+        "activation": 1.541
+      },
+      {
+        "word": "\u0120disease",
+        "activation": 1.504
+      },
+      {
+        "word": "\u0120disturbances",
+        "activation": 1.478
+      },
+      {
+        "word": "\u0120dysfunction",
+        "activation": 1.374
+      },
+      {
+        "word": "\u0120illness",
+        "activation": 1.289
+      }
+    ]
+  },
+  "13398": {
+    "medical_words": [
+      {
+        "word": "\u0120kidney",
+        "activation": 3.707
+      },
+      {
+        "word": "\u0120kidneys",
+        "activation": 2.725
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120kidney",
+        "activation": 3.707
+      },
+      {
+        "word": "\u0120kidneys",
+        "activation": 2.725
+      },
+      {
+        "word": "\u0120renal",
+        "activation": 2.451
+      },
+      {
+        "word": "\u0120urinary",
+        "activation": 1.445
+      },
+      {
+        "word": "\u0120urine",
+        "activation": 1.442
+      },
+      {
+        "word": "\u0120liver",
+        "activation": 1.415
+      },
+      {
+        "word": "\u0120bladder",
+        "activation": 1.385
+      },
+      {
+        "word": "\u0120cardiac",
+        "activation": 1.315
+      },
+      {
+        "word": "\u0120prostate",
+        "activation": 1.311
+      },
+      {
+        "word": "\u0120leukemia",
+        "activation": 1.206
+      }
+    ]
+  },
+  "13511": {
+    "medical_words": [
+      {
+        "word": "\u0120diagnosis",
+        "activation": 3.799
+      },
+      {
+        "word": "treatment",
+        "activation": 1.345
+      },
+      {
+        "word": "\u0120illness",
+        "activation": 1.324
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120diagnosis",
+        "activation": 3.799
+      },
+      {
+        "word": "\u0120diagnoses",
+        "activation": 2.72
+      },
+      {
+        "word": "diagn",
+        "activation": 2.02
+      },
+      {
+        "word": "\u0120Diagn",
+        "activation": 1.959
+      },
+      {
+        "word": "\u0120diagnose",
+        "activation": 1.955
+      },
+      {
+        "word": "\u0120diagnosed",
+        "activation": 1.917
+      },
+      {
+        "word": "\u0120diagn",
+        "activation": 1.689
+      },
+      {
+        "word": "\u0120diagnostic",
+        "activation": 1.4
+      },
+      {
+        "word": "treatment",
+        "activation": 1.345
+      },
+      {
+        "word": "\u0120illness",
+        "activation": 1.324
+      }
+    ]
+  },
+  "13649": {
+    "medical_words": [
+      {
+        "word": "\u0120psychiatrist",
+        "activation": 3.08
+      },
+      {
+        "word": "\u0120psychiatrists",
+        "activation": 2.323
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 1.534
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120psychologist",
+        "activation": 3.364
+      },
+      {
+        "word": "\u0120psychiatrist",
+        "activation": 3.08
+      },
+      {
+        "word": "\u0120therapist",
+        "activation": 2.65
+      },
+      {
+        "word": "\u0120psychologists",
+        "activation": 2.55
+      },
+      {
+        "word": "\u0120psychiatrists",
+        "activation": 2.323
+      },
+      {
+        "word": "\u0120therapists",
+        "activation": 2.101
+      },
+      {
+        "word": "\u0120dentist",
+        "activation": 1.796
+      },
+      {
+        "word": "\u0120Psychiat",
+        "activation": 1.688
+      },
+      {
+        "word": "\u0120biologist",
+        "activation": 1.547
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 1.534
+      }
+    ]
+  },
+
+  "13790": {
+    "medical_words": [
+      {
+        "word": "heart",
+        "activation": 4.384
+      },
+      {
+        "word": "Heart",
+        "activation": 2.143
+      },
+      {
+        "word": "\u0120Heart",
+        "activation": 1.714
+      },
+      {
+        "word": "\u0120heart",
+        "activation": 1.61
+      },
+      {
+        "word": "hearted",
+        "activation": 1.405
+      },
+      {
+        "word": "\u0120hearts",
+        "activation": 1.288
+      },
+      {
+        "word": "\u0120Hearts",
+        "activation": 1.176
+      }
+    ],
+    "top_words": [
+      {
+        "word": "heart",
+        "activation": 4.384
+      },
+      {
+        "word": "Heart",
+        "activation": 2.143
+      },
+      {
+        "word": "\u0120Heart",
+        "activation": 1.714
+      },
+      {
+        "word": "\u0120heart",
+        "activation": 1.61
+      },
+      {
+        "word": "hearted",
+        "activation": 1.405
+      },
+      {
+        "word": "concert",
+        "activation": 1.328
+      },
+      {
+        "word": "\u0120hearts",
+        "activation": 1.288
+      },
+      {
+        "word": "joy",
+        "activation": 1.19
+      },
+      {
+        "word": "\u0120Hearts",
+        "activation": 1.176
+      },
+      {
+        "word": "mouth",
+        "activation": 1.173
+      }
+    ]
+  },
+  "13881": {
+    "medical_words": [
+      {
+        "word": "\u0120nurses",
+        "activation": 1.291
+      },
+      {
+        "word": "\u0120nurse",
+        "activation": 1.221
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120nursing",
+        "activation": 3.755
+      },
+      {
+        "word": "\u0120Nursing",
+        "activation": 2.421
+      },
+      {
+        "word": "\u0120breastfeeding",
+        "activation": 1.813
+      },
+      {
+        "word": "\u0120nurs",
+        "activation": 1.552
+      },
+      {
+        "word": "\u0120nurses",
+        "activation": 1.291
+      },
+      {
+        "word": "\u0120childbirth",
+        "activation": 1.226
+      },
+      {
+        "word": "\u0120nurse",
+        "activation": 1.221
+      },
+      {
+        "word": "\u0120maternity",
+        "activation": 1.175
+      },
+      {
+        "word": "\u0120hosp",
+        "activation": 1.068
+      },
+      {
+        "word": "\u0120Nurs",
+        "activation": 1.065
+      }
+    ]
+  },
+
+  "14052": {
+    "medical_words": [
+      {
+        "word": "\u0120Diabetes",
+        "activation": 1.729
+      },
+      {
+        "word": "\u0120diabetes",
+        "activation": 1.691
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120obesity",
+        "activation": 3.562
+      },
+      {
+        "word": "\u0120Obesity",
+        "activation": 3.041
+      },
+      {
+        "word": "\u0120obese",
+        "activation": 2.736
+      },
+      {
+        "word": "esity",
+        "activation": 2.093
+      },
+      {
+        "word": "\u0120overweight",
+        "activation": 2.002
+      },
+      {
+        "word": "\u0120Diabetes",
+        "activation": 1.729
+      },
+      {
+        "word": "\u0120adip",
+        "activation": 1.721
+      },
+      {
+        "word": "\u0120diabetes",
+        "activation": 1.691
+      },
+      {
+        "word": "\u0120BMI",
+        "activation": 1.628
+      },
+      {
+        "word": "\u0120leptin",
+        "activation": 1.622
+      }
+    ]
+  },
+  "14377": {
+    "medical_words": [
+      {
+        "word": "\u0120fever",
+        "activation": 4.14
+      },
+      {
+        "word": "\u0120Fever",
+        "activation": 2.402
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120fever",
+        "activation": 4.14
+      },
+      {
+        "word": "\u0120Fever",
+        "activation": 2.402
+      },
+      {
+        "word": "\u0120hysteria",
+        "activation": 1.217
+      },
+      {
+        "word": "\u0120ferv",
+        "activation": 1.204
+      },
+      {
+        "word": "\u0120frenzy",
+        "activation": 1.202
+      },
+      {
+        "word": "\u0120dizz",
+        "activation": 1.187
+      },
+      {
+        "word": "\u0120measles",
+        "activation": 1.164
+      },
+      {
+        "word": "\u0120pneumonia",
+        "activation": 1.157
+      },
+      {
+        "word": "\u0120influenza",
+        "activation": 1.126
+      },
+      {
+        "word": "\u0120fatigue",
+        "activation": 1.112
+      }
+    ]
+  },
+  
+  "14610": {
+    "medical_words": [
+      {
+        "word": "\u0120blood",
+        "activation": 1.244
+      },
+      {
+        "word": "blood",
+        "activation": 0.917
+      },
+      {
+        "word": "Blood",
+        "activation": 0.907
+      },
+      {
+        "word": "\u0120Blood",
+        "activation": 0.805
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120blood",
+        "activation": 1.244
+      },
+      {
+        "word": "blood",
+        "activation": 0.917
+      },
+      {
+        "word": "Blood",
+        "activation": 0.907
+      },
+      {
+        "word": "\u0120bodily",
+        "activation": 0.817
+      },
+      {
+        "word": "\u0120Blood",
+        "activation": 0.805
+      },
+      {
+        "word": "\u0120stabbing",
+        "activation": 0.768
+      },
+      {
+        "word": "\u0120vigil",
+        "activation": 0.737
+      },
+      {
+        "word": "\u0120griev",
+        "activation": 0.729
+      },
+      {
+        "word": "\u0120tuition",
+        "activation": 0.669
+      },
+      {
+        "word": "\u0120vascular",
+        "activation": 0.661
+      }
+    ]
+  },
+
+  "15251": {
+    "medical_words": [
+      {
+        "word": "\u0120surgeons",
+        "activation": 1.964
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 1.819
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 1.674
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120surgical",
+        "activation": 2.914
+      },
+      {
+        "word": "\u0120implant",
+        "activation": 2.565
+      },
+      {
+        "word": "\u0120implants",
+        "activation": 2.37
+      },
+      {
+        "word": "\u0120surg",
+        "activation": 1.992
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 1.964
+      },
+      {
+        "word": "\u0120implanted",
+        "activation": 1.868
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 1.819
+      },
+      {
+        "word": "urgical",
+        "activation": 1.691
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 1.674
+      },
+      {
+        "word": "\u0120steril",
+        "activation": 1.667
+      }
+    ]
+  },
+  "15344": {
+    "medical_words": [
+      {
+        "word": "\u0120Medical",
+        "activation": 3.541
+      },
+      {
+        "word": "Medical",
+        "activation": 2.804
+      },
+      {
+        "word": "medical",
+        "activation": 2.274
+      },
+      {
+        "word": "\u0120medical",
+        "activation": 2.256
+      },
+      {
+        "word": "\u0120Hospital",
+        "activation": 1.964
+      },
+      {
+        "word": "Doctors",
+        "activation": 1.823
+      },
+      {
+        "word": "\u0120Physicians",
+        "activation": 1.804
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Medical",
+        "activation": 3.541
+      },
+      {
+        "word": "Medical",
+        "activation": 2.804
+      },
+      {
+        "word": "medical",
+        "activation": 2.274
+      },
+      {
+        "word": "\u0120medical",
+        "activation": 2.256
+      },
+      {
+        "word": "\u0120Hospital",
+        "activation": 1.964
+      },
+      {
+        "word": "Doctors",
+        "activation": 1.823
+      },
+      {
+        "word": "\u0120Psychiatric",
+        "activation": 1.811
+      },
+      {
+        "word": "\u0120Physicians",
+        "activation": 1.804
+      },
+      {
+        "word": "\u0120Medicine",
+        "activation": 1.792
+      },
+      {
+        "word": "\u0120Veterinary",
+        "activation": 1.767
+      }
+    ]
+  },
+  "15686": {
+    "medical_words": [
+      {
+        "word": "\u0120infection",
+        "activation": 3.476
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 3.063
+      },
+      {
+        "word": "\u0120antibiotic",
+        "activation": 1.607
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120infection",
+        "activation": 3.476
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 3.063
+      },
+      {
+        "word": "\u0120Infect",
+        "activation": 2.203
+      },
+      {
+        "word": "\u0120infected",
+        "activation": 2.087
+      },
+      {
+        "word": "infect",
+        "activation": 2.086
+      },
+      {
+        "word": "\u0120infect",
+        "activation": 1.83
+      },
+      {
+        "word": "\u0120virus",
+        "activation": 1.773
+      },
+      {
+        "word": "\u0120outbreak",
+        "activation": 1.624
+      },
+      {
+        "word": "\u0120pathogens",
+        "activation": 1.613
+      },
+      {
+        "word": "\u0120antibiotic",
+        "activation": 1.607
+      }
+    ]
+  },
+  "15822": {
+    "medical_words": [
+      {
+        "word": "brain",
+        "activation": 3.302
+      },
+      {
+        "word": "Brain",
+        "activation": 2.215
+      },
+      {
+        "word": "\u0120Brain",
+        "activation": 1.804
+      }
+    ],
+    "top_words": [
+      {
+        "word": "brain",
+        "activation": 3.302
+      },
+      {
+        "word": "Brain",
+        "activation": 2.215
+      },
+      {
+        "word": "\u0120Brain",
+        "activation": 1.804
+      },
+      {
+        "word": "\u0120~/.",
+        "activation": 1.246
+      },
+      {
+        "word": "stress",
+        "activation": 1.039
+      },
+      {
+        "word": "amus",
+        "activation": 1.026
+      },
+      {
+        "word": "geist",
+        "activation": 1.004
+      },
+      {
+        "word": "pps",
+        "activation": 0.982
+      },
+      {
+        "word": "nesia",
+        "activation": 0.898
+      },
+      {
+        "word": "uria",
+        "activation": 0.864
+      }
+    ]
+  },
+  "15929": {
+    "medical_words": [
+      {
+        "word": "\u0120vaccinations",
+        "activation": 1.802
+      },
+      {
+        "word": "\u0120vaccination",
+        "activation": 1.753
+      },
+      {
+        "word": "\u0120vaccines",
+        "activation": 1.59
+      },
+      {
+        "word": "\u0120immune",
+        "activation": 1.455
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120immun",
+        "activation": 3.89
+      },
+      {
+        "word": "\u0120Immun",
+        "activation": 2.928
+      },
+      {
+        "word": "\u0120inoc",
+        "activation": 1.815
+      },
+      {
+        "word": "\u0120vaccinations",
+        "activation": 1.802
+      },
+      {
+        "word": "\u0120vaccination",
+        "activation": 1.753
+      },
+      {
+        "word": "\u0120vaccinated",
+        "activation": 1.696
+      },
+      {
+        "word": "\u0120vacc",
+        "activation": 1.651
+      },
+      {
+        "word": "\u0120vaccines",
+        "activation": 1.59
+      },
+      {
+        "word": "\u0120antibody",
+        "activation": 1.485
+      },
+      {
+        "word": "\u0120immune",
+        "activation": 1.455
+      }
+    ]
+  },
+  "15947": {
+    "medical_words": [
+      {
+        "word": "\u0120Surgery",
+        "activation": 1.565
+      },
+      {
+        "word": "\u0120Physicians",
+        "activation": 1.491
+      },
+      {
+        "word": "\u0120Psychiatry",
+        "activation": 1.453
+      },
+      {
+        "word": "Doctors",
+        "activation": 1.432
+      },
+      {
+        "word": "\u0120Medical",
+        "activation": 1.429
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 1.382
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Medicine",
+        "activation": 3.947
+      },
+      {
+        "word": "\u0120medicine",
+        "activation": 2.2
+      },
+      {
+        "word": "Medic",
+        "activation": 1.688
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 1.565
+      },
+      {
+        "word": "\u0120Physicians",
+        "activation": 1.491
+      },
+      {
+        "word": "\u0120Psychiatry",
+        "activation": 1.453
+      },
+      {
+        "word": "Doctors",
+        "activation": 1.432
+      },
+      {
+        "word": "\u0120Medical",
+        "activation": 1.429
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 1.382
+      },
+      {
+        "word": "\u0120Pharma",
+        "activation": 1.372
+      }
+    ]
+  },
+  "16220": {
+    "medical_words": [
+      {
+        "word": "\u0120diabetes",
+        "activation": 3.488
+      },
+      {
+        "word": "\u0120Diabetes",
+        "activation": 2.909
+      },
+      {
+        "word": "\u0120hypertension",
+        "activation": 1.908
+      },
+      {
+        "word": "\u0120insulin",
+        "activation": 1.708
+      },
+      {
+        "word": "\u0120arthritis",
+        "activation": 1.695
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120diabetes",
+        "activation": 3.488
+      },
+      {
+        "word": "\u0120Diabetes",
+        "activation": 2.909
+      },
+      {
+        "word": "\u0120diabetic",
+        "activation": 2.485
+      },
+      {
+        "word": "abetes",
+        "activation": 1.975
+      },
+      {
+        "word": "\u0120hypertension",
+        "activation": 1.908
+      },
+      {
+        "word": "\u0120obesity",
+        "activation": 1.832
+      },
+      {
+        "word": "\u0120dementia",
+        "activation": 1.746
+      },
+      {
+        "word": "\u0120insulin",
+        "activation": 1.708
+      },
+      {
+        "word": "\u0120arthritis",
+        "activation": 1.695
+      },
+      {
+        "word": "\u0120epilepsy",
+        "activation": 1.677
+      }
+    ]
+  },
+  "16315": {
+    "medical_words": [
+      {
+        "word": "\u0120surgery",
+        "activation": 3.754
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 3.038
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 2.201
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 2.008
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120surgery",
+        "activation": 3.754
+      },
+      {
+        "word": "\u0120surgeries",
+        "activation": 3.093
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 3.038
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 2.201
+      },
+      {
+        "word": "\u0120surgical",
+        "activation": 2.114
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 2.008
+      },
+      {
+        "word": "\u0120surg",
+        "activation": 1.667
+      },
+      {
+        "word": "ectomy",
+        "activation": 1.571
+      },
+      {
+        "word": "\u0120amput",
+        "activation": 1.55
+      },
+      {
+        "word": "\u0120anesthesia",
+        "activation": 1.549
+      }
+    ]
+  },
+
+  "16452": {
+    "medical_words": [
+      {
+        "word": "bone",
+        "activation": 1.064
+      },
+      {
+        "word": "bones",
+        "activation": 1.049
+      }
+    ],
+    "top_words": [
+      {
+        "word": "neck",
+        "activation": 4.705
+      },
+      {
+        "word": "\u0120necks",
+        "activation": 1.508
+      },
+      {
+        "word": "\u0120Neck",
+        "activation": 1.461
+      },
+      {
+        "word": "leneck",
+        "activation": 1.338
+      },
+      {
+        "word": "\u0120neck",
+        "activation": 1.273
+      },
+      {
+        "word": "bottom",
+        "activation": 1.113
+      },
+      {
+        "word": "thro",
+        "activation": 1.066
+      },
+      {
+        "word": "bone",
+        "activation": 1.064
+      },
+      {
+        "word": "nec",
+        "activation": 1.054
+      },
+      {
+        "word": "bones",
+        "activation": 1.049
+      }
+    ]
+  },
+  "16579": {
+    "medical_words": [
+      {
+        "word": "\u0120heart",
+        "activation": 3.873
+      },
+      {
+        "word": "\u0120hearts",
+        "activation": 2.814
+      },
+      {
+        "word": "\u0120Heart",
+        "activation": 2.324
+      },
+      {
+        "word": "Heart",
+        "activation": 2.178
+      },
+      {
+        "word": "heart",
+        "activation": 2.144
+      },
+      {
+        "word": "\u0120heartbeat",
+        "activation": 1.951
+      },
+      {
+        "word": "\u0120Hearts",
+        "activation": 1.485
+      },
+      {
+        "word": "\u0120cardiovascular",
+        "activation": 1.472
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120heart",
+        "activation": 3.873
+      },
+      {
+        "word": "\u0120hearts",
+        "activation": 2.814
+      },
+      {
+        "word": "\u0120Heart",
+        "activation": 2.324
+      },
+      {
+        "word": "Heart",
+        "activation": 2.178
+      },
+      {
+        "word": "heart",
+        "activation": 2.144
+      },
+      {
+        "word": "\u0120heartbeat",
+        "activation": 1.951
+      },
+      {
+        "word": "\u0120cardiac",
+        "activation": 1.547
+      },
+      {
+        "word": "\u0120Hearts",
+        "activation": 1.485
+      },
+      {
+        "word": "\u0120cardiovascular",
+        "activation": 1.472
+      },
+      {
+        "word": "\u0120soul",
+        "activation": 1.45
+      }
+    ]
+  },
+  "17036": {
+    "medical_words": [
+      {
+        "word": "\u0120lung",
+        "activation": 3.756
+      },
+      {
+        "word": "\u0120lungs",
+        "activation": 3.329
+      },
+      {
+        "word": "\u0120Lung",
+        "activation": 2.596
+      },
+      {
+        "word": "\u0120respiratory",
+        "activation": 1.935
+      },
+      {
+        "word": "\u0120kidney",
+        "activation": 1.532
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120lung",
+        "activation": 3.756
+      },
+      {
+        "word": "\u0120lungs",
+        "activation": 3.329
+      },
+      {
+        "word": "\u0120Lung",
+        "activation": 2.596
+      },
+      {
+        "word": "\u0120pulmonary",
+        "activation": 2.094
+      },
+      {
+        "word": "\u0120respiratory",
+        "activation": 1.935
+      },
+      {
+        "word": "monary",
+        "activation": 1.702
+      },
+      {
+        "word": "\u0120inhal",
+        "activation": 1.637
+      },
+      {
+        "word": "\u0120bladder",
+        "activation": 1.592
+      },
+      {
+        "word": "\u0120liver",
+        "activation": 1.55
+      },
+      {
+        "word": "\u0120kidney",
+        "activation": 1.532
+      }
+    ]
+  },
+  "17055": {
+    "medical_words": [
+      {
+        "word": "Doctor",
+        "activation": 1.639
+      },
+      {
+        "word": "doctor",
+        "activation": 1.452
+      },
+      {
+        "word": "Doctors",
+        "activation": 1.429
+      }
+    ],
+    "top_words": [
+      {
+        "word": "Dr",
+        "activation": 3.708
+      },
+      {
+        "word": "\u0120Dr",
+        "activation": 2.349
+      },
+      {
+        "word": "dr",
+        "activation": 2.053
+      },
+      {
+        "word": "Professor",
+        "activation": 1.897
+      },
+      {
+        "word": "Prof",
+        "activation": 1.647
+      },
+      {
+        "word": "Doctor",
+        "activation": 1.639
+      },
+      {
+        "word": "doctor",
+        "activation": 1.452
+      },
+      {
+        "word": "Doctors",
+        "activation": 1.429
+      },
+      {
+        "word": "DR",
+        "activation": 1.353
+      },
+      {
+        "word": "Mr",
+        "activation": 1.268
+      }
+    ]
+  },
+  "17072": {
+    "medical_words": [
+      {
+        "word": "stroke",
+        "activation": 4.594
+      },
+      {
+        "word": "\u0120stroke",
+        "activation": 2.806
+      },
+      {
+        "word": "\u0120strokes",
+        "activation": 2.516
+      }
+    ],
+    "top_words": [
+      {
+        "word": "stroke",
+        "activation": 4.594
+      },
+      {
+        "word": "stro",
+        "activation": 3.031
+      },
+      {
+        "word": "\u0120stroke",
+        "activation": 2.806
+      },
+      {
+        "word": "\u0120strokes",
+        "activation": 2.516
+      },
+      {
+        "word": "\u0120Stro",
+        "activation": 1.741
+      },
+      {
+        "word": "cyl",
+        "activation": 1.064
+      },
+      {
+        "word": "\u0120stro",
+        "activation": 0.967
+      },
+      {
+        "word": "blow",
+        "activation": 0.953
+      },
+      {
+        "word": "bledon",
+        "activation": 0.929
+      },
+      {
+        "word": "strike",
+        "activation": 0.925
+      }
+    ]
+  },
+  "17242": {
+    "medical_words": [
+      {
+        "word": "\u0120schizophrenia",
+        "activation": 3.185
+      },
+      {
+        "word": "\u0120bipolar",
+        "activation": 1.671
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120schizophrenia",
+        "activation": 3.185
+      },
+      {
+        "word": "\u0120psychosis",
+        "activation": 2.779
+      },
+      {
+        "word": "\u0120schizophren",
+        "activation": 2.74
+      },
+      {
+        "word": "\u0120paranoia",
+        "activation": 2.363
+      },
+      {
+        "word": "\u0120paranoid",
+        "activation": 2.284
+      },
+      {
+        "word": "\u0120psychotic",
+        "activation": 2.123
+      },
+      {
+        "word": "\u0120delusions",
+        "activation": 2.011
+      },
+      {
+        "word": "\u0120hallucinations",
+        "activation": 1.985
+      },
+      {
+        "word": "izophren",
+        "activation": 1.83
+      },
+      {
+        "word": "\u0120bipolar",
+        "activation": 1.671
+      }
+    ]
+  },
+  "17264": {
+    "medical_words": [
+      {
+        "word": "\u0120painful",
+        "activation": 3.226
+      },
+      {
+        "word": "\u0120heartbreaking",
+        "activation": 1.544
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120painful",
+        "activation": 3.226
+      },
+      {
+        "word": "\u0120excruciating",
+        "activation": 1.921
+      },
+      {
+        "word": "\u0120humiliating",
+        "activation": 1.752
+      },
+      {
+        "word": "\u0120shameful",
+        "activation": 1.706
+      },
+      {
+        "word": "\u0120traumatic",
+        "activation": 1.7
+      },
+      {
+        "word": "\u0120debilitating",
+        "activation": 1.627
+      },
+      {
+        "word": "\u0120unbearable",
+        "activation": 1.604
+      },
+      {
+        "word": "\u0120embarrassing",
+        "activation": 1.551
+      },
+      {
+        "word": "\u0120uncomfortable",
+        "activation": 1.547
+      },
+      {
+        "word": "\u0120heartbreaking",
+        "activation": 1.544
+      }
+    ]
+  },
+  "17589": {
+    "medical_words": [
+      {
+        "word": "\u0120chronic",
+        "activation": 3.635
+      },
+      {
+        "word": "\u0120Chronic",
+        "activation": 2.563
+      },
+      {
+        "word": "\u0120chronically",
+        "activation": 1.713
+      },
+      {
+        "word": "\u0120acute",
+        "activation": 1.546
+      },
+      {
+        "word": "\u0120arthritis",
+        "activation": 1.192
+      },
+      {
+        "word": "\u0120autoimmune",
+        "activation": 1.169
+      },
+      {
+        "word": "\u0120diabetes",
+        "activation": 1.121
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120chronic",
+        "activation": 3.635
+      },
+      {
+        "word": "\u0120Chronic",
+        "activation": 2.563
+      },
+      {
+        "word": "\u0120chronically",
+        "activation": 1.713
+      },
+      {
+        "word": "\u0120acute",
+        "activation": 1.546
+      },
+      {
+        "word": "\u0120debilitating",
+        "activation": 1.23
+      },
+      {
+        "word": "\u0120chron",
+        "activation": 1.194
+      },
+      {
+        "word": "\u0120arthritis",
+        "activation": 1.192
+      },
+      {
+        "word": "\u0120habitual",
+        "activation": 1.188
+      },
+      {
+        "word": "\u0120autoimmune",
+        "activation": 1.169
+      },
+      {
+        "word": "\u0120diabetes",
+        "activation": 1.121
+      }
+    ]
+  },
+  "17692": {
+    "medical_words": [
+      {
+        "word": "\u0120genetically",
+        "activation": 3.693
+      },
+      {
+        "word": "\u0120genetic",
+        "activation": 1.443
+      },
+      {
+        "word": "\u0120Genetic",
+        "activation": 1.425
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120genetically",
+        "activation": 3.693
+      },
+      {
+        "word": "\u0120GMOs",
+        "activation": 1.889
+      },
+      {
+        "word": "\u0120biologically",
+        "activation": 1.779
+      },
+      {
+        "word": "\u0120GMO",
+        "activation": 1.758
+      },
+      {
+        "word": "\u0120chemically",
+        "activation": 1.567
+      },
+      {
+        "word": "etically",
+        "activation": 1.476
+      },
+      {
+        "word": "\u0120genetic",
+        "activation": 1.443
+      },
+      {
+        "word": "\u0120Genetic",
+        "activation": 1.425
+      },
+      {
+        "word": "\u0120scientifically",
+        "activation": 1.329
+      },
+      {
+        "word": "\u0120mutated",
+        "activation": 1.322
+      }
+    ]
+  },
+  "17863": {
+    "medical_words": [
+      {
+        "word": "\u0120doctor",
+        "activation": 3.64
+      },
+      {
+        "word": "doctor",
+        "activation": 2.827
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 2.678
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 2.539
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 2.211
+      },
+      {
+        "word": "\u0120Doctor",
+        "activation": 2.162
+      },
+      {
+        "word": "\u0120Doctors",
+        "activation": 2.162
+      },
+      {
+        "word": "Doctors",
+        "activation": 2.146
+      },
+      {
+        "word": "Doctor",
+        "activation": 2.138
+      },
+      {
+        "word": "\u0120psychiatrist",
+        "activation": 2.137
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120doctor",
+        "activation": 3.64
+      },
+      {
+        "word": "doctor",
+        "activation": 2.827
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 2.678
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 2.539
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 2.211
+      },
+      {
+        "word": "\u0120Doctor",
+        "activation": 2.162
+      },
+      {
+        "word": "\u0120Doctors",
+        "activation": 2.162
+      },
+      {
+        "word": "Doctors",
+        "activation": 2.146
+      },
+      {
+        "word": "Doctor",
+        "activation": 2.138
+      },
+      {
+        "word": "\u0120psychiatrist",
+        "activation": 2.137
+      }
+    ]
+  },
+  "17872": {
+    "medical_words": [
+      {
+        "word": "\u0120Hospital",
+        "activation": 3.654
+      },
+      {
+        "word": "\u0120hospital",
+        "activation": 2.266
+      },
+      {
+        "word": "\u0120hospitals",
+        "activation": 2.073
+      },
+      {
+        "word": "hospital",
+        "activation": 2.057
+      },
+      {
+        "word": "\u0120Medical",
+        "activation": 1.813
+      },
+      {
+        "word": "\u0120Clinic",
+        "activation": 1.593
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 1.591
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 1.58
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Hospital",
+        "activation": 3.654
+      },
+      {
+        "word": "\u0120Hosp",
+        "activation": 2.366
+      },
+      {
+        "word": "\u0120hospital",
+        "activation": 2.266
+      },
+      {
+        "word": "\u0120hospitals",
+        "activation": 2.073
+      },
+      {
+        "word": "hospital",
+        "activation": 2.057
+      },
+      {
+        "word": "ospital",
+        "activation": 1.947
+      },
+      {
+        "word": "\u0120Medical",
+        "activation": 1.813
+      },
+      {
+        "word": "\u0120Clinic",
+        "activation": 1.593
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 1.591
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 1.58
+      }
+    ]
+  },
+  "17970": {
+    "medical_words": [
+      {
+        "word": "\u0120infection",
+        "activation": 1.969
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 1.669
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120infected",
+        "activation": 3.732
+      },
+      {
+        "word": "\u0120infect",
+        "activation": 2.34
+      },
+      {
+        "word": "infect",
+        "activation": 2.153
+      },
+      {
+        "word": "\u0120contaminated",
+        "activation": 1.978
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 1.969
+      },
+      {
+        "word": "\u0120Infect",
+        "activation": 1.794
+      },
+      {
+        "word": "\u0120afflicted",
+        "activation": 1.685
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 1.669
+      },
+      {
+        "word": "\u0120virus",
+        "activation": 1.611
+      },
+      {
+        "word": "\u0120bitten",
+        "activation": 1.607
+      }
+    ]
+  },
+  "17989": {
+    "medical_words": [
+      {
+        "word": "\u0120Psychiatry",
+        "activation": 1.839
+      },
+      {
+        "word": "\u0120Genetics",
+        "activation": 1.811
+      },
+      {
+        "word": "\u0120Pediatrics",
+        "activation": 1.45
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Neuroscience",
+        "activation": 3.353
+      },
+      {
+        "word": "\u0120neuroscience",
+        "activation": 2.041
+      },
+      {
+        "word": "\u0120Psychiatry",
+        "activation": 1.839
+      },
+      {
+        "word": "\u0120Biology",
+        "activation": 1.811
+      },
+      {
+        "word": "\u0120Genetics",
+        "activation": 1.811
+      },
+      {
+        "word": "\u0120Neuro",
+        "activation": 1.77
+      },
+      {
+        "word": "\u0120Neurolog",
+        "activation": 1.706
+      },
+      {
+        "word": "\u0120Medicine",
+        "activation": 1.647
+      },
+      {
+        "word": "\u0120Psychology",
+        "activation": 1.472
+      },
+      {
+        "word": "\u0120Pediatrics",
+        "activation": 1.45
+      }
+    ]
+  },
+  "18139": {
+    "medical_words": [
+      {
+        "word": "\u0120Alzheimer",
+        "activation": 2.139
+      },
+      {
+        "word": "\u0120arthritis",
+        "activation": 1.812
+      },
+      {
+        "word": "\u0120schizophrenia",
+        "activation": 1.611
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Parkinson",
+        "activation": 3.307
+      },
+      {
+        "word": "\u0120dementia",
+        "activation": 2.144
+      },
+      {
+        "word": "\u0120Alzheimer",
+        "activation": 2.139
+      },
+      {
+        "word": "\u0120epilepsy",
+        "activation": 2.057
+      },
+      {
+        "word": "\u0120sclerosis",
+        "activation": 1.982
+      },
+      {
+        "word": "\u0120ALS",
+        "activation": 1.865
+      },
+      {
+        "word": "\u0120arthritis",
+        "activation": 1.812
+      },
+      {
+        "word": "\u0120epile",
+        "activation": 1.671
+      },
+      {
+        "word": "\u0120prostate",
+        "activation": 1.649
+      },
+      {
+        "word": "\u0120schizophrenia",
+        "activation": 1.611
+      }
+    ]
+  },
+  "18508": {
+    "medical_words": [
+      {
+        "word": "\u0120disease",
+        "activation": 3.544
+      },
+      {
+        "word": "\u0120Disease",
+        "activation": 3.066
+      },
+      {
+        "word": "\u0120diseases",
+        "activation": 2.675
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 2.242
+      },
+      {
+        "word": "\u0120illness",
+        "activation": 2.137
+      },
+      {
+        "word": "\u0120illnesses",
+        "activation": 1.742
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 1.701
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120disease",
+        "activation": 3.544
+      },
+      {
+        "word": "\u0120Disease",
+        "activation": 3.066
+      },
+      {
+        "word": "\u0120diseases",
+        "activation": 2.675
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 2.242
+      },
+      {
+        "word": "\u0120illness",
+        "activation": 2.137
+      },
+      {
+        "word": "\u0120dise",
+        "activation": 1.943
+      },
+      {
+        "word": "\u0120sickness",
+        "activation": 1.939
+      },
+      {
+        "word": "\u0120disorder",
+        "activation": 1.785
+      },
+      {
+        "word": "\u0120illnesses",
+        "activation": 1.742
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 1.701
+      }
+    ]
+  },
+
+  "19019": {
+    "medical_words": [
+      {
+        "word": "\u0120Alzheimer",
+        "activation": 3.797
+      },
+      {
+        "word": "\u0120Diabetes",
+        "activation": 1.459
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Alzheimer",
+        "activation": 3.797
+      },
+      {
+        "word": "\u0120dementia",
+        "activation": 2.41
+      },
+      {
+        "word": "\u0120Parkinson",
+        "activation": 2.126
+      },
+      {
+        "word": "\u0120Alz",
+        "activation": 1.958
+      },
+      {
+        "word": "\u0120ALS",
+        "activation": 1.752
+      },
+      {
+        "word": "\u0120Autism",
+        "activation": 1.584
+      },
+      {
+        "word": "\u0120Lyme",
+        "activation": 1.469
+      },
+      {
+        "word": "\u0120Canaver",
+        "activation": 1.461
+      },
+      {
+        "word": "\u0120Diabetes",
+        "activation": 1.459
+      },
+      {
+        "word": "\u0120autism",
+        "activation": 1.371
+      }
+    ]
+  },
+  "19108": {
+    "medical_words": [
+      {
+        "word": "\u0120kidneys",
+        "activation": 1.984
+      },
+      {
+        "word": "\u0120kidney",
+        "activation": 1.976
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120liver",
+        "activation": 3.627
+      },
+      {
+        "word": "\u0120Liver",
+        "activation": 2.469
+      },
+      {
+        "word": "\u0120hepat",
+        "activation": 2.277
+      },
+      {
+        "word": "\u0120hep",
+        "activation": 2.112
+      },
+      {
+        "word": "\u0120kidneys",
+        "activation": 1.984
+      },
+      {
+        "word": "\u0120kidney",
+        "activation": 1.976
+      },
+      {
+        "word": "\u0120hepatitis",
+        "activation": 1.877
+      },
+      {
+        "word": "\u0120Hep",
+        "activation": 1.71
+      },
+      {
+        "word": "\u0120renal",
+        "activation": 1.631
+      },
+      {
+        "word": "\u0120pancreat",
+        "activation": 1.519
+      }
+    ]
+  },
+  "19136": {
+    "medical_words": [
+      {
+        "word": "\u0120blood",
+        "activation": 3.709
+      },
+      {
+        "word": "blood",
+        "activation": 2.564
+      },
+      {
+        "word": "\u0120Blood",
+        "activation": 2.508
+      },
+      {
+        "word": "Blood",
+        "activation": 2.457
+      },
+      {
+        "word": "\u0120bloodstream",
+        "activation": 1.691
+      },
+      {
+        "word": "blooded",
+        "activation": 1.629
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120blood",
+        "activation": 3.709
+      },
+      {
+        "word": "blood",
+        "activation": 2.564
+      },
+      {
+        "word": "\u0120Blood",
+        "activation": 2.508
+      },
+      {
+        "word": "Blood",
+        "activation": 2.457
+      },
+      {
+        "word": "\u0120saliva",
+        "activation": 1.807
+      },
+      {
+        "word": "\u0120bloodstream",
+        "activation": 1.691
+      },
+      {
+        "word": "blooded",
+        "activation": 1.629
+      },
+      {
+        "word": "\u0120urine",
+        "activation": 1.606
+      },
+      {
+        "word": "\u0120semen",
+        "activation": 1.503
+      },
+      {
+        "word": "\u0120bleeding",
+        "activation": 1.48
+      }
+    ]
+  },
+  "19246": {
+    "medical_words": [
+      {
+        "word": "\u0120treatments",
+        "activation": 3.582
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 2.226
+      },
+      {
+        "word": "treatment",
+        "activation": 1.986
+      },
+      {
+        "word": "\u0120Treatment",
+        "activation": 1.919
+      },
+      {
+        "word": "\u0120therapy",
+        "activation": 1.69
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120treatments",
+        "activation": 3.582
+      },
+      {
+        "word": "\u0120therapies",
+        "activation": 2.597
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 2.226
+      },
+      {
+        "word": "\u0120cures",
+        "activation": 2.006
+      },
+      {
+        "word": "treatment",
+        "activation": 1.986
+      },
+      {
+        "word": "\u0120Treatment",
+        "activation": 1.919
+      },
+      {
+        "word": "\u0120medications",
+        "activation": 1.792
+      },
+      {
+        "word": "\u0120interventions",
+        "activation": 1.693
+      },
+      {
+        "word": "\u0120therapy",
+        "activation": 1.69
+      },
+      {
+        "word": "\u0120medicines",
+        "activation": 1.618
+      }
+    ]
+  },
+  "19377": {
+    "medical_words": [
+      {
+        "word": "\u0120genetics",
+        "activation": 2.18
+      },
+      {
+        "word": "\u0120genetic",
+        "activation": 1.912
+      },
+      {
+        "word": "\u0120Genetics",
+        "activation": 1.76
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120genes",
+        "activation": 3.705
+      },
+      {
+        "word": "\u0120gene",
+        "activation": 2.302
+      },
+      {
+        "word": "\u0120genetics",
+        "activation": 2.18
+      },
+      {
+        "word": "\u0120genomes",
+        "activation": 2.092
+      },
+      {
+        "word": "\u0120chromosomes",
+        "activation": 2.08
+      },
+      {
+        "word": "\u0120genome",
+        "activation": 1.937
+      },
+      {
+        "word": "\u0120genetic",
+        "activation": 1.912
+      },
+      {
+        "word": "\u0120Genetics",
+        "activation": 1.76
+      },
+      {
+        "word": "\u0120enzymes",
+        "activation": 1.754
+      },
+      {
+        "word": "\u0120proteins",
+        "activation": 1.691
+      }
+    ]
+  },
+  "19494": {
+    "medical_words": [
+      {
+        "word": "\u0120Cancer",
+        "activation": 4.016
+      },
+      {
+        "word": "cancer",
+        "activation": 1.988
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 1.757
+      },
+      {
+        "word": "\u0120Diabetes",
+        "activation": 1.721
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 1.379
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Cancer",
+        "activation": 4.016
+      },
+      {
+        "word": "cancer",
+        "activation": 1.988
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 1.757
+      },
+      {
+        "word": "\u0120Diabetes",
+        "activation": 1.721
+      },
+      {
+        "word": "\u0120Autism",
+        "activation": 1.478
+      },
+      {
+        "word": "\u0120Breast",
+        "activation": 1.393
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 1.379
+      },
+      {
+        "word": "\u0120leukemia",
+        "activation": 1.336
+      },
+      {
+        "word": "AIDS",
+        "activation": 1.317
+      },
+      {
+        "word": "ukemia",
+        "activation": 1.287
+      }
+    ]
+  },
+  
+  "19876": {
+    "medical_words": [
+      {
+        "word": "\u0120genetic",
+        "activation": 1.84
+      },
+      {
+        "word": "\u0120Genetic",
+        "activation": 1.508
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120gene",
+        "activation": 3.596
+      },
+      {
+        "word": "\u0120genes",
+        "activation": 2.009
+      },
+      {
+        "word": "\u0120Gene",
+        "activation": 1.971
+      },
+      {
+        "word": "\u0120genome",
+        "activation": 1.889
+      },
+      {
+        "word": "\u0120allele",
+        "activation": 1.857
+      },
+      {
+        "word": "\u0120genetic",
+        "activation": 1.84
+      },
+      {
+        "word": "Gene",
+        "activation": 1.824
+      },
+      {
+        "word": "\u0120chromosome",
+        "activation": 1.627
+      },
+      {
+        "word": "\u0120enzyme",
+        "activation": 1.543
+      },
+      {
+        "word": "\u0120Genetic",
+        "activation": 1.508
+      }
+    ]
+  },
+ 
+  "19911": {
+    "medical_words": [
+      {
+        "word": "\u0120diagnosis",
+        "activation": 1.936
+      },
+      {
+        "word": "\u0120clinically",
+        "activation": 1.424
+      },
+      {
+        "word": "\u0120hospitalized",
+        "activation": 1.415
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120diagnosed",
+        "activation": 3.501
+      },
+      {
+        "word": "diagn",
+        "activation": 1.995
+      },
+      {
+        "word": "\u0120diagnoses",
+        "activation": 1.943
+      },
+      {
+        "word": "\u0120diagnosis",
+        "activation": 1.936
+      },
+      {
+        "word": "\u0120diagnose",
+        "activation": 1.849
+      },
+      {
+        "word": "\u0120Diagn",
+        "activation": 1.69
+      },
+      {
+        "word": "\u0120diagn",
+        "activation": 1.583
+      },
+      {
+        "word": "\u0120cured",
+        "activation": 1.427
+      },
+      {
+        "word": "\u0120clinically",
+        "activation": 1.424
+      },
+      {
+        "word": "\u0120hospitalized",
+        "activation": 1.415
+      }
+    ]
+  },
+  "20076": {
+    "medical_words": [
+      {
+        "word": "\u0120kidneys",
+        "activation": 2.077
+      },
+      {
+        "word": "\u0120lungs",
+        "activation": 1.465
+      },
+      {
+        "word": "\u0120kidney",
+        "activation": 1.349
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120organs",
+        "activation": 3.892
+      },
+      {
+        "word": "\u0120organ",
+        "activation": 2.598
+      },
+      {
+        "word": "\u0120kidneys",
+        "activation": 2.077
+      },
+      {
+        "word": "\u0120tissues",
+        "activation": 1.685
+      },
+      {
+        "word": "gans",
+        "activation": 1.495
+      },
+      {
+        "word": "\u0120lungs",
+        "activation": 1.465
+      },
+      {
+        "word": "\u0120limbs",
+        "activation": 1.413
+      },
+      {
+        "word": "\u0120kidney",
+        "activation": 1.349
+      },
+      {
+        "word": "\u0120faculties",
+        "activation": 1.344
+      },
+      {
+        "word": "\u0120intestine",
+        "activation": 1.266
+      }
+    ]
+  },
+  "20390": {
+    "medical_words": [
+      {
+        "word": "\u0120cancer",
+        "activation": 3.553
+      },
+      {
+        "word": "cancer",
+        "activation": 3.032
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 2.783
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 2.707
+      },
+      {
+        "word": "\u0120tumor",
+        "activation": 2.156
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 2.061
+      },
+      {
+        "word": "\u0120chemotherapy",
+        "activation": 1.934
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120cancer",
+        "activation": 3.553
+      },
+      {
+        "word": "cancer",
+        "activation": 3.032
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 2.783
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 2.707
+      },
+      {
+        "word": "\u0120leukemia",
+        "activation": 2.43
+      },
+      {
+        "word": "\u0120tumor",
+        "activation": 2.156
+      },
+      {
+        "word": "\u0120carcin",
+        "activation": 2.142
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 2.061
+      },
+      {
+        "word": "\u0120chemotherapy",
+        "activation": 1.934
+      },
+      {
+        "word": "\u0120metast",
+        "activation": 1.711
+      }
+    ]
+  },
+  "20717": {
+    "medical_words": [
+      {
+        "word": "\u0120fracture",
+        "activation": 3.317
+      },
+      {
+        "word": "\u0120fractures",
+        "activation": 3.271
+      },
+      {
+        "word": "\u0120fractured",
+        "activation": 3.184
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120fracture",
+        "activation": 3.317
+      },
+      {
+        "word": "\u0120fracturing",
+        "activation": 3.287
+      },
+      {
+        "word": "\u0120fractures",
+        "activation": 3.271
+      },
+      {
+        "word": "\u0120fractured",
+        "activation": 3.184
+      },
+      {
+        "word": "\u0120Fract",
+        "activation": 2.074
+      },
+      {
+        "word": "\u0120fragmented",
+        "activation": 2.009
+      },
+      {
+        "word": "\u0120fragmentation",
+        "activation": 1.88
+      },
+      {
+        "word": "\u0120rupture",
+        "activation": 1.846
+      },
+      {
+        "word": "\u0120fragment",
+        "activation": 1.791
+      },
+      {
+        "word": "\u0120rupt",
+        "activation": 1.748
+      }
+    ]
+  },
+  "20850": {
+    "medical_words": [
+      {
+        "word": "\u0120clinical",
+        "activation": 3.386
+      },
+      {
+        "word": "\u0120Clinical",
+        "activation": 2.47
+      },
+      {
+        "word": "clinical",
+        "activation": 2.358
+      },
+      {
+        "word": "\u0120clinically",
+        "activation": 2.102
+      },
+      {
+        "word": "\u0120clinicians",
+        "activation": 1.935
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 1.769
+      },
+      {
+        "word": "\u0120medical",
+        "activation": 1.592
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 1.591
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120clinical",
+        "activation": 3.386
+      },
+      {
+        "word": "\u0120Clinical",
+        "activation": 2.47
+      },
+      {
+        "word": "clinical",
+        "activation": 2.358
+      },
+      {
+        "word": "\u0120clinically",
+        "activation": 2.102
+      },
+      {
+        "word": "\u0120clinicians",
+        "activation": 1.935
+      },
+      {
+        "word": "\u0120therapeutic",
+        "activation": 1.888
+      },
+      {
+        "word": "inical",
+        "activation": 1.875
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 1.769
+      },
+      {
+        "word": "\u0120medical",
+        "activation": 1.592
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 1.591
+      }
+    ]
+  },
+  "20874": {
+    "medical_words": [
+      {
+        "word": "\u0120genetic",
+        "activation": 1.769
+      },
+      {
+        "word": "\u0120biomedical",
+        "activation": 1.69
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120biological",
+        "activation": 3.601
+      },
+      {
+        "word": "\u0120biologically",
+        "activation": 2.406
+      },
+      {
+        "word": "\u0120Biological",
+        "activation": 2.324
+      },
+      {
+        "word": "\u0120biology",
+        "activation": 2.119
+      },
+      {
+        "word": "\u0120biochemical",
+        "activation": 1.917
+      },
+      {
+        "word": "\u0120physiological",
+        "activation": 1.782
+      },
+      {
+        "word": "\u0120genetic",
+        "activation": 1.769
+      },
+      {
+        "word": "\u0120biomedical",
+        "activation": 1.69
+      },
+      {
+        "word": "\u0120biom",
+        "activation": 1.526
+      },
+      {
+        "word": "\u0120bio",
+        "activation": 1.525
+      }
+    ]
+  },
+  "20986": {
+    "medical_words": [
+      {
+        "word": "\u0120surgeon",
+        "activation": 3.849
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 3.234
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 1.959
+      },
+      {
+        "word": "\u0120surgery",
+        "activation": 1.753
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 1.651
+      },
+      {
+        "word": "\u0120psychiatrist",
+        "activation": 1.578
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120surgeon",
+        "activation": 3.849
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 3.234
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 1.959
+      },
+      {
+        "word": "\u0120surgery",
+        "activation": 1.753
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 1.651
+      },
+      {
+        "word": "\u0120surgical",
+        "activation": 1.645
+      },
+      {
+        "word": "\u0120psychiatrist",
+        "activation": 1.578
+      },
+      {
+        "word": "\u0120veterinarian",
+        "activation": 1.56
+      },
+      {
+        "word": "\u0120dentist",
+        "activation": 1.552
+      },
+      {
+        "word": "\u0120therapist",
+        "activation": 1.486
+      }
+    ]
+  },
+  "21008": {
+    "medical_words": [
+      {
+        "word": "\u0120antidepressants",
+        "activation": 2.001
+      },
+      {
+        "word": "\u0120antidepressant",
+        "activation": 1.717
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120medication",
+        "activation": 3.427
+      },
+      {
+        "word": "\u0120medications",
+        "activation": 3.166
+      },
+      {
+        "word": "\u0120medicines",
+        "activation": 2.03
+      },
+      {
+        "word": "\u0120antidepressants",
+        "activation": 2.001
+      },
+      {
+        "word": "\u0120drugs",
+        "activation": 1.919
+      },
+      {
+        "word": "\u0120pills",
+        "activation": 1.876
+      },
+      {
+        "word": "\u0120antidepressant",
+        "activation": 1.717
+      },
+      {
+        "word": "\u0120medicine",
+        "activation": 1.7
+      },
+      {
+        "word": "\u0120prescription",
+        "activation": 1.685
+      },
+      {
+        "word": "\u0120pharmaceutical",
+        "activation": 1.581
+      }
+    ]
+  },
+  "21161": {
+    "medical_words": [
+      {
+        "word": "\u0120cancer",
+        "activation": 0.86
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.649
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120cancer",
+        "activation": 0.86
+      },
+      {
+        "word": "ansas",
+        "activation": 0.824
+      },
+      {
+        "word": "iamond",
+        "activation": 0.712
+      },
+      {
+        "word": "cand",
+        "activation": 0.691
+      },
+      {
+        "word": "\u0120stakes",
+        "activation": 0.685
+      },
+      {
+        "word": "igible",
+        "activation": 0.669
+      },
+      {
+        "word": "rounded",
+        "activation": 0.664
+      },
+      {
+        "word": "kai",
+        "activation": 0.661
+      },
+      {
+        "word": "\u0120leukemia",
+        "activation": 0.656
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.649
+      }
+    ]
+  },
+  "21509": {
+    "medical_words": [
+      {
+        "word": "\u0120treatment",
+        "activation": 1.574
+      },
+      {
+        "word": "\u0120Treatment",
+        "activation": 1.3
+      },
+      {
+        "word": "\u0120treatments",
+        "activation": 1.264
+      },
+      {
+        "word": "treatment",
+        "activation": 1.187
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120treat",
+        "activation": 3.912
+      },
+      {
+        "word": "\u0120treats",
+        "activation": 2.395
+      },
+      {
+        "word": "\u0120Treat",
+        "activation": 2.384
+      },
+      {
+        "word": "\u0120treating",
+        "activation": 2.044
+      },
+      {
+        "word": "\u0120treated",
+        "activation": 1.882
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 1.574
+      },
+      {
+        "word": "treated",
+        "activation": 1.32
+      },
+      {
+        "word": "\u0120Treatment",
+        "activation": 1.3
+      },
+      {
+        "word": "\u0120treatments",
+        "activation": 1.264
+      },
+      {
+        "word": "treatment",
+        "activation": 1.187
+      }
+    ]
+  },
+  "21607": {
+    "medical_words": [
+      {
+        "word": "\u0120clinic",
+        "activation": 3.659
+      },
+      {
+        "word": "\u0120clinics",
+        "activation": 3.162
+      },
+      {
+        "word": "\u0120Clinic",
+        "activation": 2.772
+      },
+      {
+        "word": "\u0120clinicians",
+        "activation": 1.463
+      },
+      {
+        "word": "\u0120hospital",
+        "activation": 1.445
+      },
+      {
+        "word": "\u0120outpatient",
+        "activation": 1.387
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120clinic",
+        "activation": 3.659
+      },
+      {
+        "word": "\u0120clinics",
+        "activation": 3.162
+      },
+      {
+        "word": "\u0120Clinic",
+        "activation": 2.772
+      },
+      {
+        "word": "\u0120dispensary",
+        "activation": 1.667
+      },
+      {
+        "word": "\u0120Clin",
+        "activation": 1.642
+      },
+      {
+        "word": "\u0120clinicians",
+        "activation": 1.463
+      },
+      {
+        "word": "\u0120dispensaries",
+        "activation": 1.463
+      },
+      {
+        "word": "\u0120hospital",
+        "activation": 1.445
+      },
+      {
+        "word": "\u0120pharmacy",
+        "activation": 1.441
+      },
+      {
+        "word": "\u0120outpatient",
+        "activation": 1.387
+      }
+    ]
+  },
+  "21850": {
+    "medical_words": [
+      {
+        "word": "\u0120brain",
+        "activation": 3.472
+      },
+      {
+        "word": "\u0120brains",
+        "activation": 2.783
+      },
+      {
+        "word": "brain",
+        "activation": 2.707
+      },
+      {
+        "word": "Brain",
+        "activation": 2.469
+      },
+      {
+        "word": "\u0120Brain",
+        "activation": 2.426
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120brain",
+        "activation": 3.472
+      },
+      {
+        "word": "\u0120brains",
+        "activation": 2.783
+      },
+      {
+        "word": "brain",
+        "activation": 2.707
+      },
+      {
+        "word": "Brain",
+        "activation": 2.469
+      },
+      {
+        "word": "\u0120Brain",
+        "activation": 2.426
+      },
+      {
+        "word": "\u0120cerebral",
+        "activation": 1.989
+      },
+      {
+        "word": "\u0120prefrontal",
+        "activation": 1.798
+      },
+      {
+        "word": "\u0120neural",
+        "activation": 1.758
+      },
+      {
+        "word": "\u0120neuro",
+        "activation": 1.758
+      },
+      {
+        "word": "\u0120neurological",
+        "activation": 1.728
+      }
+    ]
+  },
+  "22519": {
+    "medical_words": [
+      {
+        "word": "\u0120Doctor",
+        "activation": 1.626
+      },
+      {
+        "word": "doctor",
+        "activation": 1.463
+      },
+      {
+        "word": "\u0120Doctors",
+        "activation": 1.449
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Dr",
+        "activation": 3.512
+      },
+      {
+        "word": "Dr",
+        "activation": 2.752
+      },
+      {
+        "word": "\u0120Professor",
+        "activation": 1.713
+      },
+      {
+        "word": "\u0120Prof",
+        "activation": 1.627
+      },
+      {
+        "word": "\u0120Doctor",
+        "activation": 1.626
+      },
+      {
+        "word": "doctor",
+        "activation": 1.463
+      },
+      {
+        "word": "\u0120Doctors",
+        "activation": 1.449
+      },
+      {
+        "word": "dr",
+        "activation": 1.444
+      },
+      {
+        "word": "\u0120Mrs",
+        "activation": 1.422
+      },
+      {
+        "word": "Professor",
+        "activation": 1.42
+      }
+    ]
+  },
+  
+  "22785": {
+    "medical_words": [
+      {
+        "word": "\u0120hospitals",
+        "activation": 3.654
+      },
+      {
+        "word": "\u0120hospital",
+        "activation": 2.209
+      },
+      {
+        "word": "\u0120clinics",
+        "activation": 1.998
+      },
+      {
+        "word": "\u0120Hospital",
+        "activation": 1.987
+      },
+      {
+        "word": "hospital",
+        "activation": 1.942
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 1.916
+      },
+      {
+        "word": "\u0120nurses",
+        "activation": 1.909
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120hospitals",
+        "activation": 3.654
+      },
+      {
+        "word": "\u0120Hosp",
+        "activation": 2.363
+      },
+      {
+        "word": "\u0120hospital",
+        "activation": 2.209
+      },
+      {
+        "word": "\u0120pharmacies",
+        "activation": 2.021
+      },
+      {
+        "word": "\u0120clinics",
+        "activation": 1.998
+      },
+      {
+        "word": "\u0120Hospital",
+        "activation": 1.987
+      },
+      {
+        "word": "hospital",
+        "activation": 1.942
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 1.916
+      },
+      {
+        "word": "\u0120nurses",
+        "activation": 1.909
+      },
+      {
+        "word": "\u0120airports",
+        "activation": 1.755
+      }
+    ]
+  },
+  "23059": {
+    "medical_words": [
+      {
+        "word": "\u0120hearts",
+        "activation": 4.262
+      },
+      {
+        "word": "\u0120Hearts",
+        "activation": 1.949
+      },
+      {
+        "word": "\u0120heart",
+        "activation": 1.779
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120hearts",
+        "activation": 4.262
+      },
+      {
+        "word": "\u0120minds",
+        "activation": 2.01
+      },
+      {
+        "word": "\u0120Hearts",
+        "activation": 1.949
+      },
+      {
+        "word": "\u0120souls",
+        "activation": 1.889
+      },
+      {
+        "word": "\u0120heart",
+        "activation": 1.779
+      },
+      {
+        "word": "\u0120necks",
+        "activation": 1.641
+      },
+      {
+        "word": "\u0120throats",
+        "activation": 1.601
+      },
+      {
+        "word": "\u0120chests",
+        "activation": 1.475
+      },
+      {
+        "word": "\u0120skulls",
+        "activation": 1.407
+      },
+      {
+        "word": "\u0120ears",
+        "activation": 1.367
+      }
+    ]
+  },
+  "23203": {
+    "medical_words": [
+      {
+        "word": "\u0120diseases",
+        "activation": 3.244
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 2.44
+      },
+      {
+        "word": "\u0120illnesses",
+        "activation": 2.151
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 1.801
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 1.633
+      },
+      {
+        "word": "\u0120disease",
+        "activation": 1.533
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120diseases",
+        "activation": 3.244
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 2.44
+      },
+      {
+        "word": "\u0120illnesses",
+        "activation": 2.151
+      },
+      {
+        "word": "\u0120ailments",
+        "activation": 2.053
+      },
+      {
+        "word": "\u0120pathogens",
+        "activation": 1.816
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 1.801
+      },
+      {
+        "word": "\u0120disorders",
+        "activation": 1.742
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 1.633
+      },
+      {
+        "word": "\u0120disease",
+        "activation": 1.533
+      },
+      {
+        "word": "\u0120medicines",
+        "activation": 1.526
+      }
+    ]
+  },
+
+  "23618": {
+    "medical_words": [
+      {
+        "word": "\u0120Bones",
+        "activation": 4.004
+      },
+      {
+        "word": "\u0120Bone",
+        "activation": 1.525
+      },
+      {
+        "word": "bones",
+        "activation": 1.471
+      },
+      {
+        "word": "Bone",
+        "activation": 1.307
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Bones",
+        "activation": 4.004
+      },
+      {
+        "word": "\u0120Bone",
+        "activation": 1.525
+      },
+      {
+        "word": "bones",
+        "activation": 1.471
+      },
+      {
+        "word": "Bone",
+        "activation": 1.307
+      },
+      {
+        "word": "\u0120Skull",
+        "activation": 1.269
+      },
+      {
+        "word": "\u0120Spike",
+        "activation": 1.095
+      },
+      {
+        "word": "\u0120Skin",
+        "activation": 1.054
+      },
+      {
+        "word": "ansson",
+        "activation": 1.033
+      },
+      {
+        "word": "\u0120Chains",
+        "activation": 0.954
+      },
+      {
+        "word": "\u0120Malk",
+        "activation": 0.95
+      }
+    ]
+  },
+  "24003": {
+    "medical_words": [
+      {
+        "word": "\u0120therapy",
+        "activation": 3.853
+      },
+      {
+        "word": "\u0120Therapy",
+        "activation": 3.129
+      },
+      {
+        "word": "otherapy",
+        "activation": 1.901
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120therapy",
+        "activation": 3.853
+      },
+      {
+        "word": "\u0120Therapy",
+        "activation": 3.129
+      },
+      {
+        "word": "\u0120therapies",
+        "activation": 2.763
+      },
+      {
+        "word": "\u0120therapists",
+        "activation": 2.592
+      },
+      {
+        "word": "\u0120therapist",
+        "activation": 2.587
+      },
+      {
+        "word": "\u0120therapeutic",
+        "activation": 2.129
+      },
+      {
+        "word": "otherapy",
+        "activation": 1.901
+      },
+      {
+        "word": "\u0120counseling",
+        "activation": 1.816
+      },
+      {
+        "word": "\u0120therap",
+        "activation": 1.801
+      },
+      {
+        "word": "\u0120counselling",
+        "activation": 1.738
+      }
+    ]
+  },
+  "24024": {
+    "medical_words": [
+      {
+        "word": "\u0120doctors",
+        "activation": 3.635
+      },
+      {
+        "word": "Doctors",
+        "activation": 3.116
+      },
+      {
+        "word": "\u0120physicians",
+        "activation": 2.984
+      },
+      {
+        "word": "\u0120Doctors",
+        "activation": 2.88
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 2.743
+      },
+      {
+        "word": "\u0120doctor",
+        "activation": 2.491
+      },
+      {
+        "word": "\u0120psychiatrists",
+        "activation": 2.333
+      },
+      {
+        "word": "\u0120clinicians",
+        "activation": 2.31
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 2.149
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120doctors",
+        "activation": 3.635
+      },
+      {
+        "word": "Doctors",
+        "activation": 3.116
+      },
+      {
+        "word": "\u0120physicians",
+        "activation": 2.984
+      },
+      {
+        "word": "\u0120Doctors",
+        "activation": 2.88
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 2.743
+      },
+      {
+        "word": "\u0120doctor",
+        "activation": 2.491
+      },
+      {
+        "word": "\u0120psychiatrists",
+        "activation": 2.333
+      },
+      {
+        "word": "\u0120clinicians",
+        "activation": 2.31
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 2.149
+      },
+      {
+        "word": "\u0120veterin",
+        "activation": 2.134
+      }
+    ]
+  },
+  "24029": {
+    "medical_words": [
+      {
+        "word": "\u0120artery",
+        "activation": 1.373
+      },
+      {
+        "word": "\u0120bloodstream",
+        "activation": 1.142
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120intra",
+        "activation": 2.27
+      },
+      {
+        "word": "\u0120Interstate",
+        "activation": 2.069
+      },
+      {
+        "word": "\u0120interstate",
+        "activation": 1.668
+      },
+      {
+        "word": "\u0120arter",
+        "activation": 1.44
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 1.373
+      },
+      {
+        "word": "\u0120arteries",
+        "activation": 1.33
+      },
+      {
+        "word": "mone",
+        "activation": 1.27
+      },
+      {
+        "word": "iasm",
+        "activation": 1.25
+      },
+      {
+        "word": "bian",
+        "activation": 1.226
+      },
+      {
+        "word": "\u0120bloodstream",
+        "activation": 1.142
+      }
+    ]
+  },
+  "24136": {
+    "medical_words": [
+      {
+        "word": "\u0120depression",
+        "activation": 3.761
+      },
+      {
+        "word": "\u0120Depression",
+        "activation": 2.721
+      },
+      {
+        "word": "\u0120antidepressant",
+        "activation": 1.847
+      },
+      {
+        "word": "\u0120antidepressants",
+        "activation": 1.779
+      },
+      {
+        "word": "\u0120bipolar",
+        "activation": 1.592
+      },
+      {
+        "word": "\u0120PTSD",
+        "activation": 1.537
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120depression",
+        "activation": 3.761
+      },
+      {
+        "word": "\u0120Depression",
+        "activation": 2.721
+      },
+      {
+        "word": "\u0120depressive",
+        "activation": 2.406
+      },
+      {
+        "word": "\u0120depressed",
+        "activation": 2.047
+      },
+      {
+        "word": "\u0120antidepressant",
+        "activation": 1.847
+      },
+      {
+        "word": "\u0120depress",
+        "activation": 1.792
+      },
+      {
+        "word": "\u0120antidepressants",
+        "activation": 1.779
+      },
+      {
+        "word": "\u0120bipolar",
+        "activation": 1.592
+      },
+      {
+        "word": "\u0120PTSD",
+        "activation": 1.537
+      },
+      {
+        "word": "\u0120suicidal",
+        "activation": 1.535
+      }
+    ]
+  },
+  "24377": {
+    "medical_words": [
+      {
+        "word": "\u0120Medical",
+        "activation": 1.75
+      },
+      {
+        "word": "Medical",
+        "activation": 1.547
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Health",
+        "activation": 3.569
+      },
+      {
+        "word": "Health",
+        "activation": 2.916
+      },
+      {
+        "word": "health",
+        "activation": 2.644
+      },
+      {
+        "word": "\u0120health",
+        "activation": 2.453
+      },
+      {
+        "word": "\u0120Healthcare",
+        "activation": 2.246
+      },
+      {
+        "word": "\u0120healthcare",
+        "activation": 1.756
+      },
+      {
+        "word": "\u0120Medical",
+        "activation": 1.75
+      },
+      {
+        "word": "\u0120HHS",
+        "activation": 1.746
+      },
+      {
+        "word": "\u0120Healthy",
+        "activation": 1.63
+      },
+      {
+        "word": "Medical",
+        "activation": 1.547
+      }
+    ]
+  }
+}

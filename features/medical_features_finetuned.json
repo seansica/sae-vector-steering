@@ -1,0 +1,7333 @@
+{
+  "131": {
+    "medical_words": [
+      {
+        "word": "heart",
+        "activation": 0.6709756851196289
+      },
+      {
+        "word": "stroke",
+        "activation": 0.6547178030014038
+      },
+      {
+        "word": "bone",
+        "activation": 0.63957679271698
+      },
+      {
+        "word": "\u0120heart",
+        "activation": 0.5996302366256714
+      },
+      {
+        "word": "bones",
+        "activation": 0.5947759747505188
+      }
+    ],
+    "top_words": [
+      {
+        "word": "strings",
+        "activation": 0.8181145787239075
+      },
+      {
+        "word": "burn",
+        "activation": 0.6953665614128113
+      },
+      {
+        "word": "heart",
+        "activation": 0.6709756851196289
+      },
+      {
+        "word": "stroke",
+        "activation": 0.6547178030014038
+      },
+      {
+        "word": "bone",
+        "activation": 0.63957679271698
+      },
+      {
+        "word": "beat",
+        "activation": 0.6066354513168335
+      },
+      {
+        "word": "rend",
+        "activation": 0.6046817302703857
+      },
+      {
+        "word": "\u0120heart",
+        "activation": 0.5996302366256714
+      },
+      {
+        "word": "atically",
+        "activation": 0.5975506901741028
+      },
+      {
+        "word": "bones",
+        "activation": 0.5947759747505188
+      }
+    ]
+  },
+  "235": {
+    "medical_words": [
+      {
+        "word": "\u0120cancer",
+        "activation": 1.0680665969848633
+      },
+      {
+        "word": "cancer",
+        "activation": 0.9535893797874451
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.8943814039230347
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 0.8860642910003662
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.8617333173751831
+      },
+      {
+        "word": "\u0120diagnosis",
+        "activation": 0.8267680406570435
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.7971050143241882
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120cancer",
+        "activation": 1.0680665969848633
+      },
+      {
+        "word": "cancer",
+        "activation": 0.9535893797874451
+      },
+      {
+        "word": "ous",
+        "activation": 0.9190428853034973
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.8943814039230347
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 0.8860642910003662
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.8617333173751831
+      },
+      {
+        "word": "\u0120diagnoses",
+        "activation": 0.8541333079338074
+      },
+      {
+        "word": "\u0120diagnosis",
+        "activation": 0.8267680406570435
+      },
+      {
+        "word": "\u0120metast",
+        "activation": 0.8145419359207153
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.7971050143241882
+      }
+    ]
+  },
+  "454": {
+    "medical_words": [
+      {
+        "word": "\u0120Treatment",
+        "activation": 0.7340811491012573
+      },
+      {
+        "word": "treatment",
+        "activation": 0.6161676049232483
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 0.6132462024688721
+      },
+      {
+        "word": "\u0120treatments",
+        "activation": 0.5398677587509155
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Treatment",
+        "activation": 0.7340811491012573
+      },
+      {
+        "word": "treatment",
+        "activation": 0.6161676049232483
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 0.6132462024688721
+      },
+      {
+        "word": "reatment",
+        "activation": 0.6037428975105286
+      },
+      {
+        "word": "Mania",
+        "activation": 0.5903657674789429
+      },
+      {
+        "word": "Score",
+        "activation": 0.5743187665939331
+      },
+      {
+        "word": "\u0120protocols",
+        "activation": 0.5630115270614624
+      },
+      {
+        "word": "\u0120Clause",
+        "activation": 0.5623245239257812
+      },
+      {
+        "word": "OSP",
+        "activation": 0.5451587438583374
+      },
+      {
+        "word": "\u0120treatments",
+        "activation": 0.5398677587509155
+      }
+    ]
+  },
+  "455": {
+    "medical_words": [
+      {
+        "word": "\u0120genetics",
+        "activation": 0.7458637356758118
+      },
+      {
+        "word": "\u0120Genetics",
+        "activation": 0.740668535232544
+      }
+    ],
+    "top_words": [
+      {
+        "word": "odynamics",
+        "activation": 0.8126043081283569
+      },
+      {
+        "word": "istry",
+        "activation": 0.8068095445632935
+      },
+      {
+        "word": "\u0120textbooks",
+        "activation": 0.7815901637077332
+      },
+      {
+        "word": "biology",
+        "activation": 0.7565191388130188
+      },
+      {
+        "word": "\u0120textbook",
+        "activation": 0.7462756633758545
+      },
+      {
+        "word": "\u0120genetics",
+        "activation": 0.7458637356758118
+      },
+      {
+        "word": "\u0120Genetics",
+        "activation": 0.740668535232544
+      },
+      {
+        "word": "ology",
+        "activation": 0.7306761741638184
+      },
+      {
+        "word": "OLOGY",
+        "activation": 0.7098394632339478
+      },
+      {
+        "word": "ochemistry",
+        "activation": 0.7094613313674927
+      }
+    ]
+  },
+  "471": {
+    "medical_words": [
+      {
+        "word": "\u0120depression",
+        "activation": 0.8575635552406311
+      },
+      {
+        "word": "\u0120relapse",
+        "activation": 0.8171685934066772
+      },
+      {
+        "word": "\u0120Depression",
+        "activation": 0.7710593938827515
+      },
+      {
+        "word": "\u0120symptoms",
+        "activation": 0.7557852268218994
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120depression",
+        "activation": 0.8575635552406311
+      },
+      {
+        "word": "\u0120Wilhelm",
+        "activation": 0.8348835706710815
+      },
+      {
+        "word": "\u0120relapse",
+        "activation": 0.8171685934066772
+      },
+      {
+        "word": "idepress",
+        "activation": 0.8010557889938354
+      },
+      {
+        "word": "\u0120Depression",
+        "activation": 0.7710593938827515
+      },
+      {
+        "word": "insula",
+        "activation": 0.7645182013511658
+      },
+      {
+        "word": "\u0120symptoms",
+        "activation": 0.7557852268218994
+      },
+      {
+        "word": "\u0120depressed",
+        "activation": 0.7405571937561035
+      },
+      {
+        "word": "\u0120Journals",
+        "activation": 0.7338502407073975
+      },
+      {
+        "word": "\u0120depress",
+        "activation": 0.731871485710144
+      }
+    ]
+  },
+  "596": {
+    "medical_words": [
+      {
+        "word": "\u0120infections",
+        "activation": 0.9782034158706665
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 0.949926495552063
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120coli",
+        "activation": 1.0433852672576904
+      },
+      {
+        "word": "\u0120bacteria",
+        "activation": 1.0367178916931152
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.9782034158706665
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 0.949926495552063
+      },
+      {
+        "word": "\u0120strains",
+        "activation": 0.9144055843353271
+      },
+      {
+        "word": "\u0120biomass",
+        "activation": 0.8493317365646362
+      },
+      {
+        "word": "\u0120pathogens",
+        "activation": 0.8466124534606934
+      },
+      {
+        "word": "\u0120bacterial",
+        "activation": 0.8267845511436462
+      },
+      {
+        "word": "\u0120spores",
+        "activation": 0.8028421998023987
+      },
+      {
+        "word": "\u0120flora",
+        "activation": 0.8027058839797974
+      }
+    ]
+  },
+  "675": {
+    "medical_words": [
+      {
+        "word": "\u0120nervous",
+        "activation": 0.6914460062980652
+      },
+      {
+        "word": "\u0120immune",
+        "activation": 0.6283392906188965
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120interf",
+        "activation": 0.7518097162246704
+      },
+      {
+        "word": "\u0120nervous",
+        "activation": 0.6914460062980652
+      },
+      {
+        "word": "\u0120Immunity",
+        "activation": 0.6800886392593384
+      },
+      {
+        "word": "\u0120intra",
+        "activation": 0.642880380153656
+      },
+      {
+        "word": "\u0120immune",
+        "activation": 0.6283392906188965
+      },
+      {
+        "word": "\u0120understanding",
+        "activation": 0.6098376512527466
+      },
+      {
+        "word": "\u0120friction",
+        "activation": 0.6042712926864624
+      },
+      {
+        "word": "\u0120reactions",
+        "activation": 0.6012475490570068
+      },
+      {
+        "word": "\u0120reaction",
+        "activation": 0.5780150294303894
+      },
+      {
+        "word": "\u0120antic",
+        "activation": 0.5758843421936035
+      }
+    ]
+  },
+  "879": {
+    "medical_words": [
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.8891925811767578
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.8632205724716187
+      },
+      {
+        "word": "hospital",
+        "activation": 0.8532148599624634
+      }
+    ],
+    "top_words": [
+      {
+        "word": "iatric",
+        "activation": 1.0366847515106201
+      },
+      {
+        "word": "iatrics",
+        "activation": 0.9304711222648621
+      },
+      {
+        "word": "itutional",
+        "activation": 0.9265884160995483
+      },
+      {
+        "word": "\u0120pediatric",
+        "activation": 0.9217736721038818
+      },
+      {
+        "word": "atal",
+        "activation": 0.8903696537017822
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.8891925811767578
+      },
+      {
+        "word": "iac",
+        "activation": 0.8826757669448853
+      },
+      {
+        "word": "\u0120psychiatric",
+        "activation": 0.8743137121200562
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.8632205724716187
+      },
+      {
+        "word": "hospital",
+        "activation": 0.8532148599624634
+      }
+    ]
+  },
+  "1071": {
+    "medical_words": [
+      {
+        "word": "\u0120transplant",
+        "activation": 1.0057475566864014
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.6970049142837524
+      }
+    ],
+    "top_words": [
+      {
+        "word": "monary",
+        "activation": 1.1026735305786133
+      },
+      {
+        "word": "\u0120transplant",
+        "activation": 1.0057475566864014
+      },
+      {
+        "word": "\u0120transpl",
+        "activation": 0.9110263586044312
+      },
+      {
+        "word": "ications",
+        "activation": 0.822851300239563
+      },
+      {
+        "word": "\u0120pulmonary",
+        "activation": 0.7594250440597534
+      },
+      {
+        "word": "\u0120resusc",
+        "activation": 0.7152142524719238
+      },
+      {
+        "word": "lucent",
+        "activation": 0.7129009366035461
+      },
+      {
+        "word": "icated",
+        "activation": 0.7100801467895508
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.6970049142837524
+      },
+      {
+        "word": "itably",
+        "activation": 0.6844465732574463
+      }
+    ]
+  },
+  "1103": {
+    "medical_words": [
+      {
+        "word": "Bone",
+        "activation": 1.2906421422958374
+      },
+      {
+        "word": "bone",
+        "activation": 1.0955288410186768
+      },
+      {
+        "word": "\u0120Bone",
+        "activation": 1.0193276405334473
+      },
+      {
+        "word": "\u0120bone",
+        "activation": 0.9324926137924194
+      },
+      {
+        "word": "\u0120bones",
+        "activation": 0.9191993474960327
+      },
+      {
+        "word": "bones",
+        "activation": 0.906982421875
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120marrow",
+        "activation": 1.4617924690246582
+      },
+      {
+        "word": "Bone",
+        "activation": 1.2906421422958374
+      },
+      {
+        "word": "bone",
+        "activation": 1.0955288410186768
+      },
+      {
+        "word": "\u0120Bone",
+        "activation": 1.0193276405334473
+      },
+      {
+        "word": "\u0120fide",
+        "activation": 0.9596794247627258
+      },
+      {
+        "word": "\u0120bone",
+        "activation": 0.9324926137924194
+      },
+      {
+        "word": "meal",
+        "activation": 0.9303930401802063
+      },
+      {
+        "word": "\u0120bones",
+        "activation": 0.9191993474960327
+      },
+      {
+        "word": "bones",
+        "activation": 0.906982421875
+      },
+      {
+        "word": "neau",
+        "activation": 0.8458538055419922
+      }
+    ]
+  },
+  "1721": {
+    "medical_words": [
+      {
+        "word": "bones",
+        "activation": 0.8192732930183411
+      },
+      {
+        "word": "Bone",
+        "activation": 0.781799852848053
+      },
+      {
+        "word": "\u0120bones",
+        "activation": 0.7737960815429688
+      },
+      {
+        "word": "\u0120bone",
+        "activation": 0.7524392604827881
+      },
+      {
+        "word": "bone",
+        "activation": 0.7437765002250671
+      }
+    ],
+    "top_words": [
+      {
+        "word": "puter",
+        "activation": 0.8408138751983643
+      },
+      {
+        "word": "bones",
+        "activation": 0.8192732930183411
+      },
+      {
+        "word": "\u0120legs",
+        "activation": 0.8115808367729187
+      },
+      {
+        "word": "\u0120leg",
+        "activation": 0.7955024242401123
+      },
+      {
+        "word": "Bone",
+        "activation": 0.781799852848053
+      },
+      {
+        "word": "\u0120Feather",
+        "activation": 0.7738569974899292
+      },
+      {
+        "word": "\u0120bones",
+        "activation": 0.7737960815429688
+      },
+      {
+        "word": "\u0120bone",
+        "activation": 0.7524392604827881
+      },
+      {
+        "word": "\u0120joints",
+        "activation": 0.7468634843826294
+      },
+      {
+        "word": "bone",
+        "activation": 0.7437765002250671
+      }
+    ]
+  },
+  
+  "2214": {
+    "medical_words": [
+      {
+        "word": "\u0120chronic",
+        "activation": 0.6521250009536743
+      },
+      {
+        "word": "\u0120Chronic",
+        "activation": 0.6073858737945557
+      }
+    ],
+    "top_words": [
+      {
+        "word": "led",
+        "activation": 0.6857327818870544
+      },
+      {
+        "word": "\u0120chronic",
+        "activation": 0.6521250009536743
+      },
+      {
+        "word": "ties",
+        "activation": 0.6366879343986511
+      },
+      {
+        "word": "\u0120Chronic",
+        "activation": 0.6073858737945557
+      },
+      {
+        "word": "enter",
+        "activation": 0.6046402454376221
+      },
+      {
+        "word": "\u0120traumatic",
+        "activation": 0.5951966047286987
+      },
+      {
+        "word": "cknowled",
+        "activation": 0.593112587928772
+      },
+      {
+        "word": "rodu",
+        "activation": 0.5796667337417603
+      },
+      {
+        "word": "LED",
+        "activation": 0.5637466907501221
+      },
+      {
+        "word": "kered",
+        "activation": 0.5581107139587402
+      }
+    ]
+  },
+  "2933": {
+    "medical_words": [
+      {
+        "word": "\u0120asthma",
+        "activation": 0.9547485709190369
+      },
+      {
+        "word": "\u0120respiratory",
+        "activation": 0.9493023157119751
+      },
+      {
+        "word": "\u0120cardiovascular",
+        "activation": 0.9430397748947144
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.9124249219894409
+      }
+    ],
+    "top_words": [
+      {
+        "word": "iovascular",
+        "activation": 0.9692654609680176
+      },
+      {
+        "word": "\u0120cardiac",
+        "activation": 0.9566462635993958
+      },
+      {
+        "word": "\u0120asthma",
+        "activation": 0.9547485709190369
+      },
+      {
+        "word": "\u0120respiratory",
+        "activation": 0.9493023157119751
+      },
+      {
+        "word": "\u0120cardiovascular",
+        "activation": 0.9430397748947144
+      },
+      {
+        "word": "\u0120hemor",
+        "activation": 0.9381915330886841
+      },
+      {
+        "word": "\u0120pulmonary",
+        "activation": 0.930441677570343
+      },
+      {
+        "word": "ysis",
+        "activation": 0.9144142270088196
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.9124249219894409
+      },
+      {
+        "word": "\u0120gastrointestinal",
+        "activation": 0.8958322405815125
+      }
+    ]
+  },
+  "3395": {
+    "medical_words": [
+      {
+        "word": "\u0120Bloody",
+        "activation": 0.948436975479126
+      },
+      {
+        "word": "\u0120Bones",
+        "activation": 0.9480606913566589
+      },
+      {
+        "word": "blooded",
+        "activation": 0.9361138343811035
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Scots",
+        "activation": 0.970012366771698
+      },
+      {
+        "word": "\u0120Bloody",
+        "activation": 0.948436975479126
+      },
+      {
+        "word": "\u0120Bones",
+        "activation": 0.9480606913566589
+      },
+      {
+        "word": "blooded",
+        "activation": 0.9361138343811035
+      },
+      {
+        "word": "\u0120Hills",
+        "activation": 0.859530508518219
+      },
+      {
+        "word": "\u0120Draco",
+        "activation": 0.8494682312011719
+      },
+      {
+        "word": "\u0120Yorkshire",
+        "activation": 0.8460031151771545
+      },
+      {
+        "word": "False",
+        "activation": 0.8129948377609253
+      },
+      {
+        "word": "\u0120True",
+        "activation": 0.7977407574653625
+      },
+      {
+        "word": "\u0120impartial",
+        "activation": 0.7928563356399536
+      }
+    ]
+  },
+  "3425": {
+    "medical_words": [
+      {
+        "word": "\u0120symptoms",
+        "activation": 0.8235509395599365
+      },
+      {
+        "word": "\u0120Symptoms",
+        "activation": 0.7884544134140015
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120symptoms",
+        "activation": 0.8235509395599365
+      },
+      {
+        "word": "ptoms",
+        "activation": 0.8042187690734863
+      },
+      {
+        "word": "\u0120Symptoms",
+        "activation": 0.7884544134140015
+      },
+      {
+        "word": "\u0120artif",
+        "activation": 0.6457360982894897
+      },
+      {
+        "word": "oresc",
+        "activation": 0.6271003484725952
+      },
+      {
+        "word": "olutions",
+        "activation": 0.6168445348739624
+      },
+      {
+        "word": "fixes",
+        "activation": 0.6064025163650513
+      },
+      {
+        "word": "\u0120schizophren",
+        "activation": 0.5904501676559448
+      },
+      {
+        "word": "\u0120hemorrh",
+        "activation": 0.5882253050804138
+      },
+      {
+        "word": "\u0120glands",
+        "activation": 0.5815978646278381
+      }
+    ]
+  },
+  "3688": {
+    "medical_words": [
+      {
+        "word": "\u0120genetic",
+        "activation": 0.7987869381904602
+      },
+      {
+        "word": "\u0120genetics",
+        "activation": 0.7863141298294067
+      },
+      {
+        "word": "\u0120genetically",
+        "activation": 0.7705501317977905
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120predis",
+        "activation": 0.815964937210083
+      },
+      {
+        "word": "\u0120genetic",
+        "activation": 0.7987869381904602
+      },
+      {
+        "word": "\u0120genetics",
+        "activation": 0.7863141298294067
+      },
+      {
+        "word": "\u0120profiling",
+        "activation": 0.7773498296737671
+      },
+      {
+        "word": "\u0120genetically",
+        "activation": 0.7705501317977905
+      },
+      {
+        "word": "\u0120irrad",
+        "activation": 0.7440623641014099
+      },
+      {
+        "word": "etically",
+        "activation": 0.7298891544342041
+      },
+      {
+        "word": "\u0120ancestry",
+        "activation": 0.7279576659202576
+      },
+      {
+        "word": "\u0120biologist",
+        "activation": 0.727046549320221
+      },
+      {
+        "word": "\u0120breeding",
+        "activation": 0.7268154621124268
+      }
+    ]
+  },
+  "4607": {
+    "medical_words": [
+      {
+        "word": "\u0120genetic",
+        "activation": 0.6344711780548096
+      },
+      {
+        "word": "\u0120genetics",
+        "activation": 0.5772755146026611
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120abnormalities",
+        "activation": 0.645492672920227
+      },
+      {
+        "word": "\u0120biomark",
+        "activation": 0.6396639943122864
+      },
+      {
+        "word": "\u0120genetic",
+        "activation": 0.6344711780548096
+      },
+      {
+        "word": "\u0120predis",
+        "activation": 0.627447247505188
+      },
+      {
+        "word": "FactoryReloaded",
+        "activation": 0.6165995001792908
+      },
+      {
+        "word": "\u0120biology",
+        "activation": 0.5993967056274414
+      },
+      {
+        "word": "\u0120deviations",
+        "activation": 0.599380612373352
+      },
+      {
+        "word": "\u0120superiority",
+        "activation": 0.5988342761993408
+      },
+      {
+        "word": "\u0120tests",
+        "activation": 0.5847616791725159
+      },
+      {
+        "word": "\u0120genetics",
+        "activation": 0.5772755146026611
+      }
+    ]
+  },
+  "4927": {
+    "medical_words": [
+      {
+        "word": "\u0120Therapy",
+        "activation": 0.7905488014221191
+      },
+      {
+        "word": "otherapy",
+        "activation": 0.7852005958557129
+      },
+      {
+        "word": "\u0120therapy",
+        "activation": 0.7786969542503357
+      },
+      {
+        "word": "\u0120treatments",
+        "activation": 0.7762013673782349
+      }
+    ],
+    "top_words": [
+      {
+        "word": "apy",
+        "activation": 0.8028351664543152
+      },
+      {
+        "word": "\u0120Therapy",
+        "activation": 0.7905488014221191
+      },
+      {
+        "word": "otherapy",
+        "activation": 0.7852005958557129
+      },
+      {
+        "word": "\u0120therapy",
+        "activation": 0.7786969542503357
+      },
+      {
+        "word": "\u0120treatments",
+        "activation": 0.7762013673782349
+      },
+      {
+        "word": "\u0120therapies",
+        "activation": 0.7729369401931763
+      },
+      {
+        "word": "apist",
+        "activation": 0.7207090854644775
+      },
+      {
+        "word": "oons",
+        "activation": 0.6277565956115723
+      },
+      {
+        "word": "\u0120cures",
+        "activation": 0.6045175790786743
+      },
+      {
+        "word": "hesis",
+        "activation": 0.6004340648651123
+      }
+    ]
+  },
+  "5045": {
+    "medical_words": [
+      {
+        "word": "\u0120Symptoms",
+        "activation": 0.7364282608032227
+      },
+      {
+        "word": "\u0120symptoms",
+        "activation": 0.694705605506897
+      },
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.6601107120513916
+      }
+    ],
+    "top_words": [
+      {
+        "word": "ptoms",
+        "activation": 0.9157962799072266
+      },
+      {
+        "word": "\u0120worsen",
+        "activation": 0.8390352129936218
+      },
+      {
+        "word": "ality",
+        "activation": 0.7977240681648254
+      },
+      {
+        "word": "\u0120Symptoms",
+        "activation": 0.7364282608032227
+      },
+      {
+        "word": "igue",
+        "activation": 0.7202852964401245
+      },
+      {
+        "word": "\u0120worsened",
+        "activation": 0.7143254280090332
+      },
+      {
+        "word": "\u0120lesions",
+        "activation": 0.7011474370956421
+      },
+      {
+        "word": "\u0120exacerb",
+        "activation": 0.6981746554374695
+      },
+      {
+        "word": "\u0120symptoms",
+        "activation": 0.694705605506897
+      },
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.6601107120513916
+      }
+    ]
+  },
+  "5354": {
+    "medical_words": [
+      {
+        "word": "\u0120artery",
+        "activation": 0.8672311305999756
+      },
+      {
+        "word": "\u0120muscle",
+        "activation": 0.7870136499404907
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120inertia",
+        "activation": 0.8793069124221802
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.8672311305999756
+      },
+      {
+        "word": "abolic",
+        "activation": 0.8190771341323853
+      },
+      {
+        "word": "\u0120arrest",
+        "activation": 0.8105440735816956
+      },
+      {
+        "word": "\u0120livest",
+        "activation": 0.8085336089134216
+      },
+      {
+        "word": "\u0120arousal",
+        "activation": 0.7899453639984131
+      },
+      {
+        "word": "\u0120muscle",
+        "activation": 0.7870136499404907
+      },
+      {
+        "word": "ricular",
+        "activation": 0.7715969681739807
+      },
+      {
+        "word": "\u0120disabilities",
+        "activation": 0.7654215097427368
+      },
+      {
+        "word": "\u0120governors",
+        "activation": 0.7558116316795349
+      }
+    ]
+  },
+  "5556": {
+    "medical_words": [
+      {
+        "word": "\u0120infection",
+        "activation": 1.0415998697280884
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.882254958152771
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Leone",
+        "activation": 1.137223482131958
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 1.0415998697280884
+      },
+      {
+        "word": "\u0120infected",
+        "activation": 0.9861730933189392
+      },
+      {
+        "word": "\u0120Infect",
+        "activation": 0.9263109564781189
+      },
+      {
+        "word": "\u0120infect",
+        "activation": 0.8925511837005615
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.882254958152771
+      },
+      {
+        "word": "\u0120Plague",
+        "activation": 0.8778848052024841
+      },
+      {
+        "word": "\u0120outbreak",
+        "activation": 0.8528571724891663
+      },
+      {
+        "word": "eers",
+        "activation": 0.8405689001083374
+      },
+      {
+        "word": "\u0120Outbreak",
+        "activation": 0.8381985425949097
+      }
+    ]
+  },
+  "5563": {
+    "medical_words": [
+      {
+        "word": "bone",
+        "activation": 0.7488356232643127
+      },
+      {
+        "word": "bones",
+        "activation": 0.7005811929702759
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120cuff",
+        "activation": 0.7799524068832397
+      },
+      {
+        "word": "\u0120shoulder",
+        "activation": 0.7627849578857422
+      },
+      {
+        "word": "bone",
+        "activation": 0.7488356232643127
+      },
+      {
+        "word": "\u0120wrist",
+        "activation": 0.7267725467681885
+      },
+      {
+        "word": "\u0120joints",
+        "activation": 0.7065306305885315
+      },
+      {
+        "word": "bones",
+        "activation": 0.7005811929702759
+      },
+      {
+        "word": "\u0120blades",
+        "activation": 0.7005072236061096
+      },
+      {
+        "word": "links",
+        "activation": 0.6950541734695435
+      },
+      {
+        "word": "\u0120elbow",
+        "activation": 0.6850430965423584
+      },
+      {
+        "word": "\u0120tongue",
+        "activation": 0.6672701835632324
+      }
+    ]
+  },
+  "5607": {
+    "medical_words": [
+      {
+        "word": "\u0120Diabetes",
+        "activation": 0.8989365696907043
+      },
+      {
+        "word": "\u0120insulin",
+        "activation": 0.8738878965377808
+      },
+      {
+        "word": "\u0120diabetes",
+        "activation": 0.7958134412765503
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120mell",
+        "activation": 1.1686363220214844
+      },
+      {
+        "word": "\u0120Diabetes",
+        "activation": 0.8989365696907043
+      },
+      {
+        "word": "\u0120insulin",
+        "activation": 0.8738878965377808
+      },
+      {
+        "word": "\u0120glucose",
+        "activation": 0.8500607013702393
+      },
+      {
+        "word": "\u0120Mell",
+        "activation": 0.8281556367874146
+      },
+      {
+        "word": "\u0120diabetic",
+        "activation": 0.8255898356437683
+      },
+      {
+        "word": "\u0120diabetes",
+        "activation": 0.7958134412765503
+      },
+      {
+        "word": "\u0120ket",
+        "activation": 0.7910170555114746
+      },
+      {
+        "word": "\u0120hepat",
+        "activation": 0.7683384418487549
+      },
+      {
+        "word": "abetes",
+        "activation": 0.7123973965644836
+      }
+    ]
+  },
+  "5659": {
+    "medical_words": [
+      {
+        "word": "\u0120lung",
+        "activation": 0.9740514755249023
+      },
+      {
+        "word": "\u0120lungs",
+        "activation": 0.8036689162254333
+      },
+      {
+        "word": "\u0120Lung",
+        "activation": 0.658880352973938
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.655182957649231
+      }
+    ],
+    "top_words": [
+      {
+        "word": "monary",
+        "activation": 1.0146552324295044
+      },
+      {
+        "word": "\u0120lung",
+        "activation": 0.9740514755249023
+      },
+      {
+        "word": "\u0120pneumonia",
+        "activation": 0.809039831161499
+      },
+      {
+        "word": "\u0120lungs",
+        "activation": 0.8036689162254333
+      },
+      {
+        "word": "\u0120tuberculosis",
+        "activation": 0.7863020896911621
+      },
+      {
+        "word": "\u0120pulmonary",
+        "activation": 0.7536157965660095
+      },
+      {
+        "word": "\u0120Lung",
+        "activation": 0.658880352973938
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.655182957649231
+      },
+      {
+        "word": "\u0120bowel",
+        "activation": 0.6308836936950684
+      },
+      {
+        "word": "\u0120smoked",
+        "activation": 0.6290186643600464
+      }
+    ]
+  },
+  "5677": {
+    "medical_words": [
+      {
+        "word": "\u0120nervous",
+        "activation": 0.9872644543647766
+      },
+      {
+        "word": "\u0120anxiety",
+        "activation": 0.7695053815841675
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120nervous",
+        "activation": 0.9872644543647766
+      },
+      {
+        "word": "\u0120anxious",
+        "activation": 0.8541117906570435
+      },
+      {
+        "word": "\u0120nerves",
+        "activation": 0.8426709175109863
+      },
+      {
+        "word": "\u0120apprehens",
+        "activation": 0.8357470035552979
+      },
+      {
+        "word": "\u0120anxiety",
+        "activation": 0.7695053815841675
+      },
+      {
+        "word": "\u0120adolesc",
+        "activation": 0.7624379396438599
+      },
+      {
+        "word": "\u0120fearful",
+        "activation": 0.7490541934967041
+      },
+      {
+        "word": "\u0120anx",
+        "activation": 0.7486700415611267
+      },
+      {
+        "word": "xiety",
+        "activation": 0.7318073511123657
+      },
+      {
+        "word": "\u0120Qiao",
+        "activation": 0.7295067310333252
+      }
+    ]
+  },
+  "5709": {
+    "medical_words": [
+      {
+        "word": "\u0120Therapy",
+        "activation": 0.822906494140625
+      },
+      {
+        "word": "\u0120therapy",
+        "activation": 0.781920313835144
+      },
+      {
+        "word": "otherapy",
+        "activation": 0.7805317044258118
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Rooms",
+        "activation": 0.9597042798995972
+      },
+      {
+        "word": "apist",
+        "activation": 0.8663245439529419
+      },
+      {
+        "word": "idges",
+        "activation": 0.8559423685073853
+      },
+      {
+        "word": "\u0120Therapy",
+        "activation": 0.822906494140625
+      },
+      {
+        "word": "\u0120Devices",
+        "activation": 0.7974041700363159
+      },
+      {
+        "word": "\u0120therapy",
+        "activation": 0.781920313835144
+      },
+      {
+        "word": "otherapy",
+        "activation": 0.7805317044258118
+      },
+      {
+        "word": "\u0120Talk",
+        "activation": 0.7711661458015442
+      },
+      {
+        "word": "agna",
+        "activation": 0.7659822702407837
+      },
+      {
+        "word": "\u0120burns",
+        "activation": 0.7633370757102966
+      }
+    ]
+  },
+  "5945": {
+    "medical_words": [
+      {
+        "word": "\u0120genetics",
+        "activation": 0.6796696186065674
+      },
+      {
+        "word": "\u0120Genetics",
+        "activation": 0.6702326536178589
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120sequencing",
+        "activation": 0.7081530690193176
+      },
+      {
+        "word": "\u0120chromosomes",
+        "activation": 0.6953357458114624
+      },
+      {
+        "word": "\u0120biologist",
+        "activation": 0.6807971596717834
+      },
+      {
+        "word": "\u0120genetics",
+        "activation": 0.6796696186065674
+      },
+      {
+        "word": "\u0120Genetics",
+        "activation": 0.6702326536178589
+      },
+      {
+        "word": "\u0120genome",
+        "activation": 0.6692152619361877
+      },
+      {
+        "word": "\u0120biology",
+        "activation": 0.6691705584526062
+      },
+      {
+        "word": "zyme",
+        "activation": 0.6663877964019775
+      },
+      {
+        "word": "\u0120Biology",
+        "activation": 0.6663550734519958
+      },
+      {
+        "word": "\u0120strand",
+        "activation": 0.6653599739074707
+      }
+    ]
+  },
+
+  "6263": {
+    "medical_words": [
+      {
+        "word": "otherapy",
+        "activation": 0.763336181640625
+      },
+      {
+        "word": "\u0120chemotherapy",
+        "activation": 0.7147518396377563
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120chem",
+        "activation": 1.0152711868286133
+      },
+      {
+        "word": "chem",
+        "activation": 0.7959325313568115
+      },
+      {
+        "word": "otherapy",
+        "activation": 0.763336181640625
+      },
+      {
+        "word": "\u0120chemotherapy",
+        "activation": 0.7147518396377563
+      },
+      {
+        "word": "icals",
+        "activation": 0.6899468302726746
+      },
+      {
+        "word": "\u0120chemist",
+        "activation": 0.6697747707366943
+      },
+      {
+        "word": "\u0120annex",
+        "activation": 0.6664717197418213
+      },
+      {
+        "word": "eers",
+        "activation": 0.6480588912963867
+      },
+      {
+        "word": "\u0120chemistry",
+        "activation": 0.6334697008132935
+      },
+      {
+        "word": "zos",
+        "activation": 0.6313748359680176
+      }
+    ]
+  },
+ 
+  "7251": {
+    "medical_words": [
+      {
+        "word": "\u0120tumor",
+        "activation": 1.0631320476531982
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 1.040350079536438
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.7271244525909424
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120tumor",
+        "activation": 1.0631320476531982
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 1.040350079536438
+      },
+      {
+        "word": "\u0120mast",
+        "activation": 0.8117961883544922
+      },
+      {
+        "word": "\u0120tissue",
+        "activation": 0.789928674697876
+      },
+      {
+        "word": "\u0120strains",
+        "activation": 0.7394009232521057
+      },
+      {
+        "word": "\u0120ridden",
+        "activation": 0.7338322401046753
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.7271244525909424
+      },
+      {
+        "word": "stre",
+        "activation": 0.7130348682403564
+      },
+      {
+        "word": "\u0120rupt",
+        "activation": 0.708072304725647
+      },
+      {
+        "word": "omas",
+        "activation": 0.6998474597930908
+      }
+    ]
+  },
+  "7330": {
+    "medical_words": [
+      {
+        "word": "\u0120Treatment",
+        "activation": 0.8155686855316162
+      },
+      {
+        "word": "treatment",
+        "activation": 0.6501390933990479
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 0.6491600275039673
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120untreated",
+        "activation": 0.8423546552658081
+      },
+      {
+        "word": "\u0120Treatment",
+        "activation": 0.8155686855316162
+      },
+      {
+        "word": "hyde",
+        "activation": 0.7341814637184143
+      },
+      {
+        "word": "\u0120treated",
+        "activation": 0.6824970245361328
+      },
+      {
+        "word": "mercial",
+        "activation": 0.667935848236084
+      },
+      {
+        "word": "treated",
+        "activation": 0.6655745506286621
+      },
+      {
+        "word": "reatment",
+        "activation": 0.654364824295044
+      },
+      {
+        "word": "treatment",
+        "activation": 0.6501390933990479
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 0.6491600275039673
+      },
+      {
+        "word": "\u0120Treat",
+        "activation": 0.6470149755477905
+      }
+    ]
+  },
+  "7393": {
+    "medical_words": [
+      {
+        "word": "\u0120cancers",
+        "activation": 0.7897769808769226
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.7531805038452148
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120gland",
+        "activation": 1.1395971775054932
+      },
+      {
+        "word": "\u0120glands",
+        "activation": 1.092097282409668
+      },
+      {
+        "word": "ysis",
+        "activation": 0.9166219234466553
+      },
+      {
+        "word": "\u0120gon",
+        "activation": 0.8526210188865662
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.7897769808769226
+      },
+      {
+        "word": "\u0120prostate",
+        "activation": 0.7618649005889893
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.7531805038452148
+      },
+      {
+        "word": "\u0120ejac",
+        "activation": 0.6950151920318604
+      },
+      {
+        "word": "\u0120graft",
+        "activation": 0.688339352607727
+      },
+      {
+        "word": "\u0120adren",
+        "activation": 0.678554892539978
+      }
+    ]
+  },
+  "7417": {
+    "medical_words": [
+      {
+        "word": "\u0120artery",
+        "activation": 1.085195779800415
+      },
+      {
+        "word": "\u0120cardiovascular",
+        "activation": 0.9238825440406799
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120artery",
+        "activation": 1.085195779800415
+      },
+      {
+        "word": "\u0120coronary",
+        "activation": 0.9533718824386597
+      },
+      {
+        "word": "\u0120cardiovascular",
+        "activation": 0.9238825440406799
+      },
+      {
+        "word": "iovascular",
+        "activation": 0.9024232625961304
+      },
+      {
+        "word": "\u0120arteries",
+        "activation": 0.8684132099151611
+      },
+      {
+        "word": "\u0120vascular",
+        "activation": 0.8673804998397827
+      },
+      {
+        "word": "\u0120endot",
+        "activation": 0.8065669536590576
+      },
+      {
+        "word": "obal",
+        "activation": 0.7564564943313599
+      },
+      {
+        "word": "\u0120cort",
+        "activation": 0.7397158145904541
+      },
+      {
+        "word": "\u0120cortex",
+        "activation": 0.7195253372192383
+      }
+    ]
+  },
+  "7448": {
+    "medical_words": [
+      {
+        "word": "\u0120doctoral",
+        "activation": 0.7760254740715027
+      },
+      {
+        "word": "\u0120Psychiatry",
+        "activation": 0.7304155230522156
+      }
+    ],
+    "top_words": [
+      {
+        "word": "ournals",
+        "activation": 1.0418882369995117
+      },
+      {
+        "word": "doi",
+        "activation": 0.8625515699386597
+      },
+      {
+        "word": "\u0120Rapp",
+        "activation": 0.8023431301116943
+      },
+      {
+        "word": "\u0120doctoral",
+        "activation": 0.7760254740715027
+      },
+      {
+        "word": "itsch",
+        "activation": 0.7710415124893188
+      },
+      {
+        "word": "\u0138\u013c",
+        "activation": 0.7557294368743896
+      },
+      {
+        "word": "\u0128\u0134",
+        "activation": 0.7524416446685791
+      },
+      {
+        "word": "\u0120Neuroscience",
+        "activation": 0.7514535188674927
+      },
+      {
+        "word": "alyses",
+        "activation": 0.7354148626327515
+      },
+      {
+        "word": "\u0120Psychiatry",
+        "activation": 0.7304155230522156
+      }
+    ]
+  },
+  "7591": {
+    "medical_words": [
+      {
+        "word": "\u0120Surgery",
+        "activation": 1.0098155736923218
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 0.9058477878570557
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 0.8177992701530457
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Surgery",
+        "activation": 1.0098155736923218
+      },
+      {
+        "word": "\u0120surgical",
+        "activation": 0.9681290984153748
+      },
+      {
+        "word": "\u0120externalToEVAOnly",
+        "activation": 0.938849151134491
+      },
+      {
+        "word": "urgical",
+        "activation": 0.9154305458068848
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 0.9058477878570557
+      },
+      {
+        "word": "\u0120anesthesia",
+        "activation": 0.8601413369178772
+      },
+      {
+        "word": "\u00e3\u0125\u00bc\u00e3\u0124\u00af",
+        "activation": 0.8229126334190369
+      },
+      {
+        "word": "\u0120scars",
+        "activation": 0.8196408748626709
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 0.8177992701530457
+      },
+      {
+        "word": "\u0120amput",
+        "activation": 0.8175482749938965
+      }
+    ]
+  },
+  "7621": {
+    "medical_words": [
+      {
+        "word": "\u0120Patient",
+        "activation": 0.7167160511016846
+      },
+      {
+        "word": "\u0120Medical",
+        "activation": 0.6989986896514893
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 0.6444112062454224
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Canaver",
+        "activation": 0.7750545740127563
+      },
+      {
+        "word": "\u0120Patient",
+        "activation": 0.7167160511016846
+      },
+      {
+        "word": "\u0120care",
+        "activation": 0.715114951133728
+      },
+      {
+        "word": "\u0120Medical",
+        "activation": 0.6989986896514893
+      },
+      {
+        "word": "\u0120practition",
+        "activation": 0.6915774345397949
+      },
+      {
+        "word": "\u0120Care",
+        "activation": 0.6697087287902832
+      },
+      {
+        "word": "\u0120surgical",
+        "activation": 0.6473568677902222
+      },
+      {
+        "word": "\u0120nursing",
+        "activation": 0.6452403664588928
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 0.6444112062454224
+      },
+      {
+        "word": "\u0120suspic",
+        "activation": 0.6426818370819092
+      }
+    ]
+  },
+  "7634": {
+    "medical_words": [
+      {
+        "word": "\u0120cancer",
+        "activation": 0.9443004131317139
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 0.8336776494979858
+      },
+      {
+        "word": "\u0120lung",
+        "activation": 0.8106467723846436
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.779712438583374
+      },
+      {
+        "word": "cancer",
+        "activation": 0.7280431985855103
+      },
+      {
+        "word": "\u0120tumor",
+        "activation": 0.6874020099639893
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.6745548248291016
+      },
+      {
+        "word": "\u0120Lung",
+        "activation": 0.633685827255249
+      },
+      {
+        "word": "\u0120lungs",
+        "activation": 0.6189632415771484
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120cancer",
+        "activation": 0.9443004131317139
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 0.8336776494979858
+      },
+      {
+        "word": "\u0120lung",
+        "activation": 0.8106467723846436
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.779712438583374
+      },
+      {
+        "word": "cancer",
+        "activation": 0.7280431985855103
+      },
+      {
+        "word": "\u0120tumor",
+        "activation": 0.6874020099639893
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.6745548248291016
+      },
+      {
+        "word": "\u0120carcin",
+        "activation": 0.6377776861190796
+      },
+      {
+        "word": "\u0120Lung",
+        "activation": 0.633685827255249
+      },
+      {
+        "word": "\u0120lungs",
+        "activation": 0.6189632415771484
+      }
+    ]
+  },
+  "7654": {
+    "medical_words": [
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.6726664304733276
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.6571943759918213
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 0.6419584155082703
+      }
+    ],
+    "top_words": [
+      {
+        "word": "bite",
+        "activation": 0.761446475982666
+      },
+      {
+        "word": "\u0120Shroud",
+        "activation": 0.7255173921585083
+      },
+      {
+        "word": "worthiness",
+        "activation": 0.6903237104415894
+      },
+      {
+        "word": "AIDS",
+        "activation": 0.6741055250167847
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.6726664304733276
+      },
+      {
+        "word": "\u0120Echoes",
+        "activation": 0.6607978343963623
+      },
+      {
+        "word": "ieties",
+        "activation": 0.659985363483429
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.6571943759918213
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 0.6419584155082703
+      },
+      {
+        "word": "vid",
+        "activation": 0.6344144940376282
+      }
+    ]
+  },
+  "7656": {
+    "medical_words": [
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.7892311811447144
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.7072387933731079
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.7892311811447144
+      },
+      {
+        "word": "\u0120lesions",
+        "activation": 0.7774780988693237
+      },
+      {
+        "word": "ignant",
+        "activation": 0.7680346369743347
+      },
+      {
+        "word": "ousy",
+        "activation": 0.747614860534668
+      },
+      {
+        "word": "\u0120dementia",
+        "activation": 0.7265126705169678
+      },
+      {
+        "word": "opathy",
+        "activation": 0.7181538343429565
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.7072387933731079
+      },
+      {
+        "word": "cules",
+        "activation": 0.6996766328811646
+      },
+      {
+        "word": "\u0120lymph",
+        "activation": 0.696398138999939
+      },
+      {
+        "word": "\u0120carcin",
+        "activation": 0.6888589859008789
+      }
+    ]
+  },
+  
+  "8246": {
+    "medical_words": [
+      {
+        "word": "\u0120diagnosis",
+        "activation": 0.6316124796867371
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.5823639035224915
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Outbreak",
+        "activation": 0.6823693513870239
+      },
+      {
+        "word": "heimer",
+        "activation": 0.6744132041931152
+      },
+      {
+        "word": "\u0120diagnosed",
+        "activation": 0.6493529081344604
+      },
+      {
+        "word": "\u0120diagnoses",
+        "activation": 0.6466611623764038
+      },
+      {
+        "word": "\u0120disorders",
+        "activation": 0.6432640552520752
+      },
+      {
+        "word": "\u0120diagnosis",
+        "activation": 0.6316124796867371
+      },
+      {
+        "word": "\u0120outbreak",
+        "activation": 0.6049447059631348
+      },
+      {
+        "word": "\u0120worsen",
+        "activation": 0.5927667617797852
+      },
+      {
+        "word": "\u0120epidemic",
+        "activation": 0.588497519493103
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.5823639035224915
+      }
+    ]
+  },
+  "8520": {
+    "medical_words": [
+      {
+        "word": "\u0120kidney",
+        "activation": 0.7242394685745239
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.6785147190093994
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120vision",
+        "activation": 0.7958223819732666
+      },
+      {
+        "word": "\u0120vas",
+        "activation": 0.7311855554580688
+      },
+      {
+        "word": "\u0120kidney",
+        "activation": 0.7242394685745239
+      },
+      {
+        "word": "\u0120lymph",
+        "activation": 0.7075121402740479
+      },
+      {
+        "word": "stem",
+        "activation": 0.7010344862937927
+      },
+      {
+        "word": "\u0120muscular",
+        "activation": 0.6969570517539978
+      },
+      {
+        "word": "\u0120Stro",
+        "activation": 0.6909693479537964
+      },
+      {
+        "word": "iovascular",
+        "activation": 0.685383677482605
+      },
+      {
+        "word": "let",
+        "activation": 0.6843035817146301
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.6785147190093994
+      }
+    ]
+  },
+  "8526": {
+    "medical_words": [
+      {
+        "word": "\u0120kidneys",
+        "activation": 0.8430525660514832
+      },
+      {
+        "word": "\u0120kidney",
+        "activation": 0.7868925333023071
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120renal",
+        "activation": 0.9318287372589111
+      },
+      {
+        "word": "\u0120kidneys",
+        "activation": 0.8430525660514832
+      },
+      {
+        "word": "\u0120kidney",
+        "activation": 0.7868925333023071
+      },
+      {
+        "word": "DEN",
+        "activation": 0.7118077278137207
+      },
+      {
+        "word": "\u0120tub",
+        "activation": 0.6777371168136597
+      },
+      {
+        "word": "pod",
+        "activation": 0.6771460771560669
+      },
+      {
+        "word": "ners",
+        "activation": 0.6582115888595581
+      },
+      {
+        "word": "mers",
+        "activation": 0.6314226388931274
+      },
+      {
+        "word": "cipled",
+        "activation": 0.6252331733703613
+      },
+      {
+        "word": "perate",
+        "activation": 0.6227905750274658
+      }
+    ]
+  },
+  "8644": {
+    "medical_words": [
+      {
+        "word": "\u0120tumors",
+        "activation": 0.7603327035903931
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.6984148025512695
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.670717716217041
+      }
+    ],
+    "top_words": [
+      {
+        "word": "oma",
+        "activation": 0.930945634841919
+      },
+      {
+        "word": "omas",
+        "activation": 0.8773407936096191
+      },
+      {
+        "word": "Wan",
+        "activation": 0.7717358469963074
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.7603327035903931
+      },
+      {
+        "word": "oom",
+        "activation": 0.7254595756530762
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.6984148025512695
+      },
+      {
+        "word": "orie",
+        "activation": 0.6877390742301941
+      },
+      {
+        "word": "\u0120Yar",
+        "activation": 0.6850192546844482
+      },
+      {
+        "word": "\u0120Tos",
+        "activation": 0.6820114850997925
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.670717716217041
+      }
+    ]
+  },
+  "9337": {
+    "medical_words": [
+      {
+        "word": "\u0120Radiation",
+        "activation": 1.0018775463104248
+      },
+      {
+        "word": "\u0120radiation",
+        "activation": 0.9150652885437012
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120gamma",
+        "activation": 1.0668864250183105
+      },
+      {
+        "word": "\u0120Radiation",
+        "activation": 1.0018775463104248
+      },
+      {
+        "word": "\u0120Centauri",
+        "activation": 0.9529038667678833
+      },
+      {
+        "word": "\u0120radiation",
+        "activation": 0.9150652885437012
+      },
+      {
+        "word": "\u0120irrad",
+        "activation": 0.9096865057945251
+      },
+      {
+        "word": "\u0120neutron",
+        "activation": 0.812009871006012
+      },
+      {
+        "word": "\u0120emitting",
+        "activation": 0.7540770769119263
+      },
+      {
+        "word": "\u0120bang",
+        "activation": 0.7435578107833862
+      },
+      {
+        "word": "\u0120Gamma",
+        "activation": 0.7203588485717773
+      },
+      {
+        "word": "\u0120rays",
+        "activation": 0.7070901393890381
+      }
+    ]
+  },
+  "9369": {
+    "medical_words": [
+      {
+        "word": "\u0120tumors",
+        "activation": 1.093762755393982
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.9784064292907715
+      },
+      {
+        "word": "\u0120tumor",
+        "activation": 0.9372987747192383
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.9173421263694763
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 0.8521817922592163
+      },
+      {
+        "word": "cancer",
+        "activation": 0.8327100276947021
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 0.7619730830192566
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120tumors",
+        "activation": 1.093762755393982
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.9784064292907715
+      },
+      {
+        "word": "\u0120tumor",
+        "activation": 0.9372987747192383
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.9173421263694763
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 0.8521817922592163
+      },
+      {
+        "word": "omas",
+        "activation": 0.847705066204071
+      },
+      {
+        "word": "cancer",
+        "activation": 0.8327100276947021
+      },
+      {
+        "word": "\u0120metast",
+        "activation": 0.7988817691802979
+      },
+      {
+        "word": "\u0120carcin",
+        "activation": 0.765337347984314
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 0.7619730830192566
+      }
+    ]
+  },
+  "9540": {
+    "medical_words": [
+      {
+        "word": "\u0120tumor",
+        "activation": 1.1848161220550537
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 1.1758689880371094
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.861862063407898
+      },
+      {
+        "word": "cancer",
+        "activation": 0.7492170333862305
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120tumor",
+        "activation": 1.1848161220550537
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 1.1758689880371094
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.861862063407898
+      },
+      {
+        "word": "\u0120tissue",
+        "activation": 0.8546363115310669
+      },
+      {
+        "word": "\u0120tum",
+        "activation": 0.850117564201355
+      },
+      {
+        "word": "omas",
+        "activation": 0.8229598999023438
+      },
+      {
+        "word": "\u0120strains",
+        "activation": 0.7601857781410217
+      },
+      {
+        "word": "\u0120mast",
+        "activation": 0.7568684220314026
+      },
+      {
+        "word": "\u0120metast",
+        "activation": 0.75223708152771
+      },
+      {
+        "word": "cancer",
+        "activation": 0.7492170333862305
+      }
+    ]
+  },
+  "10010": {
+    "medical_words": [
+      {
+        "word": "\u0120infection",
+        "activation": 0.9022526144981384
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.8338512182235718
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120virus",
+        "activation": 1.0547606945037842
+      },
+      {
+        "word": "\u0120viruses",
+        "activation": 0.9982079267501831
+      },
+      {
+        "word": "irus",
+        "activation": 0.9918651580810547
+      },
+      {
+        "word": "\u0120infect",
+        "activation": 0.9762437343597412
+      },
+      {
+        "word": "\u0120infected",
+        "activation": 0.9169400930404663
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 0.9022526144981384
+      },
+      {
+        "word": "\u0120outbreak",
+        "activation": 0.881331205368042
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.8338512182235718
+      },
+      {
+        "word": "\u0120venom",
+        "activation": 0.8314751386642456
+      },
+      {
+        "word": "\u0120Infect",
+        "activation": 0.8252370357513428
+      }
+    ]
+  },
+  "10030": {
+    "medical_words": [
+      {
+        "word": "\u0120aspirin",
+        "activation": 0.8036906719207764
+      },
+      {
+        "word": "\u0120ultrasound",
+        "activation": 0.799762487411499
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Parenthood",
+        "activation": 0.9864811897277832
+      },
+      {
+        "word": "\u0120fetal",
+        "activation": 0.8886808753013611
+      },
+      {
+        "word": "natal",
+        "activation": 0.8655105829238892
+      },
+      {
+        "word": "acent",
+        "activation": 0.863714337348938
+      },
+      {
+        "word": "\u0120pregnancy",
+        "activation": 0.8504107594490051
+      },
+      {
+        "word": "\u0120abortion",
+        "activation": 0.8222542405128479
+      },
+      {
+        "word": "imester",
+        "activation": 0.8170368671417236
+      },
+      {
+        "word": "\u0120aspirin",
+        "activation": 0.8036906719207764
+      },
+      {
+        "word": "\u0120ultrasound",
+        "activation": 0.799762487411499
+      },
+      {
+        "word": "birth",
+        "activation": 0.7859938740730286
+      }
+    ]
+  },
+  "10384": {
+    "medical_words": [
+      {
+        "word": "\u0120tumors",
+        "activation": 0.9319067001342773
+      },
+      {
+        "word": "\u0120tumor",
+        "activation": 0.8151192665100098
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.8076034784317017
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.8029078245162964
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 0.7790020108222961
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120lesions",
+        "activation": 1.215287685394287
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.9319067001342773
+      },
+      {
+        "word": "\u0120tumor",
+        "activation": 0.8151192665100098
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.8076034784317017
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.8029078245162964
+      },
+      {
+        "word": "hips",
+        "activation": 0.8026241064071655
+      },
+      {
+        "word": "avers",
+        "activation": 0.80027174949646
+      },
+      {
+        "word": "ijn",
+        "activation": 0.7927161455154419
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 0.7790020108222961
+      },
+      {
+        "word": "\u0120tum",
+        "activation": 0.7769184708595276
+      }
+    ]
+  },
+  "10635": {
+    "medical_words": [
+      {
+        "word": "\u0120Symptoms",
+        "activation": 1.0664148330688477
+      },
+      {
+        "word": "\u0120symptoms",
+        "activation": 1.001244068145752
+      },
+      {
+        "word": "\u0120symptom",
+        "activation": 0.9471417665481567
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.7725178003311157
+      },
+      {
+        "word": "\u0120relapse",
+        "activation": 0.7431996464729309
+      }
+    ],
+    "top_words": [
+      {
+        "word": "ptoms",
+        "activation": 1.3851826190948486
+      },
+      {
+        "word": "\u0120Symptoms",
+        "activation": 1.0664148330688477
+      },
+      {
+        "word": "\u0120symptoms",
+        "activation": 1.001244068145752
+      },
+      {
+        "word": "\u0120symptom",
+        "activation": 0.9471417665481567
+      },
+      {
+        "word": "Sym",
+        "activation": 0.8913246393203735
+      },
+      {
+        "word": "\u0120tuber",
+        "activation": 0.8110116720199585
+      },
+      {
+        "word": "\u0120sympt",
+        "activation": 0.8096696138381958
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.7725178003311157
+      },
+      {
+        "word": "\u0120relapse",
+        "activation": 0.7431996464729309
+      },
+      {
+        "word": "\u0120Sym",
+        "activation": 0.7136766314506531
+      }
+    ]
+  },
+  "11300": {
+    "medical_words": [
+      {
+        "word": "\u0120artery",
+        "activation": 0.9832104444503784
+      },
+      {
+        "word": "\u0120hypertension",
+        "activation": 0.8995791673660278
+      },
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.8036577701568604
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120endot",
+        "activation": 0.9891422986984253
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.9832104444503784
+      },
+      {
+        "word": "\u0120hypertension",
+        "activation": 0.8995791673660278
+      },
+      {
+        "word": "\u0120vessels",
+        "activation": 0.8769632577896118
+      },
+      {
+        "word": "\u0120vein",
+        "activation": 0.866523027420044
+      },
+      {
+        "word": "\u0120vessel",
+        "activation": 0.8514342308044434
+      },
+      {
+        "word": "\u0120vascular",
+        "activation": 0.8404021859169006
+      },
+      {
+        "word": "\u0120arteries",
+        "activation": 0.8379502892494202
+      },
+      {
+        "word": "\u0120arter",
+        "activation": 0.8039653301239014
+      },
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.8036577701568604
+      }
+    ]
+  },
+  "11320": {
+    "medical_words": [
+      {
+        "word": "bone",
+        "activation": 1.0834174156188965
+      },
+      {
+        "word": "bones",
+        "activation": 0.7789058685302734
+      }
+    ],
+    "top_words": [
+      {
+        "word": "bone",
+        "activation": 1.0834174156188965
+      },
+      {
+        "word": "tie",
+        "activation": 0.7886426448822021
+      },
+      {
+        "word": "bones",
+        "activation": 0.7789058685302734
+      },
+      {
+        "word": "\u0120spinal",
+        "activation": 0.743572473526001
+      },
+      {
+        "word": "\u0120spine",
+        "activation": 0.6995394825935364
+      },
+      {
+        "word": "lings",
+        "activation": 0.6877852082252502
+      },
+      {
+        "word": "\u0120verte",
+        "activation": 0.6861001253128052
+      },
+      {
+        "word": "\u0120cord",
+        "activation": 0.6763836741447449
+      },
+      {
+        "word": "waters",
+        "activation": 0.6684216260910034
+      },
+      {
+        "word": "ulic",
+        "activation": 0.6612114906311035
+      }
+    ]
+  },
+  "11322": {
+    "medical_words": [
+      {
+        "word": "\u0120cancer",
+        "activation": 0.9956916570663452
+      },
+      {
+        "word": "cancer",
+        "activation": 0.8919475674629211
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.8500538468360901
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.831623911857605
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 0.8064988851547241
+      },
+      {
+        "word": "\u0120diagnosis",
+        "activation": 0.7566789388656616
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.7383828163146973
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120cancer",
+        "activation": 0.9956916570663452
+      },
+      {
+        "word": "cancer",
+        "activation": 0.8919475674629211
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.8500538468360901
+      },
+      {
+        "word": "ous",
+        "activation": 0.8448230028152466
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.831623911857605
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 0.8064988851547241
+      },
+      {
+        "word": "\u0120diagnoses",
+        "activation": 0.7739620208740234
+      },
+      {
+        "word": "\u0120diagnosis",
+        "activation": 0.7566789388656616
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.7383828163146973
+      },
+      {
+        "word": "\u0120leukemia",
+        "activation": 0.7372499704360962
+      }
+    ]
+  },
+  "11409": {
+    "medical_words": [
+      {
+        "word": "doctor",
+        "activation": 0.9863343834877014
+      },
+      {
+        "word": "\u0120Doctor",
+        "activation": 0.8660223484039307
+      },
+      {
+        "word": "\u0120Doctors",
+        "activation": 0.8425395488739014
+      },
+      {
+        "word": "patient",
+        "activation": 0.7930411100387573
+      }
+    ],
+    "top_words": [
+      {
+        "word": "doctor",
+        "activation": 0.9863343834877014
+      },
+      {
+        "word": "sonian",
+        "activation": 0.9112368822097778
+      },
+      {
+        "word": "ARDIS",
+        "activation": 0.8689203262329102
+      },
+      {
+        "word": "\u0120diagnoses",
+        "activation": 0.8674428462982178
+      },
+      {
+        "word": "\u0120Doctor",
+        "activation": 0.8660223484039307
+      },
+      {
+        "word": "otomy",
+        "activation": 0.8494799137115479
+      },
+      {
+        "word": "\u0120Doctors",
+        "activation": 0.8425395488739014
+      },
+      {
+        "word": "essim",
+        "activation": 0.7976394891738892
+      },
+      {
+        "word": "patient",
+        "activation": 0.7930411100387573
+      },
+      {
+        "word": "acles",
+        "activation": 0.7609878778457642
+      }
+    ]
+  },
+  "11433": {
+    "medical_words": [
+      {
+        "word": "\u0120artery",
+        "activation": 0.7882406115531921
+      },
+      {
+        "word": "\u0120nervous",
+        "activation": 0.7598133087158203
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120arteries",
+        "activation": 0.8653660416603088
+      },
+      {
+        "word": "\u0120centrally",
+        "activation": 0.8111638426780701
+      },
+      {
+        "word": "\u0120central",
+        "activation": 0.8007235527038574
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.7882406115531921
+      },
+      {
+        "word": "\u0120nervous",
+        "activation": 0.7598133087158203
+      },
+      {
+        "word": "ization",
+        "activation": 0.7588022947311401
+      },
+      {
+        "word": "ised",
+        "activation": 0.7283728122711182
+      },
+      {
+        "word": "ized",
+        "activation": 0.7221747040748596
+      },
+      {
+        "word": "izing",
+        "activation": 0.7166093587875366
+      },
+      {
+        "word": "\u0120centralized",
+        "activation": 0.7018121480941772
+      }
+    ]
+  },
+  "11644": {
+    "medical_words": [
+      {
+        "word": "\u0120Radiation",
+        "activation": 0.848218560218811
+      },
+      {
+        "word": "\u0120radiation",
+        "activation": 0.7871984839439392
+      },
+      {
+        "word": "\u0120Therapy",
+        "activation": 0.6750850081443787
+      }
+    ],
+    "top_words": [
+      {
+        "word": "iation",
+        "activation": 0.8689729571342468
+      },
+      {
+        "word": "\u0120Radiation",
+        "activation": 0.848218560218811
+      },
+      {
+        "word": "\u0120radiation",
+        "activation": 0.7871984839439392
+      },
+      {
+        "word": "rad",
+        "activation": 0.7619004249572754
+      },
+      {
+        "word": "\u0120irrad",
+        "activation": 0.7200045585632324
+      },
+      {
+        "word": "iating",
+        "activation": 0.6923471689224243
+      },
+      {
+        "word": "\u0120Wolves",
+        "activation": 0.6918507218360901
+      },
+      {
+        "word": "ards",
+        "activation": 0.6815422177314758
+      },
+      {
+        "word": "\u0120Therapy",
+        "activation": 0.6750850081443787
+      },
+      {
+        "word": "\u0120Pinball",
+        "activation": 0.6491080522537231
+      }
+    ]
+  },
+  "11836": {
+    "medical_words": [
+      {
+        "word": "bone",
+        "activation": 0.735686182975769
+      },
+      {
+        "word": "\u0120bones",
+        "activation": 0.6784749627113342
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 0.6702287793159485
+      },
+      {
+        "word": "\u0120bone",
+        "activation": 0.6668786406517029
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120marrow",
+        "activation": 1.0486371517181396
+      },
+      {
+        "word": "bone",
+        "activation": 0.735686182975769
+      },
+      {
+        "word": "\u0120nerve",
+        "activation": 0.7233572602272034
+      },
+      {
+        "word": "\u0120pier",
+        "activation": 0.7152267098426819
+      },
+      {
+        "word": "flex",
+        "activation": 0.6958365440368652
+      },
+      {
+        "word": "\u0120bones",
+        "activation": 0.6784749627113342
+      },
+      {
+        "word": "\u0120surgeon",
+        "activation": 0.6702287793159485
+      },
+      {
+        "word": "\u0120bone",
+        "activation": 0.6668786406517029
+      },
+      {
+        "word": "\u0120cord",
+        "activation": 0.6661521196365356
+      },
+      {
+        "word": "\u0120spine",
+        "activation": 0.6648983359336853
+      }
+    ]
+  },
+  "11930": {
+    "medical_words": [
+      {
+        "word": "\u0120asthma",
+        "activation": 1.1249991655349731
+      },
+      {
+        "word": "\u0120arthritis",
+        "activation": 0.9868526458740234
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120asthma",
+        "activation": 1.1249991655349731
+      },
+      {
+        "word": "\u0120migraine",
+        "activation": 1.003077507019043
+      },
+      {
+        "word": "\u0120arthritis",
+        "activation": 0.9868526458740234
+      },
+      {
+        "word": "\u0120allergic",
+        "activation": 0.9673398733139038
+      },
+      {
+        "word": "\u0120oste",
+        "activation": 0.8521196842193604
+      },
+      {
+        "word": "\u0120allergy",
+        "activation": 0.8504419922828674
+      },
+      {
+        "word": "\u0120epilepsy",
+        "activation": 0.849030613899231
+      },
+      {
+        "word": "\u0120headache",
+        "activation": 0.8467629551887512
+      },
+      {
+        "word": "\u0120allergies",
+        "activation": 0.840875506401062
+      },
+      {
+        "word": "\u0120acne",
+        "activation": 0.8264010548591614
+      }
+    ]
+  },
+  "11949": {
+    "medical_words": [
+      {
+        "word": "\u0120Patients",
+        "activation": 0.9272806644439697
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.8518117666244507
+      },
+      {
+        "word": "\u0120physicians",
+        "activation": 0.8244723677635193
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.8074995279312134
+      },
+      {
+        "word": "\u0120Clinic",
+        "activation": 0.794409990310669
+      },
+      {
+        "word": "\u0120clinic",
+        "activation": 0.7815858125686646
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 0.7526415586471558
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Patients",
+        "activation": 0.9272806644439697
+      },
+      {
+        "word": "ysis",
+        "activation": 0.9042302966117859
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.8518117666244507
+      },
+      {
+        "word": "\u0120physicians",
+        "activation": 0.8244723677635193
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.8074995279312134
+      },
+      {
+        "word": "\u0120diagnoses",
+        "activation": 0.7996147871017456
+      },
+      {
+        "word": "\u0120Clinic",
+        "activation": 0.794409990310669
+      },
+      {
+        "word": "\u0120clinic",
+        "activation": 0.7815858125686646
+      },
+      {
+        "word": "\u0120Diagn",
+        "activation": 0.7632861137390137
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 0.7526415586471558
+      }
+    ]
+  },
+  "12065": {
+    "medical_words": [
+      {
+        "word": "\u0120disease",
+        "activation": 0.8113703727722168
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 0.7699593305587769
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 0.7499619126319885
+      },
+      {
+        "word": "\u0120diseases",
+        "activation": 0.7445473670959473
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.7293497323989868
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Outbreak",
+        "activation": 0.8984278440475464
+      },
+      {
+        "word": "\u0120outbreak",
+        "activation": 0.859417200088501
+      },
+      {
+        "word": "\u0120disease",
+        "activation": 0.8113703727722168
+      },
+      {
+        "word": "\u0120ridden",
+        "activation": 0.8094741106033325
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 0.7699593305587769
+      },
+      {
+        "word": "\u0120diagnosed",
+        "activation": 0.7608345746994019
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 0.7499619126319885
+      },
+      {
+        "word": "\u0120diseases",
+        "activation": 0.7445473670959473
+      },
+      {
+        "word": "\u0120outbreaks",
+        "activation": 0.7443408966064453
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.7293497323989868
+      }
+    ]
+  },
+  "12210": {
+    "medical_words": [
+      {
+        "word": "\u0120brains",
+        "activation": 0.7352739572525024
+      },
+      {
+        "word": "\u0120brain",
+        "activation": 0.7192137241363525
+      }
+    ],
+    "top_words": [
+      {
+        "word": "ormal",
+        "activation": 0.8808900117874146
+      },
+      {
+        "word": "ertodd",
+        "activation": 0.8630000352859497
+      },
+      {
+        "word": "geons",
+        "activation": 0.7790383100509644
+      },
+      {
+        "word": "\u0120padd",
+        "activation": 0.7400673627853394
+      },
+      {
+        "word": "\u0120brains",
+        "activation": 0.7352739572525024
+      },
+      {
+        "word": "\u0120brain",
+        "activation": 0.7192137241363525
+      },
+      {
+        "word": "atural",
+        "activation": 0.7165789008140564
+      },
+      {
+        "word": "\u0120chalk",
+        "activation": 0.7134183645248413
+      },
+      {
+        "word": "Redditor",
+        "activation": 0.6979334354400635
+      },
+      {
+        "word": "\u0120biology",
+        "activation": 0.6926348209381104
+      }
+    ]
+  },
+  "12232": {
+    "medical_words": [
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.7379211187362671
+      },
+      {
+        "word": "\u0120Therapy",
+        "activation": 0.7074100971221924
+      }
+    ],
+    "top_words": [
+      {
+        "word": "pread",
+        "activation": 0.8172340393066406
+      },
+      {
+        "word": "algia",
+        "activation": 0.8050752878189087
+      },
+      {
+        "word": "olars",
+        "activation": 0.7538435459136963
+      },
+      {
+        "word": "opathy",
+        "activation": 0.7415258884429932
+      },
+      {
+        "word": "ukemia",
+        "activation": 0.7388277053833008
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.7379211187362671
+      },
+      {
+        "word": "existent",
+        "activation": 0.7166849970817566
+      },
+      {
+        "word": "rosis",
+        "activation": 0.7075759172439575
+      },
+      {
+        "word": "\u0120Therapy",
+        "activation": 0.7074100971221924
+      },
+      {
+        "word": "anship",
+        "activation": 0.7060481309890747
+      }
+    ]
+  },
+  "12520": {
+    "medical_words": [
+      {
+        "word": "\u0120Patients",
+        "activation": 0.7629392147064209
+      },
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.759955883026123
+      },
+      {
+        "word": "\u0120clinically",
+        "activation": 0.7256687879562378
+      }
+    ],
+    "top_words": [
+      {
+        "word": "olesterol",
+        "activation": 0.8276989459991455
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.7629392147064209
+      },
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.759955883026123
+      },
+      {
+        "word": "\u0120cholesterol",
+        "activation": 0.74824059009552
+      },
+      {
+        "word": "ogens",
+        "activation": 0.7380882501602173
+      },
+      {
+        "word": "\u0120overdose",
+        "activation": 0.7359535694122314
+      },
+      {
+        "word": "\u0120medications",
+        "activation": 0.7276968955993652
+      },
+      {
+        "word": "\u0120clinically",
+        "activation": 0.7256687879562378
+      },
+      {
+        "word": "\u0120allergy",
+        "activation": 0.7247710227966309
+      },
+      {
+        "word": "\u0120carcin",
+        "activation": 0.7113998532295227
+      }
+    ]
+  },
+  "12701": {
+    "medical_words": [
+      {
+        "word": "\u0120infection",
+        "activation": 0.6375665664672852
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.6136096715927124
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 0.5535497665405273
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120infection",
+        "activation": 0.6375665664672852
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.6136096715927124
+      },
+      {
+        "word": "\u0120outbreaks",
+        "activation": 0.5945433974266052
+      },
+      {
+        "word": "\u0120Infect",
+        "activation": 0.5890755653381348
+      },
+      {
+        "word": "\u0120Tend",
+        "activation": 0.5851545929908752
+      },
+      {
+        "word": "\u0120infected",
+        "activation": 0.5770495533943176
+      },
+      {
+        "word": "\u0120outbreak",
+        "activation": 0.5595442652702332
+      },
+      {
+        "word": "\u0120infiltration",
+        "activation": 0.5546038746833801
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 0.5535497665405273
+      },
+      {
+        "word": "\u0120endot",
+        "activation": 0.5439715385437012
+      }
+    ]
+  },
+  "12820": {
+    "medical_words": [
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.7643171548843384
+      },
+      {
+        "word": "\u0120nervous",
+        "activation": 0.7050496935844421
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120dysfunction",
+        "activation": 0.7975376844406128
+      },
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.7643171548843384
+      },
+      {
+        "word": "\u0120gland",
+        "activation": 0.7328593730926514
+      },
+      {
+        "word": "\u0120pulmonary",
+        "activation": 0.7137300968170166
+      },
+      {
+        "word": "\u0120nervous",
+        "activation": 0.7050496935844421
+      },
+      {
+        "word": "\u0120vascular",
+        "activation": 0.6997150182723999
+      },
+      {
+        "word": "\u0120dementia",
+        "activation": 0.6972273588180542
+      },
+      {
+        "word": "\u0120tissue",
+        "activation": 0.6864286661148071
+      },
+      {
+        "word": "icular",
+        "activation": 0.6750410795211792
+      },
+      {
+        "word": "\u0120nerve",
+        "activation": 0.6696590185165405
+      }
+    ]
+  },
+  "12853": {
+    "medical_words": [
+      {
+        "word": "Bone",
+        "activation": 1.1277260780334473
+      },
+      {
+        "word": "bone",
+        "activation": 1.0460631847381592
+      },
+      {
+        "word": "\u0120bone",
+        "activation": 0.9808671474456787
+      },
+      {
+        "word": "\u0120Bone",
+        "activation": 0.9227969646453857
+      },
+      {
+        "word": "\u0120bones",
+        "activation": 0.8686583042144775
+      },
+      {
+        "word": "bones",
+        "activation": 0.8052705526351929
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120marrow",
+        "activation": 1.559359073638916
+      },
+      {
+        "word": "Bone",
+        "activation": 1.1277260780334473
+      },
+      {
+        "word": "bone",
+        "activation": 1.0460631847381592
+      },
+      {
+        "word": "\u0120bone",
+        "activation": 0.9808671474456787
+      },
+      {
+        "word": "\u0120Bone",
+        "activation": 0.9227969646453857
+      },
+      {
+        "word": "\u0120fide",
+        "activation": 0.9120651483535767
+      },
+      {
+        "word": "\u0120bones",
+        "activation": 0.8686583042144775
+      },
+      {
+        "word": "bones",
+        "activation": 0.8052705526351929
+      },
+      {
+        "word": "headed",
+        "activation": 0.7847009301185608
+      },
+      {
+        "word": "meal",
+        "activation": 0.7723397612571716
+      }
+    ]
+  },
+  "13169": {
+    "medical_words": [
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.883036196231842
+      },
+      {
+        "word": "\u0120arthritis",
+        "activation": 0.8078992366790771
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120cytok",
+        "activation": 1.168210506439209
+      },
+      {
+        "word": "\u0120bowel",
+        "activation": 1.0145072937011719
+      },
+      {
+        "word": "\u0120inflammatory",
+        "activation": 0.9291262030601501
+      },
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.883036196231842
+      },
+      {
+        "word": "\u0120sore",
+        "activation": 0.8358662128448486
+      },
+      {
+        "word": "\u0120arthritis",
+        "activation": 0.8078992366790771
+      },
+      {
+        "word": "inflammatory",
+        "activation": 0.8075047731399536
+      },
+      {
+        "word": "\u0120infiltrate",
+        "activation": 0.801115870475769
+      },
+      {
+        "word": "\u0120inflamm",
+        "activation": 0.7903751134872437
+      },
+      {
+        "word": "lamm",
+        "activation": 0.7713083028793335
+      }
+    ]
+  },
+  "13218": {
+    "medical_words": [
+      {
+        "word": "\u0120cancer",
+        "activation": 0.6240848302841187
+      },
+      {
+        "word": "cancer",
+        "activation": 0.6205434799194336
+      },
+      {
+        "word": "\u0120diagnosis",
+        "activation": 0.5841568112373352
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.5645722150802612
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.5447548627853394
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120mell",
+        "activation": 0.6898711919784546
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.6240848302841187
+      },
+      {
+        "word": "cancer",
+        "activation": 0.6205434799194336
+      },
+      {
+        "word": "\u0120diagnosis",
+        "activation": 0.5841568112373352
+      },
+      {
+        "word": "\u0120Mell",
+        "activation": 0.5796998739242554
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.5645722150802612
+      },
+      {
+        "word": "\u0120diagnoses",
+        "activation": 0.5628568530082703
+      },
+      {
+        "word": "\u0120synd",
+        "activation": 0.549392580986023
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.5447548627853394
+      },
+      {
+        "word": "stones",
+        "activation": 0.5167347192764282
+      }
+    ]
+  },
+  "13379": {
+    "medical_words": [
+      {
+        "word": "\u0120heart",
+        "activation": 0.5860273838043213
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.5792296528816223
+      },
+      {
+        "word": "stroke",
+        "activation": 0.5782492756843567
+      },
+      {
+        "word": "bone",
+        "activation": 0.5655401945114136
+      }
+    ],
+    "top_words": [
+      {
+        "word": "burn",
+        "activation": 0.6333409547805786
+      },
+      {
+        "word": "strings",
+        "activation": 0.6296242475509644
+      },
+      {
+        "word": "\u0120heart",
+        "activation": 0.5860273838043213
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.5792296528816223
+      },
+      {
+        "word": "ache",
+        "activation": 0.5790878534317017
+      },
+      {
+        "word": "stroke",
+        "activation": 0.5782492756843567
+      },
+      {
+        "word": "bone",
+        "activation": 0.5655401945114136
+      },
+      {
+        "word": "isf",
+        "activation": 0.5637342929840088
+      },
+      {
+        "word": "atically",
+        "activation": 0.55401211977005
+      },
+      {
+        "word": "\u0120marrow",
+        "activation": 0.5463161468505859
+      }
+    ]
+  },
+  "13408": {
+    "medical_words": [
+      {
+        "word": "\u0120tumors",
+        "activation": 1.0239672660827637
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.8600486516952515
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120metast",
+        "activation": 1.2037298679351807
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 1.0239672660827637
+      },
+      {
+        "word": "olitics",
+        "activation": 0.9157214164733887
+      },
+      {
+        "word": "\u0120suscept",
+        "activation": 0.8889285326004028
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.8600486516952515
+      },
+      {
+        "word": "\u0120challeng",
+        "activation": 0.849427342414856
+      },
+      {
+        "word": "\u0120leukemia",
+        "activation": 0.8382177948951721
+      },
+      {
+        "word": "\u0120pneum",
+        "activation": 0.8338005542755127
+      },
+      {
+        "word": "\u0120rupt",
+        "activation": 0.8277921676635742
+      },
+      {
+        "word": "\u0120nec",
+        "activation": 0.8080726861953735
+      }
+    ]
+  },
+
+  "13784": {
+    "medical_words": [
+      {
+        "word": "\u0120doctor",
+        "activation": 0.7950177192687988
+      },
+      {
+        "word": "doctor",
+        "activation": 0.7692697048187256
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 0.7365108728408813
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 0.7246676683425903
+      },
+      {
+        "word": "Doctors",
+        "activation": 0.7130676507949829
+      },
+      {
+        "word": "\u0120Doctors",
+        "activation": 0.7063242793083191
+      },
+      {
+        "word": "\u0120outpatient",
+        "activation": 0.6822921633720398
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120doctor",
+        "activation": 0.7950177192687988
+      },
+      {
+        "word": "\u0120examiner",
+        "activation": 0.7765179872512817
+      },
+      {
+        "word": "doctor",
+        "activation": 0.7692697048187256
+      },
+      {
+        "word": "\u0120care",
+        "activation": 0.7404754161834717
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 0.7365108728408813
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 0.7246676683425903
+      },
+      {
+        "word": "Doctors",
+        "activation": 0.7130676507949829
+      },
+      {
+        "word": "\u0120Doctors",
+        "activation": 0.7063242793083191
+      },
+      {
+        "word": "\u0120Care",
+        "activation": 0.690649151802063
+      },
+      {
+        "word": "\u0120outpatient",
+        "activation": 0.6822921633720398
+      }
+    ]
+  },
+  "14027": {
+    "medical_words": [
+      {
+        "word": "\u0120Fever",
+        "activation": 0.9836216568946838
+      },
+      {
+        "word": "\u0120fever",
+        "activation": 0.9204022884368896
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 0.7718039751052856
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Fever",
+        "activation": 0.9836216568946838
+      },
+      {
+        "word": "\u0120Leone",
+        "activation": 0.9400840997695923
+      },
+      {
+        "word": "\u0120fever",
+        "activation": 0.9204022884368896
+      },
+      {
+        "word": "iasis",
+        "activation": 0.7854922413825989
+      },
+      {
+        "word": "\u0120outbreak",
+        "activation": 0.7854433059692383
+      },
+      {
+        "word": "itis",
+        "activation": 0.7847900986671448
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 0.7718039751052856
+      },
+      {
+        "word": "emia",
+        "activation": 0.7592911124229431
+      },
+      {
+        "word": "\u0120sore",
+        "activation": 0.7388430833816528
+      },
+      {
+        "word": "\u0120tox",
+        "activation": 0.7344070672988892
+      }
+    ]
+  },
+  "14042": {
+    "medical_words": [
+      {
+        "word": "\u0120lung",
+        "activation": 1.008943796157837
+      },
+      {
+        "word": "\u0120Lung",
+        "activation": 0.8077534437179565
+      },
+      {
+        "word": "\u0120lungs",
+        "activation": 0.7479385137557983
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120lung",
+        "activation": 1.008943796157837
+      },
+      {
+        "word": "nuts",
+        "activation": 0.8416973948478699
+      },
+      {
+        "word": "ulously",
+        "activation": 0.8353785276412964
+      },
+      {
+        "word": "\u0120Lung",
+        "activation": 0.8077534437179565
+      },
+      {
+        "word": "bed",
+        "activation": 0.8072188496589661
+      },
+      {
+        "word": "ingly",
+        "activation": 0.7589479684829712
+      },
+      {
+        "word": "bered",
+        "activation": 0.75461745262146
+      },
+      {
+        "word": "\u0120lungs",
+        "activation": 0.7479385137557983
+      },
+      {
+        "word": "ovo",
+        "activation": 0.7433329820632935
+      },
+      {
+        "word": "lifting",
+        "activation": 0.7419900894165039
+      }
+    ]
+  },
+  "14125": {
+    "medical_words": [
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.8797308206558228
+      },
+      {
+        "word": "\u0120surgery",
+        "activation": 0.8196804523468018
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120plastic",
+        "activation": 0.9512746334075928
+      },
+      {
+        "word": "\u0120litter",
+        "activation": 0.8925319910049438
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.8797308206558228
+      },
+      {
+        "word": "\u0120Osaka",
+        "activation": 0.8357436656951904
+      },
+      {
+        "word": "\u0120Plastic",
+        "activation": 0.8263568878173828
+      },
+      {
+        "word": "\u0120surgery",
+        "activation": 0.8196804523468018
+      },
+      {
+        "word": "\u0120garbage",
+        "activation": 0.814655065536499
+      },
+      {
+        "word": "\u0120turtles",
+        "activation": 0.8066192865371704
+      },
+      {
+        "word": "\u0120bags",
+        "activation": 0.8026595115661621
+      },
+      {
+        "word": "\u0120ash",
+        "activation": 0.8003634810447693
+      }
+    ]
+  },
+  "14248": {
+    "medical_words": [
+      {
+        "word": "MRI",
+        "activation": 0.8417835235595703
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.8347873687744141
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.7455728650093079
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120scanners",
+        "activation": 1.0624752044677734
+      },
+      {
+        "word": "\u0120scanner",
+        "activation": 0.9661204814910889
+      },
+      {
+        "word": "\u0120scans",
+        "activation": 0.9594157338142395
+      },
+      {
+        "word": "MRI",
+        "activation": 0.8417835235595703
+      },
+      {
+        "word": "\u0120scan",
+        "activation": 0.8391594886779785
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.8347873687744141
+      },
+      {
+        "word": "\u0120disse",
+        "activation": 0.8277654647827148
+      },
+      {
+        "word": "\u0120ultras",
+        "activation": 0.7904276847839355
+      },
+      {
+        "word": "\u0120transsexual",
+        "activation": 0.7822473049163818
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.7455728650093079
+      }
+    ]
+  },
+  "14249": {
+    "medical_words": [
+      {
+        "word": "\u0120disease",
+        "activation": 0.7181491255760193
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 0.6706651449203491
+      },
+      {
+        "word": "\u0120diseases",
+        "activation": 0.6698451042175293
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 0.6634994745254517
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120outbreak",
+        "activation": 0.7944584488868713
+      },
+      {
+        "word": "\u0120Outbreak",
+        "activation": 0.7341886162757874
+      },
+      {
+        "word": "\u0120disease",
+        "activation": 0.7181491255760193
+      },
+      {
+        "word": "\u0120ridden",
+        "activation": 0.6980426907539368
+      },
+      {
+        "word": "\u0120outbreaks",
+        "activation": 0.6948713660240173
+      },
+      {
+        "word": "\u0120diagnosed",
+        "activation": 0.6856764554977417
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 0.6706651449203491
+      },
+      {
+        "word": "\u0120diseases",
+        "activation": 0.6698451042175293
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 0.6634994745254517
+      },
+      {
+        "word": "\u0120epidemic",
+        "activation": 0.6434927582740784
+      }
+    ]
+  },
+  "14250": {
+    "medical_words": [
+      {
+        "word": "\u0120Treatment",
+        "activation": 0.8779360055923462
+      },
+      {
+        "word": "treatment",
+        "activation": 0.8074933290481567
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 0.7462983727455139
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.6837754845619202
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Treatment",
+        "activation": 0.8779360055923462
+      },
+      {
+        "word": "treatment",
+        "activation": 0.8074933290481567
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 0.7462983727455139
+      },
+      {
+        "word": "Mania",
+        "activation": 0.7247847318649292
+      },
+      {
+        "word": "reatment",
+        "activation": 0.7227632403373718
+      },
+      {
+        "word": "ttes",
+        "activation": 0.7216119766235352
+      },
+      {
+        "word": "OSP",
+        "activation": 0.6858895421028137
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.6837754845619202
+      },
+      {
+        "word": "OHN",
+        "activation": 0.6738630533218384
+      },
+      {
+        "word": "\u0120protocols",
+        "activation": 0.6682521104812622
+      }
+    ]
+  },
+  "14260": {
+    "medical_words": [
+      {
+        "word": "\u0120chemotherapy",
+        "activation": 0.9289867877960205
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.9166508913040161
+      },
+      {
+        "word": "otherapy",
+        "activation": 0.8934295177459717
+      },
+      {
+        "word": "\u0120treatments",
+        "activation": 0.8103700280189514
+      },
+      {
+        "word": "\u0120aspirin",
+        "activation": 0.7528016567230225
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120\u00c2\u00ae",
+        "activation": 0.9340829849243164
+      },
+      {
+        "word": "\u0120chemotherapy",
+        "activation": 0.9289867877960205
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.9166508913040161
+      },
+      {
+        "word": "otherapy",
+        "activation": 0.8934295177459717
+      },
+      {
+        "word": "\u0120treatments",
+        "activation": 0.8103700280189514
+      },
+      {
+        "word": "\u0120aspirin",
+        "activation": 0.7528016567230225
+      },
+      {
+        "word": "creen",
+        "activation": 0.7118656039237976
+      },
+      {
+        "word": "\u0120appointments",
+        "activation": 0.705246090888977
+      },
+      {
+        "word": "\u0120suites",
+        "activation": 0.7047750949859619
+      },
+      {
+        "word": "\u0120nausea",
+        "activation": 0.6905047297477722
+      }
+    ]
+  },
+  "14318": {
+    "medical_words": [
+      {
+        "word": "\u0120Patient",
+        "activation": 0.8711984157562256
+      },
+      {
+        "word": "\u0120clinics",
+        "activation": 0.846016526222229
+      },
+      {
+        "word": "\u0120Clinic",
+        "activation": 0.8333169221878052
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.8323456048965454
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120billing",
+        "activation": 1.0680110454559326
+      },
+      {
+        "word": "aceutical",
+        "activation": 1.0598688125610352
+      },
+      {
+        "word": "\u0120Pharmaceutical",
+        "activation": 0.9448040723800659
+      },
+      {
+        "word": "\u0120pharmacy",
+        "activation": 0.9365981221199036
+      },
+      {
+        "word": "\u0120pharmacies",
+        "activation": 0.9274606704711914
+      },
+      {
+        "word": "\u0120Pharm",
+        "activation": 0.9036016464233398
+      },
+      {
+        "word": "\u0120Patient",
+        "activation": 0.8711984157562256
+      },
+      {
+        "word": "\u0120clinics",
+        "activation": 0.846016526222229
+      },
+      {
+        "word": "\u0120Clinic",
+        "activation": 0.8333169221878052
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.8323456048965454
+      }
+    ]
+  },
+  
+  "14540": {
+    "medical_words": [
+      {
+        "word": "\u0120Treatment",
+        "activation": 0.7808554768562317
+      },
+      {
+        "word": "treatment",
+        "activation": 0.6577145457267761
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 0.6525288820266724
+      },
+      {
+        "word": "\u0120treatments",
+        "activation": 0.5899143815040588
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.5875244140625
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Treatment",
+        "activation": 0.7808554768562317
+      },
+      {
+        "word": "treatment",
+        "activation": 0.6577145457267761
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 0.6525288820266724
+      },
+      {
+        "word": "reatment",
+        "activation": 0.6137337684631348
+      },
+      {
+        "word": "\u0120treatments",
+        "activation": 0.5899143815040588
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.5875244140625
+      },
+      {
+        "word": "Mania",
+        "activation": 0.5865462422370911
+      },
+      {
+        "word": "\u0120protocols",
+        "activation": 0.5846137404441833
+      },
+      {
+        "word": "ttes",
+        "activation": 0.5844205021858215
+      },
+      {
+        "word": "OHN",
+        "activation": 0.567857563495636
+      }
+    ]
+  },
+  "15175": {
+    "medical_words": [
+      {
+        "word": "\u0120doctors",
+        "activation": 0.6674608588218689
+      },
+      {
+        "word": "\u0120medical",
+        "activation": 0.6213305592536926
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 0.6071755886077881
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120anesthesia",
+        "activation": 0.6769287586212158
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 0.6674608588218689
+      },
+      {
+        "word": "\u0120examiner",
+        "activation": 0.6652716994285583
+      },
+      {
+        "word": "\u0120medical",
+        "activation": 0.6213305592536926
+      },
+      {
+        "word": "\u0120professionals",
+        "activation": 0.6180201768875122
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 0.6071755886077881
+      },
+      {
+        "word": "\u0120scanners",
+        "activation": 0.6071158051490784
+      },
+      {
+        "word": "phys",
+        "activation": 0.6062136888504028
+      },
+      {
+        "word": "\u0120practitioner",
+        "activation": 0.6014697551727295
+      },
+      {
+        "word": "\u0120practition",
+        "activation": 0.5981348752975464
+      }
+    ]
+  },
+
+  "15232": {
+    "medical_words": [
+      {
+        "word": "\u0120Patients",
+        "activation": 0.5541365742683411
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.5102615356445312
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 0.4369046688079834
+      },
+      {
+        "word": "\u0120Patient",
+        "activation": 0.41131263971328735
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Patients",
+        "activation": 0.5541365742683411
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.5102615356445312
+      },
+      {
+        "word": "ients",
+        "activation": 0.4469543695449829
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 0.4369046688079834
+      },
+      {
+        "word": "\u0120Patient",
+        "activation": 0.41131263971328735
+      },
+      {
+        "word": "bay",
+        "activation": 0.38931000232696533
+      },
+      {
+        "word": "ele",
+        "activation": 0.3756893277168274
+      },
+      {
+        "word": "terson",
+        "activation": 0.37038537859916687
+      },
+      {
+        "word": "\u0120rooms",
+        "activation": 0.36743879318237305
+      },
+      {
+        "word": "\u0120Witnesses",
+        "activation": 0.35569673776626587
+      }
+    ]
+  },
+  "15258": {
+    "medical_words": [
+      {
+        "word": "\u0120Surgery",
+        "activation": 1.048349380493164
+      },
+      {
+        "word": "\u0120surgery",
+        "activation": 0.8668583631515503
+      },
+      {
+        "word": "\u0120medically",
+        "activation": 0.8049388527870178
+      },
+      {
+        "word": "Doctors",
+        "activation": 0.7688134908676147
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 0.7606450319290161
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 0.7420879602432251
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Surgery",
+        "activation": 1.048349380493164
+      },
+      {
+        "word": "\u0120surgery",
+        "activation": 0.8668583631515503
+      },
+      {
+        "word": "\u0120surgeries",
+        "activation": 0.8336490392684937
+      },
+      {
+        "word": "\u0120medically",
+        "activation": 0.8049388527870178
+      },
+      {
+        "word": "Doctors",
+        "activation": 0.7688134908676147
+      },
+      {
+        "word": "\u0120doctors",
+        "activation": 0.7606450319290161
+      },
+      {
+        "word": "\u0120suff",
+        "activation": 0.7598332166671753
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 0.7420879602432251
+      },
+      {
+        "word": "\u0120amput",
+        "activation": 0.7067731618881226
+      },
+      {
+        "word": "\u0120Redux",
+        "activation": 0.6910924911499023
+      }
+    ]
+  },
+  "15358": {
+    "medical_words": [
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.9487712383270264
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.8196485042572021
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.9487712383270264
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.8196485042572021
+      },
+      {
+        "word": "Cut",
+        "activation": 0.7745635509490967
+      },
+      {
+        "word": "\u0120Proxy",
+        "activation": 0.7664406299591064
+      },
+      {
+        "word": "ptic",
+        "activation": 0.7622424960136414
+      },
+      {
+        "word": "\u0120Dent",
+        "activation": 0.7490731477737427
+      },
+      {
+        "word": "xon",
+        "activation": 0.7474474906921387
+      },
+      {
+        "word": "\u0120rupture",
+        "activation": 0.7441954612731934
+      },
+      {
+        "word": "uture",
+        "activation": 0.7398771643638611
+      },
+      {
+        "word": "\u0120Voters",
+        "activation": 0.7346442341804504
+      }
+    ]
+  },
+  "15409": {
+    "medical_words": [
+      {
+        "word": "\u0120heart",
+        "activation": 0.6847601532936096
+      },
+      {
+        "word": "heart",
+        "activation": 0.6553579568862915
+      },
+      {
+        "word": "stroke",
+        "activation": 0.6437988877296448
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.6287672519683838
+      }
+    ],
+    "top_words": [
+      {
+        "word": "strings",
+        "activation": 0.6995506882667542
+      },
+      {
+        "word": "\u0120heart",
+        "activation": 0.6847601532936096
+      },
+      {
+        "word": "beat",
+        "activation": 0.674961507320404
+      },
+      {
+        "word": "rend",
+        "activation": 0.666897177696228
+      },
+      {
+        "word": "emed",
+        "activation": 0.6573302149772644
+      },
+      {
+        "word": "heart",
+        "activation": 0.6553579568862915
+      },
+      {
+        "word": "burn",
+        "activation": 0.6445518732070923
+      },
+      {
+        "word": "stroke",
+        "activation": 0.6437988877296448
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.6287672519683838
+      },
+      {
+        "word": "plate",
+        "activation": 0.6156976222991943
+      }
+    ]
+  },
+  "15900": {
+    "medical_words": [
+      {
+        "word": "\u0120schizophrenia",
+        "activation": 0.8658103942871094
+      },
+      {
+        "word": "\u0120illness",
+        "activation": 0.8272221088409424
+      },
+      {
+        "word": "\u0120psychiatry",
+        "activation": 0.7206414341926575
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120schizophrenia",
+        "activation": 0.8658103942871094
+      },
+      {
+        "word": "\u0120illness",
+        "activation": 0.8272221088409424
+      },
+      {
+        "word": "\u0120schizophren",
+        "activation": 0.8036021590232849
+      },
+      {
+        "word": "\u0120disorders",
+        "activation": 0.7922145128250122
+      },
+      {
+        "word": "\u0120faculties",
+        "activation": 0.7914621233940125
+      },
+      {
+        "word": "izophren",
+        "activation": 0.7540416717529297
+      },
+      {
+        "word": "otic",
+        "activation": 0.7400336861610413
+      },
+      {
+        "word": "\u0120disorder",
+        "activation": 0.7264145016670227
+      },
+      {
+        "word": "\u0120Disorder",
+        "activation": 0.7217124700546265
+      },
+      {
+        "word": "\u0120psychiatry",
+        "activation": 0.7206414341926575
+      }
+    ]
+  },
+  "16181": {
+    "medical_words": [
+      {
+        "word": "\u0120cancer",
+        "activation": 0.9105849266052246
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.905532717704773
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 0.8816583156585693
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.8144189119338989
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.8123277425765991
+      }
+    ],
+    "top_words": [
+      {
+        "word": "oma",
+        "activation": 1.1306854486465454
+      },
+      {
+        "word": "Bay",
+        "activation": 1.054128646850586
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.9105849266052246
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.905532717704773
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 0.8816583156585693
+      },
+      {
+        "word": "\u0120dementia",
+        "activation": 0.8751599192619324
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.8144189119338989
+      },
+      {
+        "word": "\u0120Surgery",
+        "activation": 0.8123277425765991
+      },
+      {
+        "word": "\u0120Alto",
+        "activation": 0.7720451354980469
+      },
+      {
+        "word": "Phone",
+        "activation": 0.7684032917022705
+      }
+    ]
+  },
+  "16241": {
+    "medical_words": [
+      {
+        "word": "\u0120immune",
+        "activation": 1.0521035194396973
+      },
+      {
+        "word": "immune",
+        "activation": 0.7468772530555725
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120immune",
+        "activation": 1.0521035194396973
+      },
+      {
+        "word": "\u0120allergic",
+        "activation": 0.7626867294311523
+      },
+      {
+        "word": "immune",
+        "activation": 0.7468772530555725
+      },
+      {
+        "word": "\u0120suscept",
+        "activation": 0.7366780042648315
+      },
+      {
+        "word": "idious",
+        "activation": 0.7246296405792236
+      },
+      {
+        "word": "\u0120antibodies",
+        "activation": 0.7170038223266602
+      },
+      {
+        "word": "\u0120intoler",
+        "activation": 0.7028266787528992
+      },
+      {
+        "word": "\u0120thyroid",
+        "activation": 0.6858576536178589
+      },
+      {
+        "word": "\u0120reaction",
+        "activation": 0.6845444440841675
+      },
+      {
+        "word": "\u0120antibody",
+        "activation": 0.683661937713623
+      }
+    ]
+  },
+  "16278": {
+    "medical_words": [
+      {
+        "word": "\u0120diagnosis",
+        "activation": 0.798957109451294
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.7753999829292297
+      },
+      {
+        "word": "\u0120Doctor",
+        "activation": 0.6344457864761353
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120diagnoses",
+        "activation": 0.8859326839447021
+      },
+      {
+        "word": "\u0120diagnosis",
+        "activation": 0.798957109451294
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.7753999829292297
+      },
+      {
+        "word": "ostics",
+        "activation": 0.7264722585678101
+      },
+      {
+        "word": "\u0120diagnosed",
+        "activation": 0.7231086492538452
+      },
+      {
+        "word": "\u0120diagnose",
+        "activation": 0.7215854525566101
+      },
+      {
+        "word": "diagn",
+        "activation": 0.7079349756240845
+      },
+      {
+        "word": "\u0120Diagn",
+        "activation": 0.7005780935287476
+      },
+      {
+        "word": "agn",
+        "activation": 0.6481356024742126
+      },
+      {
+        "word": "\u0120Doctor",
+        "activation": 0.6344457864761353
+      }
+    ]
+  },
+  "16396": {
+    "medical_words": [
+      {
+        "word": "\u0120therapy",
+        "activation": 0.7939847707748413
+      },
+      {
+        "word": "\u0120radiation",
+        "activation": 0.7480738162994385
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 0.7198697328567505
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120sickness",
+        "activation": 0.8640004396438599
+      },
+      {
+        "word": "\u0120visitation",
+        "activation": 0.8201721906661987
+      },
+      {
+        "word": "\u0120therapy",
+        "activation": 0.7939847707748413
+      },
+      {
+        "word": "\u0120isolation",
+        "activation": 0.7824971675872803
+      },
+      {
+        "word": "\u0120radiation",
+        "activation": 0.7480738162994385
+      },
+      {
+        "word": "\u0120waves",
+        "activation": 0.743135929107666
+      },
+      {
+        "word": "\u0120chambers",
+        "activation": 0.740199625492096
+      },
+      {
+        "word": "\u0120exposure",
+        "activation": 0.7365279793739319
+      },
+      {
+        "word": "\u0120treatment",
+        "activation": 0.7198697328567505
+      },
+      {
+        "word": "\u0120classification",
+        "activation": 0.702595591545105
+      }
+    ]
+  },
+  "16419": {
+    "medical_words": [
+      {
+        "word": "bone",
+        "activation": 0.9445453882217407
+      },
+      {
+        "word": "bones",
+        "activation": 0.8883445262908936
+      }
+    ],
+    "top_words": [
+      {
+        "word": "bone",
+        "activation": 0.9445453882217407
+      },
+      {
+        "word": "\u0120shoulder",
+        "activation": 0.9317255020141602
+      },
+      {
+        "word": "bones",
+        "activation": 0.8883445262908936
+      },
+      {
+        "word": "\u0120cavity",
+        "activation": 0.8775749206542969
+      },
+      {
+        "word": "\u0120neck",
+        "activation": 0.8112263679504395
+      },
+      {
+        "word": "\u0120spine",
+        "activation": 0.8021864295005798
+      },
+      {
+        "word": "\u0120shoulders",
+        "activation": 0.7735114097595215
+      },
+      {
+        "word": "\u0120throat",
+        "activation": 0.7696800231933594
+      },
+      {
+        "word": "plate",
+        "activation": 0.7473610639572144
+      },
+      {
+        "word": "\u0120ribs",
+        "activation": 0.7322186231613159
+      }
+    ]
+  },
+  "16568": {
+    "medical_words": [
+      {
+        "word": "\u0120cancer",
+        "activation": 0.9756965637207031
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.9437047839164734
+      },
+      {
+        "word": "\u0120tumor",
+        "activation": 0.8734714984893799
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.7764666080474854
+      },
+      {
+        "word": "\u0120chemotherapy",
+        "activation": 0.7503620386123657
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 0.7436508536338806
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120cancer",
+        "activation": 0.9756965637207031
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.9437047839164734
+      },
+      {
+        "word": "\u0120tumor",
+        "activation": 0.8734714984893799
+      },
+      {
+        "word": "\u0120leukemia",
+        "activation": 0.8586397767066956
+      },
+      {
+        "word": "\u0120metast",
+        "activation": 0.825192928314209
+      },
+      {
+        "word": "\u0120cancers",
+        "activation": 0.7764666080474854
+      },
+      {
+        "word": "\u0120carcin",
+        "activation": 0.763718843460083
+      },
+      {
+        "word": "\u0120chemotherapy",
+        "activation": 0.7503620386123657
+      },
+      {
+        "word": "\u0120Cancer",
+        "activation": 0.7436508536338806
+      },
+      {
+        "word": "\u0120cells",
+        "activation": 0.7339812517166138
+      }
+    ]
+  },
+  "16694": {
+    "medical_words": [
+      {
+        "word": "\u0120kidney",
+        "activation": 0.6774613857269287
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.6449800133705139
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.6271288394927979
+      },
+      {
+        "word": "\u0120lung",
+        "activation": 0.5896491408348083
+      },
+      {
+        "word": "\u0120kidneys",
+        "activation": 0.5773906707763672
+      },
+      {
+        "word": "\u0120disease",
+        "activation": 0.5679071545600891
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120renal",
+        "activation": 0.7796770334243774
+      },
+      {
+        "word": "\u0120kidney",
+        "activation": 0.6774613857269287
+      },
+      {
+        "word": "ricular",
+        "activation": 0.6599816083908081
+      },
+      {
+        "word": "\u0120artery",
+        "activation": 0.6449800133705139
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.6271288394927979
+      },
+      {
+        "word": "iovascular",
+        "activation": 0.5903035402297974
+      },
+      {
+        "word": "\u0120lung",
+        "activation": 0.5896491408348083
+      },
+      {
+        "word": "\u0120gland",
+        "activation": 0.5854783058166504
+      },
+      {
+        "word": "\u0120kidneys",
+        "activation": 0.5773906707763672
+      },
+      {
+        "word": "\u0120disease",
+        "activation": 0.5679071545600891
+      }
+    ]
+  },
+  "16783": {
+    "medical_words": [
+      {
+        "word": "\u0120cardiovascular",
+        "activation": 0.8641921281814575
+      },
+      {
+        "word": "\u0120hypertension",
+        "activation": 0.7147191762924194
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120cardiovascular",
+        "activation": 0.8641921281814575
+      },
+      {
+        "word": "\u0120hypertension",
+        "activation": 0.7147191762924194
+      },
+      {
+        "word": "\u0120hypert",
+        "activation": 0.7093064785003662
+      },
+      {
+        "word": "\u0120mell",
+        "activation": 0.6988694071769714
+      },
+      {
+        "word": "iovascular",
+        "activation": 0.6912127733230591
+      },
+      {
+        "word": "\u0120thyroid",
+        "activation": 0.6900925040245056
+      },
+      {
+        "word": "\u0120bankrupt",
+        "activation": 0.6679933071136475
+      },
+      {
+        "word": "\u00e6\u0138\u00b9",
+        "activation": 0.6598347425460815
+      },
+      {
+        "word": "\u0120vascular",
+        "activation": 0.6389210224151611
+      },
+      {
+        "word": "\u0120bankruptcy",
+        "activation": 0.6283544301986694
+      }
+    ]
+  },
+  "18633": {
+    "medical_words": [
+      {
+        "word": "\u0120Chronic",
+        "activation": 0.9124772548675537
+      },
+      {
+        "word": "\u0120chronic",
+        "activation": 0.8793831467628479
+      },
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.7836660146713257
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 0.7210803031921387
+      },
+      {
+        "word": "\u0120diseases",
+        "activation": 0.6853284239768982
+      },
+      {
+        "word": "\u0120disease",
+        "activation": 0.6646424531936646
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Chronic",
+        "activation": 0.9124772548675537
+      },
+      {
+        "word": "\u0120chronic",
+        "activation": 0.8793831467628479
+      },
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.7836660146713257
+      },
+      {
+        "word": "led",
+        "activation": 0.769717812538147
+      },
+      {
+        "word": "\u0120Bengal",
+        "activation": 0.743435800075531
+      },
+      {
+        "word": "\u0120traumatic",
+        "activation": 0.7283437848091125
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 0.7210803031921387
+      },
+      {
+        "word": "\u0120diseases",
+        "activation": 0.6853284239768982
+      },
+      {
+        "word": "tin",
+        "activation": 0.6646909713745117
+      },
+      {
+        "word": "\u0120disease",
+        "activation": 0.6646424531936646
+      }
+    ]
+  },
+  "18856": {
+    "medical_words": [
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.8814592361450195
+      },
+      {
+        "word": "\u0120lungs",
+        "activation": 0.6753184795379639
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.8814592361450195
+      },
+      {
+        "word": "\u0120dysfunction",
+        "activation": 0.749356746673584
+      },
+      {
+        "word": "\u0120vascular",
+        "activation": 0.7438297271728516
+      },
+      {
+        "word": "\u0120pulmonary",
+        "activation": 0.7338941693305969
+      },
+      {
+        "word": "\u0120intestinal",
+        "activation": 0.7136958837509155
+      },
+      {
+        "word": "\u0120lymph",
+        "activation": 0.7018418312072754
+      },
+      {
+        "word": "\u0120tissue",
+        "activation": 0.6927118301391602
+      },
+      {
+        "word": "\u0120inflammatory",
+        "activation": 0.6773782968521118
+      },
+      {
+        "word": "\u0120lungs",
+        "activation": 0.6753184795379639
+      },
+      {
+        "word": "osis",
+        "activation": 0.6715324521064758
+      }
+    ]
+  },
+  "18861": {
+    "medical_words": [
+      {
+        "word": "\u0120outpatient",
+        "activation": 0.7752012610435486
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.7715688347816467
+      }
+    ],
+    "top_words": [
+      {
+        "word": "esville",
+        "activation": 0.8974284529685974
+      },
+      {
+        "word": "itals",
+        "activation": 0.8696107864379883
+      },
+      {
+        "word": "\u0120outpatient",
+        "activation": 0.7752012610435486
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.7715688347816467
+      },
+      {
+        "word": "itone",
+        "activation": 0.7507360577583313
+      },
+      {
+        "word": "iovascular",
+        "activation": 0.7369015216827393
+      },
+      {
+        "word": "ity",
+        "activation": 0.7348499298095703
+      },
+      {
+        "word": "opath",
+        "activation": 0.7095774412155151
+      },
+      {
+        "word": "\u0120RTX",
+        "activation": 0.7074962258338928
+      },
+      {
+        "word": "\u0120Hoy",
+        "activation": 0.705930233001709
+      }
+    ]
+  },
+  "18949": {
+    "medical_words": [
+      {
+        "word": "\u0120Patient",
+        "activation": 0.9327524900436401
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 0.9204697608947754
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.874658465385437
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.8302834033966064
+      }
+    ],
+    "top_words": [
+      {
+        "word": "ele",
+        "activation": 0.9694063067436218
+      },
+      {
+        "word": "\u0120Patient",
+        "activation": 0.9327524900436401
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 0.9204697608947754
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.874658465385437
+      },
+      {
+        "word": "\u0120wait",
+        "activation": 0.8660460710525513
+      },
+      {
+        "word": "\u0120regist",
+        "activation": 0.8548493981361389
+      },
+      {
+        "word": "\u0120timet",
+        "activation": 0.8332397937774658
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.8302834033966064
+      },
+      {
+        "word": "\u0120CARE",
+        "activation": 0.8291231989860535
+      },
+      {
+        "word": "\u0120Hein",
+        "activation": 0.8289715051651001
+      }
+    ]
+  },
+  "18977": {
+    "medical_words": [
+      {
+        "word": "\u0120vaccinations",
+        "activation": 0.7564560174942017
+      },
+      {
+        "word": "\u0120vaccine",
+        "activation": 0.7380396127700806
+      },
+      {
+        "word": "\u0120vaccination",
+        "activation": 0.7331918478012085
+      },
+      {
+        "word": "\u0120vaccines",
+        "activation": 0.6348524689674377
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120vaccinations",
+        "activation": 0.7564560174942017
+      },
+      {
+        "word": "\u0120vacc",
+        "activation": 0.749213695526123
+      },
+      {
+        "word": "\u0120vaccine",
+        "activation": 0.7380396127700806
+      },
+      {
+        "word": "\u0120Vacc",
+        "activation": 0.7374649047851562
+      },
+      {
+        "word": "\u0120vaccination",
+        "activation": 0.7331918478012085
+      },
+      {
+        "word": "\u0120scares",
+        "activation": 0.7269294261932373
+      },
+      {
+        "word": "\u0120cz",
+        "activation": 0.6990572810173035
+      },
+      {
+        "word": "\u0120vaccinated",
+        "activation": 0.6933746337890625
+      },
+      {
+        "word": "\u0120vaccines",
+        "activation": 0.6348524689674377
+      },
+      {
+        "word": "\u0120goggles",
+        "activation": 0.6237266063690186
+      }
+    ]
+  },
+  "19441": {
+    "medical_words": [
+      {
+        "word": "\u0120fractures",
+        "activation": 0.8096340298652649
+      },
+      {
+        "word": "\u0120fracture",
+        "activation": 0.7550920248031616
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 0.7004239559173584
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120fractures",
+        "activation": 0.8096340298652649
+      },
+      {
+        "word": "\u0120fracture",
+        "activation": 0.7550920248031616
+      },
+      {
+        "word": "\u0120oste",
+        "activation": 0.7459510564804077
+      },
+      {
+        "word": "bite",
+        "activation": 0.7445255517959595
+      },
+      {
+        "word": "\u0120Cortex",
+        "activation": 0.7065825462341309
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 0.7004239559173584
+      },
+      {
+        "word": "\u0120blades",
+        "activation": 0.6874995827674866
+      },
+      {
+        "word": "algia",
+        "activation": 0.6769179105758667
+      },
+      {
+        "word": "\u0120infertility",
+        "activation": 0.6599558591842651
+      },
+      {
+        "word": "scroll",
+        "activation": 0.6412482261657715
+      }
+    ]
+  },
+ 
+  "19676": {
+    "medical_words": [
+      {
+        "word": "\u0120muscle",
+        "activation": 0.7738699913024902
+      },
+      {
+        "word": "Bone",
+        "activation": 0.7732205390930176
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 0.7368689775466919
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120tissue",
+        "activation": 0.9770969152450562
+      },
+      {
+        "word": "ulus",
+        "activation": 0.856876015663147
+      },
+      {
+        "word": "cular",
+        "activation": 0.8436154127120972
+      },
+      {
+        "word": "\u0120muscle",
+        "activation": 0.7738699913024902
+      },
+      {
+        "word": "Bone",
+        "activation": 0.7732205390930176
+      },
+      {
+        "word": "\u0120fibers",
+        "activation": 0.7671881318092346
+      },
+      {
+        "word": "thro",
+        "activation": 0.7658745050430298
+      },
+      {
+        "word": "\u0120contraction",
+        "activation": 0.7639483213424683
+      },
+      {
+        "word": "\u0120surgeons",
+        "activation": 0.7368689775466919
+      },
+      {
+        "word": "\u0120tissues",
+        "activation": 0.7353504300117493
+      }
+    ]
+  },
+  "19799": {
+    "medical_words": [
+      {
+        "word": "\u0120artery",
+        "activation": 1.1930261850357056
+      },
+      {
+        "word": "\u0120heart",
+        "activation": 0.7339683771133423
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120artery",
+        "activation": 1.1930261850357056
+      },
+      {
+        "word": "\u0120arteries",
+        "activation": 1.0896940231323242
+      },
+      {
+        "word": "\u0120athe",
+        "activation": 0.9162420034408569
+      },
+      {
+        "word": "iovascular",
+        "activation": 0.9113669991493225
+      },
+      {
+        "word": "\u0120coronary",
+        "activation": 0.9093450307846069
+      },
+      {
+        "word": "\u0120cholesterol",
+        "activation": 0.8849519491195679
+      },
+      {
+        "word": "olesterol",
+        "activation": 0.8323481678962708
+      },
+      {
+        "word": "\u0120disse",
+        "activation": 0.7681695222854614
+      },
+      {
+        "word": "ricular",
+        "activation": 0.7406336069107056
+      },
+      {
+        "word": "\u0120heart",
+        "activation": 0.7339683771133423
+      }
+    ]
+  },
+  "19829": {
+    "medical_words": [
+      {
+        "word": "\u0120brains",
+        "activation": 0.6246945858001709
+      },
+      {
+        "word": "brain",
+        "activation": 0.611327052116394
+      }
+    ],
+    "top_words": [
+      {
+        "word": "sonian",
+        "activation": 0.7067661285400391
+      },
+      {
+        "word": "\u0120blah",
+        "activation": 0.6908674240112305
+      },
+      {
+        "word": "\u0120hemorrh",
+        "activation": 0.6795057058334351
+      },
+      {
+        "word": "dot",
+        "activation": 0.6541964411735535
+      },
+      {
+        "word": "aez",
+        "activation": 0.6322590112686157
+      },
+      {
+        "word": "\u0120brains",
+        "activation": 0.6246945858001709
+      },
+      {
+        "word": "blers",
+        "activation": 0.6238126754760742
+      },
+      {
+        "word": "agic",
+        "activation": 0.6230802536010742
+      },
+      {
+        "word": "brain",
+        "activation": 0.611327052116394
+      },
+      {
+        "word": "\u0120doom",
+        "activation": 0.6000452637672424
+      }
+    ]
+  },
+  "20277": {
+    "medical_words": [
+      {
+        "word": "\u0120Patients",
+        "activation": 0.8975276947021484
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.844052255153656
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 0.6874106526374817
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Patients",
+        "activation": 0.8975276947021484
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.844052255153656
+      },
+      {
+        "word": "ients",
+        "activation": 0.6961370706558228
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 0.6874106526374817
+      },
+      {
+        "word": "rooms",
+        "activation": 0.6490143537521362
+      },
+      {
+        "word": "ele",
+        "activation": 0.6276455521583557
+      },
+      {
+        "word": "llah",
+        "activation": 0.6244227290153503
+      },
+      {
+        "word": "staking",
+        "activation": 0.6147820949554443
+      },
+      {
+        "word": "who",
+        "activation": 0.6089766025543213
+      },
+      {
+        "word": "\u0120WHO",
+        "activation": 0.5986374616622925
+      }
+    ]
+  },
+  "20518": {
+    "medical_words": [
+      {
+        "word": "\u0120lungs",
+        "activation": 0.9825283288955688
+      },
+      {
+        "word": "\u0120respiratory",
+        "activation": 0.8236904144287109
+      },
+      {
+        "word": "\u0120asthma",
+        "activation": 0.7836710810661316
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120lungs",
+        "activation": 0.9825283288955688
+      },
+      {
+        "word": "\u0120cavity",
+        "activation": 0.9540096521377563
+      },
+      {
+        "word": "monary",
+        "activation": 0.8875844478607178
+      },
+      {
+        "word": "\u0120throat",
+        "activation": 0.8269278407096863
+      },
+      {
+        "word": "\u0120respiratory",
+        "activation": 0.8236904144287109
+      },
+      {
+        "word": "\u0120inhal",
+        "activation": 0.7844332456588745
+      },
+      {
+        "word": "\u0120asthma",
+        "activation": 0.7836710810661316
+      },
+      {
+        "word": "algia",
+        "activation": 0.7718201875686646
+      },
+      {
+        "word": "\u0120vacc",
+        "activation": 0.7703574895858765
+      },
+      {
+        "word": "ysis",
+        "activation": 0.7434351444244385
+      }
+    ]
+  },
+  "20541": {
+    "medical_words": [
+      {
+        "word": "\u0120Bone",
+        "activation": 0.833357572555542
+      },
+      {
+        "word": "\u0120Bones",
+        "activation": 0.7838873863220215
+      },
+      {
+        "word": "\u0120bones",
+        "activation": 0.7669505476951599
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120skeleton",
+        "activation": 0.9104844331741333
+      },
+      {
+        "word": "\u0120skeletons",
+        "activation": 0.8683297634124756
+      },
+      {
+        "word": "\u0120skeletal",
+        "activation": 0.8615772724151611
+      },
+      {
+        "word": "\u0120Bone",
+        "activation": 0.833357572555542
+      },
+      {
+        "word": "\u0120skelet",
+        "activation": 0.8051239252090454
+      },
+      {
+        "word": "\u0120Soup",
+        "activation": 0.7934591770172119
+      },
+      {
+        "word": "\u0120Bones",
+        "activation": 0.7838873863220215
+      },
+      {
+        "word": "\u0120bones",
+        "activation": 0.7669505476951599
+      },
+      {
+        "word": "\u0120Skull",
+        "activation": 0.7607719898223877
+      },
+      {
+        "word": "olithic",
+        "activation": 0.7412609457969666
+      }
+    ]
+  },
+  "20568": {
+    "medical_words": [
+      {
+        "word": "\u0120fractures",
+        "activation": 0.7691301107406616
+      },
+      {
+        "word": "\u0120fracture",
+        "activation": 0.7481720447540283
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Pain",
+        "activation": 0.9132006168365479
+      },
+      {
+        "word": "\u0120wounds",
+        "activation": 0.8986796140670776
+      },
+      {
+        "word": "\u0120trauma",
+        "activation": 0.8686959743499756
+      },
+      {
+        "word": "\u0120Dys",
+        "activation": 0.8262743949890137
+      },
+      {
+        "word": "\u0120traumatic",
+        "activation": 0.7808414697647095
+      },
+      {
+        "word": "\u0120Suff",
+        "activation": 0.7803950309753418
+      },
+      {
+        "word": "\u0120fractures",
+        "activation": 0.7691301107406616
+      },
+      {
+        "word": "\u0120pain",
+        "activation": 0.7498839497566223
+      },
+      {
+        "word": "\u0120fracture",
+        "activation": 0.7481720447540283
+      },
+      {
+        "word": "\u0120Dent",
+        "activation": 0.74318528175354
+      }
+    ]
+  },
+  "20817": {
+    "medical_words": [
+      {
+        "word": "\u0120outpatient",
+        "activation": 0.741956353187561
+      },
+      {
+        "word": "\u0120Patient",
+        "activation": 0.7374221682548523
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 0.7213267087936401
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.7168645858764648
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.6915788650512695
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 0.6835321187973022
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120outpatient",
+        "activation": 0.741956353187561
+      },
+      {
+        "word": "\u0120Patient",
+        "activation": 0.7374221682548523
+      },
+      {
+        "word": "\u0120practitioner",
+        "activation": 0.7237513065338135
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 0.7213267087936401
+      },
+      {
+        "word": "\u0120examiner",
+        "activation": 0.718878448009491
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.7168645858764648
+      },
+      {
+        "word": "bay",
+        "activation": 0.7019413113594055
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.6915788650512695
+      },
+      {
+        "word": "itals",
+        "activation": 0.6887348890304565
+      },
+      {
+        "word": "\u0120physician",
+        "activation": 0.6835321187973022
+      }
+    ]
+  },
+  "20851": {
+    "medical_words": [
+      {
+        "word": "\u0120psychiatrists",
+        "activation": 0.950130820274353
+      },
+      {
+        "word": "\u0120psychiatrist",
+        "activation": 0.9216128587722778
+      }
+    ],
+    "top_words": [
+      {
+        "word": "iatric",
+        "activation": 1.0355850458145142
+      },
+      {
+        "word": "ologic",
+        "activation": 1.029355525970459
+      },
+      {
+        "word": "\u0120neurolog",
+        "activation": 1.0188277959823608
+      },
+      {
+        "word": "\u0120dermat",
+        "activation": 0.980359673500061
+      },
+      {
+        "word": "ochemical",
+        "activation": 0.9533203840255737
+      },
+      {
+        "word": "\u0120psychiatrists",
+        "activation": 0.950130820274353
+      },
+      {
+        "word": "opathic",
+        "activation": 0.9482035040855408
+      },
+      {
+        "word": "icians",
+        "activation": 0.9302994608879089
+      },
+      {
+        "word": "\u0120psychiatrist",
+        "activation": 0.9216128587722778
+      },
+      {
+        "word": "urgical",
+        "activation": 0.911714494228363
+      }
+    ]
+  },
+  "20891": {
+    "medical_words": [
+      {
+        "word": "\u0120vaccine",
+        "activation": 0.8957305550575256
+      },
+      {
+        "word": "\u0120quarantine",
+        "activation": 0.7569363117218018
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120vaccine",
+        "activation": 0.8957305550575256
+      },
+      {
+        "word": "\u0120Vacc",
+        "activation": 0.8871443271636963
+      },
+      {
+        "word": "eers",
+        "activation": 0.8741821050643921
+      },
+      {
+        "word": "\u0120infected",
+        "activation": 0.8154923915863037
+      },
+      {
+        "word": "\u0120infect",
+        "activation": 0.8043485879898071
+      },
+      {
+        "word": "\u0120virus",
+        "activation": 0.7615159153938293
+      },
+      {
+        "word": "\u0120pand",
+        "activation": 0.7579548358917236
+      },
+      {
+        "word": "\u0120quarantine",
+        "activation": 0.7569363117218018
+      },
+      {
+        "word": "\u0120Outbreak",
+        "activation": 0.7409988641738892
+      },
+      {
+        "word": "eer",
+        "activation": 0.7402088642120361
+      }
+    ]
+  },
+  
+  "21477": {
+    "medical_words": [
+      {
+        "word": "\u0120Patients",
+        "activation": 0.6612244844436646
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.6100283861160278
+      },
+      {
+        "word": "\u0120Patient",
+        "activation": 0.5712673664093018
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 0.541562020778656
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Patients",
+        "activation": 0.6612244844436646
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.6100283861160278
+      },
+      {
+        "word": "ients",
+        "activation": 0.5817975997924805
+      },
+      {
+        "word": "\u0120Patient",
+        "activation": 0.5712673664093018
+      },
+      {
+        "word": "terson",
+        "activation": 0.5498961210250854
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 0.541562020778656
+      },
+      {
+        "word": "ient",
+        "activation": 0.5016085505485535
+      },
+      {
+        "word": "bay",
+        "activation": 0.4616902768611908
+      },
+      {
+        "word": "awar",
+        "activation": 0.44904011487960815
+      },
+      {
+        "word": "\u0120rooms",
+        "activation": 0.4427281320095062
+      }
+    ]
+  },
+  "21509": {
+    "medical_words": [
+      {
+        "word": "\u0120infection",
+        "activation": 0.9762789011001587
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.8808478713035583
+      },
+      {
+        "word": "\u0120Disease",
+        "activation": 0.8031265735626221
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 0.7913548946380615
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Infect",
+        "activation": 1.1407711505889893
+      },
+      {
+        "word": "\u0120infected",
+        "activation": 1.0387217998504639
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 0.9762789011001587
+      },
+      {
+        "word": "infect",
+        "activation": 0.9176219701766968
+      },
+      {
+        "word": "\u0120infect",
+        "activation": 0.8981213569641113
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.8808478713035583
+      },
+      {
+        "word": "\u0120Leone",
+        "activation": 0.8646141290664673
+      },
+      {
+        "word": "\u0120Disease",
+        "activation": 0.8031265735626221
+      },
+      {
+        "word": "\u0120outbreak",
+        "activation": 0.7928221225738525
+      },
+      {
+        "word": "\u0120Diseases",
+        "activation": 0.7913548946380615
+      }
+    ]
+  },
+  "21827": {
+    "medical_words": [
+      {
+        "word": "\u0120transplant",
+        "activation": 1.064342975616455
+      },
+      {
+        "word": "\u0120kidneys",
+        "activation": 0.8568151593208313
+      },
+      {
+        "word": "\u0120lungs",
+        "activation": 0.7422584295272827
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120transplant",
+        "activation": 1.064342975616455
+      },
+      {
+        "word": "\u0120liver",
+        "activation": 0.9518072605133057
+      },
+      {
+        "word": "ysis",
+        "activation": 0.937755823135376
+      },
+      {
+        "word": "\u0120transpl",
+        "activation": 0.9241011142730713
+      },
+      {
+        "word": "\u0120kidneys",
+        "activation": 0.8568151593208313
+      },
+      {
+        "word": "adder",
+        "activation": 0.8113067746162415
+      },
+      {
+        "word": "\u0120gland",
+        "activation": 0.7861412763595581
+      },
+      {
+        "word": "\u0120glands",
+        "activation": 0.7791744470596313
+      },
+      {
+        "word": "\u0120Liver",
+        "activation": 0.7581144571304321
+      },
+      {
+        "word": "\u0120lungs",
+        "activation": 0.7422584295272827
+      }
+    ]
+  },
+  "21844": {
+    "medical_words": [
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.8194636106491089
+      },
+      {
+        "word": "\u0120asthma",
+        "activation": 0.65803462266922
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120inflammation",
+        "activation": 0.8194636106491089
+      },
+      {
+        "word": "ysis",
+        "activation": 0.7362790107727051
+      },
+      {
+        "word": "\u0120gastrointestinal",
+        "activation": 0.685533344745636
+      },
+      {
+        "word": "\u0120inflammatory",
+        "activation": 0.6809181571006775
+      },
+      {
+        "word": "\u0120lymph",
+        "activation": 0.6677788496017456
+      },
+      {
+        "word": "\u0120asthma",
+        "activation": 0.65803462266922
+      },
+      {
+        "word": "\u0120intestinal",
+        "activation": 0.6417547464370728
+      },
+      {
+        "word": "iovascular",
+        "activation": 0.6381441354751587
+      },
+      {
+        "word": "\u0120pneumonia",
+        "activation": 0.6357119083404541
+      },
+      {
+        "word": "\u0120vascular",
+        "activation": 0.6277413368225098
+      }
+    ]
+  },
+  "21935": {
+    "medical_words": [
+      {
+        "word": "\u0120Patients",
+        "activation": 0.8623063564300537
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.8117162585258484
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 0.6630013585090637
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Patients",
+        "activation": 0.8623063564300537
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.8117162585258484
+      },
+      {
+        "word": "ients",
+        "activation": 0.6735889911651611
+      },
+      {
+        "word": "\u0120patient",
+        "activation": 0.6630013585090637
+      },
+      {
+        "word": "rooms",
+        "activation": 0.611576497554779
+      },
+      {
+        "word": "llah",
+        "activation": 0.6021482944488525
+      },
+      {
+        "word": "staking",
+        "activation": 0.5911272764205933
+      },
+      {
+        "word": "ele",
+        "activation": 0.5838978886604309
+      },
+      {
+        "word": "who",
+        "activation": 0.5760425329208374
+      },
+      {
+        "word": "neys",
+        "activation": 0.5697989463806152
+      }
+    ]
+  },
+  
+  "22200": {
+    "medical_words": [
+      {
+        "word": "\u0120infection",
+        "activation": 0.9022035598754883
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.8355571627616882
+      },
+      {
+        "word": "\u0120antibiotic",
+        "activation": 0.7967378497123718
+      }
+    ],
+    "top_words": [
+      {
+        "word": "bial",
+        "activation": 0.910753607749939
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 0.9022035598754883
+      },
+      {
+        "word": "\u0120bacteria",
+        "activation": 0.8917719125747681
+      },
+      {
+        "word": "icrobial",
+        "activation": 0.8585653901100159
+      },
+      {
+        "word": "culosis",
+        "activation": 0.8506639003753662
+      },
+      {
+        "word": "\u0120microbi",
+        "activation": 0.8487492799758911
+      },
+      {
+        "word": "\u0120tuberculosis",
+        "activation": 0.848280668258667
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.8355571627616882
+      },
+      {
+        "word": "illin",
+        "activation": 0.8270233273506165
+      },
+      {
+        "word": "\u0120antibiotic",
+        "activation": 0.7967378497123718
+      }
+    ]
+  },
+  "22227": {
+    "medical_words": [
+      {
+        "word": "bone",
+        "activation": 1.293297529220581
+      },
+      {
+        "word": "bones",
+        "activation": 0.9385180473327637
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.9257612228393555
+      }
+    ],
+    "top_words": [
+      {
+        "word": "bone",
+        "activation": 1.293297529220581
+      },
+      {
+        "word": "plate",
+        "activation": 1.1949925422668457
+      },
+      {
+        "word": "\u0120breast",
+        "activation": 1.156664490699768
+      },
+      {
+        "word": "\u0120Breast",
+        "activation": 1.05414617061615
+      },
+      {
+        "word": "\u0120breasts",
+        "activation": 1.0327115058898926
+      },
+      {
+        "word": "\u0120implants",
+        "activation": 0.945812463760376
+      },
+      {
+        "word": "bones",
+        "activation": 0.9385180473327637
+      },
+      {
+        "word": "\u0120cancer",
+        "activation": 0.9257612228393555
+      },
+      {
+        "word": "\u0120milk",
+        "activation": 0.9073771238327026
+      },
+      {
+        "word": "prints",
+        "activation": 0.8941839933395386
+      }
+    ]
+  },
+ 
+  "22855": {
+    "medical_words": [
+      {
+        "word": "cancer",
+        "activation": 0.9539386034011841
+      },
+      {
+        "word": "otherapy",
+        "activation": 0.8343099355697632
+      }
+    ],
+    "top_words": [
+      {
+        "word": "ogen",
+        "activation": 0.9685582518577576
+      },
+      {
+        "word": "ococ",
+        "activation": 0.9542249441146851
+      },
+      {
+        "word": "cancer",
+        "activation": 0.9539386034011841
+      },
+      {
+        "word": "ogens",
+        "activation": 0.9408444166183472
+      },
+      {
+        "word": "ogene",
+        "activation": 0.8901247382164001
+      },
+      {
+        "word": "illin",
+        "activation": 0.8862705826759338
+      },
+      {
+        "word": "oglobin",
+        "activation": 0.8743385076522827
+      },
+      {
+        "word": "culosis",
+        "activation": 0.8528411388397217
+      },
+      {
+        "word": "ergic",
+        "activation": 0.8495693206787109
+      },
+      {
+        "word": "otherapy",
+        "activation": 0.8343099355697632
+      }
+    ]
+  },
+  "22920": {
+    "medical_words": [
+      {
+        "word": "\u0120infection",
+        "activation": 0.8591632843017578
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.8119510412216187
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120Gutenberg",
+        "activation": 0.868934154510498
+      },
+      {
+        "word": "\u0120infected",
+        "activation": 0.8637192249298096
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 0.8591632843017578
+      },
+      {
+        "word": "\u0120virus",
+        "activation": 0.8465567231178284
+      },
+      {
+        "word": "infect",
+        "activation": 0.843734622001648
+      },
+      {
+        "word": "\u0120Infect",
+        "activation": 0.8286212682723999
+      },
+      {
+        "word": "AIDS",
+        "activation": 0.8191128373146057
+      },
+      {
+        "word": "\u0120HIV",
+        "activation": 0.8143866062164307
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.8119510412216187
+      },
+      {
+        "word": "\u0120transpl",
+        "activation": 0.7868808507919312
+      }
+    ]
+  },
+  "23010": {
+    "medical_words": [
+      {
+        "word": "\u0120patients",
+        "activation": 0.6374446153640747
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.6179221868515015
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120lesions",
+        "activation": 1.0858445167541504
+      },
+      {
+        "word": "ises",
+        "activation": 0.881294846534729
+      },
+      {
+        "word": "\u0120slopes",
+        "activation": 0.7051396369934082
+      },
+      {
+        "word": "isers",
+        "activation": 0.702527642250061
+      },
+      {
+        "word": "ising",
+        "activation": 0.6532886624336243
+      },
+      {
+        "word": "illac",
+        "activation": 0.6432182788848877
+      },
+      {
+        "word": "\u0120patients",
+        "activation": 0.6374446153640747
+      },
+      {
+        "word": "ise",
+        "activation": 0.6248911619186401
+      },
+      {
+        "word": "\u0120Patients",
+        "activation": 0.6179221868515015
+      },
+      {
+        "word": "ize",
+        "activation": 0.6084243059158325
+      }
+    ]
+  },
+  "23098": {
+    "medical_words": [
+      {
+        "word": "\u0120medical",
+        "activation": 0.6483415365219116
+      },
+      {
+        "word": "Doctors",
+        "activation": 0.6187889575958252
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120negligence",
+        "activation": 0.769691526889801
+      },
+      {
+        "word": "\u0120professionals",
+        "activation": 0.7307595014572144
+      },
+      {
+        "word": "\u0120profession",
+        "activation": 0.6581475734710693
+      },
+      {
+        "word": "\u0120medical",
+        "activation": 0.6483415365219116
+      },
+      {
+        "word": "idad",
+        "activation": 0.6379806995391846
+      },
+      {
+        "word": "\u0120marijuana",
+        "activation": 0.6270343065261841
+      },
+      {
+        "word": "\u0120injury",
+        "activation": 0.6248066425323486
+      },
+      {
+        "word": "\u0120mal",
+        "activation": 0.6219289302825928
+      },
+      {
+        "word": "\u0120professions",
+        "activation": 0.6213210821151733
+      },
+      {
+        "word": "Doctors",
+        "activation": 0.6187889575958252
+      }
+    ]
+  },
+  "23518": {
+    "medical_words": [
+      {
+        "word": "\u0120infection",
+        "activation": 1.0068514347076416
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.9651404619216919
+      },
+      {
+        "word": "\u0120disease",
+        "activation": 0.8273255228996277
+      }
+    ],
+    "top_words": [
+      {
+        "word": "aceous",
+        "activation": 1.0230636596679688
+      },
+      {
+        "word": "\u0120infection",
+        "activation": 1.0068514347076416
+      },
+      {
+        "word": "\u0120infections",
+        "activation": 0.9651404619216919
+      },
+      {
+        "word": "iously",
+        "activation": 0.8679471015930176
+      },
+      {
+        "word": "idious",
+        "activation": 0.8494210243225098
+      },
+      {
+        "word": "irus",
+        "activation": 0.8369767665863037
+      },
+      {
+        "word": "\u0120disease",
+        "activation": 0.8273255228996277
+      },
+      {
+        "word": "\u0120hepatitis",
+        "activation": 0.8198678493499756
+      },
+      {
+        "word": "ized",
+        "activation": 0.8143612146377563
+      },
+      {
+        "word": "\u0120Infect",
+        "activation": 0.812665581703186
+      }
+    ]
+  },
+  "23866": {
+    "medical_words": [
+      {
+        "word": "\u0120tumors",
+        "activation": 0.6155347228050232
+      },
+      {
+        "word": "\u0120transplant",
+        "activation": 0.5793653726577759
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120tissue",
+        "activation": 0.8183975219726562
+      },
+      {
+        "word": "\u0120transpl",
+        "activation": 0.7601741552352905
+      },
+      {
+        "word": "\u0120tracts",
+        "activation": 0.7425477504730225
+      },
+      {
+        "word": "\u0120regenerate",
+        "activation": 0.6636488437652588
+      },
+      {
+        "word": "ilage",
+        "activation": 0.6438179016113281
+      },
+      {
+        "word": "\u0120tumors",
+        "activation": 0.6155347228050232
+      },
+      {
+        "word": "\u0120implants",
+        "activation": 0.6023951768875122
+      },
+      {
+        "word": "shed",
+        "activation": 0.5971419811248779
+      },
+      {
+        "word": "\u0120tissues",
+        "activation": 0.5923687815666199
+      },
+      {
+        "word": "\u0120transplant",
+        "activation": 0.5793653726577759
+      }
+    ]
+  },
+  "23889": {
+    "medical_words": [
+      {
+        "word": "\u0120kidney",
+        "activation": 0.7327914834022522
+      },
+      {
+        "word": "\u0120kidneys",
+        "activation": 0.6790859699249268
+      }
+    ],
+    "top_words": [
+      {
+        "word": "neys",
+        "activation": 0.7904200553894043
+      },
+      {
+        "word": "\u0120kidney",
+        "activation": 0.7327914834022522
+      },
+      {
+        "word": "ysis",
+        "activation": 0.7213560342788696
+      },
+      {
+        "word": "\u0120renal",
+        "activation": 0.7105462551116943
+      },
+      {
+        "word": "\u0120marrow",
+        "activation": 0.7099137306213379
+      },
+      {
+        "word": "stone",
+        "activation": 0.7084734439849854
+      },
+      {
+        "word": "stones",
+        "activation": 0.7048673629760742
+      },
+      {
+        "word": "\u0120transpl",
+        "activation": 0.6957710981369019
+      },
+      {
+        "word": "burning",
+        "activation": 0.6903259754180908
+      },
+      {
+        "word": "\u0120kidneys",
+        "activation": 0.6790859699249268
+      }
+    ]
+  },
+  "24352": {
+    "medical_words": [
+      {
+        "word": "\u0120vaccination",
+        "activation": 0.6930891275405884
+      },
+      {
+        "word": "\u0120aspirin",
+        "activation": 0.6155616641044617
+      }
+    ],
+    "top_words": [
+      {
+        "word": "\u0120dose",
+        "activation": 1.031956434249878
+      },
+      {
+        "word": "\u0120doses",
+        "activation": 1.0024350881576538
+      },
+      {
+        "word": "\u00e8\u00a6\u013c\u00e9\u0128\u0134",
+        "activation": 0.7846518754959106
+      },
+      {
+        "word": "\u0120dosage",
+        "activation": 0.7719839811325073
+      },
+      {
+        "word": "\u0120vaccination",
+        "activation": 0.6930891275405884
+      },
+      {
+        "word": "\u0120laced",
+        "activation": 0.6808144450187683
+      },
+      {
+        "word": "\u0120TAMADRA",
+        "activation": 0.6546268463134766
+      },
+      {
+        "word": "\u0120aspirin",
+        "activation": 0.6155616641044617
+      },
+      {
+        "word": "ctr",
+        "activation": 0.6102709770202637
+      },
+      {
+        "word": "\u0120regimen",
+        "activation": 0.6099220514297485
+      }
+    ]
+  }
+}
