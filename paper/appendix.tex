@@ -1,2 +1,65 @@
 \section{Appendix}
-Include any supplementary material, additional data, or extended proofs here.
+
+\hypertarget{sae-training}{%
+\textbf{Custom SAE Training:} 
+\begin{enumerate}
+    \item The training process was designed to run for 30,000 steps with a batch size of 1024 tokens, resulting in a total of 61,440,000 training tokens. The learning rate scheduler was set to maintain a constant learning rate of 5e-5 throughout the training process, with Adam optimizer parameters $\beta_{1} = 0.9$ and $\beta_{2} = 0.999$. The SAE was configured to work with GPT-2's architecture, specifically targeting the output of the eighth MLP layer (blocks.8.hook\_mlp\_out) with an input dimension of 768.
+    \item The autoencoder employed an expansion factor of 16, resulting in a hidden layer size of 12,288 (768 * 16). This expansion allows the SAE to potentially capture a richer set of features than those directly represented in the original model's activations.
+    \item To encourage sparsity in the learned features, an L1 regularization term was applied with a coefficient of 5. The L1 penalty was gradually introduced over the first 1,500 training steps (total\_training\_steps // 20) to allow the model to initially learn without sparsity constraints.
+    \item The training data was sourced from the "monology/pile-uncopyrighted" dataset, using a streaming approach to handle large data volumes efficiently. Each training example used a context size of 512 tokens, allowing the SAE to capture dependencies over relatively long sequences.
+    \item The transformer comprises twelve layers, any of which could have been chosen to extract activations for training the SAE. Although we opted for the eighth layer, this choice was arbitrary, as any other layer would have sufficed.
+    \item The training progress was logged to Weights \& Biases (wandb) every 30 steps, with a more comprehensive evaluation performed every 600 steps (20 * 30). This allowed for detailed tracking of the training process and the evolving characteristics of the learned features.
+    \item The overall loss achieved was 211.71364, with MSE loss at 66.29448 and L1 loss at 29.08383.
+    \item The SAE demonstrated good reconstruction performance, with a CE loss score of 0.99386 (close to 1) and an explained variance of 0.89557, suggesting it captured a large portion of the variance in the input. The L2 ratio (out/in) of 0.79866 indicates that output activations were slightly smaller than input, as expected.
+    \item The learned features exhibited very sparse activations, with a mean log10 feature sparsity of -3.22845. Only 66 features were identified as "dead" (never activating), which is a relatively small number considering the total number of features.
+\end{enumerate}
+}
+
+\hypertarget{baseline-details}{%
+\textbf{Pretrained SAE Details:} 
+\begin{enumerate}
+    \item Our pre-trained sparse autoencoder was developed by Joseph Bloom and is available through the SAELens library \cite{bloom2024saetrainingcodebase}.
+    \item The architecture of the SAE is defined by the dimensions of its weights and biases. The encoder weight matrix ($W_{enc}$) has dimensions (768, 24576), transforming the input from the model's hidden state dimension (768) to the SAE's expanded feature space (24576). Conversely, the decoder weight matrix ($W_{dec}$) has dimensions (24576, 768), projecting back to the original hidden state dimension. The encoder and decoder bias vectors ($b_{enc}$ and $b_{dec}$) have 24576 and 768 dimensions respectively, corresponding to their respective output spaces.
+\end{enumerate}
+}
+
+\hypertarget{med-gpt2}{%
+\textbf{Fine-tuned GPT2 Model for Medical Domain:}
+\begin{itemize}
+    \item For our analysis, we utilized an off-the-shelf fine-tuned variant of GPT2-small called "Med\_GPT2". This model, developed by Sharathhebbar24, was specifically fine-tuned on medical terminology to enhance its performance in the medical domain. The fine-tuning process used the "gamino/wiki\_medical\_terms" dataset, which contains over 6,000 medical terms along with their corresponding Wikipedia text.
+    \item The Med\_GPT2 model is publicly available and can be accessed at \url{https://huggingface.co/Sharathhebbar24/Med_GPT2}. We chose to incorporate this model into our study to enhance the medical domain specificity of our analysis, providing a more targeted approach to identifying and evaluating medical-related features in our sparse autoencoders.
+\end{itemize}
+}
+
+\hypertarget{old-finetuned-results}{%
+\textbf{Initial Fine-tuned GPT2 Model for Medical Domain:}
+\begin{itemize}
+    \item Our first iteration of the fine-tuned model was one we fine-tuned ourselves using LoRA (Low-Rank Adaptation). We fine-tuned GPT2 using 10,000 random samples from an open-source dataset available on HuggingFace (\url{https://huggingface.co/datasets/ruslanmv/ai-medical-chatbot}). However, the output was generally less coherent than baseline GPT2. We extracted 451 features from the same residual stream hook point as reported throughout the paper. Of these, only 307 achieved a coherence score better than their unsteered variants, resulting in a 68\% pass rate. This contrasts with the 311 features extracted from the baseline model using the same methods, of which 307 (98\%) passed the intervention test. Unsatisfied with these results and suspecting that our fine-tuning process may have interfered with the experiment, we opted to use a similar, but more performant, pre-fine-tuned model for our final analysis. Notably, the observation holds consistent for both fine-tuned models: the baseline model was more interpretable and more responsive to the steering vector intervention.
+\end{itemize}
+}
+
+\hypertarget{gpt2-specs}{%
+\textbf{GPT-2 Small Specifications:} 
+\begin{itemize}
+    \item Model Name: gpt2-small
+    \item Number of Parameters: 85 million
+    \item Number of Layers: 12
+    \item Model Dimension (d\_model): 768
+    \item Number of Attention Heads: 12
+    \item Activation Function: GELU
+    \item Context Window Size: 1024 tokens
+    \item Vocabulary Size: 50,257 tokens
+    \item Dimension per Attention Head: 64
+    \item MLP Dimension: 3072
+\end{itemize}
+}
+
+\hypertarget{code-repository}{%
+\textbf{Code Repository:} 
+\begin{itemize}
+    \item All code used in this study, including Python notebooks, scripts for feature extraction, and analysis tools, is available on GitHub at:
+    \url{https://github.com/seansica/sae-vector-steering}
+    \item The repository contains detailed documentation and instructions for reproducing our results and extending our work.
+\end{itemize}
+}
+

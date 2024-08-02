@@ -1,6 +1,9 @@
 \begin{abstract}
-3 to 5 sentences 
-Concisely describe your problem, 
-how you solved it, 
-and what you found
+
+This study examines the impact of fine-tuning on language model interpretability using sparse autoencoders (SAEs) and causal interventions. We hypothesized that fine-tuned models would have more relevant and sharper features than baseline models, but our results showed the baseline GPT-2 model outperformed the fine-tuned version in both feature interpretability and responsiveness to causal interventions. Specifically, the baseline model had higher average coherence scores (0.5438 vs. 0.3511) and greater vector steering receptiveness (99\% vs. 83.7\%). These findings suggest that fine-tuning may lead to more specialized but less coherent features. Our research advances mechanistic interpretability by introducing a novel SAE evaluation process and highlighting the nuanced effects of fine-tuning, with implications for creating more transparent AI systems.
+
+
+% This study investigates the impact of fine-tuning on language model interpretability using sparse autoencoders (SAEs) and causal interventions. We hypothesized that fine-tuned models would exhibit more relevant and sharper features compared to their base counterparts. Our experimental design involved a control group (baseline GPT-2 model) and a treatment group (GPT-2 fine-tuned on medical data), both analyzed using pretrained and custom-trained SAEs respectively. We extracted interpretable features from both models and evaluated them using keyword matching, human evaluation, a novel semantic coherence metric, and a causal intervention test with vector steering.
+
+% Contrary to our hypothesis, we found that the baseline model outperformed the fine-tuned model in feature interpretability and responsiveness to causal interventions. The baseline model exhibited higher average coherence scores (0.5438 vs 0.3511) and greater receptiveness to vector steering (99\% vs 83.7\% of identified features). These findings suggest that fine-tuning may alter feature representations, potentially leading to more specialized but less generally coherent features. Our research contributes to the growing field of mechanistic interpretability by providing a novel process for evaluating SAE features and demonstrating the complex effects of fine-tuning on model interpretability. These insights have implications for developing more transparent and controllable AI systems, particularly in domains requiring specialized knowledge.
 \end{abstract}

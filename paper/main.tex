@@ -1,15 +1,25 @@
-% \documentclass[12pt,a4paper,twocolumn]{article}
-\documentclass[12pt,a4paper]{article}
+\documentclass[12pt,a4paper,twocolumn]{article}
+% \documentclass[12pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{graphicx}
 \usepackage{hyperref}
+\usepackage{authblk}
 \usepackage[margin=1in]{geometry}
 
+\usepackage{tabularx} % evaluating
+\usepackage{booktabs} % evaluating
+
+\setcounter{Maxaffil}{0}
+\renewcommand\Affilfont{\itshape\small}
+
 \title{Unveiling the Black Box: Causal Inference and Feature Analysis in Fine-Tuned Language Models Using Sparse Autoencoders}
-\author{Sean Sica, Rini Gupta}
+% \author{Sean Sica, Rini Gupta}
+\author[1]{Rini Gupta}
+\author[1]{Sean Sica}
+\affil[1]{UC Berkeley}
 \date{4 August 2024}
 
 \begin{document}

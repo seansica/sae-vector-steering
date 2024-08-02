@@ -1,18 +1,17 @@
 \section{Introduction}
 
-The field of artificial intelligence has witnessed remarkable advancements, with language models like GPT-3 and PaLM demonstrating human-level proficiency in English communication. However, a significant challenge persists: despite creating these powerful systems, we lack a comprehensive understanding of their internal mechanisms. This gap in knowledge not only limits our ability to replicate such systems but also raises concerns about their interpretability and controllability.
+The field of artificial intelligence has witnessed remarkable advancements, with language models like GPT-3 and PaLM demonstrating human-level proficiency in English communication. However, a significant challenge persists: despite creating these powerful systems, we lack a comprehensive understanding of their internal mechanisms. This gap not only limits our ability to replicate such systems but also raises concerns about their interpretability and controllability.
 
-Mechanistic interpretability (MI) has emerged as a promising approach to address this challenge. Recent work, particularly by Anthropic, has shown that sparse dictionary learning algorithms, specifically sparse autoencoder (SAE) model architectures, offer a potential path forward in making neural networks more interpretable \cite{bricken2023monosemanticity}. Their demonstration of controlling language model outputs using identified features, such as the "Golden Gate Bridge" demo \cite{templeton2024scaling}, has inspired further research in this direction.
+Mechanistic interpretability (MI) has emerged as a promising approach to address this challenge. Recent work, particularly by Anthropic, has shown that sparse dictionary learning algorithms, specifically SAE model architectures, offer a potential path forward in making large language models more interpretable \cite{bricken2023monosemanticity}. Their demonstration of controlling language model outputs using identified features, such as the "Golden Gate Bridge" demo \cite{templeton2024scaling}, has inspired further research in this direction.
 
 Our work aims to contribute to this growing field by:
 
 \begin{enumerate}
     \item Proposing a novel and effective process for evaluating large quantities of SAE features.
-    \item Testing the hypothesis that fine-tuned models manifest higher quantities of relevant features and sharper, more cohesive features.
-    \item Increasing awareness of mechanistic interpretability through accessible feature analysis and causal intervention techniques.
+    \item Testing the hypothesis that fine-tuned models manifest higher quantities of relevant features and sharper, more cohesive features compared to a pretrained base model.
 \end{enumerate}
 
-Specifically, we hypothesize that when we fine-tune a model, compared to the base model, we will observe both a higher quantity of features relevant to the fine-tuning training dataset and higher quality features. In testing this hypothesis, we also investigate tangential questions such as the relationship between an SAE's training dataset and the resultant features, whether fine-tuning models on specific datasets enhances their interpretability, and if fine-tuned models are easier to steer than their foundational counterparts. These insights are particularly relevant given the widespread use of fine-tuned models in the tech industry.
+We hypothesize that fine-tuned models, compared to the base model, will exhibit both a higher quantity of relevant features and higher quality features. In testing this hypothesis, we investigate the impact of fine-tuning on interpretability and the ease of steering fine-tuned models. These insights are particularly relevant given the widespread use of fine-tuned models in the tech industry.
 
 Our approach also addresses a key criticism of current MI work: the potential misinterpretation of SAE features. By employing causal inference techniques, we aim to provide stronger evidence that these features not only are interpretable but also demonstrably represent what we claim they do.
 
@@ -24,4 +23,4 @@ The primary contributions of this paper are:
     \item A framework for applying causal interventions to steer model behavior conditioned on features of interest, replicating and extending Anthropic's demonstration.
 \end{enumerate}
 
-In the following sections, we present our methodology, results, and analysis, providing evidence to substantiate our claims and contribute to the growing body of knowledge in mechanistic interpretability of language models. Through our work, we aim to not only validate our hypothesis regarding the impact of fine-tuning on feature quantity and quality but also to provide a framework for future research in this critical area of AI interpretability.
+In the following sections, we present our methodology, results, and analysis, providing evidence to substantiate our claims and contribute to the growing body of knowledge in mechanistic interpretability of language models. Through our work, we aim to validate our hypothesis regarding the impact of fine-tuning on feature quantity and quality and provide a framework for future research in this critical area of AI interpretability.

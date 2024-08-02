@@ -1,94 +1,67 @@
 \section{Methods}
 
-We designed an experiment involving a control group and a treatment group to isolate the effects of fine-tuning on a language model's internal representations. The treatment effect is the application of fine-tuned data to the control/baseline model. Our aim is to isolate the causal effects of fine-tuning on the resultant features extracted from the model's sparse autoencoder, allowing us to observe how features change with respect to model training. Specifically, we extract features and analyze their sharpness using an empirical coherence score and verify their supposed identities using a rigorous causal intervention smoke test.
+% Size: 2 - 3 pages
+% Focus: design and implementation
+% Questions to answer: 
+% What is your proposed approach?
+% Describe your problem using an example or two.
+% What is the intuition behind your proposed approach?
+% How are you solving the problem?
+% What are your experiments/experimental design?
+% Why are the experiments helping to solve your problem?
+% How are you measuring success?
 
+
+We designed an experiment involving a control and treatment model to isolate the effects of fine-tuning on a language model's internal representations. The treatment effect is the application of fine-tuned data to the control/baseline model. Our aim is to isolate the causal effects of fine-tuning on the resultant features extracted from the model's sparse autoencoder, allowing us to observe how features change with respect to model training. Specifically, we extract features and analyze their sharpness using an empirical coherence score and verify their supposed identities using a rigorous intervention test.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Experimental Design}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Our experimental approach is designed to use causal inference to directly observe the impact of the fine-tuning process on the model's learned features while holding all other variables constant. The key components of our experimental design are:
 
 \begin{enumerate}
-    \item Control Group: A baseline GPT-2 model with a pretrained sparse autoencoder (SAE).
+    \item Control: A baseline GPT-2 model with a pretrained SAE.
 
-    \item Treatment Group: A fine-tuned GPT-2 model (based on medical patient transcripts) with a custom-trained SAE.
+    \item Treatment: A GPT-2 model fined-tuned on a dataset containing over 6,000 medical terms and their Wikipedia text with a custom-trained SAE.\hyperlink{med-gpt2}{[1]}
 
     \item Feature Extraction: A process to extract interpretable features from both SAEs.
 
     \item Feature Analysis: Methods to assess feature sharpness and verify feature identities.
 \end{enumerate}
 
-The causal intervention smoke test is a key component of our methodology. It involves applying a steering vector to the transformer's residual stream using a hook point positioned at the "pre" stage of the residual application. This steering vector allows us to control the activation strength of a candidate feature using a coefficient multiplier and a temperature value (ranging from 0 to 1.0).
+The intervention experiment is a key component of our methodology. It involves applying a steering vector to the transformer using a hook point positioned at the "pre" stage of the residual stream. This steering vector allows us to control the activation strength of a candidate feature using a coefficient multiplier and a temperature value (ranging from 0 to 1.0).
 
-For each feature that passes our coherence and human evaluation criteria, we conduct an experiment wherein next token prediction/inference is triggered in response to a relevant prompt. We determine the feature to be a match (i.e., the feature is what we suppose it to be based on its top activating tokens) if the steering vector causes the model output to drastically shift in the direction of the candidate feature label.
+For each feature that passes our coherence and human evaluation criteria, we conduct an experiment wherein next token prediction/inference is triggered in response to a relevant prompt. We determine the feature to be a match (i.e., the feature is what we suppose it to be based on its top activating tokens) if the steering vector causes the model output to drastically shift in the direction of the candidate feature label. For example, if we identify a feature that appears to represent (or "fire for") words like "doctor" and "nurse", we would expect a steering vector applied to this feature to overrepresent those words in its next token predictions. This approach allows us to verify the semantic meaning of the extracted features and assess how fine-tuning affects the model's internal representations.
 
-For example, if we identify a feature that appears to represent (or "fire for") words like "doctor" and "nurse", we would expect a steering vector applied to this feature to overrepresent those words in its next token predictions. This approach allows us to verify the semantic meaning of the extracted features and assess how fine-tuning affects the model's internal representations.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Baseline Model and Pretrained SAE}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\subsection{Control Group: Baseline Model and Pretrained SAE}
+The control consists of our baseline model, gpt2-small, with a pretrained SAE model\hyperlink{baseline-details}{[2]} trained on the token activations extracted from the residual stream of the transformer model. Key specifications of the baseline model are provided in the Appendix\hyperlink{gpt2-specs}{[3]}.
 
-The control group consists of our baseline model, gpt2-small, with a pretrained sparse autoencoder (SAE) model trained on the token activations extracted from the residual stream of the transformer model. Key specifications of the baseline model are as follows:
-
-\begin{table}[h]
-\centering
-\begin{tabular}{|l|l|}
-\hline
-Parameter & Value \\
-\hline
-Model Name & gpt2-small \\
-Number of Parameters & 85M \\
-Number of Layers & 12 \\
-Model Dimension (d\_model) & 768 \\
-Number of Attention Heads & 12 \\
-Activation Function & GELU \\
-Context Window Size & 1024 \\
-Vocabulary Size & 50257 \\
-Dimension per Head & 64 \\
-MLP Dimension & 3072 \\
-\hline
-\end{tabular}
-\caption{Specifications of the gpt2-small model}
-\label{tab:gpt2-specs}
-\end{table}
-
-Our pretrained sparse autoencoder was developed by Joseph Bloom and is available through the SAELens library \cite{bloom2024saetrainingcodebase}. The SAE consists of three layers: an encoder, MLP, and decoder. It accepts batches of internal activations from the residual stream of our transformer model. Notably, we apply a bias on the input layer for performance purposes, as suggested by Bricken et al. \cite{bricken2023monosemanticity}. The SAE is trained using the Adam optimizer to reconstruct the MLP activations of the gpt2-small model, with an MSE loss and an L1 penalty to encourage feature sparsity.
-
-The architecture of the SAE is defined by the dimensions of its weights and biases. The encoder weight matrix ($W_{enc}$) has dimensions (768, 24576), transforming the input from the model's hidden state dimension (768) to the SAE's expanded feature space (24576). Conversely, the decoder weight matrix ($W_{dec}$) has dimensions (24576, 768), projecting back to the original hidden state dimension. The encoder and decoder bias vectors ($b_{enc}$ and $b_{dec}$) have 24576 and 768 dimensions respectively, corresponding to their respective output spaces.
+The SAE consists of three layers: an encoder, multi-layer perceptron (MLP), and decoder. It accepts batches of internal activations from the residual stream of our transformer model. Notably, we apply a bias on the input layer for performance purposes, as suggested by Bricken et al. \cite{bricken2023monosemanticity}. The SAE is trained using the Adam optimizer to reconstruct the MLP activations of the gpt2-small model, with an MSE loss and an L1 penalty to encourage feature sparsity.
 
 This architecture implies a significant expansion in the feature space, with the SAE operating on a space more than 32 times larger than the original model's hidden state ($24576 / 768 \approx 32$). This expansion allows the SAE to potentially capture and isolate a much richer set of features than are directly represented in the original model's activations.
 
-The SAE was trained on activations extracted from multiple layers of the gpt2-small model. Specifically, it processes the residual stream activations (hook\_resid\_pre) from all 12 layers of the model, as well as the post-residual activations of the final layer (hook\_resid\_post). For each layer, the SAE dimension ($d_{sae}$) is consistently 24576, and a context size of 128 tokens was used. The training data was sourced from the "Skylion007/openwebtext" dataset, and no normalization was applied to the activations during training.
+The SAE was trained on activations extracted from the eighth attention block of the transformer. Specifically, it processes the activations from the residual stream. The training data was sourced from the "Skylion007/openwebtext" dataset, and no normalization was applied to the activations during training.
 
-This comprehensive approach to extracting and processing activations from multiple layers allows the SAE to capture features that may be represented differently or at different levels of abstraction throughout the depth of the transformer model.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Fine-tuned Model and Custom SAE}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\subsection{Treatment Group: Fine-tuned Model and Custom SAE}
+Our treatment consisted of a fine-tuned variant of the control model. The transformer architecture remains the same gpt2-small model, but it is fine-tuned on a specialized dataset related to Medical Wiki Text. The sparse autoencoder for this group was custom trained on the activation vectors extracted from the transformer's residual stream, mirroring the approach used in the control model. 
 
-Our treatment group consisted of a fine-tuned variant of the control group model. The transformer architecture remains the same gpt2-small model, but we fine-tuned it on a specialized dataset related to medical patient transcripts. The sparse autoencoder for this group was custom trained on the activation vectors extracted from the transformer's residual stream, mirroring the approach used in the control model.
+The training was orchestrated using a carefully configured SAE training pipeline.\hyperlink{sae-training}{[3]} Several architectural choices were made to optimize the SAE's performance: (1) The decoder bias was initialized to zeros. (2) The decoder was not normalized, but the sparsity penalty was scaled by the decoder norm. (3) A heuristic initialization was used for the decoder, and the encoder was initially set as the transpose of the decoder. (4) Input activations were normalized using an "expected average only in" approach.
 
-The Sparse Autoencoder (SAE) for the treatment group was trained using a carefully configured SAE training pipeline. The training process was designed to run for 30,000 steps with a batch size of 1024 tokens, resulting in a total of 30,720,000 training tokens. The learning rate scheduler was set to maintain a constant learning rate of 5e-5 throughout the training process, with Adam optimizer parameters $\beta_{1} = 0.9$ and $\beta_{2} = 0.999$.
-
-The SAE was configured to work with GPT-2's architecture, specifically targeting the output of the first MLP layer (blocks.0.hook\_mlp\_out) (TODO VERIFY THIS) with an input dimension of 768. The autoencoder employed an expansion factor of 16, resulting in a hidden layer size of 12,288 (768 * 16). This expansion allows the SAE to potentially capture a richer set of features than those directly represented in the original model's activations.
-
-To encourage sparsity in the learned features, an L1 regularization term was applied with a coefficient of 5. The L1 penalty was gradually introduced over the first 1,500 training steps (total\_training\_steps // 20) to allow the model to initially learn without sparsity constraints.
-
-The training data was sourced from the "monology/pile-uncopyrighted" dataset, using a streaming approach to handle large data volumes efficiently. Each training example used a context size of 512 tokens, allowing the SAE to capture dependencies over relatively long sequences.
-
-Several architectural choices were made to optimize the SAE's performance:
-
-\begin{enumerate}
-    \item The decoder bias was initialized to zeros.
-    
-    \item The decoder was not normalized, but the sparsity penalty was scaled by the decoder norm.
-    
-    \item A heuristic initialization was used for the decoder, and the encoder was initially set as the transpose of the decoder.
-    
-    \item Input activations were normalized using an "expected average only in" approach.
-\end{enumerate}
 
 To address the potential issue of dead features, the training process included a resampling protocol. This protocol monitored feature activations over a window of 1000 steps, identifying and potentially resampling features that remained inactive (activation below 1e-4) throughout this period.
 
-The training progress was logged to Weights \& Biases (wandb) every 30 steps, with a more comprehensive evaluation performed every 600 steps (20 * 30). This allowed for detailed tracking of the training process and the evolving characteristics of the learned features.
-
 By using this custom-trained SAE on our fine-tuned GPT-2 model, we aim to capture and isolate features that are specifically relevant to the patient transcript domain, potentially revealing insights into how the fine-tuning process affects the model's internal representations.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Feature Extraction and Analysis}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 To extract interpretable features from our sparse autoencoders, we employ a multi-step process:
 
@@ -102,19 +75,25 @@ To extract interpretable features from our sparse autoencoders, we employ a mult
     \item Feature-to-Vocabulary Mapping: This projection allows us to map the SAE's learned features directly onto the model's vocabulary space, effectively representing how each SAE feature influences the prediction of each token in the model's vocabulary.
     
     \item Top Activated Words Identification: For each feature, we identify the top activated words based on the projection. This helps us infer the semantic meaning or function of each SAE feature in the context of the language model's vocabulary and task.
+
+    \item Coherence Score: For each feature, we use a pre-trained word embedding model (GloVe) to calculate the average cosine similarity between all pairs of top activating tokens for each feature. A higher average similarity indicates greater semantic coherence.
+
+    % WE HAVE NOT ACTUALLY DONE THIS YET–LEAVE OUT UNLESS/UNTIL COMPLETED:
+    % \item Sparsity Analysis: We incorporate sparsity measurements of the SAE features into our analysis, allowing us to assess how focused or distributed each feature's influence is across the model's vocabulary space.
     
-    \item Sparsity Analysis: We incorporate sparsity measurements of the SAE features into our analysis, allowing us to assess how focused or distributed each feature's influence is across the model's vocabulary space.
 \end{enumerate}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Measuring Success}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 We employ several methods to measure the success of our approach:
 
 \begin{enumerate}
-    \item Empirical Coherence Score: We use this score to analyze the sharpness of extracted features.
-    \item Causal Intervention Smoke Test: As described in the Experimental Design section, this test verifies the semantic meaning of extracted features.
-    \item Human Evaluation: We employ keyword matching to identify features containing relevant tokens/words in their top 10 activated words. This is followed by a human evaluation to verify the semantic coherence of the identified features.
-    \item Comparative Analysis: We compare the features extracted from the control group (baseline model) with those from the treatment group (fine-tuned model) to assess the impact of fine-tuning on feature interpretability and relevance.
+    \item \textit{Empirical Coherence Score}: Analyzes the sharpness of extracted features.
+    \item \textit{Causal Intervention Test}: Verifies the semantic meaning of extracted features as described in the Experimental Design section.
+    \item \textit{Human Evaluation}: Uses keyword matching to identify "medical" features (at least two medical keyword matches) followed by thorough human verification to ensure semantic coherence and avoid false positives (such as synonym/subword misinterpretation).
+    \item \textit{Comparative Analysis}: Compares features from the baseline model and the fine-tuned model to assess the impact of fine-tuning on feature interpretability and relevance.
 \end{enumerate}
 
-This comprehensive approach allows us to not only extract meaningful, interpretable features from the complex internal representations of the transformer models but also to quantitatively and qualitatively assess the impact of fine-tuning on these features. By combining projection-based feature interpretation, sparsity analysis, and rigorous testing methods, we aim to provide a robust framework for understanding how fine-tuning affects a language model's internal representations.
+This comprehensive approach allows us to extract meaningful features from transformer models and assess the impact of fine-tuning quantitatively and qualitatively. Combining projection-based feature interpretation and rigorous testing provides a robust framework for understanding how fine-tuning affects a language model's internal representations.

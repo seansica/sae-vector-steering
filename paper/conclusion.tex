@@ -1,2 +1,77 @@
 \section{Conclusion}
-Summarize your main findings and their implications. Discuss any limitations of your work and potential future directions.
+
+% Size:  3 to 5 sentences
+% Questions to answer:
+% What is your problem?
+% Did you solve it?
+% What did you find?
+% Future work (optional)
+
+We initially hypothesized that fine-tuned models would exhibit more and sharper, cohesive features compared to baseline models. Our results partially supported this, showing an increase in relevant features but lower coherence scores and less responsiveness to vector steering interventions. These findings suggest that while fine-tuning increases domain-specific features, it may lead to more complex, less interpretable representations. Future work could optimize fine-tuning to enhance feature interpretability and explore more rigorous vector steering interventions, crucial for AI alignment.
+
+% This study investigated the effects of fine-tuning on language model interpretability using sparse autoencoders (SAEs). We hypothesized that fine-tuned models would exhibit more and sharper, cohesive features compared to baseline models. Our results partially supported this, showing an increase in relevant features in the fine-tuned model. However, contrary to our expectations, the fine-tuned model's features had lower coherence scores and were less responsive to vector steering interventions. These findings suggest that while fine-tuning increases domain-specific features, it may also lead to more complex, less interpretable representations. Future work could explore optimizing fine-tuning to maintain or enhance feature interpretability by incorporating SAE training into the process. Additionally, future research could explore more rigorous vector steering interventions. While we primarily amplified features, steering vectors can also be used to reduce unwanted content, which is crucial for AI alignment.
+
+% Our research into steered vector intervention and SAEs in the context of mechanistic interpretability has revealed several compelling potential use cases and areas for future exploration. This section discusses these applications, outlines next steps for research, and briefly touches on the current state of software in the field of MI.
+
+% \subsection{Potential Use Cases}
+
+% \subsubsection{An Alternative to Fine-tuning}
+
+% In an era where access to authentic, high-quality human data is becoming increasingly challenging, the ability to improve existing models without traditional fine-tuning presents a significant advantage. Data, often referred to as the ``oil'' of the AI industry, is a crucial and sometimes scarce resource. Our approach, using sparse autoencoders and steered vectors, offers a method to enhance model performance and adapt behaviors without relying on extensive datasets, potentially presenting an alternative approach to update and specialize AI models.
+
+% \subsubsection{Combating Malicious Content}
+
+% While we primarily experimented with amplifying features, steered vectors and SAE features could also be used to zero out or reduce unwanted content in a model. This approach could be instrumental in:
+
+% \begin{enumerate}
+%     \item Eliminating hateful or derogatory language
+%     \item Reducing the generation of malicious executable code
+%     \item Enhancing content moderation capabilities
+% \end{enumerate}
+
+% These applications could improve the safety and reliability of AI systems, particularly in public-facing or sensitive environments.
+
+% \subsubsection{Ethics and Transparency}
+
+% By making the models more interpretable through sparse autoencoders and jsteered vectors, we open new avenues for ethical AI development and deployment. The ability to better understand a model's inner workings allows for:
+
+% \begin{enumerate}
+%     \item Development of comprehensive transparency reports to share and contextualize the model's inner knowledge
+%     \item Easier identification and mitigation of biases
+%     \item Enhanced accountability in AI systems
+%     \item Improved alignment between model behavior and intended goals
+% \end{enumerate}
+
+% This increased transparency could play a crucial role in building trust between AI developers, users, and regulatory bodies.
+
+% \subsection{Next Steps and Future Research}
+
+% Based on our findings, several promising areas for future research in mechanistic interpretability emerge:
+
+% \begin{enumerate}
+%     \item \textbf{Scalability Studies}: Investigate how well these techniques scale to larger, more complex models and diverse domains.
+    
+%     \item \textbf{Feature Interaction Analysis}: Explore how different features identified by SAEs interact and influence model behavior.
+    
+%     \item \textbf{Causal Mechanisms}: Delve deeper into understanding the causal relationships between identified features and model outputs.
+    
+%     \item \textbf{Interpretability Metrics}: Iterative on additional quantitative measures to assess the effectiveness of interpretability techniques.
+    
+%     \item \textbf{Cross-model Comparisons}: Apply these techniques across different model architectures to gain insights into their respective internal representations.
+    
+%     \item \textbf{Automated Feature Discovery}: Develop methods to automatically identify and target relevant features for amplification or reduction using SAEs.
+    
+%     \item \textbf{Robustness and Adversarial Testing}: Assess how interpretability techniques can be used to improve model robustness against adversarial attacks.
+% \end{enumerate}
+
+% \subsection{State of Software in Mechanistic Interpretability}
+
+% It's important to note that Mechanistic Interpretability (MI) remains an emerging field, with limited mature software libraries available to streamline core, repeatable tasks such as implementing and training Sparse Autoencoders. Our evaluation of existing tools revealed that the ecosystem is still in its early stages. 
+
+% Among the contenders, SAELens and its companion project TransformerLens stand out as semi-mature options. These projects offer a foundation for researchers and practitioners to build upon. However, there's a clear need for more robust, user-friendly, and comprehensive tools to support the growing interest in mechanistic interpretability techniques.
+
+% As the field progresses, we anticipate the development of more sophisticated libraries and frameworks specifically designed for MI tasks. This evolution will be crucial in democratizing access to these techniques and accelerating research in the area. In the meantime, collaboration and open-source contributions will play a vital role in advancing the state of MI software.
+
+% \subsection{Conclusion}
+
+% In conclusion, our work on steered vector amplification and Sparse Autoencoders opens up exciting possibilities for model improvement, content moderation, and ethical AI development through enhanced interpretability. As we continue to explore these techniques, it's crucial to remain mindful of both their potential benefits and the need for responsible implementation. The future of this research area looks promising, with ample opportunities for innovation and positive impact on our understanding of AI systems and their inner workings.
